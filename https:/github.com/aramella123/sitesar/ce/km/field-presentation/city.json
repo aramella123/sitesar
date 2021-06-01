@@ -1,0 +1,51 @@
+{
+  "$id": "ce_city",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_city",
+  "displayName": "City",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "yext/entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_children"
+        },
+        {
+          "id": "c_parents"
+        },
+        {
+          "id": "c_slug"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/folder"
+        },
+        {
+          "id": "yext/labels"
+        }
+      ]
+    }
+  ]
+}

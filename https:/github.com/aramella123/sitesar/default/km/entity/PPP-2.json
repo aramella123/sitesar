@@ -1,0 +1,81 @@
+{
+  "$id": "PPP-2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "Please contact Dime’s SBA Department by email at sba@dime.com\n\nWe have received an extremely large amount of calls, emails and applications and we will contact you soon regarding your application. Thank you and stay safe!",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "How quickly will I receive a response regarding my PPP Application?",
+    "yext/question": "How quickly will I receive a response regarding my PPP Application?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Bitte kontaktieren Sie die SBA-Abteilung von Dime per E-Mail unter sba@dime.com\n \n Wir haben eine extrem große Anzahl von Anrufen, E-Mails und Bewerbungen erhalten und werden Sie in Kürze bezüglich Ihrer Bewerbung kontaktieren. Danke und bleiben Sie in Sicherheit!",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Wie schnell erhalte ich eine Antwort bezüglich meiner PPP-Anwendung?",
+        "yext/question": "Wie schnell erhalte ich eine Antwort bezüglich meiner PPP-Anwendung?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Comuníquese con el Departamento de SBA de Dime por correo electrónico a sba@dime.com\n \n Hemos recibido una cantidad extremadamente grande de llamadas, correos electrónicos y aplicaciones y nos pondremos en contacto con usted pronto con respecto a su solicitud. Gracias y mantente seguro/a!",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Qué tan rápido recibiré una respuesta con respecto a mi solicitud de PPP?",
+        "yext/question": "¿Qué tan rápido recibiré una respuesta con respecto a mi solicitud de PPP?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Veuillez contacter le département SBA de Dime par e-mail à l\u0027adresse sba@dime.com\n\nNous avons reçu un très grand nombre d\u0027appels, de courriers électroniques et de candidatures et nous vous contacterons bientôt au sujet de votre candidature. Merci et soyez prudents !",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "Dans quel délai recevrai-je une réponse concernant ma demande de PPS ?",
+        "yext/question": "Dans quel délai recevrai-je une réponse concernant ma demande de PPS ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Contatta il dipartimento SBA di Dime via e-mail all\u0027indirizzo sba@dime.com\n\nAbbiamo ricevuto una quantità estremamente elevata di chiamate, e-mail e applicazioni e ti contatteremo presto in merito alla tua domanda. Grazie e riguardati!",
+        "yext/keywords": [
+          "ppp.protezione dello stipendio"
+        ],
+        "yext/name": "In quanto tempo riceverò una risposta sulla mia domanda PPP?",
+        "yext/question": "In quanto tempo riceverò una risposta sulla mia domanda PPP?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムコミュニティバンクのSBA部門に電子メールでsba@ダイムコミュニティバンク.comまでご連絡ください。\n非常に多くの電話、電子メール、アプリケーションが届きました。アプリケーションについてはすぐにご連絡いたします。どうぞよろしくお願いいたします。",
+        "yext/name": "私のPPPアプリケーションに関する応答はどのくらい早く届きますか？",
+        "yext/question": "私のPPPアプリケーションに関する応答はどのくらい早く届きますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

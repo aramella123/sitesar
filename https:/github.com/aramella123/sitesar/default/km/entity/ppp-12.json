@@ -1,0 +1,81 @@
+{
+  "$id": "ppp-12",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "You should use the proceeds from these loans on your:\n\nPayroll costs, including benefits;\nInterest on mortgage obligations, incurred before February 15, 2020;\nRent, under lease agreements in force before February 15, 2020; and\nUtilities, for which service began before February 15, 2020.",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "What can I use these loans for?",
+    "yext/question": "What can I use these loans for?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie sollten den Erlös aus diesen Darlehen für Ihre:\n \n Lohnkosten, einschließlich Leistungen;\n Zinsen auf Hypothekenverpflichtungen, die vor dem 15. Februar 2020 angefallen sind;\n Miete im Rahmen von Mietverträgen, die vor dem 15. Februar 2020 in Kraft waren; und\n Versorgungsunternehmen, für die der Dienst vor dem 15. Februar 2020 begann.",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Wofür kann ich diese Kredite verwenden?",
+        "yext/question": "Wofür kann ich diese Kredite verwenden?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Debe usar los ingresos de estos préstamos en su:\n \n Costos de nómina, incluidos los beneficios;\n Intereses por obligaciones hipotecarias, incurridos antes del 15 de febrero de 2020;\n Alquiler, según los contratos de arrendamiento vigentes antes del 15 de febrero de 2020; y\n Utilidades, cuyo servicio comenzó antes del 15 de febrero de 2020.",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Para qué puedo usar estos préstamos?",
+        "yext/question": "¿Para qué puedo usar estos préstamos?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous devez utiliser ces prêts sur :\n\nles coûts salariaux, y compris les avantages sociaux ;\nLes intérêts des obligations hypothécaires, encourus avant le 15 février 2020 ;\nLoyer, en vertu de contrats de location en vigueur avant le 15 février 2020 ; et\nLes services publics, pour lesquels le service a commencé avant le 15 février 2020.",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "Que puis-je faire avec ces prêts ?",
+        "yext/question": "Que puis-je faire avec ces prêts ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Dovresti utilizzare i proventi di questi prestiti per:\n\nCosti del personale, compresi i benefici;\nInteressi su obbligazioni ipotecarie, sostenute prima del 15 febbraio 2020;\nAffitto, in virtù di contratti di locazione in vigore prima del 15 febbraio 2020; e\nServizi pubblici, per i quali il servizio è iniziato prima del 15 febbraio 2020.",
+        "yext/keywords": [
+          "ppp.protezione dello stipendio"
+        ],
+        "yext/name": "Per cosa posso usare questi prestiti?",
+        "yext/question": "Per cosa posso usare questi prestiti?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "あなたはあなたのこれらのローンからの収入を使うべきです：給付金を含む給与費用。2020年2月15日より前に発生した住宅ローン債務の利息。2020年2月15日までに有効なリース契約に基づいて賃貸する。2020年2月15日より前にサービスが開始されたユーティリティ。",
+        "yext/name": "これらのローンは何に使用できますか？",
+        "yext/question": "これらのローンは何に使用できますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "$id": "corona-28",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_ctas": [
+      {
+        "text": "Economic Impact Payments",
+        "url": "https://www.irs.gov/coronavirus/economic-impact-payments"
+      }
+    ],
+    "c_fAQType": "COVID",
+    "yext/answer": "If your stimulus check was sent to a closed account the refund will be returned to the IRS. Please visit the IRS website to update your information.",
+    "yext/keywords": [
+      "COVID-19",
+      "coronavirus",
+      "closures",
+      "corona",
+      "COVID",
+      "covid",
+      "covid-19",
+      "Covid-19"
+    ],
+    "yext/name": "What if my stimulus check from the IRS was sent to a closed Dime account?",
+    "yext/question": "What if my stimulus check from the IRS was sent to a closed Dime account?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Wenn Ihr Stimulus-Check an ein geschlossenes Konto gesendet wurde, wird die Rückerstattung an das IRS zurückerstattet. Bitte besuchen Sie die IRS-Website, um Ihre Informationen zu aktualisieren.",
+        "yext/keywords": [
+          "COVID-19",
+          "Coronavirus",
+          "Verschlüsse",
+          "Corona",
+          "COVID",
+          "Covid",
+          "Covid-19"
+        ],
+        "yext/name": "Was ist, wenn mein Stimulus-Check vom IRS an ein geschlossenes Dime-Konto gesendet wurde?",
+        "yext/question": "Was ist, wenn mein Stimulus-Check vom IRS an ein geschlossenes Dime-Konto gesendet wurde?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Si su cheque de estímulo fue enviado a una cuenta cerrada, el reembolso será devuelto al IRS. Visite el sitio web del IRS para actualizar su información.",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "cierres",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "¿Qué pasa si mi cheque de estímulo del IRS fue enviado a una cuenta Dime cerrada?",
+        "yext/question": "¿Qué pasa si mi cheque de estímulo del IRS fue enviado a una cuenta Dime cerrada?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Si votre chèque de relance a été envoyé sur un compte fermé, le remboursement sera renvoyé à l\u0027IRS. Veuillez consulter le site web de l\u0027IRS pour mettre à jour vos informations.",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "fermetures",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Que faire si mon chèque de relance de l\u0027IRS a été envoyé sur un compte Dime fermé ?",
+        "yext/question": "Que faire si mon chèque de relance de l\u0027IRS a été envoyé sur un compte Dime fermé ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Se il controllo dello stimolo è stato inviato a un account chiuso, il rimborso verrà restituito all\u0027IRS. Visitare il sito Web IRS per aggiornare le informazioni.",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "chiusure",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-29"
+        ],
+        "yext/name": "Cosa succede se il mio controllo dello stimolo dall\u0027IRS è stato inviato a un account Dime chiuso?",
+        "yext/question": "Cosa succede se il mio controllo dello stimolo dall\u0027IRS è stato inviato a un account Dime chiuso?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "刺激チェックが閉鎖されたアカウントに送信された場合、払い戻しはIRSに返金されます。IRSのWebサイトにアクセスして、情報を更新してください。",
+        "yext/name": "IRSからの刺激チェックが閉鎖されたダイムコミュニティバンクアカウントに送信された場合はどうなりますか？",
+        "yext/question": "IRSからの刺激チェックが閉鎖されたダイムコミュニティバンクアカウントに送信された場合はどうなりますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

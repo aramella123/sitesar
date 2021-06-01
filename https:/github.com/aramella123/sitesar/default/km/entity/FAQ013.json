@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ013",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Dime Interest Rates",
+        "url": "http://dime.com/rates"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "You can find Dime\u0027s current Interest rates by visiting: dime.com/rates.",
+    "yext/name": "Where can I find Dime\u0027s current Interest Rates?",
+    "yext/question": "Where can I find Dime\u0027s current Interest Rates?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Die aktuellen Zinssätze von Dime finden Sie unter: dime.com/rates.",
+        "yext/name": "Wo finde ich die aktuellen Zinssätze von Dime?",
+        "yext/question": "Wo finde ich die aktuellen Zinssätze von Dime?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Puede encontrar las tasas de interés actuales de Dime visitando: dime.com/rates.",
+        "yext/name": "¿Dónde puedo encontrar las tasas de interés actuales de Dime?",
+        "yext/question": "¿Dónde puedo encontrar las tasas de interés actuales de Dime?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous pouvez trouver les taux d\u0027intérêt actuels de Dime en visitant le site : dime.com/rates.",
+        "yext/name": "Où puis-je trouver les taux d\u0027intérêt actuels de Dime ?",
+        "yext/question": "Où puis-je trouver les taux d\u0027intérêt actuels de Dime ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Puoi trovare i tassi di interesse attuali di Dime visitando: dime.com/rates.",
+        "yext/name": "Dove posso trovare i tassi di interesse attuali di Dime?",
+        "yext/question": "Dove posso trovare i tassi di interesse attuali di Dime?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムコミュニティバンクの現在の金利は、ダイムコミュニティバンク.com / ratesにアクセスして確認できます。",
+        "yext/name": "ダイムの現在の金利はどこで確認できますか？",
+        "yext/question": "ダイムの現在の金利はどこで確認できますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

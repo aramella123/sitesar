@@ -1,0 +1,11 @@
+{
+  "$id": "c_noFee",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "No Fee",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "yext/boolean"
+}

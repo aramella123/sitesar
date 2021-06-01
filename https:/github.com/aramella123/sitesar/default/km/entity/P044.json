@@ -1,0 +1,96 @@
+{
+  "$id": "P044",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Check account balances and transaction history",
+      "Access your accounts quickly with Face or Touch ID",
+      "Deposit checks",
+      "Pay bills with a tap",
+      "Transfer money"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/personal/mobile-banking"
+      }
+    ],
+    "c_productType": "Mobile Banking",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Dime\u0027s Mobile Banking app makes it easy to manage your finances on the run. Get everything you need on your favorite smartphone or tablet.",
+    "yext/landingPageUrl": "https://www.dime.com/personal/mobile-banking",
+    "yext/name": "Personal Mobile Banking"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Mobiles Banking",
+        "yext/description": "Mit der Mobile Banking App von Dime können Sie Ihre Finanzen ganz einfach unterwegs verwalten. Holen Sie sich alles, was Sie brauchen, auf Ihr Lieblings-Smartphone oder -Tablet.",
+        "yext/name": "Persönliches Mobile Banking"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Verifique los saldos de las cuentas y el historial de transacciones",
+          "acceda a sus cuentas rápidamente con una contraseña o Touch ID",
+          "deposite cheques",
+          "pague facturas con un toque",
+          "transfiera dinero"
+        ],
+        "c_productType": "La Banca Móvil",
+        "yext/description": "La aplicación de banca móvil de Dime hace que sea fácil administrar sus finanzas en la carrera. Obtenga todo lo que necesita en su teléfono inteligente o tableta favorita.",
+        "yext/name": "Banca móvil personal"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Consulter le solde des comptes et l\u0027historique des transactions",
+          "Accéder rapidement à vos comptes à l\u0027aide d\u0027un code ou d\u0027un Touch ID",
+          "Déposer des chèques",
+          "Payer des factures en un coup de doigt",
+          "Transférer de l\u0027argent"
+        ],
+        "c_productType": "Banque mobile",
+        "yext/description": "L\u0027application Mobile Banking de Dime vous permet de gérer facilement vos finances en déplacement. Obtenez tout ce dont vous avez besoin sur votre smartphone ou tablette préférés.",
+        "yext/name": "Services bancaires mobiles personnels"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Controlla i saldi dei conti e la cronologia delle transazioni",
+          "accedi rapidamente ai tuoi conti con Face o Touch ID",
+          "assegni di deposito",
+          "paga le fatture con un tocco",
+          "trasferisci denaro"
+        ],
+        "c_productType": "Banca via cellulare",
+        "yext/description": "L\u0027app Mobile Banking di Dime semplifica la gestione delle tue finanze a portata di mano. Ottieni tutto ciò di cui hai bisogno sul tuo smartphone o tablet preferito.",
+        "yext/name": "Personal Mobile Banking"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "モバイルバンキング",
+        "yext/description": "ダイムコミュニティバンクのモバイルバンキングアプリを使用すると、実行中に財務を簡単に管理できます。お気に入りのスマートフォンやタブレットで必要なものをすべて手に入れましょう。",
+        "yext/name": "パーソナルモバイルバンキング"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

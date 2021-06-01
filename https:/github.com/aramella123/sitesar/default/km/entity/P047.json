@@ -1,0 +1,101 @@
+{
+  "$id": "P047",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Quickly check your account balances and transactions",
+      "Easily pay your bills",
+      "Transfer money between accounts and other financial institutions",
+      "Order checks",
+      "Control spending habits with card control"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/personal/online-banking-and-bill-pay"
+      },
+      {
+        "icon": "chevron",
+        "text": "Enroll in Online Banking",
+        "url": "https://dime.onlinebank.com/RegistrationDisclosure.aspx"
+      }
+    ],
+    "c_productType": "Online Banking",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Dime\u0027s Online Banking and Bill Pay services are secure, convenient, and customizable for your needs. With Dime online banking your money management just got so much easier.",
+    "yext/landingPageUrl": "https://www.dime.com/personal/online-banking-and-bill-pay",
+    "yext/name": "Personal Online Banking \u0026 Bill Pay"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Online Banking",
+        "yext/description": "Die Online-Banking- und Bill-Pay-Dienste von Dime sind sicher, bequem und an Ihre Bedürfnisse anpassbar. Mit Dime Online Banking ist Ihr Geldmanagement jetzt noch einfacher.",
+        "yext/name": "Personal Online Banking \u0026 Bill Pay"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Verifique rápidamente los saldos y transacciones de su cuenta",
+          "pague fácilmente sus facturas",
+          "transfiera dinero entre cuentas y otras instituciones financieras",
+          "solicite cheques",
+          "controle los hábitos de gasto con el control de la tarjeta"
+        ],
+        "c_productType": "Banca en línea",
+        "yext/description": "Los servicios de Banca en Línea y Pago de Cuentas de Dime son seguros, convenientes y personalizables para sus necesidades. Con la banca en línea Dime, su gestión de dinero acaba de ser mucho más fácil.",
+        "yext/name": "Banca personal en línea y pago de facturas"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Vérifiez rapidement le solde de vos comptes et vos transactions",
+          "Payez facilement vos factures",
+          "Transférez de l\u0027argent entre vos comptes et ceux d\u0027autres institutions financières",
+          "Commandez des chèques",
+          "Contrôlez vos habitudes de dépenses grâce au contrôle des cartes"
+        ],
+        "c_productType": "Banque en ligne",
+        "yext/description": "Les services de banque en ligne et de paiement de factures de Dime sont sûrs, pratiques et personnalisables en fonction de vos besoins. Avec les services bancaires en ligne Dime, la gestion de votre argent est devenue beaucoup plus facile.",
+        "yext/name": "Banque en ligne personnelle et paiement de factures"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Controlla rapidamente i saldi e le transazioni del tuo conto",
+          "Paga facilmente le tue fatture",
+          "Trasferisci denaro tra conti e altri istituti finanziari",
+          "Verifica degli ordini",
+          "Controlla le abitudini di spesa con il controllo della carta"
+        ],
+        "c_productType": "Banca online",
+        "yext/description": "I servizi bancari online e Bill Pay di Dime sono sicuri, convenienti e personalizzabili per le tue esigenze. Con Dime online banking la gestione del denaro è diventata molto più semplice.",
+        "yext/name": "Servizi bancari online personali e pagamento delle bollette"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "オンラインバンキング",
+        "yext/description": "ダイムコミュニティバンクのオンラインバンキングサービスとBill Payサービスは安全で便利で、ニーズに合わせてカスタマイズできます。ダイムコミュニティバンクのオンラインバンキングにより、お金の管理が非常に簡単になりました。",
+        "yext/name": "パーソナルオンラインバンキングと請求書支払い"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

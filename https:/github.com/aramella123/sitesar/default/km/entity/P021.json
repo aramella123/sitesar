@@ -1,0 +1,96 @@
+{
+  "$id": "P021",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Large one-time expenses",
+      "Acquiring assets",
+      "Business expansion",
+      "Facility remodels",
+      "Emergency repairs"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/commercial/commercial-term-loans"
+      }
+    ],
+    "c_productType": "Commercial Term Loans",
+    "c_slug": "[[entityId]]",
+    "yext/description": "These loans enable your business to finance one-time expenses with the flexibility to pay over a short or longer term.",
+    "yext/landingPageUrl": "https://www.dime.com/commercial/commercial-term-loans",
+    "yext/name": "Commercial Term Loans"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Gewerbliche befristete Darlehen",
+        "yext/description": "Mit diesen Darlehen kann Ihr Unternehmen einmalige Ausgaben mit der Flexibilität finanzieren, kurz- oder langfristig zu zahlen.",
+        "yext/name": "Gewerbliche befristete Darlehen"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Grandes gastos únicos",
+          "adquisición de activos",
+          "expansión comercial",
+          "remodelaciones de instalaciones",
+          "reparaciones de emergencia"
+        ],
+        "c_productType": "Préstamos a plazo comercial",
+        "yext/description": "Estos préstamos le permiten a su empresa financiar gastos únicos con la flexibilidad de pagar a corto o largo plazo.",
+        "yext/name": "Préstamos a plazo comercial"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Dépenses ponctuelles importantes",
+          "Acquisition d\u0027actifs",
+          "Expansion de l\u0027entreprise",
+          "Remodelage des installations",
+          "Réparations d\u0027urgence"
+        ],
+        "c_productType": "Prêts commerciaux à terme",
+        "yext/description": "Ces prêts permettent à votre entreprise de financer des dépenses ponctuelles avec la possibilité de les payer à court ou à long terme.",
+        "yext/name": "Prêts commerciaux à terme"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Grandi spese una tantum",
+          "Acquisizione di beni",
+          "Espansione aziendale",
+          "Ristrutturazioni di strutture",
+          "Riparazioni di emergenza"
+        ],
+        "c_productType": "Prestiti Commerciali a Termine",
+        "yext/description": "Questi prestiti consentono alla tua azienda di finanziare le spese una tantum con la flessibilità di pagare a breve o lungo termine.",
+        "yext/name": "Prestiti a termine commerciali"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "商業タームローン",
+        "yext/description": "これらのローンを利用すると、短期または長期にわたって柔軟に支払いを行うことができます。",
+        "yext/name": "商業タームローン"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "$id": "product62",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": false,
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Application",
+        "url": "https://customers.dime.com/files/Dime-Paycheck-Protection-Program-Application-Form-2483.pdf?_ga\u003d2.130870541.328625703.1584916865-1742100825.1578928651"
+      },
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/covid-19"
+      }
+    ],
+    "c_slug": "[[entityId]]",
+    "yext/description": "Dime Community Bank stands with you.",
+    "yext/keywords": [
+      "PPP",
+      "coronavirus",
+      "covid-19",
+      "Paycheck Protection Program",
+      "Paycheck Protection",
+      "Paycheck Protection Application"
+    ],
+    "yext/landingPageUrl": "https://www.dime.com/covid-19",
+    "yext/name": "Paycheck Protection Program  (PPP)"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/description": "Die Dime Community Bank steht Ihnen zur Seite.",
+        "yext/name": "Paycheck Protection Program (PPP)"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/description": "Dime Community Bank está con usted.",
+        "yext/name": "PPP"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/description": "Dime Community Bank est à vos côtés.",
+        "yext/name": "Programme de protection du salaire (PPS)"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/description": "Dime Community Bank ti accompagna.",
+        "yext/name": "Programma Protezione Stipendio (PPS)"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/description": "ダイムコミュニティ銀行はあなたと一緒に立っています。",
+        "yext/name": "給与保護プログラム（PPP）"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

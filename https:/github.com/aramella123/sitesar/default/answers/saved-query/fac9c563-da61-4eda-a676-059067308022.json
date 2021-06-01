@@ -1,0 +1,14 @@
+{
+  "$id": "fac9c563-da61-4eda-a676-059067308022",
+  "$schema": "https://schema.yext.com/config/answers/saved-query/v1",
+  "answersKey": "dime",
+  "idealResult": {
+    "relevantSections": []
+  },
+  "locale": "en",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "pinIdealResults": false,
+  "queryString": "bank statment ",
+  "notes": ""
+}

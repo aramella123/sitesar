@@ -1,0 +1,83 @@
+{
+  "$id": "FAQ012",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Dime Interest Rates",
+        "url": "http://dime.com/rates"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "You can find Dime\u0027s current CD rates by clicking the link below.",
+    "yext/keywords": [
+      "Certificate of Deposit"
+    ],
+    "yext/name": "Where can I find Dime\u0027s current CD rates?",
+    "yext/question": "Where can I find Dime\u0027s current CD rates?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie können die aktuellen CD-Preise von Dime finden, indem Sie auf den unten stehenden Link klicken.",
+        "yext/keywords": [
+          "Einzahlungsschein"
+        ],
+        "yext/name": "Wo finde ich die aktuellen CD-Preise von Dime?",
+        "yext/question": "Wo finde ich die aktuellen CD-Preise von Dime?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Puede encontrar las tasas de CD actuales de Dime haciendo clic en el siguiente enlace.",
+        "yext/keywords": [
+          "Certificado de deposito"
+        ],
+        "yext/name": "¿Dónde puedo encontrar las tasas de CD actuales de Dime?",
+        "yext/question": "¿Dónde puedo encontrar las tasas de CD actuales de Dime?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous pouvez trouver les tarifs actuels CD de Dime en cliquant sur le lien ci-dessous.",
+        "yext/keywords": [
+          "Certificat de dépôt"
+        ],
+        "yext/name": "Où puis-je trouver les taux actuels de Dime sur CD ?",
+        "yext/question": "Où puis-je trouver les taux actuels de Dime sur CD ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Puoi trovare le attuali tariffe CD di Dime facendo clic sul link in basso.",
+        "yext/keywords": [
+          "Certificato di Deposito"
+        ],
+        "yext/name": "Dove posso trovare le attuali tariffe dei CD di Dime?",
+        "yext/question": "Dove posso trovare le attuali tariffe dei CD di Dime?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "以下のリンクをクリックすると、ダイムの現在のCDレートを確認できます。",
+        "yext/name": "ダイムコミュニティバンクの現在のCDレートはどこにありますか？",
+        "yext/question": "ダイムコミュニティバンクの現在のCDレートはどこにありますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

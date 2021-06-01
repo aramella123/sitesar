@@ -1,0 +1,14 @@
+{
+  "$id": "e158f0fd-1746-4eb6-9a52-106d90b13e00",
+  "$schema": "https://schema.yext.com/config/answers/saved-query/v1",
+  "answersKey": "dime",
+  "idealResult": {
+    "relevantSections": []
+  },
+  "locale": "en",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "pinIdealResults": false,
+  "queryString": "deposit check using smart phone",
+  "notes": ""
+}

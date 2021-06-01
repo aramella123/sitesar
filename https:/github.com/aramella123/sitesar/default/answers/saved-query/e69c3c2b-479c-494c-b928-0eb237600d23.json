@@ -1,0 +1,14 @@
+{
+  "$id": "e69c3c2b-479c-494c-b928-0eb237600d23",
+  "$schema": "https://schema.yext.com/config/answers/saved-query/v1",
+  "answersKey": "dime",
+  "idealResult": {
+    "relevantSections": []
+  },
+  "locale": "en",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "pinIdealResults": false,
+  "queryString": "honesdale",
+  "notes": ""
+}

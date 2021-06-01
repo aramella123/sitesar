@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ034",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Check Reordering",
+        "url": "https://www.ordermychecks.com/login_a.jsp"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "You can reoder checks from our third party vendor Harland Clarke.",
+    "yext/name": "How do I reorder checks?",
+    "yext/question": "How do I reorder checks?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie können Schecks von unserem Drittanbieter Harland Clarke nachbestellen.",
+        "yext/name": "Wie bestelle ich Schecks nach?",
+        "yext/question": "Wie bestelle ich Schecks nach?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Puede volver a solicitar cheques de nuestro proveedor externo Harland Clarke.",
+        "yext/name": "¿Cómo puedo reordenar cheques?",
+        "yext/question": "¿Cómo puedo reordenar cheques?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous pouvez commander des chèques auprès de notre revendeur Harland Clarke.",
+        "yext/name": "Comment puis-je recommander des chèques ?",
+        "yext/question": "Comment puis-je recommander des chèques ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Puoi riordinare gli assegni dal nostro fornitore di terze parti Harland Clarke.",
+        "yext/name": "Come riordinare gli assegni?",
+        "yext/question": "Come riordinare gli assegni?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "サードパーティベンダーのHarland Clarkeからのチェックをやり直すことができます。",
+        "yext/name": "小切手の並べ替え方法を教えてください。",
+        "yext/question": "小切手の並べ替え方法を教えてください。"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

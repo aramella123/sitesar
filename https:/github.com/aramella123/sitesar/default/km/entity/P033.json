@@ -1,0 +1,131 @@
+{
+  "$id": "P033",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Earns interest from day of deposit to day of withdrawl",
+      "Variable interest rate",
+      "Interest compounded daily",
+      "Safe \u0027",
+      "\u0027 secure \u0027",
+      "\u0027 and FDIC insured",
+      "Free ATM card or Debit Card with Checking account",
+      "Unlimited free deposits and withdrawals(2)",
+      "Withdrawals require the signature of student and parent or guardian until the student reaches age 18 (or 13 \u0027",
+      "\u0027 if parent guardian release joint signature requirement in writing)",
+      "Dime automatically converts your Student Savings Account to regular Dime Savings on your 23rd birthday \u0027",
+      "\u0027 or upon graduation for an accredited college or university",
+      "No Minimum Balance requirements",
+      "Make up to 6 withdrawls a month (2)"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/personal/savings/student-savings"
+      }
+    ],
+    "c_fees": "$0 if balance over $500",
+    "c_minimumDeposit": "25.0",
+    "c_productType": "Personal Savings",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Give your child a head start on the financial future they want by setting up a Dime Student Savings account you can both contribute to. Good savings habits start now.",
+    "yext/landingPageUrl": "https://www.dime.com/personal/savings/student-savings",
+    "yext/name": "Student Savings Accounts"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Persönliche Ersparnisse",
+        "yext/description": "Geben Sie Ihrem Kind einen Vorsprung auf die finanzielle Zukunft, die es sich wünscht, indem Sie ein Dime Student Savings-Konto einrichten, zu dem Sie beide beitragen können. Gute Spargewohnheiten beginnen jetzt.",
+        "yext/name": "Studentensparkonten"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Gana intereses desde el día del depósito hasta el día del retiro",
+          "tasa de interés variable",
+          "interés compuesto diariamente",
+          "seguro \u0027",
+          "\u0027 seguro \u0027y asegurado por la FDIC",
+          "tarjeta de cajero automático gratuita o tarjeta de débito con cuenta corriente",
+          "depósitos y retiros gratuitos ilimitados (2)",
+          "Los retiros requieren la firma del estudiante y sus padres o tutores hasta que el estudiante cumpla 18 años (o 13 \u0027",
+          "\u0027 si los padres tutores liberan el requisito de firma conjunta por escrito)",
+          "Dime convierte automáticamente su Cuenta de Ahorros para Estudiantes en Ahorros Dime regulares en su cumpleaños número 23 \u0027",
+          "\u0027o al graduarse de un colegio o universidad acreditada",
+          "sin requisitos de saldo mínimo",
+          "hacer hasta 6 retiros por mes (2)"
+        ],
+        "c_productType": "Ahorros Personales",
+        "yext/description": "Dale a tu hijo una ventaja sobre el futuro financiero que desean mediante la creación de una cuenta de ahorros para estudiantes Dime a la que ambos pueden contribuir. Los buenos hábitos de ahorro comienzan ahora.",
+        "yext/name": "Cuentas de ahorro para estudiantes"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Gagne des intérêts du jour du dépôt au jour du retrait",
+          "Taux d\u0027intérêt variable",
+          "Intérêts composés quotidiennement",
+          "Coffre-fort\u0027",
+          "\u0027 sécurisé et assuré par la FDIC",
+          "Carte de débit ou carte de guichet automatique gratuite avec compte chèque",
+          "Dépôts et retraits gratuits illimités(2)",
+          "Les retraits nécessitent la signature de l\u0027étudiant et du parent ou tuteur jusqu\u0027à ce que l\u0027étudiant atteigne l\u0027âge de 18 ans (ou 13\u0027",
+          "\u0027 si les parents ou le tuteur libèrent par écrit l\u0027obligation de signature conjointe)",
+          "Dime convertit automatiquement votre compte d\u0027épargne étudiant en un compte d\u0027épargne ordinaire à votre 23e anniversaire ou à la fin de vos études dans un collège ou une université accrédités",
+          "Pas de solde minimum requis",
+          "Effectue jusqu\u0027à 6 retraits par mois (2)"
+        ],
+        "c_productType": "Épargne personnelle",
+        "yext/description": "Donnez à votre enfant une longueur d\u0027avance sur l\u0027avenir financier qu\u0027il souhaite en créant un compte d\u0027épargne étudiant Dime auquel vous pouvez tous deux contribuer. Les bonnes habitudes d\u0027épargne commencent dès maintenant.",
+        "yext/name": "Comptes d\u0027épargne pour étudiants"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Guadagna interessi dal giorno del deposito al giorno del prelievo",
+          "Tasso di interesse variabile",
+          "Interessi composti giornalmente",
+          "Cassaforte \"",
+          "\" sicura \"",
+          "e FDIC assicurato",
+          "Bancomat o carta di debito con conto corrente",
+          "Depositi e prelievi gratuiti illimitati (2)",
+          "I prelievi richiedono la firma dello studente e del genitore o tutore fino a quando lo studente non abbia compiuto 18 anni (o 13 \"",
+          "\" se il tutore genitore rilascia il requisito della firma congiunta per iscritto)",
+          "Dime converte automaticamente il suo Conto di risparmio studentesco in risparmi regolari per il suo 23 ° compleanno \"",
+          "\"o al conseguimento del titolo di laurea per un college o università accreditato",
+          "nessun requisito di saldo minimo",
+          "effettuare fino a 6 prelievi al mese (2)"
+        ],
+        "c_productType": "Risparmi personali",
+        "yext/description": "Dai a tuo figlio un vantaggio sul futuro finanziario che desiderano creando un account Dime Student Savings al quale entrambi puoi contribuire. Le buone abitudini di risparmio iniziano ora.",
+        "yext/name": "Conti di risparmio degli studenti"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "個人貯蓄",
+        "yext/description": "両方が寄付できるダイム学生普通預金口座を開設することで、子供が望む経済的未来を先取りすることができます。良い貯蓄の習慣が今始まります。",
+        "yext/name": "学生普通預金口座"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

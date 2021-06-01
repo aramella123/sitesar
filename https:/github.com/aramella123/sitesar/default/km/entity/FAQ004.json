@@ -1,0 +1,62 @@
+{
+  "$id": "FAQ004",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "For assistance with your Zelle inquiries, please call our customer service center at 800-321-3463 and a customer service representative will be able to assist you.",
+    "yext/name": "Why is there a restriction on my Zelle account and how do I have it removed?",
+    "yext/question": "Why is there a restriction on my Zelle account and how do I have it removed?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Wenn Sie Hilfe bei Ihren Zelle-Anfragen benötigen, rufen Sie bitte unser Kundendienstzentrum unter der Nummer 800-321-3463 an. Ein Kundendienstmitarbeiter kann Ihnen dann weiterhelfen.",
+        "yext/name": "Warum gibt es eine Einschränkung für mein Zelle-Konto und wie kann ich es entfernen?",
+        "yext/question": "Warum gibt es eine Einschränkung für mein Zelle-Konto und wie kann ich es entfernen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Para obtener ayuda con sus consultas de Zelle, llame a nuestro centro de servicio al cliente al 800-321-3463 y un representante de servicio al cliente podrá ayudarlo.",
+        "yext/name": "¿Por qué hay una restricción en mi cuenta de Zelle y cómo la elimino?",
+        "yext/question": "¿Por qué hay una restricción en mi cuenta de Zelle y cómo la elimino?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Pour obtenir de l\u0027aide pour vos demandes concernant Zelle, veuillez appeler notre service clientèle au 800-321-3463 où un collaborateur du service clientèle sera en mesure de vous aider.",
+        "yext/name": "Pourquoi y a-t-il une restriction sur mon compte Zelle et comment puis-je la faire supprimer ?",
+        "yext/question": "Pourquoi y a-t-il une restriction sur mon compte Zelle et comment puis-je la faire supprimer ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Per assistenza con le tue richieste Zelle, chiama il nostro centro di assistenza clienti al numero 800-321-3463 e un rappresentante del servizio clienti sarà lieto di aiutarti.",
+        "yext/name": "Perché c\u0027è una restrizione sul mio account Zelle e come posso rimuoverlo?",
+        "yext/question": "Perché c\u0027è una restrizione sul mio account Zelle e come posso rimuoverlo?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "Zelleに関するお問い合わせは、カスタマーサービスセンター（800-321-3463）までお電話ください。カスタマーサービス担当者がサポートいたします。",
+        "yext/name": "なぜ私のZelleアカウントに制限があるのですか、どうすれば削除できますか？",
+        "yext/question": "なぜ私のZelleアカウントに制限があるのですか、どうすれば削除できますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

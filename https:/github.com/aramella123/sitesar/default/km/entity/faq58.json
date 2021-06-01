@@ -1,0 +1,68 @@
+{
+  "$id": "faq58",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Sign in to Online Banking",
+        "url": "https://dime.onlinebank.com/SignIn.aspx"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "Click the \"Sign In\" button in the top right corner of your screen, or click the link below!",
+    "yext/name": "How do I sign in to Online Banking?",
+    "yext/question": "How do I sign in to Online Banking?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Klicken Sie auf die Schaltfläche \"Anmelden\" in der oberen rechten Ecke Ihres Bildschirms oder klicken Sie auf den unten stehenden Link!",
+        "yext/name": "Wie melde ich mich beim Online-Banking an?",
+        "yext/question": "Wie melde ich mich beim Online-Banking an?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Haga clic en el botón \"Iniciar sesión\" en la esquina derecha de su pantalla, o haga clic en el enlace de abajo.",
+        "yext/name": "¿Cómo inicio sesión en la banca en línea?",
+        "yext/question": "¿Cómo inicio sesión en la banca en línea?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Cliquez sur le bouton \"Se connecter\" dans le coin supérieur droit de votre écran, ou cliquez sur le lien ci-dessous !",
+        "yext/name": "Comment me connecter à la banque en ligne ?",
+        "yext/question": "Comment me connecter à la banque en ligne ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Fai clic sul pulsante \"Accedi\" nell\u0027angolo in alto a destra dello schermo oppure fai clic sul link in basso!",
+        "yext/name": "Come si accede all\u0027online banking?",
+        "yext/question": "Come si accede all\u0027online banking?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "画面右上の[サインイン]ボタンをクリックするか、下のリンクをクリックしてください。",
+        "yext/name": "オンラインバンキングにサインインするにはどうすればよいですか？",
+        "yext/question": "オンラインバンキングにサインインするにはどうすればよいですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

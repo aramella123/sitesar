@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ020",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Mortgage Calculators",
+        "url": "https://www.dime.com/resources/calculators"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "At Dime, we\u0027re committed to providing the financial tools you need for success. Use these free financial calculators below to help you make smarter decisions with your money.",
+    "yext/name": "Does Dime have free calcuators I can use?",
+    "yext/question": "Does Dime have free calcuators I can use?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Wir bei Dime sind bestrebt, die Finanzinstrumente bereitzustellen, die Sie für den Erfolg benötigen. Verwenden Sie die folgenden kostenlosen Finanzrechner, um mit Ihrem Geld intelligentere Entscheidungen zu treffen.",
+        "yext/name": "Hat Dime kostenlose Taschenrechner, die ich verwenden kann?",
+        "yext/question": "Hat Dime kostenlose Taschenrechner, die ich verwenden kann?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "En Dime, estamos comprometidos a proporcionar las herramientas financieras que necesita para tener éxito. Utilice estas calculadoras financieras gratuitas a continuación para ayudarlo a tomar decisiones más inteligentes con su dinero.",
+        "yext/name": "¿Dime tiene calculadoras gratuitas que puedo usar?",
+        "yext/question": "¿Dime tiene calculadoras gratuitas que puedo usar?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Chez Dime, nous nous engageons à vous fournir les outils financiers dont vous avez besoin pour réussir. Utilisez les calculatrices financières gratuites ci-dessous pour vous aider à prendre des décisions plus judicieuses avec votre argent.",
+        "yext/name": "Dime a-t-elle des simulateurs gratuits que je peux utiliser ?",
+        "yext/question": "Dime a-t-elle des simulateurs gratuits que je peux utiliser ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "In Dime, ci impegniamo a fornire gli strumenti finanziari necessari per il successo. Utilizza questi calcolatori finanziari gratuiti per aiutarti a prendere decisioni più intelligenti con i tuoi soldi.",
+        "yext/name": "Dime ha calcolatori gratuiti che posso usare?",
+        "yext/question": "Dime ha calcolatori gratuiti che posso usare?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムでは、成功に必要な金融ツールを提供することをお約束します。以下の無料の金融計算機を使用して、お金でより賢い決定を下してください。",
+        "yext/name": "ダイムコミュニティバンクには、使用できる無料の電卓がありますか？",
+        "yext/question": "ダイムコミュニティバンクには、使用できる無料の電卓がありますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

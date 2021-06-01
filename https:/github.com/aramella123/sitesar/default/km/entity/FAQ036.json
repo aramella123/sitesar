@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ036",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Volunteerism",
+        "url": "https://www.dime.com/community-involvement/volunteers"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "You can learn about Dime\u0027s Volunteer program by visiting our Volunteerism information.",
+    "yext/name": "How can my organization volunteer with Dime?",
+    "yext/question": "How can my organization volunteer with Dime?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie können mehr über Dimes Freiwilligenprogramm erfahren, indem Sie unsere Freiwilligeninformationen besuchen.",
+        "yext/name": "Wie kann sich meine Organisation als freiwillig bei Dime melden?",
+        "yext/question": "Wie kann sich meine Organisation als freiwillig bei Dime melden?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Puede obtener información sobre el programa de voluntariado de Dime visitando nuestra información sobre voluntariado.",
+        "yext/name": "¿Cómo mi organización puede ser voluntaria con Dime?",
+        "yext/question": "¿Cómo mi organización puede ser voluntaria con Dime?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous pouvez vous renseigner sur le programme de bénévolat Dime en visitant notre page d\u0027information sur le bénévolat.",
+        "yext/name": "Comment mon organisation peut-elle faire du bénévolat avec Dime ?",
+        "yext/question": "Comment mon organisation peut-elle faire du bénévolat avec Dime ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Puoi conoscere il programma di volontariato di Dime visitando le nostre informazioni sul volontariato.",
+        "yext/name": "In che modo la mia organizzazione può fare volontariato con Dime?",
+        "yext/question": "In che modo la mia organizzazione può fare volontariato con Dime?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムのボランティアプログラムについては、ボランティア情報をご覧ください。",
+        "yext/name": "私の組織はどのようにダイムコミュニティバンクでボランティア活動を行うことができますか？",
+        "yext/question": "私の組織はどのようにダイムコミュニティバンクでボランティア活動を行うことができますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

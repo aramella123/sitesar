@@ -1,0 +1,81 @@
+{
+  "$id": "ppp-16",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "You can submit a request to the lender that is servicing the loan. The request will include documents that verify the number of full-time equivalent employees and pay rates, as well as the payments on eligible mortgage, lease, and utility obligations. You must certify that the documents are true and that you used the forgiveness amount to keep employees and make eligible mortgage interest, rent, and utility payments. The lender must make a decision on the forgiveness within 60 days.",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "How can I request loan forgiveness?",
+    "yext/question": "How can I request loan forgiveness?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie können eine Anfrage an den Kreditgeber senden, der das Darlehen bedient. Die Anfrage enthält Dokumente, aus denen die Anzahl der Vollzeitäquivalente und die Entgeltsätze sowie die Zahlungen für förderfähige Hypotheken-, Leasing- und Versorgungsverpflichtungen hervorgehen. Sie müssen bestätigen, dass die Dokumente wahr sind und dass Sie den Vergebungsbetrag verwendet haben, um Mitarbeiter zu halten und förderfähige Hypothekenzinsen, Mieten und Nebenkostenzahlungen zu leisten. Der Kreditgeber muss innerhalb von 60 Tagen eine Entscheidung über die Vergebung treffen.",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Wie kann ich um Kreditvergabe bitten?",
+        "yext/question": "Wie kann ich um Kreditvergabe bitten?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Puede enviar una solicitud al prestamista que atiende el préstamo. La solicitud incluirá documentos que verifiquen el número de empleados equivalentes a tiempo completo y las tasas de pago, así como los pagos de hipotecas elegibles, arrendamientos y obligaciones de servicios públicos. Debe certificar que los documentos son verdaderos y que utilizó el monto de la condonación para mantener a los empleados y hacer pagos elegibles de intereses hipotecarios, alquileres y servicios públicos. El prestamista debe tomar una decisión sobre el perdón dentro de los 60 días.",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Cómo puedo solicitar la condonación de préstamos?",
+        "yext/question": "¿Cómo puedo solicitar la condonación de préstamos?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous pouvez soumettre une demande au prêteur qui assure le service du prêt. La demande comprendra des documents permettant de vérifier le nombre d\u0027employés équivalents temps plein et les taux de rémunération, ainsi que les paiements des obligations admissibles au titre de l\u0027hypothèque, du bail et des services publics. Vous devez certifier que les documents sont véridiques et que vous avez utilisé le montant de la remise pour garder les employés et effectuer les paiements des intérêts hypothécaires, du loyer et des services publics admissibles. Le prêteur doit prendre une décision sur la remise dans les 60 jours.",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "Comment puis-je demander une remise de prêt ?",
+        "yext/question": "Comment puis-je demander une remise de prêt ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "È possibile inviare una richiesta al creditore che sta operando servizio sul prestito. La richiesta includerà documenti che verificano il numero di dipendenti equivalenti a tempo pieno e le aliquote di pagamento, nonché i pagamenti relativi agli obblighi di ipoteca, leasing e utilità ammissibili. È necessario certificare che i documenti siano veritieri e che sia stato utilizzato l\u0027importo di condono per mantenere i dipendenti ed effettuare pagamenti di interessi ipotecari, affitto e utilità ammissibili. Il creditore deve prendere una decisione sul condono entro 60 giorni",
+        "yext/keywords": [
+          "ppp.protezione dello stipendio"
+        ],
+        "yext/name": "Come posso richiedere il perdono del prestito?",
+        "yext/question": "Come posso richiedere il perdono del prestito?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ローンを処理している貸し手にリクエストを送信できます。要求には、正社員相当の従業員数と賃金率を検証する文書、および適格な住宅ローン、リース、および公共料金の支払いが含まれます。文書が真実であり、従業員を引き留め、適格な住宅ローンの利息、家賃、および公共料金の支払いを行うために許し額を使用したことを証明する必要があります。貸し手は60日以内に許しの決定をしなければなりません。",
+        "yext/name": "融資免除をリクエストするにはどうすればよいですか？",
+        "yext/question": "融資免除をリクエストするにはどうすればよいですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

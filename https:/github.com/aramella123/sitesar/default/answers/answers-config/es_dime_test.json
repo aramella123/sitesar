@@ -1,0 +1,496 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "es_dime_test",
+  "name": "Dime Answers Experience - Spanish",
+  "supportedLocales": [],
+  "countryRestrictions": [],
+  "verticals": {
+    "covid_faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "Preguntas frecuentes de COVID-19",
+      "savedSearchId": "30488153",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_coronaVirusFAQ": {
+          "textSearch": true
+        },
+        "c_dateOfUpdate": {
+          "sortable": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [
+        {
+          "direction": "DESC",
+          "field": "c_dateOfUpdate",
+          "type": "FIELD"
+        }
+      ],
+      "source": "KNOWLEDGE_MANAGER",
+      "verticalIntents": {
+        "blacklistedIntents": [],
+        "boostingIntents": [
+          {
+            "boost": 25,
+            "phrase": "covid"
+          },
+          {
+            "boost": 25,
+            "phrase": "covid-19"
+          },
+          {
+            "boost": 25,
+            "phrase": "coronavirus"
+          }
+        ]
+      }
+    },
+    "faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "FAQs",
+      "savedSearchId": "29154600",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_dateOfUpdate": {
+          "sortable": true
+        },
+        "keywords": {
+          "facet": true,
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [
+        {
+          "direction": "DESC",
+          "field": "c_dateOfUpdate",
+          "type": "FIELD"
+        }
+      ],
+      "source": "KNOWLEDGE_MANAGER",
+      "verticalIntents": {
+        "blacklistedIntents": [],
+        "boostingIntents": [
+          {
+            "boost": 25,
+            "phrase": "contactar dime"
+          },
+          {
+            "boost": 25,
+            "phrase": "calculadora de tasa de hipoteca"
+          },
+          {
+            "boost": 25,
+            "phrase": "calculadoras de tasa de hipotecas"
+          },
+          {
+            "boost": 25,
+            "phrase": "tarjeta de crédito"
+          },
+          {
+            "boost": 25,
+            "phrase": "tarjetas de crédito"
+          },
+          {
+            "boost": 25,
+            "phrase": "registrarse"
+          },
+          {
+            "boost": 25,
+            "phrase": "regístrate"
+          },
+          {
+            "boost": 25,
+            "phrase": "contraseña"
+          },
+          {
+            "boost": 25,
+            "phrase": "código de acceso"
+          },
+          {
+            "boost": 25,
+            "phrase": "inscribirse"
+          }
+        ]
+      }
+    },
+    "links": {
+      "apiKey": "AIzaSyCEdak1q61XoYIH9Oq66nI8Z-wqUZDS41U",
+      "cx": "011160367914084378876:45ufrjtiiga",
+      "name": "Enlaces",
+      "source": "GOOGLE_CSE",
+      "useSynonyms": "JUST_CUSTOMER_SYNONYMS"
+    },
+    "locations": {
+      "entityTypes": [
+        "location"
+      ],
+      "name": "Ubicaciones",
+      "savedSearchId": "27626683",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true
+        },
+        "c_answersGeomodifier": {
+          "nlpFilter": true
+        },
+        "c_answersServices": {
+          "facet": true,
+          "nlpFilter": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "ppp_faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "PPP FAQs",
+      "savedSearchId": "31713726",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER",
+      "verticalIntents": {
+        "blacklistedIntents": [],
+        "boostingIntents": [
+          {
+            "boost": 25,
+            "phrase": "ppp"
+          },
+          {
+            "boost": 25,
+            "phrase": "protección de cheques de pago"
+          },
+          {
+            "boost": 25,
+            "phrase": "cheque de pago"
+          }
+        ]
+      }
+    },
+    "products": {
+      "entityTypes": [
+        "ce_product"
+      ],
+      "name": "Productos",
+      "savedSearchId": "29159999",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_productType": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "nlpFilter": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER",
+      "verticalIntents": {
+        "blacklistedIntents": [],
+        "boostingIntents": [
+          {
+            "boost": 25,
+            "phrase": "refinanciar"
+          }
+        ]
+      }
+    }
+  },
+  "autocomplete": {
+    "disablePopularQueries": false,
+    "hardcodedPrompts": [
+      "Operaciones COVID-19 Dime",
+      "Ubicaciones cerca de mí",
+      "Productos de cheques comerciales",
+      "Abrir una cuenta de ahorros",
+      "¿Cuáles son sus tasas actuales de CD?",
+      "¿Cuál es el número de ruta de Dime?"
+    ]
+  },
+  "synonyms": {
+    "oneWay": [
+      {
+        "phrase": "sucursal",
+        "synonyms": [
+          "ubicación",
+          "local"
+        ]
+      },
+      {
+        "phrase": "sucursales",
+        "synonyms": [
+          "ubicaciónes",
+          "locales"
+        ]
+      },
+      {
+        "phrase": "ubicación",
+        "synonyms": [
+          "local"
+        ]
+      },
+      {
+        "phrase": "ubicaciónes",
+        "synonyms": [
+          "locales"
+        ]
+      },
+      {
+        "phrase": "lugares",
+        "synonyms": [
+          "locales"
+        ]
+      },
+      {
+        "phrase": "lugar",
+        "synonyms": [
+          "local"
+        ]
+      },
+      {
+        "phrase": "faq",
+        "synonyms": [
+          "Preguntas frecuentes"
+        ]
+      },
+      {
+        "phrase": "viaje",
+        "synonyms": [
+          "de viaje"
+        ]
+      },
+      {
+        "phrase": "venmo",
+        "synonyms": [
+          "zelle"
+        ]
+      },
+      {
+        "phrase": "refinanciar",
+        "synonyms": [
+          "hipoteca"
+        ]
+      },
+      {
+        "phrase": "apoyo",
+        "synonyms": [
+          "Servicio al Cliente"
+        ]
+      },
+      {
+        "phrase": "contactar dime",
+        "synonyms": [
+          "Servicio al Cliente"
+        ]
+      },
+      {
+        "phrase": "Teléfono móvil",
+        "synonyms": [
+          "depósito remoto"
+        ]
+      },
+      {
+        "phrase": "teléfono inteligente",
+        "synonyms": [
+          "depósito remoto"
+        ]
+      },
+      {
+        "phrase": "android",
+        "synonyms": [
+          "depósito remoto"
+        ]
+      },
+      {
+        "phrase": "teléfono iphone",
+        "synonyms": [
+          "depósito remoto"
+        ]
+      },
+      {
+        "phrase": "espanol",
+        "synonyms": [
+          "spanish"
+        ]
+      },
+      {
+        "phrase": "español",
+        "synonyms": [
+          "spanish"
+        ]
+      },
+      {
+        "phrase": "rellnar cheque",
+        "synonyms": [
+          "reordenar cheques"
+        ]
+      },
+      {
+        "phrase": "cheque personal",
+        "synonyms": [
+          "cheque"
+        ]
+      },
+      {
+        "phrase": "cheques commerciales",
+        "synonyms": [
+          "Cuenta corriente comercial"
+        ]
+      },
+      {
+        "phrase": "cuenta commercial",
+        "synonyms": [
+          "cuenta corriente comercial"
+        ]
+      },
+      {
+        "phrase": "faqs",
+        "synonyms": [
+          "preguntas frecuentes"
+        ]
+      },
+      {
+        "phrase": "negocios",
+        "synonyms": [
+          "comercial"
+        ]
+      },
+      {
+        "phrase": "protección de cheques de pago",
+        "synonyms": [
+          "ppp"
+        ]
+      }
+    ],
+    "synonymSet": [
+      [
+        "carrera",
+        "trabajo",
+        "carreras",
+        "posición abierta",
+        "posiciónes abierta",
+        "trabajos"
+      ],
+      [
+        "extracto electronico",
+        "extracto bancario",
+        "extracto",
+        "extractos",
+        "facturación sin papel",
+        "extractos sin papel",
+        "extracto sin papel"
+      ],
+      [
+        "aplicación movil",
+        "la banca móvil"
+      ],
+      [
+        "regístrate",
+        "inscribirse",
+        "registrar",
+        "banca en línea",
+        "inscribo",
+        "registrarse"
+      ],
+      [
+        "cancelar",
+        "cuenta cerrada",
+        "cerrar"
+      ],
+      [
+        "iniciar sesión",
+        "registrarse"
+      ],
+      [
+        "certificado de depósitos",
+        "cd"
+      ],
+      [
+        "covid",
+        "corona virus",
+        "coronavirus",
+        "covid-19",
+        "todavía abierto",
+        "todavía están abiertos"
+      ],
+      [
+        "PPP",
+        "Programa de protección",
+        "Programa de protección de cheques"
+      ],
+      [
+        "venmo",
+        "paypal",
+        "zelle"
+      ],
+      [
+        "activo",
+        "activar"
+      ],
+      [
+        "horas",
+        "horario",
+        "horarios"
+      ],
+      [
+        "depósito",
+        "depositar"
+      ],
+      [
+        "aplicación",
+        "solicitud",
+        "solicitar",
+        "aplicar"
+      ],
+      [
+        "negocio",
+        "empresa"
+      ],
+      [
+        "tarifa",
+        "tarifas",
+        "cargo",
+        "cargos",
+        "tasa",
+        "tasas"
+      ]
+    ]
+  },
+  "localizations": {},
+  "additionalSearchablePlaces": [],
+  "tier": "Beta"
+}

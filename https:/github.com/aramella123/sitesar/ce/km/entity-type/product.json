@@ -1,0 +1,114 @@
+{
+  "$id": "ce_product",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v1",
+  "description": "",
+  "displayName": "Product Custom",
+  "displayNameTranslation": [
+    {
+      "localeCode": "de",
+      "value": "Produkt Custom"
+    },
+    {
+      "localeCode": "es",
+      "value": "Producto Custom"
+    },
+    {
+      "localeCode": "fr",
+      "value": "Produit Custom"
+    },
+    {
+      "localeCode": "it",
+      "value": "Prodotto Custom"
+    },
+    {
+      "localeCode": "ja",
+      "value": "プロダクト Custom"
+    }
+  ],
+  "enabled": true,
+  "field": [
+    {
+      "id": "yext/landingPageUrl",
+      "required": false
+    },
+    {
+      "id": "yext/description",
+      "required": false
+    },
+    {
+      "id": "yext/name",
+      "required": true
+    },
+    {
+      "id": "c_activeOnAnswers",
+      "required": false
+    },
+    {
+      "id": "c_benefits",
+      "required": false
+    },
+    {
+      "id": "c_ctas",
+      "required": false
+    },
+    {
+      "id": "c_fees",
+      "required": false
+    },
+    {
+      "id": "c_minimumDeposit",
+      "required": false
+    },
+    {
+      "id": "c_noFee",
+      "required": false
+    },
+    {
+      "id": "c_productType",
+      "required": false
+    },
+    {
+      "id": "c_slug",
+      "required": false
+    },
+    {
+      "id": "yext/folder",
+      "required": false
+    },
+    {
+      "id": "yext/keywords",
+      "required": false
+    },
+    {
+      "id": "yext/labels",
+      "required": false
+    },
+    {
+      "id": "yext/entityId",
+      "required": true
+    }
+  ],
+  "pluralDisplayName": "Products",
+  "pluralDisplayNameTranslation": [
+    {
+      "localeCode": "de",
+      "value": "Produkte"
+    },
+    {
+      "localeCode": "es",
+      "value": "Productos"
+    },
+    {
+      "localeCode": "fr",
+      "value": "Produits"
+    },
+    {
+      "localeCode": "it",
+      "value": "Prodotti"
+    },
+    {
+      "localeCode": "ja",
+      "value": "プロダクト"
+    }
+  ]
+}

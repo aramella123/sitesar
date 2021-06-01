@@ -1,0 +1,100 @@
+{
+  "$id": "P005",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Earn competitive rates",
+      "FDIC insured up to at least $250",
+      "000",
+      "Wide range of terms: from 3 months to 7 years"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/business/savings/certificate-of-deposit"
+      }
+    ],
+    "c_productType": "Business Certificates of Deposit (CDs)",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Take the guesswork out of managing your cash balances. Consider Dime\u0027s Business CDs if your business has seasonal cash flow, future acquisition plans, or idle cash.",
+    "yext/keywords": [
+      "Certificate of Deposit"
+    ],
+    "yext/landingPageUrl": "https://www.dime.com/business/savings/certificate-of-deposit",
+    "yext/name": "Business Certificates of Deposit (CDs)"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Business Depositenzertifikate (CD)",
+        "yext/description": "Machen Sie sich keine Gedanken mehr über die Verwaltung Ihrer Barguthaben. Betrachten Sie die Business-CDs von Dime, wenn Ihr Unternehmen über einen saisonalen Cashflow, zukünftige Akquisitionspläne oder nicht genutztes Bargeld verfügt.",
+        "yext/name": "Depositenzertifikate"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Gane tarifas competitivas",
+          "asegurado por la FDIC hasta al menos $250",
+          "000",
+          "amplia gama de términos: de 3 meses a 7 años"
+        ],
+        "c_productType": "Certificados comerciales de depósito (CD)",
+        "yext/description": "Elimine las conjeturas al administrar sus saldos de efectivo. Considere los CD de negocios de Dime si su negocio tiene flujo de caja estacional, planes de adquisición futuros o efectivo inactivo.",
+        "yext/keywords": [
+          "certificado de deposito"
+        ],
+        "yext/name": "Certificados comerciales de depósito (CD)"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Bénéficiez de tarifs compétitifs",
+          "FDIC assurée jusqu\u0027à au moins 250 000 €",
+          "Large gamme de durées : de 3 mois à 7 ans"
+        ],
+        "c_productType": "Certificats de dépôt des entreprises (CD)",
+        "yext/description": "Ne faites pas de conjectures sur la gestion de vos liquidités. Pensez aux CD Dime\u0027s Business si votre entreprise a des flux de trésorerie saisonniers, des projets d\u0027acquisition futurs ou des liquidités inutilisées.",
+        "yext/keywords": [
+          "Certificat de dépôt",
+          "CD"
+        ],
+        "yext/name": "Certificats de dépôt des entreprises (CD)"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Guadagna tariffe competitive",
+          "assicurato FDIC fino ad almeno $ 250.000",
+          "Ampia gamma di termini: da 3 mesi a 7 anni"
+        ],
+        "c_productType": "Certificati di deposito aziendali (CD)",
+        "yext/description": "Elimina le congetture dalla gestione dei saldi di cassa. Prendi in considerazione i CD aziendali di Dime se la tua azienda ha flussi di cassa stagionali, piani di acquisizione futuri o liquidità.",
+        "yext/name": "Certificati di deposito aziendali (CD)"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "預金証明書（CD）",
+        "yext/description": "あなたの現金残高の管理から当て推量を取ってください。ビジネスに季節的なキャッシュフロー、将来の買収計画、または遊休現金がある場合は、ダイムのビジネスCDを検討してください。",
+        "yext/name": "預金証明書（CD）"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

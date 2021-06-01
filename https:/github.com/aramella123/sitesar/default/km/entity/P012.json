@@ -1,0 +1,106 @@
+{
+  "$id": "P012",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Save time by scanning and depositing checks from your office",
+      "Streamline check processing",
+      "Deposit an unlimited number of checks",
+      "Improve productivity",
+      "Mitigate check fraud",
+      "Transmit checks securely"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/cash-management-solutions/remote-deposit-capture"
+      }
+    ],
+    "c_productType": "Remote Deposit Capture",
+    "c_slug": "[[entityId]]",
+    "yext/description": "We’ll set you up with a Remote Deposit Capture (RDC) portable check scanner and software, so you can scan your checks, review the images, and transmit them through a secure website to us for processing.",
+    "yext/landingPageUrl": "https://www.dime.com/cash-management-solutions/remote-deposit-capture",
+    "yext/name": "Remote Deposit Capture"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Remote Deposit Capture",
+        "yext/description": "Wir richten Sie mit einem tragbaren RDC-Scheckscanner (Remote Deposit Capture) und einer tragbaren Software ein, damit Sie Ihre Schecks scannen, die Bilder überprüfen und zur Verarbeitung über eine sichere Website an uns senden können.",
+        "yext/name": "Remote Deposit Capture"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Ahorre tiempo escaneando y depositando cheques desde su oficina",
+          "agilice el procesamiento de cheques",
+          "deposite un número ilimitado de cheques",
+          "mejore la productividad",
+          "mitigue el fraude de cheques",
+          "transmita cheques de forma segura"
+        ],
+        "c_productType": "Captura remota de depósitos",
+        "yext/description": "Lo configuraremos con un escáner de cheques portátil y un software de captura remota de depósitos (RDC), para que pueda escanear sus cheques, revisar las imágenes y transmitirlas a través de un sitio web seguro para que las procesemos.",
+        "yext/name": "Captura remota de depósitos"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Gagnez du temps en scannant et déposant les chèques depuis votre bureau",
+          "Rationalisez le traitement des chèques",
+          "Déposez un nombre illimité de chèques",
+          "Améliorez la productivité",
+          "Réduisez les fraudes aux chèques",
+          "Transmettez les chèques en toute sécurité"
+        ],
+        "c_productType": "Saisie des dépôts à distance",
+        "yext/description": "Nous vous installerons un scanner de chèques portable et un logiciel de capture des dépôts à distance (RDC), afin que vous puissiez scanner vos chèques, examiner les images et nous les transmettre pour traitement via un site web sécurisé.",
+        "yext/keywords": [
+          "dépôt",
+          "chèque",
+          "smartphone",
+          "smart phone"
+        ],
+        "yext/name": "Saisie des dépôts à distance"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Risparmia tempo acquisendo e depositando assegni dal tuo ufficio",
+          "ottimizzando l\u0027elaborazione degli assegni",
+          "depositando un numero illimitato di assegni",
+          "migliorando la produttività",
+          "mitigando le frodi degli assegni",
+          "trasmettendo assegni in modo sicuro"
+        ],
+        "c_productType": "Acquisizione di depositi remoti",
+        "yext/description": "Ti forniremo uno scanner e un software per assegni portatili Remote Capture (RDC), in modo che tu possa scansionare i tuoi assegni, rivedere le immagini e trasmetterli attraverso un sito Web sicuro per l\u0027elaborazione.",
+        "yext/name": "Acquisizione di depositi remoti"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "リモートデポジットキャプチャ",
+        "yext/description": "リモートデポジットキャプチャ（RDC）の携帯用小切手スキャナーとソフトウェアをセットアップして、小切手をスキャンし、画像を確認して、安全なWebサイトから送信して処理できるようにします。",
+        "yext/name": "リモートデポジットキャプチャ"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

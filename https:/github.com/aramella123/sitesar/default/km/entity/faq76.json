@@ -1,0 +1,62 @@
+{
+  "$id": "faq76",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "An External Transfer is a transfer to/from you Dime checking or savings account to/from an account you own at another financial institution.",
+    "yext/name": "What is an External transfer?",
+    "yext/question": "What is an External transfer?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Eine externe Überweisung ist eine Überweisung von / zu Ihrem Giro- oder Sparkonto auf / von einem Konto, das Sie bei einem anderen Finanzinstitut besitzen.",
+        "yext/name": "Was ist eine externe Überweisung?",
+        "yext/question": "Was ist eine externe Überweisung?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Una transferencia externa es una transferencia a / desde su cuenta corriente o de ahorros Dime a / desde una cuenta que posee en otra institución financiera.",
+        "yext/name": "¿Qué es una transferencia externa?",
+        "yext/question": "¿Qué es una transferencia externa?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Un virement externe est un transfert vers/depuis votre compte de chèques ou d\u0027épargne à/depuis un compte que vous possédez auprès d\u0027une autre institution financière.",
+        "yext/name": "Qu\u0027est-ce qu\u0027un virement externe ?",
+        "yext/question": "Qu\u0027est-ce qu\u0027un virement externe ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Un trasferimento esterno è un trasferimento da / verso il tuo conto di risparmio o conto di risparmio verso / da un conto di tua proprietà presso un altro istituto finanziario.",
+        "yext/name": "Che cos\u0027è un trasferimento esterno?",
+        "yext/question": "Che cos\u0027è un trasferimento esterno?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "外部送金とは、ダイムの当座預金または普通預金口座と別の金融機関で所有している口座との間の送金です。",
+        "yext/name": "外部転送とは何ですか？",
+        "yext/question": "外部転送とは何ですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

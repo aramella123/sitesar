@@ -1,0 +1,62 @@
+{
+  "$id": "FAQ007",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "For assistance with your debit card inquiries, please call our customer service center at 800-321-3463 and a customer service representative will be able to assist you.",
+    "yext/name": "Why is my Debit Card being denied?",
+    "yext/question": "Why is my Debit Card being denied?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Wenn Sie Hilfe bei Ihren Debitkartenanfragen benötigen, rufen Sie bitte unser Kundendienstzentrum unter 800-321-3463 an. Ein Kundendienstmitarbeiter kann Ihnen weiterhelfen.",
+        "yext/name": "Warum wird meine Debitkarte abgelehnt?",
+        "yext/question": "Warum wird meine Debitkarte abgelehnt?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Para obtener ayuda con sus consultas sobre tarjetas de débito, llame a nuestro centro de servicio al cliente al 800-321-3463 y un representante de servicio al cliente podrá ayudarlo.",
+        "yext/name": "¿Por qué se niega mi tarjeta de débito?",
+        "yext/question": "¿Por qué se niega mi tarjeta de débito?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Pour obtenir de l\u0027aide concernant vos demandes de carte de débit, veuillez appeler notre service clientèle au 800-321-3463 où un collaborateur du service clientèle pourra vous aider.",
+        "yext/name": "Pourquoi ma carte de débit est-elle refusée ?",
+        "yext/question": "Pourquoi ma carte de débit est-elle refusée ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Per assistenza con le richieste relative alla tua carta di debito, chiama il nostro centro di assistenza clienti al numero 800-321-3463 e un rappresentante del servizio clienti sarà in grado di aiutarti.",
+        "yext/name": "Perché la mia carta di debito viene negata?",
+        "yext/question": "Perché la mia carta di debito viene negata?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "デビットカードに関するお問い合わせは、カスタマーサービスセンター（800-321-3463）までお電話ください。カスタマーサービス担当者がサポートいたします。",
+        "yext/name": "デビットカードが拒否されるのはなぜですか？",
+        "yext/question": "デビットカードが拒否されるのはなぜですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

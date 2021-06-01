@@ -1,0 +1,79 @@
+{
+  "$id": "P056",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Life can be unpredictable. Protect yourself from the inconvenience and expense of a bounced check with a line of credit linked to your checking account. Sign up for only $25 per year."
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Apply Now",
+        "url": "https://www.dime.com/personal/checking/overdraft-line-of-credit"
+      }
+    ],
+    "c_productType": "Checking",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Protect yourself from mistakes",
+    "yext/name": "Overdraft Protection"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Girokonto",
+        "yext/description": "Schützen Sie sich vor Fehlern",
+        "yext/name": "Überziehungsschutz"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "La vida puede ser impredecible. Protéjase de los inconvenientes y gastos de un cheque sin fondos con una línea de crédito vinculada a su cuenta corriente. Regístrese por solo $ 25 por año."
+        ],
+        "c_productType": "La cuenta corriente",
+        "yext/description": "Protégete de los errores",
+        "yext/name": "Proteccion de sobregiro"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "La vie peut être imprévisible. Protégez-vous contre les inconvénients et les frais d\u0027un chèque sans provision en utilisant une ligne de crédit liée à votre compte courant. Inscrivez-vous pour seulement 25 € par an."
+        ],
+        "c_productType": "Consultez le site",
+        "yext/description": "Protégez-vous des erreurs",
+        "yext/name": "Protection contre les découverts"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "La vita può essere imprevedibile. Proteggiti dagli inconvenienti e dalle spese di un assegno rimbalzato con una linea di credito collegata al tuo conto corrente. Iscriviti per soli $ 25 all\u0027anno."
+        ],
+        "c_productType": "Conto",
+        "yext/description": "Proteggiti dagli errori",
+        "yext/name": "Protezione scoperto"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "チェック中",
+        "yext/description": "間違いから身を守りましょう",
+        "yext/name": "貸越し保護"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

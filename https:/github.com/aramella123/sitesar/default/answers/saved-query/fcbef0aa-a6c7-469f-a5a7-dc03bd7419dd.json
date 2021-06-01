@@ -1,0 +1,14 @@
+{
+  "$id": "fcbef0aa-a6c7-469f-a5a7-dc03bd7419dd",
+  "$schema": "https://schema.yext.com/config/answers/saved-query/v1",
+  "answersKey": "dime",
+  "idealResult": {
+    "relevantSections": []
+  },
+  "locale": "en",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "pinIdealResults": false,
+  "queryString": "year end statement",
+  "notes": ""
+}

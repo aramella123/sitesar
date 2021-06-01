@@ -1,0 +1,95 @@
+{
+  "$id": "P048",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Shop in stores without having to share your card with merchants",
+      "Your payment info is pre-loaded to check out quickly",
+      "On the go? Shop within merchant apps to pay for your groceries \u0027",
+      "\u0027 movies \u0027",
+      "\u0027 coffee or a ride."
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/personal/digital-wallet"
+      }
+    ],
+    "c_productType": "Digital Wallet",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Pay with your Dime debit card safely and securely right from your smartphone.",
+    "yext/landingPageUrl": "https://www.dime.com/personal/digital-wallet",
+    "yext/name": "Digital Wallet"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Digitale Geldbörse",
+        "yext/description": "Bezahlen Sie mit Ihrer Dime-Debitkarte sicher und sicher direkt von Ihrem Smartphone aus.",
+        "yext/name": "Digitale Geldbörse"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Compre en tiendas sin tener que compartir su tarjeta con los comerciantes. Su información de pago está precargada para pagar rápidamente",
+          "¿en movimiento? Compre dentro de las aplicaciones comerciales para pagar sus compras del supermercado",
+          "\u0027películas\u0027",
+          "\u0027café o un paseo."
+        ],
+        "c_productType": "Billetera digital",
+        "yext/description": "Pague con su tarjeta de débito Dime de forma segura desde su teléfono inteligente (smart phone)",
+        "yext/name": "Billetera Digital"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Faites vos achats dans les magasins sans avoir à partager votre carte avec les commerçants",
+          "Vos informations de paiement sont préchargées pour un règlement rapide",
+          "En déplacement ? Faites vos achats sur les applications des commerçants pour payer vos courses",
+          "vos films",
+          "vos cafés ou vos trajets."
+        ],
+        "c_productType": "Portefeuille numérique",
+        "yext/description": "Payez avec votre carte de débit Dime en toute sécurité, directement depuis votre smartphone.",
+        "yext/name": "Portefeuille numérique"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Fai acquisti nei negozi senza dover condividere la tua carta con i commercianti",
+          "Le tue informazioni di pagamento sono precaricate per il check-out rapido",
+          "In viaggio? Fai acquisti nelle app dei commercianti per pagare la spesa \"",
+          "\" film \"",
+          "\" caffè o un giro."
+        ],
+        "c_productType": "Portafoglio Digitale",
+        "yext/description": "Paga con la tua carta di debito Dime in modo sicuro direttamente dal tuo smartphone.",
+        "yext/name": "Portafogli digitale"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "デジタルウォレット",
+        "yext/description": "スマートフォンから直接、安全かつ確実にダイムコミュニティバンクデビットカードで支払います。",
+        "yext/name": "デジタルウォレット"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

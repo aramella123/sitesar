@@ -1,0 +1,12 @@
+{
+  "$id": "helpArticle",
+  "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
+  "enabled": true,
+  "entityType": "yext/helpArticle",
+  "field": [
+    {
+      "id": "c_primaryCTA",
+      "required": false
+    }
+  ]
+}

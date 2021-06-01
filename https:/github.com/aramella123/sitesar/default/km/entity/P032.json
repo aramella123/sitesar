@@ -1,0 +1,112 @@
+{
+  "$id": "P032",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Earns interest from day of deposit to day of withdrawal",
+      "Variable interest rates when daily balances exceed $250*",
+      "Interest compounded daily",
+      "Safe \u0027",
+      "\u0027 secure \u0027",
+      "\u0027 and FDIC-insured",
+      "Free ATM card or debit card with a Linked Checking Account",
+      "Free Online Banking for 24-hour information and transfers*",
+      "Avoid $4 monthly fee with $500 balance"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/personal/savings/statement-savings"
+      }
+    ],
+    "c_fees": "$0 if balance over $500",
+    "c_minimumDeposit": "25.0",
+    "c_productType": "Personal Savings",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Take your personal finances one step further with a Dime Statement Savings account. Earn interest on your balances \u0026 get updates on your progress with monthly statements.",
+    "yext/landingPageUrl": "https://www.dime.com/personal/savings/statement-savings",
+    "yext/name": "Statement Savings Accounts"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Persönliche Ersparnisse",
+        "yext/description": "Gehen Sie mit einem Dime Statement-Sparkonto noch einen Schritt weiter. Verdienen Sie Interesse an Ihren Guthaben und informieren Sie sich mit monatlichen Abrechnungen über Ihre Fortschritte.",
+        "yext/name": "Kontoauszug Sparkonten"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Gana intereses desde el día del depósito hasta el día del retiro",
+          "Tasas de interés variables cuando los saldos diarios superan los $ 250 *",
+          "Interés compuesto diariamente",
+          "Seguro \u0027",
+          "\u0027 seguro \u0027\u0027 y asegurado por la FDIC",
+          "Tarjeta de cajero automático gratuita o tarjeta de débito con una cuenta de cheques vinculada",
+          "Banca en línea gratuita para información y transferencias las 24 horas *",
+          "evite la tarifa mensual de $ 4 con un saldo de $ 500"
+        ],
+        "c_productType": "Ahorros Personales",
+        "yext/description": "Lleve sus finanzas personales un paso más allá con una cuenta de ahorro de declaraciones Dime. Gane intereses sobre sus saldos y obtenga actualizaciones sobre su progreso con los extractos mensuales.",
+        "yext/name": "Cuentas de ahorro de estado de cuenta"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Gagne des intérêts du jour du dépôt au jour du retrait",
+          "Taux d\u0027intérêt variable lorsque le solde quotidien dépasse 250 €*",
+          "Intérêts composés quotidiennement",
+          "Sûr\u0027",
+          "\u0027 sécurisé et assuré par la FDIC",
+          "Carte de guichet automatique ou carte de débit gratuite avec un compte chèques lié",
+          "Banque en ligne gratuite pour des informations et des transferts 24 heures sur 24*",
+          "Évite des frais mensuels de 4 € avec un solde de 500"
+        ],
+        "c_productType": "Épargne personnelle",
+        "yext/description": "Faites avancer vos finances personnelles d\u0027un cran avec un compte d\u0027épargne avec relevé de compte. Gagnez de l\u0027intérêt sur vos soldes et soyez informé de l\u0027évolution de votre situation grâce aux relevés mensuels.",
+        "yext/name": "Relevé des comptes d\u0027épargne"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Guadagna interessi dal giorno del deposito al giorno del prelievo",
+          "tassi di interesse variabili quando i saldi giornalieri superano $ 250 *",
+          "interessi composti giornalmente",
+          "carta di debito o assicurazione bancaria sicura",
+          "\"sicura\"",
+          "\"FDIC\"",
+          "con conto corrente collegato",
+          "Servizi bancari online gratuiti per informazioni e trasferimenti 24 ore su 24 *",
+          "Evita una commissione mensile di $ 4 con un saldo di $ 500"
+        ],
+        "c_productType": "Risparmi personali",
+        "yext/description": "Porta le tue finanze personali un ulteriore passo avanti con un conto di risparmio conto Dime. Guadagna interesse sui tuoi saldi e ricevi aggiornamenti sui tuoi progressi con estratti conto mensili.",
+        "yext/name": "Estratto conto"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "個人貯蓄",
+        "yext/description": "ダイムステートメント普通預金口座であなたの個人的な財政をさらに一歩進めます。残高に関心を寄せ、毎月の明細書で進捗状況の最新情報を入手してください。",
+        "yext/name": "明細書普通預金口座"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

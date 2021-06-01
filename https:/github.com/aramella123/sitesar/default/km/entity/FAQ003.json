@@ -1,0 +1,62 @@
+{
+  "$id": "FAQ003",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "To reset your online account, you can click on forgot password after clicking before your account becomes locked. If your online account is locked, please call our customer service center at 800-321-3463 and a customer service representative will be able to assist you.",
+    "yext/name": "How can I reset or unlock my Online Banking account?",
+    "yext/question": "How can I reset or unlock my Online Banking account?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Um Ihr Online-Konto zurückzusetzen, können Sie auf \"Passwort vergessen\" klicken, bevor Ihr Konto gesperrt wird. Wenn Ihr Online-Konto gesperrt ist, rufen Sie bitte unser Kundendienstzentrum unter 800-321-3463 an. Ein Kundendienstmitarbeiter kann Ihnen dann weiterhelfen.",
+        "yext/name": "Wie kann ich mein Online-Banking-Konto zurücksetzen oder entsperren?",
+        "yext/question": "Wie kann ich mein Online-Banking-Konto zurücksetzen oder entsperren?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Para restablecer su cuenta en línea, puede hacer clic en Olvidé mi contraseña después de hacer clic antes de que su cuenta se bloquee. Si su cuenta en línea está bloqueada, llame a nuestro centro de servicio al cliente al 800-321-3463 y un representante de servicio al cliente podrá ayudarlo.",
+        "yext/name": "¿Cómo puedo restablecer o desbloquear mi cuenta de Online Banking?",
+        "yext/question": "¿Cómo puedo restablecer o desbloquear mi cuenta de Online Banking?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Pour réinitialiser votre compte en ligne, vous pouvez cliquer sur mot de passe oublié avant que votre compte ne soit verrouillé. Si votre compte en ligne est verrouillé, veuillez appeler notre centre de service à la clientèle au 800-321-3463 et un représentant du service à la clientèle sera en mesure de vous aider.",
+        "yext/name": "Comment puis-je réinitialiser ou débloquer mon compte de banque en ligne ?",
+        "yext/question": "Comment puis-je réinitialiser ou débloquer mon compte de banque en ligne ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Per ripristinare il tuo account online, puoi fare clic su password dimenticata dopo aver fatto clic prima che il tuo account venga bloccato. Se il tuo account online è bloccato, chiama il nostro centro di assistenza clienti al numero 800-321-3463 e un rappresentante del servizio clienti sarà lieto di aiutarti.",
+        "yext/name": "Come posso ripristinare o sbloccare il mio conto bancario online?",
+        "yext/question": "Come posso ripristinare o sbloccare il mio conto bancario online?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "オンラインアカウントをリセットするには、アカウントがロックされる前にクリックした後、[パスワードを忘れた]をクリックします。オンラインアカウントがロックされている場合は、カスタマーサービスセンター（800-321-3463）までお電話ください。カスタマーサービス担当者がサポートいたします。",
+        "yext/name": "オンラインバンキングアカウントをリセットまたはロック解除するにはどうすればよいですか？",
+        "yext/question": "オンラインバンキングアカウントをリセットまたはロック解除するにはどうすればよいですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

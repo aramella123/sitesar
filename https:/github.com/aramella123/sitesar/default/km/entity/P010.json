@@ -1,0 +1,96 @@
+{
+  "$id": "P010",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Improves funds availabilty",
+      "Eliminate in-house check processing costs",
+      "simplify record keeping",
+      "improve same-day decisioning",
+      "protect against internal theft and check fraud"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/cash-management-solutions/lockbox-services"
+      }
+    ],
+    "c_productType": "Lockbox Services",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Does your business process a large number of receivables and payments by mail? Dime Community Bank has the right cash management solution for you. With our Lockbox Services¹, we’ll eliminate in-house processing costs, improve funds availability, and simplify your record keeping and reporting.",
+    "yext/landingPageUrl": "https://www.dime.com/cash-management-solutions/lockbox-services",
+    "yext/name": "Lockbox Services"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Lockbox-Dienste",
+        "yext/description": "Verarbeitet Ihr Unternehmen eine große Anzahl von Forderungen und Zahlungen per Post? Die Dime Community Bank hat die richtige Cash-Management-Lösung für Sie. Mit unseren Tresor-Dienste¹ eliminieren wir interne Verarbeitungskosten, verbessern die Verfügbarkeit von Geldern und vereinfachen Ihre Aufzeichnungen und Berichte.",
+        "yext/name": "Tresor-Dienste"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Mejora la disponibilidad de fondos",
+          "elimina los costos internos de procesamiento de cheques",
+          "simplifica el mantenimiento de registros",
+          "mejora la toma de decisiones el mismo día",
+          "protege contra el robo interno y verifica el fraude"
+        ],
+        "c_productType": "Servicios de caja de seguridad",
+        "yext/description": "¿Su empresa procesa una gran cantidad de cuentas por cobrar y pagos por correo? Dime Community Bank tiene la solución de administración de efectivo adecuada para usted. Con nuestros Servicios Lockbox¹, eliminaremos los costos de procesamiento internos, mejoraremos la disponibilidad de fondos y simplificaremos su mantenimiento de registros e informes.",
+        "yext/name": "Servicios de caja de seguridad"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Améliore la disponibilité des fonds",
+          "Élimine les coûts de traitement des chèques en interne",
+          "Simplifie la tenue des dossiers",
+          "Améliore la prise de décision le jour même",
+          "Protège contre le vol interne et la fraude par chèque"
+        ],
+        "c_productType": "Services de boîtes aux lettres",
+        "yext/description": "Votre entreprise traite-t-elle un grand nombre de créances et de paiements par courrier ? Dime Community Bank a la solution de gestion de trésorerie qui vous convient. Grâce à nos services de boîte aux lettres¹, nous éliminerons les coûts de traitement en interne, améliorerons la disponibilité des fonds et simplifierons la tenue de vos registres et l\u0027établissement de rapports.",
+        "yext/name": "Services de boîte sécurisée"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Migliora la disponibilità di fondi",
+          "elimina i costi interni di elaborazione degli assegni",
+          "semplifica la tenuta dei registri",
+          "migliora le decisioni in giornata",
+          "protegge dai furti interni e controlla le frodi"
+        ],
+        "c_productType": "Servizi Lockbox",
+        "yext/description": "La tua azienda elabora un gran numero di crediti e pagamenti per posta? Dime Community Bank ha la soluzione di gestione del contante giusta per te. Con i nostri servizi Lockbox¹ elimineremo i costi di elaborazione interni, miglioreremo la disponibilità dei fondi e semplificheremo la registrazione e la rendicontazione dei dati.",
+        "yext/name": "Servizi Lockbox"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "ロックボックスサービス",
+        "yext/description": "あなたのビジネスは、多くの売掛金と郵便による支払いを処理しますか？ダイムコミュニティバンク Community Bankは、お客様に最適な現金管理ソリューションを提供しています。LockboxServices¹を使用すると、社内の処理コストを削減し、資金の可用性を向上させ、記録の保存とレポート作成を簡素化します。",
+        "yext/name": "ロックボックスサービス"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

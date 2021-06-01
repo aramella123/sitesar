@@ -1,0 +1,92 @@
+{
+  "$id": "P041",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Get your money typically in minutes (3)",
+      "Send money using only an email address or U.S. mobile phone number",
+      "Just log in to your online or mobile bank account (4)",
+      "Send money to a trusted friend or family member"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/personal/mobile-banking/zelle"
+      }
+    ],
+    "c_productType": "Zelle",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Dime partnered with Zelle® so you can easily send money to anyone you know and trust. It\u0027s a safe and simple way to receive money, split a bill or send money to a friend.",
+    "yext/landingPageUrl": "https://www.dime.com/personal/mobile-banking/zelle",
+    "yext/name": "Zelle"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Zelle",
+        "yext/description": "Dime ist eine Partnerschaft mit Zelle® eingegangen, sodass Sie problemlos Geld an jeden senden können, den Sie kennen und dem Sie vertrauen. Es ist eine sichere und einfache Möglichkeit, Geld zu erhalten, eine Rechnung zu teilen oder Geld an einen Freund zu senden.",
+        "yext/name": "Zelle"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Obtenga su dinero típicamente en minutos (3)",
+          "envíe dinero usando solo una dirección de correo electrónico o un número de teléfono móvil de EE. UU.",
+          "Simplemente inicie sesión en su cuenta bancaria en línea o móvil (4)",
+          "envíe dinero a un amigo o familiar de confianza"
+        ],
+        "c_productType": "Zelle",
+        "yext/description": "Dime se asoció con Zelle® para que pueda enviar dinero fácilmente a cualquier persona que conozca y en quien confíe. Es una forma segura y sencilla de recibir dinero, dividir una factura o enviar dinero a un amigo.",
+        "yext/name": "Zelle"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Recevez votre argent en quelques minutes (3)",
+          "Envoyez de l\u0027argent en utilisant uniquement une adresse électronique ou un numéro de téléphone portable",
+          "Connectez-vous simplement à votre compte bancaire en ligne ou mobile (4)",
+          "Envoyez de l\u0027argent à un ami ou un membre de votre famille en qui vous avez confiance"
+        ],
+        "c_productType": "Zelle",
+        "yext/description": "Dime s\u0027est associé à Zelle® pour que vous puissiez facilement envoyer de l\u0027argent à toutes les personnes que vous connaissez et en qui vous avez confiance. C\u0027est un moyen simple et sûr de recevoir de l\u0027argent, de partager une facture ou d\u0027envoyer de l\u0027argent à un ami.",
+        "yext/name": "Zelle"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Ottieni denaro in genere in pochi minuti (3)",
+          "Invia denaro utilizzando solo un indirizzo e-mail o un numero di cellulare USA",
+          "Accedi al tuo conto bancario online o mobile (4)",
+          "Invia denaro a un amico o un familiare fidato"
+        ],
+        "c_productType": "Zelle",
+        "yext/description": "Dime ha stretto una partnership con Zelle® per consentirti di inviare facilmente denaro a persone che conosci e di cui ti fidi. È un modo semplice e sicuro per ricevere denaro, dividere un conto o inviare denaro a un amico.",
+        "yext/name": "Zelle"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "Zelle",
+        "yext/description": "ダイムコミュニティバンクはZelle®と提携しているため、知り合いや信頼できる人に簡単に送金できます。これは、お金を受け取り、請求書を分割し、友人に送金するための安全で簡単な方法です。",
+        "yext/name": "Zelle"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

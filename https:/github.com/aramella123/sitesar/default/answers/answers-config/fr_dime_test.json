@@ -1,0 +1,531 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "fr_dime_test",
+  "name": "Dime Answers Experience - French",
+  "supportedLocales": [
+    "fr"
+  ],
+  "countryRestrictions": [],
+  "verticals": {
+    "covid_faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "Question Fréquentes COVID-19",
+      "savedSearchId": "30488153",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_coronaVirusFAQ": {
+          "textSearch": true
+        },
+        "c_dateOfUpdate": {
+          "sortable": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [
+        {
+          "direction": "DESC",
+          "field": "c_dateOfUpdate",
+          "type": "FIELD"
+        }
+      ],
+      "source": "KNOWLEDGE_MANAGER",
+      "verticalIntents": {
+        "blacklistedIntents": [],
+        "boostingIntents": [
+          {
+            "boost": 25,
+            "phrase": "covid"
+          },
+          {
+            "boost": 25,
+            "phrase": "covid-19"
+          },
+          {
+            "boost": 25,
+            "phrase": "coronavirus"
+          }
+        ]
+      }
+    },
+    "faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "FAQs",
+      "savedSearchId": "29154600",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_dateOfUpdate": {
+          "sortable": true
+        },
+        "keywords": {
+          "facet": true,
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [
+        {
+          "direction": "DESC",
+          "field": "c_dateOfUpdate",
+          "type": "FIELD"
+        }
+      ],
+      "source": "KNOWLEDGE_MANAGER",
+      "verticalIntents": {
+        "blacklistedIntents": [
+          "pps"
+        ],
+        "boostingIntents": [
+          {
+            "boost": 25,
+            "phrase": "contacter dime"
+          },
+          {
+            "boost": 25,
+            "phrase": "simulateur de taux d\u0027hypothèque"
+          },
+          {
+            "boost": 25,
+            "phrase": "simulateurs de taux hypothécaires"
+          },
+          {
+            "boost": 25,
+            "phrase": "carte de crédit"
+          },
+          {
+            "boost": 25,
+            "phrase": "cartes de crédit"
+          },
+          {
+            "boost": 25,
+            "phrase": "s\u0027inscrire"
+          },
+          {
+            "boost": 25,
+            "phrase": "s\u0027inscrire"
+          },
+          {
+            "boost": 25,
+            "phrase": "mot de passe"
+          },
+          {
+            "boost": 25,
+            "phrase": "code d\u0027accès"
+          },
+          {
+            "boost": 25,
+            "phrase": "s\u0027inscrire"
+          },
+          {
+            "boost": 25,
+            "phrase": "actionnaires"
+          }
+        ]
+      }
+    },
+    "links": {
+      "apiKey": "AIzaSyCEdak1q61XoYIH9Oq66nI8Z-wqUZDS41U",
+      "cx": "011160367914084378876:45ufrjtiiga",
+      "name": "Liens",
+      "source": "GOOGLE_CSE",
+      "useSynonyms": "JUST_CUSTOMER_SYNONYMS"
+    },
+    "locations": {
+      "entityTypes": [
+        "location"
+      ],
+      "name": "Agences",
+      "savedSearchId": "27626683",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true
+        },
+        "c_answersGeomodifier": {
+          "nlpFilter": true
+        },
+        "c_answersServices": {
+          "nlpFilter": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "ppp_faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "FAQ PPS",
+      "savedSearchId": "31713726",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER",
+      "verticalIntents": {
+        "blacklistedIntents": [],
+        "boostingIntents": [
+          {
+            "boost": 25,
+            "phrase": "pps"
+          }
+        ]
+      }
+    },
+    "products": {
+      "entityTypes": [
+        "ce_product"
+      ],
+      "name": "Produits",
+      "savedSearchId": "29159999",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_productType": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "nlpFilter": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER",
+      "verticalIntents": {
+        "blacklistedIntents": [],
+        "boostingIntents": [
+          {
+            "boost": 25,
+            "phrase": "refinancer"
+          },
+          {
+            "boost": 25,
+            "phrase": "chèque de paie"
+          },
+          {
+            "boost": 25,
+            "phrase": "pps"
+          }
+        ]
+      }
+    }
+  },
+  "autocomplete": {
+    "disablePopularQueries": false,
+    "hardcodedPrompts": [
+      "Opérations Dime COVID-19",
+      "Agences près de moi",
+      "Produits de contrôle des entreprises",
+      "Ouvrir un compte épargne",
+      "Quels sont vos tarifs actuels pour les CD ?",
+      "Quel est le numéro d\u0027acheminement Dime ?"
+    ]
+  },
+  "synonyms": {
+    "oneWay": [
+      {
+        "phrase": "agence",
+        "synonyms": [
+          "établissement"
+        ]
+      },
+      {
+        "phrase": "emplois",
+        "synonyms": [
+          "carrière"
+        ]
+      },
+      {
+        "phrase": "agences",
+        "synonyms": [
+          "agence"
+        ]
+      },
+      {
+        "phrase": "faq",
+        "synonyms": [
+          "FAQ"
+        ]
+      },
+      {
+        "phrase": "voyage",
+        "synonyms": [
+          "voyageant"
+        ]
+      },
+      {
+        "phrase": "venmo",
+        "synonyms": [
+          "zelle"
+        ]
+      },
+      {
+        "phrase": "refinancer",
+        "synonyms": [
+          "hypothècaires"
+        ]
+      },
+      {
+        "phrase": "refinancer",
+        "synonyms": [
+          "hypothèque"
+        ]
+      },
+      {
+        "phrase": "support",
+        "synonyms": [
+          "service clientèle"
+        ]
+      },
+      {
+        "phrase": "contacter dime",
+        "synonyms": [
+          "service clientèle"
+        ]
+      },
+      {
+        "phrase": "téléphone portable",
+        "synonyms": [
+          "dépôt à distance"
+        ]
+      },
+      {
+        "phrase": "smartphone",
+        "synonyms": [
+          "dépôt à distance"
+        ]
+      },
+      {
+        "phrase": "android",
+        "synonyms": [
+          "dépôt à distance"
+        ]
+      },
+      {
+        "phrase": "téléphone iphone",
+        "synonyms": [
+          "dépôt à distance"
+        ]
+      },
+      {
+        "phrase": "espanol",
+        "synonyms": [
+          "espagnol"
+        ]
+      },
+      {
+        "phrase": "espagnol",
+        "synonyms": [
+          "espagnol"
+        ]
+      },
+      {
+        "phrase": "réapprovisionnement chèque",
+        "synonyms": [
+          "Commander des chèques"
+        ]
+      },
+      {
+        "phrase": "chèque personnel",
+        "synonyms": [
+          "chèque"
+        ]
+      },
+      {
+        "phrase": "téléphone",
+        "synonyms": [
+          "smartphone"
+        ]
+      },
+      {
+        "phrase": "agents",
+        "synonyms": [
+          "établissements"
+        ]
+      },
+      {
+        "phrase": "banque",
+        "synonyms": [
+          "établissement"
+        ]
+      }
+    ],
+    "synonymSet": [
+      [
+        "carrières",
+        "emploi",
+        "poste ouvert",
+        "postes ouverts",
+        "emplois ouverts",
+        "emplois"
+      ],
+      [
+        "déclaration",
+        "déclaration électronique",
+        "déclaration électroniques",
+        "relevé de compte bancaire",
+        "relevés bancaires",
+        "déclarations",
+        "facturation sans papier",
+        "déclarations sans papier"
+      ],
+      [
+        "app",
+        "application mobile",
+        "services bancaires mobiles"
+      ],
+      [
+        "annuler",
+        "fermer le compte",
+        "fermer",
+        "clôturer",
+        "cloturer",
+        "clôture",
+        "cloture"
+      ],
+      [
+        "login",
+        "se connecter",
+        "s\u0027identifier",
+        "signin"
+      ],
+      [
+        "certificat de dépôt",
+        "cd"
+      ],
+      [
+        "covid",
+        "virus corona",
+        "coronavirus",
+        "covid-19",
+        "encore ouvert"
+      ],
+      [
+        "Programme de protection du salaire (PPS)",
+        "PPS",
+        "Protection du salaire",
+        "Programme de protection des salaires"
+      ],
+      [
+        "venmo",
+        "paypal",
+        "zelle"
+      ],
+      [
+        "relance",
+        "stimulus",
+        "stimulation"
+      ],
+      [
+        "PDG",
+        "Président",
+        "Directeur Général"
+      ],
+      [
+        "succursale",
+        "succursales",
+        "location",
+        "locations",
+        "branche",
+        "branches",
+        "agence",
+        "agences",
+        "lieu",
+        "lieux",
+        "Établissement"
+      ],
+      [
+        "FAQ",
+        "FAQs",
+        "Foire aux questions"
+      ],
+      [
+        "demande",
+        "demandes",
+        "candidatures",
+        "candidature"
+      ],
+      [
+        "dépôt",
+        "depot",
+        "dépôts",
+        "déposer"
+      ],
+      [
+        "smartphone",
+        "iphone",
+        "portable",
+        "mobile",
+        "smart phone",
+        "mobiles"
+      ],
+      [
+        "atm",
+        "distributeur automatique",
+        "guichet automatique"
+      ],
+      [
+        "salaire",
+        "salarial",
+        "salariaux",
+        "salaires",
+        "paie"
+      ],
+      [
+        "acheminement",
+        "routage"
+      ],
+      [
+        "prêt",
+        "prêts"
+      ],
+      [
+        "immobilier",
+        "hypothèque",
+        "maison",
+        "immobiliers",
+        "maisons",
+        "prêt hypothécaire",
+        "prêts hypothécaires"
+      ],
+      [
+        "transfert",
+        "virement"
+      ],
+      [
+        "frais",
+        "tarifs"
+      ]
+    ]
+  },
+  "localizations": {},
+  "additionalSearchablePlaces": [],
+  "tier": "Beta"
+}

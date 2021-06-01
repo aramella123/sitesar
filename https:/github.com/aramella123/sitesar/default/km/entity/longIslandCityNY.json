@@ -1,0 +1,18 @@
+{
+  "$id": "longIslandCityNY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_children": [
+      "17"
+    ],
+    "c_parents": [
+      "NY"
+    ],
+    "c_slug": "[[entityId]]",
+    "yext/name": "Long Island City"
+  },
+  "entityType": "ce_city",
+  "folder": "yext/root",
+  "labels": []
+}

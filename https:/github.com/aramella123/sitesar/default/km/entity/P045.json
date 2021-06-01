@@ -1,0 +1,113 @@
+{
+  "$id": "P045",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Save time and money by banking from your home or office",
+      "Review account balances and transactions",
+      "Transfer money between accounts and other financial institutions",
+      "Easily pay your bills",
+      "Check statements and transaction histories",
+      "Securely manage your finances online",
+      "Customize your dashboard and bill pay services to meet your needs",
+      "Reduce clutter and go paperless"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/business/online-banking-and-bill-pay,"
+      },
+      {
+        "icon": "chevron",
+        "text": "Enroll in Online Banking",
+        "url": "https://www.dime.com/business/online-banking/enroll"
+      }
+    ],
+    "c_productType": "Online Banking",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Our Online Business Banking \u0026 Bill Pay services for business are secure, convenient \u0026 customizable for your needs. Get rid of more paperwork \u0026 start online banking.",
+    "yext/landingPageUrl": "https://www.dime.com/business/online-banking-and-bill-pay,",
+    "yext/name": "Business Online Banking \u0026 Bill Pay"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Online Banking",
+        "yext/description": "Unsere Online Business Banking \u0026 Bill Pay Services für Unternehmen sind sicher, bequem und an Ihre Bedürfnisse anpassbar. Befreien Sie sich von mehr Papierkram und starten Sie das Online-Banking.",
+        "yext/name": "Business Online Banking \u0026 Bill Pay"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Ahorre tiempo y dinero al realizar operaciones bancarias desde su hogar u oficina",
+          "revise los saldos y transacciones de la cuenta",
+          "transfiera dinero entre cuentas y otras instituciones financieras",
+          "pague fácilmente sus facturas",
+          "verifique estados de cuenta e historial de transacciones",
+          "administre de manera segura sus finanzas en línea",
+          "personalice su tablero y pago de facturas servicios para satisfacer sus necesidades",
+          "reducir el desorden y dejar de usar papel"
+        ],
+        "c_productType": "Banca en Linea",
+        "yext/description": "Nuestros servicios de banca comercial en línea y pago de facturas para empresas son seguros, convenientes y personalizables para sus necesidades. Deshágase de más papeleo y comience la banca en línea.",
+        "yext/name": "Banca comercial en línea y pago de facturas"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Gagnez du temps et de l\u0027argent en effectuant vos opérations bancaires depuis votre domicile ou votre bureau",
+          "Consultez le solde de vos comptes et les transactions effectuées",
+          "Transférez des fonds entre vos comptes et ceux d\u0027autres institutions financières",
+          "Payez facilement vos factures",
+          "Vérifiez vos relevés et l\u0027historique de vos transactions",
+          "Gérez vos finances en ligne en toute sécurité",
+          "Personnalisez votre tableau de bord et vos services de paiement de factures pour répondre à vos besoins",
+          "Réduisez l\u0027encombrement et passez au numérique"
+        ],
+        "c_productType": "Banque en ligne",
+        "yext/description": "Nos services de banque en ligne pour les entreprises et de paiement de factures pour les entreprises sont sécurisés, pratiques et personnalisables selon vos besoins. Débarrassez-vous de la paperasserie et commencez à utiliser les services bancaires en ligne.",
+        "yext/name": "Banque en ligne pour les entreprises et paiement de factures"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Risparmia tempo e denaro tramite operazioni bancarie da casa o dall\u0027ufficio",
+          "rivedi i saldi e le transazioni dei conti",
+          "trasferisci denaro tra conti e altri istituti finanziari",
+          "paga facilmente le tue bollette",
+          "controlla gli estratti conto e la cronologia delle transazioni",
+          "gestisci in sicurezza le tue finanze online",
+          "personalizza la tua dashboard e paga le bollette servizi per soddisfare le tue esigenze",
+          "ridurre l\u0027ingombro e andare senza carta"
+        ],
+        "c_productType": "Banca online",
+        "yext/description": "I nostri servizi di Business Banking online e Bill Pay per le aziende sono sicuri, convenienti e personalizzabili per le tue esigenze. Sbarazzati di più documenti e inizia l\u0027online banking.",
+        "yext/name": "Business Online Banking e pagamento delle bollette"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "オンラインバンキング",
+        "yext/description": "ビジネス向けのオンラインビジネスバンキング＆ビルペイサービスは、安全で便利で、ニーズに合わせてカスタマイズできます。より多くの事務処理を取り除き、オンラインバンキングを開始します。",
+        "yext/name": "ビジネスオンラインバンキングとビルペイ"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

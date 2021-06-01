@@ -1,0 +1,110 @@
+{
+  "$id": "P037",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Earn a variable interest rate \u0027",
+      "\u0027 compunded daily and credited monthly*",
+      "Transfer funds into your Club Account weekly",
+      "bi-weekly or monthly",
+      "For statement holiday clubs",
+      "money is transferred back into your \"donor account\" at the end of the club year",
+      "No monthly fee",
+      "$5 minimum balance to open an account"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/personal/savings/club-accounts"
+      }
+    ],
+    "c_fees": "0.0",
+    "c_minimumDeposit": "5.0",
+    "c_productType": "Personal Savings",
+    "c_slug": "[[entityId]]",
+    "yext/description": "With Club Accounts, make automatic transfers that earn interest without even thinking about it. Talk to an expert at Dime to pick the right savings account for you.",
+    "yext/landingPageUrl": "https://www.dime.com/personal/savings/club-accounts",
+    "yext/name": "Club Savings Accounts"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Persönliche Ersparnisse",
+        "yext/description": "Führen Sie mit Clubkonten automatische Überweisungen durch, die Zinsen verdienen, ohne darüber nachzudenken. Sprechen Sie mit einem Experten von Dime, um das richtige Sparkonto für Sie auszuwählen.",
+        "yext/name": "Club-Sparkonten"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Gane una tasa de interés variable \u0027",
+          "\u0027 compilada diariamente y acreditada mensualmente *",
+          "transfiera fondos a su cuenta del club semanalmente",
+          "quincenalmente o mensualmente",
+          "para clubes de vacaciones con estado de cuenta",
+          "\"el dinero se transfiere nuevamente a su\" \"cuenta de donante\" \"al final del año del club \"",
+          "sin tarifa mensual",
+          "saldo mínimo de $ 5 para abrir una cuenta"
+        ],
+        "c_productType": "Ahorros Personales",
+        "yext/description": "Con las cuentas del club, realice transferencias automáticas que generen intereses sin siquiera pensarlo. Hable con un experto de Dime para elegir la cuenta de ahorro adecuada para usted.",
+        "yext/name": "Cuentas de ahorro del club"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Gagnez un taux d\u0027intérêt variable",
+          "calculé quotidiennement et crédité mensuellement*",
+          "Transférez des fonds sur votre compte Club toutes les semaines",
+          "toutes les deux semaines ou tous les mois",
+          "Pour les clubs de vacances",
+          "l\u0027argent est renvoyé sur votre \"compte donneur\" à la fin de l\u0027année du club",
+          "pas de frais mensuels",
+          "un solde minimum de 5 € pour ouvrir un compte"
+        ],
+        "c_productType": "Épargne personnelle",
+        "yext/description": "Avec les comptes Club, effectuez des virements automatiques qui rapportent des intérêts sans même y penser. Parlez à un expert de Dime pour choisir le compte d\u0027épargne qui vous convient.",
+        "yext/name": "Club Comptes d\u0027épargne"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Guadagna un tasso di interesse variabile \"",
+          "\" giornalmente e accreditato mensilmente *",
+          "trasferisci i fondi nel tuo conto del club settimanalmente",
+          "bisettimanale o mensile",
+          "per i club vacanze di rendiconto",
+          "\"il denaro viene trasferito nuovamente nel tuo\" \"conto del donatore\" \"alla fine dell\u0027anno del club \"",
+          "nessuna quota mensile",
+          "saldo minimo di $ 5 per aprire un conto"
+        ],
+        "c_productType": "Risparmi personali",
+        "yext/description": "Con i conti del club, effettua trasferimenti automatici che guadagnano interessi senza nemmeno pensarci. Parla con un esperto di Dime per scegliere il conto di risparmio giusto per te.",
+        "yext/name": "Conti di risparmio del club"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "個人貯蓄",
+        "yext/description": "クラブアカウントを使用すると、何も考えずに興味を引く自動送金を行うことができます。ダイムの専門家に相談して、適切な普通預金口座を選んでください。",
+        "yext/name": "クラブ普通預金口座"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "$id": "corona - 14",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_dateOfUpdate": "3.28",
+    "c_fAQType": "COVID",
+    "yext/answer": "As part of our proactive measures during the Coronavirus (COVID-19) pandemic, we have selected our Avenue M Branch for additional enhanced cleaning. Avenue M will be closed temporarily beginning tomorrow, March 29, 2020.\n\nThe nearest supporting branch listed below will be operating under normally scheduled hours:\n\nCLOSED BRANCH\nAvenue M\n\nNearest Branch(es):\nWilliamsburg (Broadway) 281 Broadway, Brooklyn NY, 11211 (718) 343-1801\nMarine Park 2172 Coyle Street, Brooklyn, NY 11229 (718) 934-1300\n\nCheck back at \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003ewww.dime.com\u003c/a\u003e for when the Avenue M branch will reopen.\n\nDuring this time, we encourage customers to utilize digital banking. If you haven’t enrolled, learn more about free \u003ca href\u003d\"https://www.dime.com/personal/online-banking-and-bill-pay\" target\u003d\"_blank\"\u003eonline banking\u003c/a\u003e and \u003ca href\u003d\"https://www.dime.com/personal/mobile-banking\" target\u003d\"_blank\"\u003emobile banking\u003c/a\u003e at the links provided. Our Customer Call Center is also available at 800-321-3463.\n\nWe will continue to update you on developments related to Dime’s Operations due to the Coronavirus (COVID-19).\n\nThank you,\nYour Dime Community Bank Team",
+    "yext/keywords": [
+      "COVID-19",
+      "coronavirus",
+      "closures",
+      "corona",
+      "COVID",
+      "covid",
+      "covid-19",
+      "Covid-19"
+    ],
+    "yext/name": "Avenue M  Branch Update - As of March 28, 2020",
+    "yext/question": "Avenue M  Branch Update - As of March 28, 2020"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Im Rahmen unserer proaktiven Maßnahmen während der Coronavirus (COVID-19) -Pandemie haben wir unsere Niederlassung in Bensonhurst für eine zusätzliche verbesserte Reinigung ausgewählt. Bensonhurst wird ab morgen, dem 21. März 2020, geschlossen.\n\nDie nächstgelegene unterstützende Niederlassung, die unten aufgeführt ist, wird zu den normalerweise festgelegten Zeiten betrieben:\n\nGESCHLOSSENE FILIALE\nBensonhurst\n\nNächste Filiale:\nMidwood Branch 1600 Avenue M, Brooklyn, NY 11230 (718) 336-5600\n\nÜberprüfen Sie unter \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003e www.dime.com \u003c/a\u003e, wann die Niederlassung in Bensonhurst wiedereröffnet wird.\n\nIn dieser Zeit ermutigen wir Kunden, Digital Banking zu nutzen. Wenn Sie sich noch nicht angemeldet haben, erfahren Sie mehr über kostenloses \u003ca href\u003d\"https://www.dime.com/personal/online-banking-and-bill-pay\" target\u003d\"_blank\"\u003e Online-Banking \u003c/a\u003e und \u003ca href\u003d\"https://www.dime.com/personal/mobile-banking\" target\u003d\"_blank\"\u003e Mobile Banking \u003c/a\u003e unter den angegebenen Links. Unser Kunden-Callcenter ist auch unter 800-321-3463 erreichbar.\n\n\nWir werden Sie weiterhin über Entwicklungen im Zusammenhang mit Dimes Operationen aufgrund des Coronavirus (COVID-19) auf dem Laufenden halten.\n\nVielen Dank,\n\nIhr Dime Community Bank Team\nVielen Dank,\n\nIhr Dime Community Bank Team",
+        "yext/keywords": [
+          "COVID-19",
+          "Coronavirus",
+          "Verschlüsse",
+          "Corona",
+          "COVID",
+          "Covid",
+          "Covid-19"
+        ],
+        "yext/name": "Avenue M Filiale Update - Stand 28. März 2020",
+        "yext/question": "Avenue M Filiale Update - Stand 28. März 2020"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Como parte de nuestras medidas proactivas durante la pandemia de Coronavirus (COVID-19), hemos seleccionado nuestra sucursal Avenue M para una limpieza adicional. La Avenue M estará cerrada temporalmente a partir de mañana 29 de marzo de 2020.\n \nLa sucursal de soporte más cercana que se enumera a continuación estará operando en horarios normalmente programados:\n \nSUCURSAL CERRADA\n Avenue M\n \n Rama (s) más cercana (s):\n Williamsburg (Broadway) 281 Broadway, Brooklyn NY, 11211 (718) 343-1801\n Marine Park 2172 Coyle Street, Brooklyn, NY 11229 (718) 934-1300\n \n Vuelva a consultar en \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003e www.dime.com \u003c/a\u003e para saber cuándo se volverá a abrir la sucursal de Avenue M.\n \nDurante este tiempo, alentamos a los clientes a utilizar la banca digital. Si no se ha inscrito, obtenga más información sobre la \u003ca href\u003d\"https://www.dime.com/personal/online-banking-and-bill-pay\" target\u003d\"_blank\"\u003e banca en línea gratuita \u003c/a\u003e y \u003ca href\u003d\"https://www.dime.com/personal/mobile-banking\" target\u003d\"_blank\"\u003e banca móvil \u003c/a\u003e en los enlaces proporcionados. Nuestro Centro de atención al cliente también está disponible al 800-321-3463.\n \nContinuaremos actualizándolo sobre desarrollos relacionados con las operaciones de Dime debido al Coronavirus (COVID-19).\n \n Gracias,\n Su equipo de Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "cierres",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Actualización de la sucursal Avenue M - A partir del 28 de marzo de 2020",
+        "yext/question": "Actualización de la sucursal Avenue M - A partir del 28 de marzo de 2020"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Dans le cadre de nos mesures proactives durant la pandémie de coronavirus (COVID-19), nous avons choisi notre agence de l\u0027avenue M pour un nettoyage supplémentaire renforcé. L\u0027Avenue M sera temporairement fermée à partir de demain, le 29 mars 2020.\n\nL\u0027agence la plus proche, dont la liste figure ci-dessous, fonctionnera selon les horaires habituels :\n\nAGENCE FERMÉE\nAvenue M\n\nAgence(s) la(les) plus proche(s) :\nWilliamsburg (Broadway) 281 Broadway, Brooklyn NY, 11211 (718) 343-1801\nMarine Park 2172 Coyle Street, Brooklyn, NY 11229 (718) 934-1300\n\nConsultez à nouveau le site \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003ewww.dime.com\u003c/a\u003e pour savoir quand l\u0027agence de l\u0027avenue M rouvrira.\n\nPendant cette période, nous encourageons les clients à utiliser la banque en ligne. Si vous n\u0027êtes pas encore inscrit, vous pouvez en savoir plus sur les services bancaires en ligne gratuits \u003ca href\u003d\"https://www.dime.com/personal/online-banking-and-bill-pay\" target\u003d\"_blank\"\u003eet les services bancaires mobiles \u003ca href\u003d\"https://www.dime.com/personal/mobile-banking\" target\u003d\"_blank\"\u003een cliquant sur les liens fournis. Notre centre d\u0027appel pour les clients est également disponible au +33 1 45 67 89 00.\n\nNous continuerons de vous tenir au courant des développements liés aux opérations de Dime en raison du coronavirus (COVID-19).\n\nNous vous remercions,\nVotre équipe Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "fermetures",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Mise à jour concernant l\u0027agence Avenue M - à compter du 28 mars 2020",
+        "yext/question": "Mise à jour concernant l\u0027agence Avenue M - à compter du 28 mars 2020"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Come parte delle nostre misure proattive durante la pandemia di Coronavirus (COVID-19), abbiamo selezionato la nostra filiale Avenue M per un\u0027ulteriore pulizia avanzata. Avenue M sarà chiusa temporaneamente a partire da domani 29 marzo 2020.\n\nLa filiale di supporto più vicina elencata di seguito opererà in orari normalmente programmati:\n\nFILIALE CHIUSA\nAvenue M\n\nFiliali più vicine:\nWilliamsburg (Broadway) 281 Broadway, Brooklyn NY, 11211 (718) 343-1801\nMarine Park 2172 Coyle Street, Brooklyn, NY 11229 (718) 934-1300\n\nTorna a controllare \u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003e www.dime.com \u003c/a\u003e per sapere quando riaprirà la filiale di Avenue M.\n\nDurante questo periodo, incoraggiamo i clienti a utilizzare il digital banking. Se non ti sei ancora registrato, leggi ulteriori informazioni sul \u003ca href\u003d\"\"https://www.dime.com/personal/online-banking-and-bill-pay\"\" target\u003d\"\"_blank\"\"\u003e servizi bancari online \u003c/a\u003e e \u003ca href\u003d\"\"https://www.dime.com/personal/mobile-banking\"\" target\u003d\"\"_blank\"\"\u003e mobile banking \u003c/a\u003e ai link forniti. Il nostro call center clienti è disponibile anche al numero 800-321-3463.\n\nContinueremo ad aggiornarti sugli sviluppi relativi alle Operazioni di Dime a causa del Coronavirus (COVID-19).\n\nGrazie,\nIl tuo team Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "chiusure",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-30"
+        ],
+        "yext/name": "Avenue M Aggiornamento Filiale - Al 28 Marzo 2020",
+        "yext/question": "Avenue M Aggiornamento Filiale - Al 28 Marzo 2020"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "コロナウイルス（COVID-19）の大流行時の予防策の一環として、追加の洗浄を強化するためにアベニューMブランチを選択しました。アベニューMは、明日2020年3月29日から一時的に閉鎖されます。\n\n下記の最寄りの支社支店は、通常の営業時間内に営業します。\n\n閉店アベニューM最寄りの支店：\nウィリアムズバーグ（ブロードウェイ）281 Broadway、Brooklyn NY、11211（ 718）343-1801 \nMarine Park 2172 Coyle Street、Brooklyn、NY 11229（718）934-1300\n\nもう一度\u003ca href\u003d\"https://www.ダイムコミュニティバンク.com/\" target\u003d\"_blank\"\u003e www.ダイムコミュニティバンクで確認してください。アベニューMブランチが再開する時期は\u003c/a\u003e。\n\nこの間、私たちはお客様にデジタルバンキングを利用することをお勧めします。まだ登録していない場合は、無料の\u003ca href \u003d \"https://www.ダイムコミュニティバンク.com/personal/online-banking-and-bill-pay\" target \u003d \"および \u003ca href\u003d\"https://www.ダイムコミュニティバンク.com/personal/mobile-banking\" target\u003d\"_blank\"\u003eモバイルバンキング\u003c/a\u003e.の詳細をご覧ください。カスタマーコールセンターの電話番号は 800-321-3463です。\n\n私たちはコロナウイルスに関連する当社のオペレーションに関する情報を、適宜アップデートしてまいります。",
+        "yext/name": "アベニューMブランチの更新-2020年3月28日現在",
+        "yext/question": "アベニューMブランチの更新-2020年3月28日現在"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

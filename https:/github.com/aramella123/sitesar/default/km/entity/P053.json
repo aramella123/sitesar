@@ -1,0 +1,91 @@
+{
+  "$id": "P053",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "CDARS is the most convenient way to access FDIC insurance on multi-million-dollar CD deposits and to earn CD-level rates",
+      "which often compare favorably to Treasuries and money market mutual funds."
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/personal/additional-personal-services#component-body_copy-6651"
+      }
+    ],
+    "c_productType": "Additional Business Banking Services",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Get FDIC insurance on your largest investments through Dime",
+    "yext/keywords": [
+      "Certificate of Deposit"
+    ],
+    "yext/landingPageUrl": "https://www.dime.com/personal/additional-personal-services#component-body_copy-6651",
+    "yext/name": "Certificate of Deposit Account Registry Services (CDARS)"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Zusätzliche Business Banking Services",
+        "yext/description": "Schließen Sie über Dime eine FDIC-Versicherung für Ihre größten Investitionen ab",
+        "yext/name": "Certificate of Deposit Account Registry Services (CDARS)"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "CDARS es la forma más conveniente de acceder al seguro de la FDIC en depósitos de CD multimillonarios y obtener tasas de nivel de CD",
+          "que a menudo se comparan favorablemente con los bonos del Tesoro y los fondos mutuos del mercado monetario."
+        ],
+        "c_productType": "Servicios adicionales de banca personal",
+        "yext/description": "Obtenga seguro de la FDIC en sus mayores inversiones a través de Dime",
+        "yext/name": "CDARS"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "La CDARS est le moyen le plus pratique d\u0027accéder à l\u0027assurance de la FDIC sur des dépôts de plusieurs millions de dollars et d\u0027obtenir des taux de niveau CD",
+          "qui se comparent souvent favorablement à ceux des bons du Trésor et des fonds communs de placement du marché monétaire."
+        ],
+        "c_productType": "Autres services bancaires aux entreprises",
+        "yext/description": "Obtenez une assurance FDIC sur vos investissements les plus importants grâce à Dime",
+        "yext/keywords": [
+          "Certificat de dépôt",
+          "CD"
+        ],
+        "yext/name": "Services d\u0027enregistrement des certificats de compte de dépôt (CDARS)"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "CDARS è il modo più conveniente per accedere all\u0027assicurazione FDIC su depositi in CD da milioni di dollari e per guadagnare tassi a livello di CD",
+          "che spesso si confrontano favorevolmente con i fondi comuni del Tesoro e del mercato monetario."
+        ],
+        "c_productType": "Servizi bancari aziendali aggiuntivi",
+        "yext/description": "Ottieni l\u0027assicurazione FDIC sui tuoi maggiori investimenti tramite Dime",
+        "yext/name": "Servizi di registro del conto di deposito certificati (CDARS)"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "追加のビジネスバンキングサービス",
+        "yext/description": "ダイムを通じて最大の投資でFDIC保険を取得する",
+        "yext/name": "預金口座登録サービス（CDARS）の証明書"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

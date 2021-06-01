@@ -1,0 +1,84 @@
+{
+  "$id": "P020",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Dime is a partner committed to the success of your public entity. Our Municipal Banking relationship manager will help you through every phase of your operation",
+      "promptly answer your questions and provide fast responses to all of your requests."
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/business/municipal-banking-solutions/public-entities"
+      }
+    ],
+    "c_productType": "Public Entities",
+    "c_slug": "[[entityId]]",
+    "yext/description": "As a local community commercial bank, we’re ready to help your public entity thrive. Whether you are a library, fire district, water district or authority, Dime is committed to your success.",
+    "yext/landingPageUrl": "https://www.dime.com/business/municipal-banking-solutions/public-entities",
+    "yext/name": "Public Entities"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Öffentliche Einrichtungen",
+        "yext/description": "Als lokale Geschäftsbank sind wir bereit, Ihrer öffentlichen Einrichtung zum Gedeihen zu verhelfen. Egal, ob Sie eine Bibliothek, ein Feuerwehrviertel, ein Wasserviertel oder eine Behörde sind, Dime setzt sich für Ihren Erfolg ein.",
+        "yext/name": "Öffentliche Einrichtungen"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Dime es un socio comprometido con el éxito de su municipio. Nuestro gerente de relaciones con la Banca Municipal lo ayudará en cada fase de su operación \u0027\u0027",
+          "responderá sus preguntas con prontitud y proporcionar respuestas rápidas a todas sus solicitudes."
+        ],
+        "c_productType": "Entidades publicas",
+        "yext/description": "Como banco comercial de la comunidad local, estamos listos para ayudar a que su entidad pública prospere. Si usted es una biblioteca, distrito de bomberos, distrito de aguas o autoridad, Dime está comprometida con su éxito.",
+        "yext/name": "Entidades publicas"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Dime est un partenaire engagé dans la réussite de votre entité publique. Notre responsable des relationsBanque pour les Municipalités vous aidera à chaque étape de votre opération",
+          "répondra rapidement à vos questions et fournira des réponses rapides à toutes vos demandes."
+        ],
+        "c_productType": "Entités publiques",
+        "yext/description": "En tant que banque commerciale de proximité, nous sommes prêts à aider votre entité publique à prospérer. Que vous soyez une bibliothèque, une caserne de pompiers, un service des eaux ou une administration, Dime s\u0027engage à vous aider à réussir.",
+        "yext/name": "Entités publiques"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Dime è un partner impegnato per il successo della tua entità pubblica. Il nostro responsabile delle relazioni bancarie municipali ti aiuterà in ogni fase della tua operazione",
+          "risponderà prontamente alle tue domande e fornirà risposte rapide a tutte le tue richieste."
+        ],
+        "c_productType": "Enti pubblici",
+        "yext/description": "Come banca commerciale della comunità locale, siamo pronti ad aiutare la tua entità pubblica a prosperare. Che tu sia una biblioteca, un distretto dei vigili del fuoco, un distretto idrico o un\u0027autorità, Dime è dedicata nel tuo successo.",
+        "yext/name": "Entità pubbliche"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "公的機関",
+        "yext/description": "地域社会の商業銀行として、私たちはあなたの公共団体が繁栄するのを助ける準備ができています。図書館、消防区、水道区、当局など、ダイムコミュニティバンクはあなたの成功に尽力しています。",
+        "yext/name": "公的機関"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "$id": "test-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "es",
+  "content": {
+    "c_branchServices": [
+      "product-49",
+      "product-40",
+      "product-6",
+      "product-5"
+    ],
+    "c_parents": [
+      "newYorkNY"
+    ],
+    "c_slug": "[[entityId]]",
+    "yext/address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "61 9th Ave",
+      "postalCode": "10011",
+      "region": "NY"
+    },
+    "yext/addressHidden": false,
+    "yext/name": "Spanish Test Location",
+    "yext/timezone": "America/New_York"
+  },
+  "entityType": "yext/location",
+  "labels": []
+}

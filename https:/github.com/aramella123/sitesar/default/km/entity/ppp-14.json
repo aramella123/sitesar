@@ -1,0 +1,81 @@
+{
+  "$id": "ppp-14",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "Loans can be for up to two months of your average monthly payroll costs from the last year plus an additional 25% of that amount. That amount is subject to a $10 million cap. If you are a seasonal or new business, you will use different applicable time periods for your calculation. Payroll costs will be capped at $100,000 annualized for each employee.",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "How large can my loan be?",
+    "yext/question": "How large can my loan be?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Kredite können bis zu zwei Monate Ihrer durchschnittlichen monatlichen Lohn- und Gehaltskosten aus dem letzten Jahr zuzüglich 25% dieses Betrags betragen. Dieser Betrag unterliegt einer Obergrenze von 10 Mio. USD. Wenn Sie ein Saison- oder Neugeschäft sind, verwenden Sie für Ihre Berechnung unterschiedliche anwendbare Zeiträume. Die Lohn- und Gehaltskosten werden auf 100.000 USD pro Jahr für jeden Mitarbeiter begrenzt.",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Wie groß kann mein Darlehen sein?",
+        "yext/question": "Wie groß kann mein Darlehen sein?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Los préstamos pueden ser de hasta dos meses de sus costos de nómina mensuales promedio del último año más un 25% adicional de esa cantidad. Esa cantidad está sujeta a un límite de $ 10 millones. Si es un negocio estacional o nuevo, utilizará diferentes períodos de tiempo aplicables para su cálculo. Los costos de la nómina se limitarán a $ 100,000 anualizados para cada empleado.",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Qué tan grande puede ser mi préstamo?",
+        "yext/question": "¿Qué tan grande puede ser mi préstamo?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Les prêts peuvent couvrir jusqu\u0027à deux mois de vos coûts salariaux mensuels moyens de l\u0027année précédente, plus 25 % de ce montant. Ce montant est soumis à un plafond de 10 millions d\u0027euros. Si vous êtes une entreprise saisonnière ou nouvelle, vous utiliserez différentes périodes applicables pour votre calcul. Les coûts salariaux seront plafonnés à 100 000€ par an pour chaque employé.",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "Quelle peut être l\u0027importance de mon prêt ?",
+        "yext/question": "Quelle peut être l\u0027importance de mon prêt ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "I prestiti possono avere una durata massima di due mesi rispetto ai costi mensili medi dell\u0027ultimo anno più un ulteriore 25% di tale importo. Tale importo è soggetto a un limite di $ 10 milioni. Se sei un\u0027azienda stagionale o nuova, utilizzerai diversi periodi di tempo applicabili per il tuo calcolo. I costi del personale saranno limitati a $ 100.000 annualizzati per ciascun dipendente.",
+        "yext/keywords": [
+          "ppp.protezione dello stipendio"
+        ],
+        "yext/name": "Quanto può essere grande il mio prestito?",
+        "yext/question": "Quanto può essere grande il mio prestito?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ローンは、昨年からの平均月額給与コストの最大2か月に加えて、その金額の追加の25％です。その金額には、1,000万ドルの上限が適用されます。季節的または新規のビジネスの場合、計算には異なる適用期間を使用します。給与計算コストは​​、従業員ごとに年間100,000ドルを上限とします。",
+        "yext/name": "私のローンはどれくらいの大きさですか？",
+        "yext/question": "私のローンはどれくらいの大きさですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

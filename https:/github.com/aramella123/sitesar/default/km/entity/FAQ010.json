@@ -1,0 +1,62 @@
+{
+  "$id": "FAQ010",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "You have 24 hour access to all of your account history and details by way of online banking, telephone banking system, or by utilizing our Dime Community Bank mobile app found in your app store. You can find you balances, view transaction history, transfer between your dime accounts, place stop payments, and more.",
+    "yext/name": "How can I view my account transactions and activities?",
+    "yext/question": "How can I view my account transactions and activities?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie haben rund um die Uhr Zugriff auf Ihren gesamten Kontoverlauf und Ihre Daten über Online-Banking, Telefonbanking oder die Nutzung unserer mobilen Dime Community Bank-App in Ihrem App Store. Sie können Ihre Guthaben finden, den Transaktionsverlauf anzeigen, zwischen Ihren Dime-Konten übertragen, Zahlungen stoppen und vieles mehr.",
+        "yext/name": "Wie kann ich meine Kontotransaktionen und Aktivitäten anzeigen?",
+        "yext/question": "Wie kann ich meine Kontotransaktionen und Aktivitäten anzeigen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Tiene acceso las 24 horas a todo el historial y los detalles de su cuenta a través de la banca en línea, el sistema de banca telefónica o utilizando nuestra aplicación móvil Dime Community Bank que se encuentra en su tienda de aplicaciones. Puede encontrar sus saldos, ver el historial de transacciones, transferir entre sus cuentas de diez centavos, suspender pagos y más.",
+        "yext/name": "¿Cómo puedo ver las transacciones y actividades de mi cuenta?",
+        "yext/question": "¿Cómo puedo ver las transacciones y actividades de mi cuenta?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous avez accès 24 heures sur 24 à l\u0027historique et aux détails de votre compte par le biais des services bancaires en ligne, du système bancaire par téléphone ou en utilisant notre application mobile Dime Community Bank qui se trouve dans votre magasin d\u0027applications. Vous pouvez trouver vos soldes, consulter l\u0027historique des transactions, effectuer des transferts entre vos comptes Dime, faire des oppositions à des paiements, et bien plus encore.",
+        "yext/name": "Comment puis-je consulter les transactions et les activités de mon compte ?",
+        "yext/question": "Comment puis-je consulter les transactions et les activités de mon compte ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Hai accesso 24 ore su 24 a tutta la cronologia e ai dettagli del tuo account tramite l\u0027online banking, il sistema bancario telefonico o utilizzando la nostra app mobile Dime Community Bank presente nel tuo app store. Puoi trovare i tuoi saldi, visualizzare la cronologia delle transazioni, trasferire tra i tuoi account Dime, effettuare pagamenti stop e altro ancora.",
+        "yext/name": "Come posso visualizzare le transazioni e le attività del mio conto?",
+        "yext/question": "Come posso visualizzare le transazioni e le attività del mio conto?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "オンラインバンキング、テレフォンバンキングシステム、またはアプリストアにあるダイムコミュニティバンク Community Bankモバイルアプリを利用して、すべてのアカウント履歴と詳細に24時間アクセスできます。残高の確認、取引履歴の表示、ダイムアカウント間の送金、支払いの停止などを行うことができます。",
+        "yext/name": "アカウントのトランザクションとアクティビティを表示するにはどうすればよいですか？",
+        "yext/question": "アカウントのトランザクションとアクティビティを表示するにはどうすればよいですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

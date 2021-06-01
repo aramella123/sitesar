@@ -1,0 +1,64 @@
+{
+  "$id": "product-7",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_benefits": [
+      "Save time and money by banking from your home or office",
+      "Review account balances and transactions",
+      "Transfer money between accounts and other financial institutions",
+      "Easily pay your bills",
+      "Check statements and transaction histories",
+      "Securely manage your finances online",
+      "Customize your dashboard and bill pay services to meet your needs",
+      "Reduce clutter and go paperless"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/business/online-banking-and-bill-pay"
+      },
+      {
+        "icon": "chevron",
+        "text": "Enroll in Online Banking",
+        "url": "https://www.dime.com/business/online-banking/enroll"
+      }
+    ],
+    "c_noFee": true,
+    "c_productType": "Online Banking",
+    "c_slug": "[[entityId]]",
+    "yext/landingPageUrl": "https://www.dime.com/business/online-banking-and-bill-pay,",
+    "yext/name": "Business Online Banking \u0026 Bill Pay",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1000,
+          "sourceUrl": "https://images.pexels.com/photos/4482900/pexels-photo-4482900.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "thumbnails": [
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p/FHmiAWYqp933X7DX0Cy7f3OurmpY1SEoQxUcvYBIUnM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/FHmiAWYqp933X7DX0Cy7f3OurmpY1SEoQxUcvYBIUnM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p/FHmiAWYqp933X7DX0Cy7f3OurmpY1SEoQxUcvYBIUnM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/FHmiAWYqp933X7DX0Cy7f3OurmpY1SEoQxUcvYBIUnM/1000x1000.jpg",
+          "width": 1000
+        }
+      }
+    ],
+    "yext/richTextDescription": "Our Online Business Banking \u0026 Bill Pay services for business are secure, convenient \u0026 customizable for your needs. Get rid of more paperwork \u0026 start online banking."
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

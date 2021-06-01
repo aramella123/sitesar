@@ -1,0 +1,88 @@
+{
+  "$id": "P023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Acquisition of commercial real estate property for business growth",
+      "Renovations or improvements to current building",
+      "Refinances for debt reducation or cash outs"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/commercial/commercial-mortgages"
+      }
+    ],
+    "c_productType": "Mortgage",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Dime commercial mortgages are available for terms up to 10 years and amortizations up to 25 years. Our Loan to Value Ratios and Debt Service Coverage Ratios are competitive and depend on the type of property being financed, creditworthiness of the tenant and financial strength of the owner.",
+    "yext/landingPageUrl": "https://www.dime.com/commercial/commercial-mortgages",
+    "yext/name": "Commercial Mortgages"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Hypothek",
+        "yext/description": "Dime Commercial-Hypotheken sind für Laufzeiten von bis zu 10 Jahren und Tilgungen von bis zu 25 Jahren erhältlich. Unsere Loan-to-Value-Verhältnisse und Debt Service Coverage Ratios sind wettbewerbsfähig und hängen von der Art der zu finanzierenden Immobilie, der Kreditwürdigkeit des Mieters und der Finanzkraft des Eigentümers ab.",
+        "yext/name": "Gewerbliche Hypotheken"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Adquisición de bienes inmuebles comerciales para el crecimiento del negocio",
+          "Renovaciones o mejoras en el edificio actual",
+          "Refinanciaciones para la reeducación de la deuda o reintegros"
+        ],
+        "c_productType": "Hipoteca",
+        "yext/description": "Las hipotecas comerciales Dime están disponibles para plazos de hasta 10 años y amortizaciones de hasta 25 años. Nuestras relaciones de préstamo a valor y cobertura de servicio de deuda son competitivas y dependen del tipo de propiedad que se financia, la solvencia crediticia del inquilino y la fortaleza financiera del propietario.",
+        "yext/name": "Hipotecas comerciales"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Acquisition de biens immobiliers commerciaux pour la croissance de l\u0027entreprise",
+          "Rénovation ou amélioration de l\u0027immeuble actuel",
+          "Refinancement pour le désendettement ou l\u0027encaissement"
+        ],
+        "c_productType": "Hypothèque",
+        "yext/description": "Les hypothèques commerciales Dime sont disponibles pour des durées allant jusqu\u0027à 10 ans et des amortissements allant jusqu\u0027à 25 ans. Nos ratios de prêt par rapport à la valeur et nos ratios de couverture du service de la dette sont compétitifs et dépendent du type de bien financé, de la solvabilité du locataire et de la solidité financière du propriétaire.",
+        "yext/name": "Hypothèques commerciales"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Acquisto di proprietà immobiliari commerciali per la crescita aziendale",
+          "ristrutturazioni o miglioramenti dell\u0027edificio attuale",
+          "rifinanziamenti per riduzione del debito o prelievi"
+        ],
+        "c_productType": "Mutuo",
+        "yext/description": "I mutui commerciali Dime sono disponibili per periodi fino a 10 anni e ammortamenti fino a 25 anni. I nostri rapporti prestito / valore e copertura del servizio del debito sono competitivi e dipendono dal tipo di proprietà finanziata, dall\u0027affidabilità creditizia dell\u0027inquilino e dalla solidità finanziaria del proprietario.",
+        "yext/name": "Ipoteche commerciali"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "抵当",
+        "yext/description": "ダイムの商業用住宅ローンは、最長10年間、最長25年間の償還期間で利用できます。当社のローン対価値比率および債務返済カバレッジ比率は競争力があり、融資を受ける不動産の種類、テナントの信用力および所有者の財務力に依存します。",
+        "yext/name": "商業用住宅ローン"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

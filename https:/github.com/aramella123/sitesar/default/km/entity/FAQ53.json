@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ53",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "IRA Promotions",
+        "url": "http://dime.com/retirement"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "Yes, To learn more about Dime\u0027s IRA promotions click the link below.",
+    "yext/name": "Does Dime have any IRA promotions?",
+    "yext/question": "Does Dime have any IRA promotions?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Ja, um mehr über die IRA-Aktionen von Dime zu erfahren, klicken Sie auf den folgenden Link.",
+        "yext/name": "Hat Dime irgendwelche IRA-Aktionen?",
+        "yext/question": "Hat Dime irgendwelche IRA-Aktionen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Sí, para obtener más información sobre las promociones IRA de Dime, haga clic en el siguiente enlace.",
+        "yext/name": "¿Dime tiene alguna promoción de IRA?",
+        "yext/question": "¿Dime tiene alguna promoción de IRA?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Oui, pour en savoir plus sur les promotions de l\u0027IRA Dime, cliquez sur le lien ci-dessous.",
+        "yext/name": "Dime a-t-elle des promotions sur l\u0027IRA ?",
+        "yext/question": "Dime a-t-elle des promotions sur l\u0027IRA ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Sì, per saperne di più sulle promozioni IRA di Dime fai clic sul link in basso.",
+        "yext/name": "Dime ha delle promozioni IRA?",
+        "yext/question": "Dime ha delle promozioni IRA?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "はい、ダイムのIRAプロモーションの詳細については、下のリンクをクリックしてください。",
+        "yext/name": "ダイムコミュニティバンクにはIRAプロモーションがありますか？",
+        "yext/question": "ダイムコミュニティバンクにはIRAプロモーションがありますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ050",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "FAQ",
+        "url": "https://www.dime.com/faqs"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "There is no minimum requirement for the DimeDirect® Money Market Account, however, the minimum amount to open is $1,000.",
+    "yext/name": "Is there a minimum balance requirement for the DimeDirect® Money Market Account?",
+    "yext/question": "Is there a minimum balance requirement for the DimeDirect® Money Market Account?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Es gibt keine Mindestanforderung für das DimeDirect®\\-Geldmarktkonto. Der Mindestbetrag für die Eröffnung beträgt jedoch 1.000 USD.",
+        "yext/name": "Gibt es ein Mindestguthaben für das DimeDirect®-Geldmarktkonto?",
+        "yext/question": "Gibt es ein Mindestguthaben für das DimeDirect®-Geldmarktkonto?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "No existe un requisito mínimo para la cuenta del mercado monetario DimeDirect®, sin embargo, la cantidad mínima para abrir es de $ 1,000.",
+        "yext/name": "¿Existe un requisito de saldo mínimo para la cuenta DimeDirect® Money Market?",
+        "yext/question": "¿Existe un requisito de saldo mínimo para la cuenta DimeDirect® Money Market?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Il n\u0027y a pas de minimum requis pour le compte DimeDirect® Marché Monétaire, cependant, le montant minimum à ouvrir est de 1 000 €.",
+        "yext/name": "Y a-t-il un solde minimum requis pour le compte DimeDirect® Money Market ?",
+        "yext/question": "Y a-t-il un solde minimum requis pour le compte DimeDirect® Money Market ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Non vi è alcun requisito minimo per il conto del mercato monetario DimeDirect®, tuttavia, l\u0027importo minimo da aprire è di $ 1.000.",
+        "yext/name": "Esiste un requisito di saldo minimo per il conto del mercato monetario DimeDirect®?",
+        "yext/question": "Esiste un requisito di saldo minimo per il conto del mercato monetario DimeDirect®?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムコミュニティバンクDirect®マネーマーケットアカウントの最低要件はありませんが、開設する最低額は$ 1,000です。",
+        "yext/name": "ダイムコミュニティバンクDirect®マネーマーケットアカウントに最低残高要件はありますか？",
+        "yext/question": "ダイムコミュニティバンクDirect®マネーマーケットアカウントに最低残高要件はありますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

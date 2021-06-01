@@ -1,0 +1,80 @@
+{
+  "$id": "P019",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "We believe the best answers are those that come from understanding your unique requirements. We put in the time to get to know your operation by listening to your needs and goals before offering a single piece of financial advice. And our customized financial solutions evolve with the needs of your school district."
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/business/municipal-banking-solutions/school-districts"
+      }
+    ],
+    "c_productType": "School Districts",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Dime is a partner committed to the success of your school district. Our Municipal Banking relationship manager will help you through every phase of your operation, promptly answer your questions and provide fast responses to all of your requests.",
+    "yext/landingPageUrl": "https://www.dime.com/business/municipal-banking-solutions/school-districts",
+    "yext/name": "School Districts"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Schulbezirke",
+        "yext/description": "Dime ist ein Partner, der sich für den Erfolg Ihres Schulbezirks einsetzt. Unser Municipal Banking Relationship Manager hilft Ihnen in jeder Phase Ihres Betriebs, beantwortet Ihre Fragen umgehend und gibt schnelle Antworten auf alle Ihre Anfragen.",
+        "yext/name": "Schulbezirke"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Creemos que las mejores respuestas son aquellas que provienen de comprender sus requisitos únicos. Dedicamos tiempo a conocer su operación escuchando sus necesidades y objetivos antes de ofrecer un solo consejo financiero. Y nuestras soluciones financieras personalizadas evolucionan con las necesidades de su distrito escolar."
+        ],
+        "c_productType": "Distritos escolares",
+        "yext/description": "Dime es un socio comprometido con el éxito de su distrito escolar. Nuestro gerente de relaciones con la Banca Municipal lo ayudará en cada fase de su operación, responderá sus preguntas con prontitud y brindará respuestas rápidas a todas sus solicitudes.",
+        "yext/name": "Distritos escolares"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Nous pensons que les meilleures réponses sont celles qui proviennent de la compréhension de vos besoins particuliers. Nous prenons le temps de connaître votre entreprise en écoutant vos besoins et vos objectifs avant de vous offrir un conseil financier. Et nos solutions financières personnalisées évoluent avec les besoins de votre district scolaire."
+        ],
+        "c_productType": "Districts scolaires",
+        "yext/description": "Dime est un partenaire engagé dans la réussite de votre district scolaire. Notre responsable des relations Banque des Municipalités vous aidera à chaque étape de votre opération, répondra rapidement à vos questions et vous fournira des réponses rapides à toutes vos demandes.",
+        "yext/name": "Districts scolaires"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Riteniamo che le risposte migliori siano quelle che provengono dalla comprensione delle tue esigenze specifiche. Ci mettiamo il tempo per conoscere la tua operazione ascoltando le tue esigenze e i tuoi obiettivi prima di offrire un consiglio finanziario. E le nostre soluzioni finanziarie personalizzate si evolvono con le esigenze del distretto scolastico."
+        ],
+        "c_productType": "Distretti scolastici",
+        "yext/description": "Dime è un partner impegnato per il successo del tuo distretto scolastico. Il nostro responsabile delle relazioni bancarie municipali ti aiuterà in ogni fase della tua operazione, risponderà prontamente alle tue domande e fornirà risposte rapide a tutte le tue richieste.",
+        "yext/name": "Distretti scolastici"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "学区",
+        "yext/description": "ダイムはあなたの学区の成功に取り組むパートナーです。私たちの地方銀行関係マネージャーは、業務のあらゆる段階をお手伝いし、質問に迅速に回答し、すべてのリクエストに迅速に対応します。",
+        "yext/name": "学区"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "$id": "P015",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Because of our experience working with New York area law firms and attorneys",
+      "we know that your needs go beyond checking and savings accounts. From a tailored mix of cash flow solutions designed especially for attorneys",
+      "to escrow account management services",
+      "we use our experience to develop custom banking products that assist you in achieving your goals."
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/business/professional-services-solutions/attorneys-and-law-firms"
+      }
+    ],
+    "c_productType": "Attorneys and Law Firms",
+    "c_slug": "[[entityId]]",
+    "yext/description": "At Dime\u0027,\u0027 law firms and attorneys will experience easy access and a quick response. Our dedicated relationship managers are always within reach. We provide proactive thinking, a quick turnaround on all your requests, and bankers that roll up their sleeves to help you grow your business and meet your financial goals.",
+    "yext/landingPageUrl": "https://www.dime.com/business/professional-services-solutions/attorneys-and-law-firms",
+    "yext/name": "Attorneys and Law Firms"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Anwälte und Anwaltskanzleien",
+        "yext/description": "Bei Dime \u0027erhalten Anwaltskanzleien und Anwälte einen einfachen Zugang und eine schnelle Antwort. Unsere engagierten Kundenberater sind immer in Reichweite. Wir bieten proaktives Denken, eine schnelle Bearbeitung aller Ihrer Anfragen und Banker, die die Ärmel hochkrempeln, um Ihnen dabei zu helfen, Ihr Geschäft auszubauen und Ihre finanziellen Ziele zu erreichen.",
+        "yext/name": "Anwälte und Anwaltskanzleien"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Debido a nuestra experiencia trabajando con bufetes de abogados y abogados del área de Nueva York",
+          "sabemos que sus necesidades van más allá de las cuentas de cheques y de ahorros. Desde una combinación personalizada de soluciones de flujo de efectivo diseñadas especialmente para abogados",
+          "hasta servicios de gestión de cuentas de depósito en garantía",
+          "utilizamos nuestra experiencia para desarrollar productos bancarios personalizados que le ayudan a alcanzar sus objetivos."
+        ],
+        "c_productType": "Abogados y despacho de abogados",
+        "yext/description": "En Dime \u0027,\u0027 los despachos de abogados y abogados experimentarán un acceso fácil y una respuesta rápida. Nuestros gerentes de relaciones dedicados siempre están al alcance. Brindamos un pensamiento proactivo, un cambio rápido en todas sus solicitudes y banqueros que se arremangan para ayudarlo a hacer crecer su negocio y alcanzar sus objetivos financieros.",
+        "yext/name": "Abogados y despacho de abogados"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Grâce à notre expérience de travail avec des cabinets d\u0027avocats et des avocats de la région de New York",
+          "nous savons que vos besoins vont au-delà des comptes chèques et des comptes d\u0027épargne. Nous utilisons notre expérience pour développer des produits bancaires sur mesure qui vous aideront à atteindre vos objectifs",
+          "qu\u0027il s\u0027agisse d\u0027un ensemble de solutions de trésorerie spécialement conçues pour les avocats ou de services de gestion de comptes bloqués."
+        ],
+        "c_productType": "Avocats et cabinets d\u0027avocats",
+        "yext/description": "Chez Dime, les cabinets d\u0027avocats et les avocats bénéficieront d\u0027un accès facile et d\u0027une réponse rapide. Nos chargés de relations sont toujours à portée de main. Nous vous offrons une réflexion proactive, un traitement rapide de toutes vos demandes et des banquiers qui retroussent leurs manches pour vous aider à développer votre entreprise et à atteindre vos objectifs financiers.",
+        "yext/name": "Avocats et cabinets d\u0027avocats"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Grazie alla nostra esperienza di collaborazione con studi legali e avvocati dell\u0027area di New York",
+          "sappiamo che le vostre esigenze vanno oltre i conti di controllo e di risparmio. Da un mix su misura di soluzioni di flusso di cassa progettate appositamente per gli avvocati",
+          "ai servizi di gestione dei conti di deposito in garanzia",
+          "utilizziamo la nostra esperienza per sviluppare prodotti bancari personalizzati che ti aiutano a raggiungere i tuoi obiettivi."
+        ],
+        "c_productType": "Avvocati e studi legali",
+        "yext/description": "Con Dime, gli studi legali e gli avvocati sperimenteranno un facile accesso e una risposta rapida. I nostri responsabili delle relazioni dedicati sono sempre a portata di mano. Offriamo un pensiero proattivo, una rapida inversione di tendenza su tutte le vostre richieste e banchieri che si rimboccano le maniche per aiutarvi a far crescere la vostra attività e raggiungere i vostri obiettivi finanziari.",
+        "yext/name": "Avvocati e studi legali"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "弁護士と法律事務所",
+        "yext/description": "ダイムコミュニティバンク \u0027、\u0027の法律事務所と弁護士は、簡単なアクセスと迅速な対応を体験します。専任のリレーションシップマネージャーがいつでも連絡できます。積極的な思考、すべてのリクエストの迅速な処理、およびビジネスの成長と財務目標の達成を支援する銀行員を提供します。",
+        "yext/name": "弁護士と法律事務所"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

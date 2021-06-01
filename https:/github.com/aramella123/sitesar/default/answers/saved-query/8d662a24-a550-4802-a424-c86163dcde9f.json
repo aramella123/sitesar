@@ -1,0 +1,14 @@
+{
+  "$id": "8d662a24-a550-4802-a424-c86163dcde9f",
+  "$schema": "https://schema.yext.com/config/answers/saved-query/v1",
+  "answersKey": "dime",
+  "idealResult": {
+    "relevantSections": []
+  },
+  "locale": "en",
+  "latitude": 40.7359,
+  "longitude": -73.9904,
+  "pinIdealResults": false,
+  "queryString": "money market",
+  "notes": ""
+}

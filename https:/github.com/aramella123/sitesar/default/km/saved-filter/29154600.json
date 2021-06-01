@@ -1,0 +1,30 @@
+{
+  "$id": "29154600",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Answers - FAQs (do not include COVID)",
+  "filter": {
+    "entityField": [
+      {
+        "fieldId": "c_activeOnAnswers",
+        "searchBool": "TRUE"
+      },
+      {
+        "fieldId": "c_fAQType",
+        "filterOption": {
+          "choice": [
+            "REGULAR_FAQ"
+          ],
+          "type": "IS"
+        }
+      }
+    ],
+    "entityType": [
+      {
+        "entityTypeId": [
+          "yext/faq"
+        ],
+        "type": "IS"
+      }
+    ]
+  }
+}

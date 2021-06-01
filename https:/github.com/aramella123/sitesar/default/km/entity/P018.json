@@ -1,0 +1,84 @@
+{
+  "$id": "P018",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Dime is a partner committed to the success of your municipality. Our Municipal Banking relationship manager will help you through every phase of your operation\u0027",
+      "\u0027 promptly answer your questions and provide fast responses to all of your requests."
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/business/municipal-banking-solutions/municipalities"
+      }
+    ],
+    "c_productType": "Municipalities",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Dime is a partner committed to the success of your municipality. Our Municipal Banking relationship manager will help you through every phase of your operation, promptly answer your questions and provide fast responses to all of your requests.",
+    "yext/landingPageUrl": "https://www.dime.com/business/municipal-banking-solutions/municipalities",
+    "yext/name": "Municipalities"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Gemeinden",
+        "yext/description": "Dime ist ein Partner, der sich für den Erfolg Ihrer Gemeinde einsetzt. Unser Municipal Banking Relationship Manager hilft Ihnen in jeder Phase Ihres Betriebs, beantwortet Ihre Fragen umgehend und gibt schnelle Antworten auf alle Ihre Anfragen.",
+        "yext/name": "Gemeinden"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Dime es un socio comprometido con el éxito de su municipio. Nuestro gerente de relaciones con la Banca Municipal lo ayudará en cada fase de su operación \u0027\u0027",
+          "responderá sus preguntas con prontitud y proporcionar respuestas rápidas a todas sus solicitudes."
+        ],
+        "c_productType": "Municipios",
+        "yext/description": "Dime es un socio comprometido con el éxito de su municipio. Nuestro gerente de relaciones con la Banca Municipal lo ayudará en cada fase de su operación, responderá sus preguntas con prontitud y proporcionará respuestas rápidas a todas sus solicitudes.",
+        "yext/name": "Municipios"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Dime est un partenaire engagé dans la réussite de votre municipalité. Notre responsable des relations Banque pour les Municipalités vous aidera dans toutes les phases de votre opération\u0027",
+          "\u0027 répondra rapidement à vos questions et fournira des réponses rapides à toutes vos demandes."
+        ],
+        "c_productType": "Municipalités",
+        "yext/description": "Dime est un partenaire engagé dans la réussite de votre municipalité. Notre responsable des relations Banque des Municipalités vous aidera à chaque étape de votre opération, répondra rapidement à vos questions et vous fournira des réponses rapides à toutes vos demandes.",
+        "yext/name": "Municipalités"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Dime è un partner impegnato per il successo del tuo comune. Il nostro responsabile delle relazioni bancarie municipali ti aiuterà in ogni fase della tua operazione \"",
+          "\" rispondi prontamente alle tue domande e fornirà risposte rapide a tutte le tue richieste."
+        ],
+        "c_productType": "Comuni",
+        "yext/description": "Dime è un partner impegnato per il successo del tuo comune. Il nostro responsabile delle relazioni bancarie municipali ti aiuterà in ogni fase della tua operazione, risponderà prontamente alle tue domande e fornirà risposte rapide a tutte le tue richieste.",
+        "yext/name": "Comuni"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "市町村",
+        "yext/description": "ダイムはあなたの自治体の成功に取り組むパートナーです。私たちの地方銀行関係マネージャーは、業務のあらゆる段階をお手伝いし、質問に迅速に回答し、すべてのリクエストに迅速に対応します。",
+        "yext/name": "市町村"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

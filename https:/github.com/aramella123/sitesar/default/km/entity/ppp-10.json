@@ -1,0 +1,81 @@
+{
+  "$id": "ppp-10",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "Although the program is open until June 30, 2020, we encourage you to apply as quickly as you can because there is a funding cap and lenders need time to process your loan.",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "How long will the PPP program last?",
+    "yext/question": "How long will the PPP program last?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Obwohl das Programm bis zum 30. Juni 2020 geöffnet ist, empfehlen wir Ihnen, sich so schnell wie möglich zu bewerben, da es eine Finanzierungsobergrenze gibt und die Kreditgeber Zeit benötigen, um Ihr Darlehen zu bearbeiten.",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Wie lange dauert das PPP-Programm?",
+        "yext/question": "Wie lange dauert das PPP-Programm?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Aunque el programa está abierto hasta el 30 de junio de 2020, le recomendamos que presente su solicitud lo más rápido posible porque hay un límite de financiación y los prestamistas necesitan tiempo para procesar su préstamo.",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Cuánto durará el programa PPP?",
+        "yext/question": "¿Cuánto durará el programa PPP?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Bien que le programme soit ouvert jusqu\u0027au 30 juin 2020, nous vous encourageons à faire votre demande le plus rapidement possible car il y a un plafond de financement et les prêteurs ont besoin de temps pour traiter votre prêt.",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "Combien de temps dure le programme PPS ?",
+        "yext/question": "Combien de temps dure le programme PPS ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Sebbene il programma sia aperto fino al 30 giugno 2020, ti invitiamo ad applicare il prima possibile perché esiste un limite di finanziamento e i finanziatori hanno bisogno di tempo per elaborare il prestito.",
+        "yext/keywords": [
+          "ppp.protezione dello stipendio"
+        ],
+        "yext/name": "Quanto durerà il programma PPP?",
+        "yext/question": "Quanto durerà il programma PPP?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "プログラムは2020年6月30日まで開いていますが、資金調達の上限があり、貸し手があなたのローンを処理する時間を必要とするため、できるだけ早く申請することをお勧めします。",
+        "yext/name": "PPPプログラムはどのくらい続きますか？",
+        "yext/question": "PPPプログラムはどのくらい続きますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

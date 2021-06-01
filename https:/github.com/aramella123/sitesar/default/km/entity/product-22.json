@@ -1,0 +1,59 @@
+{
+  "$id": "product-22",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_benefits": [
+      "Perfect for qualifying sole proprietorship and not-for-profit organizations.",
+      "\u0027Access to free business debit card",
+      "online banking",
+      "mobile banking with mobile deposit(1)",
+      "bill pay",
+      "and e-statements\u0027",
+      "No Dime charges for non-Dime ATM use(2)"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/business/checking/interest-checking"
+      }
+    ],
+    "c_fees": "$0 or $15**",
+    "c_minimumDeposit": "100.0",
+    "c_productType": "Business Checking",
+    "c_slug": "[[entityId]]",
+    "yext/landingPageUrl": "https://www.dime.com/business/checking/interest-checking",
+    "yext/name": "Interest Checking",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1231,
+          "sourceUrl": "https://images.pexels.com/photos/4482903/pexels-photo-4482903.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "thumbnails": [
+            {
+              "height": 761,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/619x761.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/365x450.jpg",
+              "width": 365
+            },
+            {
+              "height": 241,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/196x241.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/1000x1231.jpg",
+          "width": 1000
+        }
+      }
+    ],
+    "yext/richTextDescription": "Perfect for sole proprietorship and not-for-profit organizations, Dime\u0027s Business Interest Checking offers a higher level of benefits with the ability to earn interest."
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

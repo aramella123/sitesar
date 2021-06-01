@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ001",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Contact Us",
+        "url": "https://www.dime.com/contact-us"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "The routing number for Dime Community Bank is 226070306.",
+    "yext/name": "What is Dime\u0027s routing number?",
+    "yext/question": "What is Dime\u0027s routing number?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Die Bankleitzahl für die Dime Community Bank lautet 226070306.",
+        "yext/name": "Wie lautet die Routing-Nummer von Dime?",
+        "yext/question": "Wie lautet die Routing-Nummer von Dime?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "El número de ruta para Dime Community Bank es 226070306.",
+        "yext/name": "¿Cuál es el número de ruta de Dime?",
+        "yext/question": "¿Cuál es el número de ruta de Dime?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Le numéro d\u0027acheminement de la Dime Community Bank est le 226070306.",
+        "yext/name": "Quel est le numéro d\u0027acheminement de Dime ?",
+        "yext/question": "Quel est le numéro d\u0027acheminement de Dime ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Il numero di routing per Dime Community Bank è 226070306.",
+        "yext/name": "Qual è il numero di routing di Dime?",
+        "yext/question": "Qual è il numero di routing di Dime?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムコミュニティバンク Community Bankのルーティング番号は226070306です。",
+        "yext/name": "ダイムのルーティング番号は何ですか？",
+        "yext/question": "ダイムのルーティング番号は何ですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

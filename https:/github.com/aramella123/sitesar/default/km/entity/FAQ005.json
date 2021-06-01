@@ -1,0 +1,62 @@
+{
+  "$id": "FAQ005",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "For assistance with closing out your Dime Account, you can visit a local branch or call our customer service center at 800-321-3463 and a customer service representative will be able to assist you.",
+    "yext/name": "Why is there a drop in my interest rate?",
+    "yext/question": "Why is there a drop in my interest rate?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Wenn Sie Hilfe bei der Schließung Ihres Dime-Kontos benötigen, können Sie eine lokale Filiale besuchen oder unser Kundendienstzentrum unter 800-321-3463 anrufen. Ein Kundendienstmitarbeiter kann Ihnen dann weiterhelfen.",
+        "yext/name": "Warum sinkt mein Zinssatz?",
+        "yext/question": "Warum sinkt mein Zinssatz?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Para obtener ayuda para cerrar su Cuenta Dime, puede visitar una sucursal local o llamar a nuestro centro de servicio al cliente al 800-321-3463 y un representante de servicio al cliente podrá ayudarlo.",
+        "yext/name": "¿Por qué hay una caída en mi tasa de interés?",
+        "yext/question": "¿Por qué hay una caída en mi tasa de interés?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Pour obtenir de l\u0027aide afin de clôturer votre compte Dime, vous pouvez vous rendre dans une agence locale ou appeler notre service clientèle au 800-321-3463 où un responsable du service clientèle sera en mesure de vous aider.",
+        "yext/name": "Pourquoi y a-t-il une baisse de mon taux d\u0027intérêt ?",
+        "yext/question": "Pourquoi y a-t-il une baisse de mon taux d\u0027intérêt ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Per assistenza con la chiusura del tuo account Dime, puoi visitare una filiale locale o chiamare il nostro centro di assistenza clienti al numero 800-321-3463 e un rappresentante del servizio clienti sarà in grado di aiutarti.",
+        "yext/name": "Perché c\u0027è un calo del mio tasso di interesse?",
+        "yext/question": "Perché c\u0027è un calo del mio tasso di interesse?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムアカウントの解約については、最寄りの支店を訪問するか、カスタマーサービスセンター（800-321-3463）までお電話ください。カスタマーサービス担当者がお手伝いします。",
+        "yext/name": "なぜ金利が下がるのですか？",
+        "yext/question": "なぜ金利が下がるのですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

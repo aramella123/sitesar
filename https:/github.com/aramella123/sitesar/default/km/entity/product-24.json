@@ -1,0 +1,58 @@
+{
+  "$id": "product-24",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_benefits": [
+      "No minimum balance",
+      "No monthly maintenance fee",
+      "Free debit card",
+      "Free bill pay",
+      "Free Mobile Banking and Mobile Deposit*",
+      "Free eStatements with online check images"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/personal/checking/direct-interest-checking"
+      }
+    ],
+    "c_fees": "0.0",
+    "c_minimumDeposit": "25.0",
+    "c_productType": "Checking",
+    "c_slug": "[[entityId]]",
+    "yext/landingPageUrl": "https://www.dime.com/personal/checking/direct-interest-checking",
+    "yext/name": "Direct Interest Checking",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1231,
+          "sourceUrl": "https://images.pexels.com/photos/4482903/pexels-photo-4482903.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "thumbnails": [
+            {
+              "height": 761,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/619x761.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/365x450.jpg",
+              "width": 365
+            },
+            {
+              "height": 241,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/196x241.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/1000x1231.jpg",
+          "width": 1000
+        }
+      }
+    ],
+    "yext/richTextDescription": "Interest with the convenience of direct deposit. With a Dime Direct Interest Checking account, you can earn interest on your money with no minimum balance. Start creating the future you want and enroll today."
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

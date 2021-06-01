@@ -1,0 +1,81 @@
+{
+  "$id": "ppp-4",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "Starting April 3, 2020, small businesses and sole proprietorships can apply for and receive loans to cover their payroll and other certain expenses through existing SBA lenders.\n\nStarting April 10, 2020, independent contractors and self-employed individuals can apply for and receive loans to cover their payroll and other certain expenses through existing SBA lenders, like Dime Community Bank.",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "When can I apply for the PPP?",
+    "yext/question": "When can I apply for the PPP?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Ab dem 3. April 2020 können kleine Unternehmen und Einzelunternehmen über bestehende SBA-Kreditgeber Darlehen zur Deckung ihrer Gehaltsabrechnung und anderer bestimmter Ausgaben beantragen und erhalten.\n \n Ab dem 10. April 2020 können unabhängige Auftragnehmer und Selbstständige Darlehen zur Deckung ihrer Gehaltsabrechnung und anderer bestimmter Ausgaben über bestehende SBA-Kreditgeber wie die Dime Community Bank beantragen und erhalten.",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Wann kann ich mich für das PPP bewerben?",
+        "yext/question": "Wann kann ich mich für das PPP bewerben?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "A partir del 3 de abril de 2020, las pequeñas empresas y las empresas individuales pueden solicitar y recibir préstamos para cubrir su nómina y otros gastos determinados a través de los prestamistas existentes de la SBA.\n \n A partir del 10 de abril de 2020, los contratistas independientes y los trabajadores independientes pueden solicitar y recibir préstamos para cubrir su nómina y otros gastos determinados a través de prestamistas existentes de la SBA, como Dime Community Bank.",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Cuándo puedo solicitar por el PPP?",
+        "yext/question": "¿Cuándo puedo solicitar por el PPP?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "À partir du 3 avril 2020, les petites entreprises et les entreprises individuelles peuvent demander et recevoir des prêts pour couvrir leurs salaires et d\u0027autres dépenses par l\u0027intermédiaire des prêteurs existants de la SBA.\n\nÀ partir du 10 avril 2020, les entrepreneurs indépendants et les travailleurs indépendants peuvent demander et recevoir des prêts pour couvrir leurs salaires et d\u0027autres dépenses par l\u0027intermédiaire des prêteurs existants de la SBA, comme la Dime Community Bank",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "Quand puis-je faire une demande de PPS ?",
+        "yext/question": "Quand puis-je faire une demande de PPS ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "A partire dal 3 aprile 2020, le piccole imprese e le imprese individuali possono richiedere e ricevere prestiti per coprire il loro libro paga e altre spese attraverso i prestatori SBA esistenti.\n\nA partire dal 10 aprile 2020, gli appaltatori indipendenti e i lavoratori autonomi possono richiedere e ricevere prestiti per coprire il loro libro paga e altre spese attraverso istituti di credito SBA esistenti, come la Dime Community Bank.",
+        "yext/keywords": [
+          "ppp.protezione dello stipendio"
+        ],
+        "yext/name": "Quando posso richiedere il PPP?",
+        "yext/question": "Quando posso richiedere il PPP?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "2020年4月3日以降、中小企業および個人事業主は、既存のSBA貸し手を通じて、給与やその他の特定の費用をカバーするためのローンを申請して受け取ることができます。2020年4月10日より、独立請負業者および自営業者は、ダイムコミュニティ銀行などの既存のSBA貸し手を通じて、給与やその他の特定の費用をカバーするためのローンを申請して受け取ることができます。",
+        "yext/name": "PPPはいつ申請できますか？",
+        "yext/question": "PPPはいつ申請できますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

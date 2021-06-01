@@ -1,0 +1,79 @@
+{
+  "$id": "P055",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Get FDIC insurance on your biggest investments",
+      "plus the flexibility to make withdraws using ICS accounts through Dime. Unmatched safety\u0027",
+      "\u0027 returns and coverage are available at your local Dime branch."
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron"
+      }
+    ],
+    "c_slug": "[[entityId]]",
+    "yext/description": "Get access to ICS accounts and FDIC insurance with the convenience of Dime",
+    "yext/name": "Insured Cash Sweep (ICS)"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/description": "Erhalten Sie mit Dime Zugriff auf ICS-Konten und FDIC-Versicherungen",
+        "yext/name": "Versicherter Cash Sweep (ICS)"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Obtenga un seguro de la FDIC para sus mayores inversiones",
+          "además de la flexibilidad para realizar retiros utilizando cuentas ICS a través de Dime. Incomparable seguridad \u0027",
+          "\u0027 devoluciones y cobertura están disponibles en su sucursal local de Dime."
+        ],
+        "yext/description": "Obtenga acceso a las cuentas de ICS y al seguro de la FDIC con la comodidad de Dime",
+        "yext/name": "Barrido de efectivo asegurado (ICS)"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Obtenez une assurance FDIC sur vos plus gros investissements",
+          "ainsi que la possibilité d\u0027effectuer des retraits en utilisant des comptes SCI par l\u0027intermédiaire de Dime. Une \"sécurité\"",
+          "des rendements et une couverture inégalés sont disponibles dans votre agence Dime locale."
+        ],
+        "yext/description": "Accédez aux comptes du SCI et à l\u0027assurance de la FDIC grâce au confort Dime",
+        "yext/name": "Cash Sweep assuré (ICS)"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Ottieni l\u0027assicurazione FDIC sui tuoi maggiori investimenti",
+          "oltre alla flessibilità di effettuare prelievi utilizzando gli account ICS tramite Dime. Sicurezza senza pari \"",
+          "\" resi e copertura sono disponibili presso la filiale Dime locale."
+        ],
+        "yext/description": "Ottieni l\u0027accesso ai conti ICS e all\u0027assicurazione FDIC con la comodità di Dime",
+        "yext/name": "Assicurato Cash Sweep (ICS)"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/description": "ダイムコミュニティバンクの便利な機能でICSアカウントとFDIC保険にアクセス",
+        "yext/name": "保険付き現金払い（ICS）"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "$id": "ppp-19",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "Your loan will be due in 2 years.",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "When is my loan due?",
+    "yext/question": "When is my loan due?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Ihr Darlehen wird in 2 Jahren fällig.",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Wann ist mein Darlehen fällig?",
+        "yext/question": "Wann ist mein Darlehen fällig?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Su préstamo vencerá en 2 años.",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Cuándo vence mi préstamo?",
+        "yext/question": "¿Cuándo vence mi préstamo?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Votre prêt sera dû dans deux ans.",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "Quand mon prêt est-il dû ?",
+        "yext/question": "Quand mon prêt est-il dû ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Il tuo prestito scadrà tra 2 anni.",
+        "yext/keywords": [
+          "ppp.protezione dello stipendio"
+        ],
+        "yext/name": "Quando è dovuto il mio prestito?",
+        "yext/question": "Quando è dovuto il mio prestito?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ローンは2年後に支払われます。",
+        "yext/name": "ローンの期限はいつですか？",
+        "yext/question": "ローンの期限はいつですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

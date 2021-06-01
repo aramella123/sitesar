@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ025",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Accessibility",
+        "url": "https://www.dime.com/accessibility"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "Dime is committed to providing a meaningful online experience for all of our customers, including persons with disabilities. We purpose to accomplish this goal through accessibility features such as: Optimizing our website to work with screen reader software such as JAWS,Pages with invisible skip navigation links to help users avoid repetitive navigation elements,Assigned descriptive text for images,Banking Documents in Large Print Format.",
+    "yext/name": "Is Dime\u0027s website accessible for customers with disabilities?",
+    "yext/question": "Is Dime\u0027s website accessible for customers with disabilities?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Dime ist bestrebt, allen Kunden, einschließlich Menschen mit Behinderungen, ein aussagekräftiges Online-Erlebnis zu bieten. Wir möchten dieses Ziel durch Eingabehilfen erreichen, z. B.: Optimierung unserer Website für die Verwendung mit Bildschirmlese-Software wie JAWS, Seiten mit unsichtbaren Navigationslinks zum Überspringen, um Benutzern zu helfen, sich wiederholende Navigationselemente zu vermeiden, zugewiesener beschreibender Text für Bilder, Bankdokumente in Großdruck Format.",
+        "yext/name": "Ist die Website von Dime für Kunden mit Behinderungen zugänglich?",
+        "yext/question": "Ist die Website von Dime für Kunden mit Behinderungen zugänglich?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Dime se compromete a proporcionar una experiencia en línea significativa para todos nuestros clientes, incluidas las personas con discapacidad. Nuestro objetivo es lograr este objetivo a través de características de accesibilidad como: Optimización de nuestro sitio web para trabajar con software de lectura de pantalla como JAWS, Páginas con enlaces invisibles de omisión para ayudar a los usuarios a evitar elementos de navegación repetitivos, Texto descriptivo asignado para imágenes, Documentos bancarios en letra grande Formato.",
+        "yext/name": "¿El sitio web de Dime es accesible para clientes con discapacidades?",
+        "yext/question": "¿El sitio web de Dime es accesible para clientes con discapacidades?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Dime s\u0027engage à offrir une expérience en ligne significative à tous ses clients, y compris les personnes handicapées. Nous nous efforçons d\u0027atteindre cet objectif grâce à des fonctionnalités d\u0027accessibilité telles que : Optimisation de notre site web pour qu\u0027il fonctionne avec des logiciels de lecture d\u0027écran tels que JAWS,Pages avec des liens de navigation invisibles pour aider les utilisateurs à éviter les éléments de navigation répétitifs,Texte descriptif assigné pour les images,Documents bancaires en gros caractères.",
+        "yext/name": "Le site web de Dime est-il accessible aux clients handicapés ?",
+        "yext/question": "Le site web de Dime est-il accessible aux clients handicapés ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Dime si impegna a fornire un\u0027esperienza online significativa a tutti i nostri clienti, comprese le persone con disabilità. Intendiamo raggiungere questo obiettivo attraverso funzionalità di accessibilità come: l\u0027ottimizzazione del nostro sito Web per lavorare con software di lettura dello schermo come JAWS, pagine con collegamenti di navigazione a salto invisibile per aiutare gli utenti a evitare elementi di navigazione ripetitivi, testo descrittivo assegnato per immagini, Documenti Bancari in Grande Formato Stampa.",
+        "yext/name": "Il sito web di Dime è accessibile ai clienti con disabilità?",
+        "yext/question": "Il sito web di Dime è accessibile ai clienti con disabilità?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムコミュニティバンクは、障害者を含むすべてのお客様に有意義なオンライン体験を提供することをお約束します。私たちは、次のようなアクセシビリティ機能を通じてこの目標を達成することを目的としています。JAWSなどのスクリーンリーダーソフトウェアと連携するようにWebサイトを最適化します。ナビゲーションリンクが非表示のページをスキップして、ユーザーが繰り返しナビゲーション要素を回避できるようにします。",
+        "yext/name": "障害のあるお客様は、ダイムのウェブサイトにアクセスできますか？",
+        "yext/question": "障害のあるお客様は、ダイムのウェブサイトにアクセスできますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

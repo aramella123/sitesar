@@ -1,0 +1,111 @@
+{
+  "$id": "corona-13",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_dateOfUpdate": "3.27",
+    "c_fAQType": "COVID",
+    "yext/answer": "As part of our proactive measures during the Coronavirus (COVID-19) pandemic, we have selected our Kings Highway branch for additional enhanced cleaning. Kings Highway will be closed beginning tomorrow, March 28, 2020.\n\nThe nearest supporting branch listed below will be operating under normally scheduled hours:\n\nCLOSED BRANCH\nKings Highway\n\nNearest open branch: Midwood 1600 Avenue M, Brooklyn, NY 11230 (718) 934-1300\n\nCheck back at \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003ewww.dime.com\u003c/a\u003e for when the Kings Highway  branch will reopen.\n\nDuring this time, we encourage customers to utilize digital banking. If you haven’t enrolled, learn more about free \u003ca href\u003d\"https://www.dime.com/personal/online-banking-and-bill-pay\" target\u003d\"_blank\"\u003eonline banking\u003c/a\u003e and \u003ca href\u003d\"https://www.dime.com/personal/mobile-banking\" target\u003d\"_blank\"\u003emobile banking\u003c/a\u003e at the links provided. Our Customer Call Center is also available at 800-321-3463.\n\nThank you,\nYour Dime Community Bank Team",
+    "yext/keywords": [
+      "COVID-19",
+      "coronavirus",
+      "closures",
+      "corona",
+      "COVID",
+      "covid",
+      "covid-19",
+      "Covid-19"
+    ],
+    "yext/name": "Kings Highway Branch Update - As of March 27, 2020",
+    "yext/question": "Kings Highway Branch Update - As of March 27, 2020"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "\"Im Rahmen unserer proaktiven Maßnahmen während der Coronavirus (COVID-19) -Pandemie haben wir unsere Kings Highway-Niederlassung für eine zusätzliche verbesserte Reinigung ausgewählt. Kings Highway wird ab morgen, dem 28. März 2020, geschlossen.\n \n Die nächstgelegene unterstützende Niederlassung, die unten aufgeführt ist, wird zu den normalerweise festgelegten Zeiten betrieben:\n \n GESCHLOSSENE FILIALE\n Kings Highway\n \n Nächste offene Filiale: Midwood 1600 Avenue M, Brooklyn, NY 11230 (718) 934-1300\n \n Überprüfen Sie unter \u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003e www.dime.com \u003c/a\u003e, wann die Kings Highway-Niederlassung wieder geöffnet wird.\n \n In dieser Zeit ermutigen wir Kunden, Digital Banking zu nutzen. Wenn Sie sich noch nicht angemeldet haben, erfahren Sie mehr über kostenloses \u003ca href\u003d\"\"https://www.dime.com/personal/online-banking-and-bill-pay\"\" target\u003d\"\"_blank\"\"\u003e Online-Banking \u003c/a\u003e und \u003ca href\u003d\"\"https://www.dime.com/personal/mobile-banking\"\" target\u003d\"\"_blank\"\"\u003e Mobile Banking \u003c/a\u003e unter den angegebenen Links. Unser Kunden-Callcenter ist auch unter 800-321-3463 erreichbar.\n \n Vielen Dank,\n Ihr Dime Community Bank Team",
+        "yext/keywords": [
+          "COVID-19",
+          "Coronavirus",
+          "Verschlüsse",
+          "Corona",
+          "COVID",
+          "Covid",
+          "Covid-19"
+        ],
+        "yext/name": "Kings Highway Branch Update - Stand 27. März 2020",
+        "yext/question": "Kings Highway Branch Update - Stand 27. März 2020"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Como parte de nuestras medidas proactivas durante la pandemia de Coronavirus (COVID-19), hemos seleccionado nuestra sucursal de Kings Highway para una limpieza adicional. Kings Highway estará cerrado a partir de mañana, 28 de marzo de 2020.\n \n La sucursal de soporte más cercana que se enumera a continuación estará operando en horarios normalmente programados:\n \n SUCURSAL CERRADA\n Kings Highway\n \n Sucursal abierta más cercana: Midwood 1600 Avenue M, Brooklyn, NY 11230 (718) 934-1300\n \n Vuelva a consultar en \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003e www.dime.com \u003c/a\u003e para saber cuándo volverá a abrir la sucursal de Kings Highway.\n \n Durante este tiempo, alentamos a los clientes a utilizar la banca digital. Si no se ha inscrito, obtenga más información sobre la \u003ca href\u003d\"https://www.dime.com/personal/online-banking-and-bill-pay\" target\u003d\"_blank\"\u003e banca en línea gratuita \u003c/a\u003e y \u003ca href\u003d\"https://www.dime.com/personal/mobile-banking\" target\u003d\"_blank\"\u003e banca móvil \u003c/a\u003e en los enlaces proporcionados. Nuestro Centro de atención al cliente también está disponible al 800-321-3463.\n \n Gracias,\n Su equipo de Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "cierres",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Actualización de Kings Highway Branch - A partir del 27 de marzo de 2020",
+        "yext/question": "Actualización de Kings Highway Branch - A partir del 27 de marzo de 2020"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Dans le cadre de nos mesures proactives durant la pandémie de coronavirus (COVID-19), nous avons choisi notre agence de Kings Highway pour un nettoyage supplémentaire renforcé. Kings Highway sera fermée à partir de demain, le 28 mars 2020.\n\nL\u0027agence de soutien la plus proche, dont la liste figure ci-dessous, fonctionnera selon les horaires habituels :\n\nAGENCE FERMEE\nAutoroute du Roi\n\nL\u0027agence ouverte la plus proche : Midwood 1600 Avenue M, Brooklyn, NY 11230 (718) 934-1300\n\nConsultez à nouveau le site \u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003ewww.dime.com\u003c/a\u003e pour savoir quand l\u0027agence de Kings Highway sera réouverte.\n\nPendant cette période, nous encourageons les clients à utiliser les services bancaires numériques. Si vous n\u0027êtes pas encore inscrit, vous pouvez en savoir plus sur les services bancaires en ligne gratuits \u003ca href\u003d\"\"https://www.dime.com/personal/online-banking-and-bill-pay\"\" target\u003d\"\"_blank\"\"\u003eet les services bancaires mobiles \u003ca href\u003d\"\"https://www.dime.com/personal/mobile-banking\"\" target\u003d\"\"_blank\"\"\u003een cliquant sur les liens fournis. Notre centre d\u0027appel pour les clients est également disponible au +33 1 45 67 89 00.\n\n\nNous vous remercions,\nVotre équipe Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "fermetures",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Mise à jour concernant l\u0027agence de Kings Highway - en date du 27 mars 2020",
+        "yext/question": "Mise à jour concernant l\u0027agence de Kings Highway - en date du 27 mars 2020"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Come parte delle nostre misure proattive durante la pandemia di Coronavirus (COVID-19), abbiamo selezionato la nostra filiale Kings Highway per un\u0027ulteriore pulizia avanzata. Kings Highway sarà chiusa a partire da domani, 28 marzo 2020.\n\nLa filiale di supporto più vicina elencata di seguito opererà in orari normalmente programmati:\n\nFILIALE CHIUSA\nKings Highway\n\nSuccursale aperta più vicina: Midwood 1600 Avenue M, Brooklyn, NY 11230 (718) 934-1300\n\nTorna a controllare \u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003e www.dime.com \u003c/a\u003e per sapere quando riaprirà la filiale di Kings Highway.\n\nIn questo periodo, incoraggiamo i clienti a utilizzare il digital banking. Se non ti sei ancora registrato, leggi ulteriori informazioni sul \u003ca href\u003d\"\"https://www.dime.com/personal/online-banking-and-bill-pay\"\" target\u003d\"\"_blank\"\"\u003e servizi bancari online \u003c/a\u003e e \u003ca href\u003d\"\"https://www.dime.com/personal/mobile-banking\"\" target\u003d\"\"_blank\"\"\u003e mobile banking \u003c/a\u003e ai link forniti. Il nostro call center clienti è disponibile anche al numero 800-321-3463.\n\nGrazie,\nIl tuo team Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "chiusure",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-43"
+        ],
+        "yext/name": "Aggiornamento della filiale di Kings Highway - Dal 27 marzo 2020",
+        "yext/question": "Aggiornamento della filiale di Kings Highway - Dal 27 marzo 2020"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "コロナウイルス（COVID-19）の大流行時の予防措置の一環として、追加の強化されたクリーニングのためにKings Highwayブランチを選択しました。\n\nキングスハイウェイは明日2020年3月28日から閉鎖されます。\n\n下記の最寄りの支社支社は通常の営業時間内に営業します：\n\n閉鎖支店キングスハイウェイ最寄りの支社：\nMidwood 1600 Avenue M、Brooklyn、NY 11230（718）934-1300\n\n\u003ca href\u003d\"https://www.ダイムコミュニティバンク.com/\" target\u003d\"_blank\"\u003e www.ダイムコミュニティバンク.com \u003c/a\u003eで、キングスハイウェイの支店が再開する時期を確認してください。この間、私たちはお客様にデジタルバンキングを利用することをお勧めします。登録していない場合は、無料の\u003ca href\u003d\"https://www.ダイムコミュニティバンク.com/personal/online-banking-and-bill-pay\" target\u003d\"_blank\"\u003eオンラインバンキング\u003c/a\u003eおよび\u003ca href\u003d\"https://www.ダイムコミュニティバンク.com/personal/mobile-banking\" target\u003d\"_blank\"\u003eモバイルバンキング\u003c/a\u003eの詳細をご覧ください。カスタマーコールセンターの電話番号は 800-321-3463です。\n\n私たちはコロナウイルスに関連する当社のオペレーションに関する情報を、適宜アップデートしてまいります。",
+        "yext/name": "キングスハイウェイブランチアップデート-2020年3月27日現在",
+        "yext/question": "キングスハイウェイブランチアップデート-2020年3月27日現在"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

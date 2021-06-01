@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ037",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "ATMs",
+        "url": "https://www.dime.com/branches"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "You can find the closest ATM nearest you by clicking on the link below.",
+    "yext/name": "Where is the closest Dime ATM located to me?",
+    "yext/question": "Where is the closest Dime ATM located to me?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie finden den nächstgelegenen Geldautomaten, indem Sie auf den unten stehenden Link klicken.",
+        "yext/name": "Wo befindet sich der nächstgelegene Dime-Geldautomat?",
+        "yext/question": "Wo befindet sich der nächstgelegene Dime-Geldautomat?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Puede encontrar el cajero automático (ATM) más cercano haciendo clic en el siguiente enlace.",
+        "yext/name": "¿Dónde está el cajero automático Dime (ATM) más cercano?",
+        "yext/question": "¿Dónde está el cajero automático Dime (ATM) más cercano?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous pouvez trouver le guichet automatique le plus proche de chez vous en cliquant sur le lien ci-dessous.",
+        "yext/name": "Où se trouve le distributeur automatique de billets Dime le plus proche de chez moi ?",
+        "yext/question": "Où se trouve le distributeur automatique de billets Dime le plus proche de chez moi ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Puoi trovare il bancomat più vicino a te facendo clic sul link in basso.",
+        "yext/name": "Dove si trova il bancomat Dime più vicino a me?",
+        "yext/question": "Dove si trova il bancomat Dime più vicino a me?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "以下のリンクをクリックすると、最寄りのATMを見つけることができます。",
+        "yext/name": "最寄りのダイムATMはどこにありますか？",
+        "yext/question": "最寄りのダイムATMはどこにありますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

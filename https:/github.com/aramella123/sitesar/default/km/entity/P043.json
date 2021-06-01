@@ -1,0 +1,96 @@
+{
+  "$id": "P043",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Check account balances and transaction history",
+      "Access your accounts quickly with a passcode or Touch ID",
+      "Deposit checks",
+      "Pay bills with a tap",
+      "Transfer money"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/commercial/mobile-banking"
+      }
+    ],
+    "c_productType": "Mobile Banking",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Enjoy the convenience of managing your finances and accounts right in the palm of your hand. Use the free Dime Mobile Banking App, for iPhone®, iPad® or Android™.",
+    "yext/landingPageUrl": "https://www.dime.com/commercial/mobile-banking",
+    "yext/name": "Commerical Mobile Banking"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Mobiles Banking",
+        "yext/description": "Genießen Sie die bequeme Verwaltung Ihrer Finanzen und Konten direkt in Ihrer Hand. Verwenden Sie die kostenlose Dime Mobile Banking App für iPhone®, iPad® oder Android ™.",
+        "yext/name": "Kommerzielles Mobile Banking"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Verifique los saldos de las cuentas y el historial de transacciones",
+          "acceda a sus cuentas rápidamente con una contraseña o Touch ID",
+          "deposite cheques",
+          "pague facturas con un toque",
+          "transfiera dinero"
+        ],
+        "c_productType": "La Banca Móvil",
+        "yext/description": "Disfrute de la comodidad de administrar sus finanzas y cuentas en la palma de su mano. Utilice la aplicación gratuita Dime Mobile Banking para iPhone®, iPad® o Android ™.",
+        "yext/name": "Banca Móvil Comercial"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Consulter le solde des comptes et l\u0027historique des transactions",
+          "Accéder rapidement à vos comptes à l\u0027aide d\u0027un code ou d\u0027un Touch ID",
+          "Déposer des chèques",
+          "Payer des factures en un coup de doigt",
+          "Transférer de l\u0027argent"
+        ],
+        "c_productType": "Banque mobile",
+        "yext/description": "Profitez de la commodité d\u0027une gestion de vos finances et de vos comptes au creux de votre main. Utilisez l\u0027application gratuite Dime Mobile Banking, pour iPhone®, iPad® ou Android™.",
+        "yext/name": "Services bancaires mobiles commerciaux"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Controlla i saldi dei conti e la cronologia delle transazioni",
+          "Accedi rapidamente ai tuoi conti con un passcode o Touch ID",
+          "Assegni di deposito",
+          "Paga le fatture con un tocco",
+          "Trasferisci denaro"
+        ],
+        "c_productType": "Mobile Banking",
+        "yext/description": "Goditi la comodità di gestire le tue finanze e i tuoi conti nel palmo della tua mano. Utilizza l\u0027app Dime Mobile Banking gratuita per iPhone®, iPad® o Android ™.",
+        "yext/name": "Mobile Banking Commerciali"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "モバイルバンキング",
+        "yext/description": "あなたの手のひらの上であなたの財政と口座を管理する便利さを楽しんでください。iPhone®、iPad®、またはAndroid™用の無料のダイムコミュニティバンクモバイルバンキングアプリを使用してください。",
+        "yext/name": "コマーシャルモバイルバンキング"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

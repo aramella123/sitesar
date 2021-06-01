@@ -1,0 +1,62 @@
+{
+  "$id": "faq72",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "An external transfer can take up to 4 business day to complete.",
+    "yext/name": "How long does a bank to bank transfer take to complete?",
+    "yext/question": "How long does a bank to bank transfer take to complete?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Eine externe Übertragung kann bis zu 4 Werktage dauern.",
+        "yext/name": "Wie lange dauert die Überweisung von Bank zu Bank?",
+        "yext/question": "Wie lange dauert die Überweisung von Bank zu Bank?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Una transferencia externa puede durar hasta cuatro días de trabajo en completarse.",
+        "yext/name": "¿Cuánto tiempo lleva completar una transferencia de banco a banco?",
+        "yext/question": "¿Cuánto tiempo lleva completar una transferencia de banco a banco?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Un virement externe peut prendre jusqu\u0027à 4 jours ouvrables pour être effectué.",
+        "yext/name": "Combien de temps faut-il pour effectuer un virement bancaire ?",
+        "yext/question": "Combien de temps faut-il pour effectuer un virement bancaire ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Il completamento di un trasferimento esterno può richiedere fino a 4 giorni lavorativi.",
+        "yext/name": "Quanto tempo richiede il completamento di un bonifico bancario?",
+        "yext/question": "Quanto tempo richiede il completamento di un bonifico bancario?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "外部転送は完了するまでに最大4営業日かかる場合があります。",
+        "yext/name": "銀行から銀行への送金が完了するまでにはどのくらい時間がかかりますか？",
+        "yext/question": "銀行から銀行への送金が完了するまでにはどのくらい時間がかかりますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

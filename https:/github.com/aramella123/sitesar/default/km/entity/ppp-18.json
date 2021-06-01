@@ -1,0 +1,81 @@
+{
+  "$id": "ppp-18",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "All payments are deferred for 6 months; however, interest will continue to accrue over this period.",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "When do I need to start paying interest on my loan?",
+    "yext/question": "When do I need to start paying interest on my loan?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Alle Zahlungen werden um 6 Monate zurückgestellt; In diesem Zeitraum werden jedoch weiterhin Zinsen anfallen.",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Wann muss ich anfangen, Zinsen für mein Darlehen zu zahlen?",
+        "yext/question": "Wann muss ich anfangen, Zinsen für mein Darlehen zu zahlen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Todos los pagos son diferidos por 6 meses; sin embargo, el interés continuará acumulándose durante este período.",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Cuándo debo comenzar a pagar intereses sobre mi préstamo?",
+        "yext/question": "¿Cuándo debo comenzar a pagar intereses sobre mi préstamo?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Tous les paiements sont reportés de 6 mois ; toutefois, les intérêts continueront à courir pendant cette période.",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "Quand dois-je commencer à payer les intérêts sur mon prêt ?",
+        "yext/question": "Quand dois-je commencer à payer les intérêts sur mon prêt ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Tutti i pagamenti vengono differiti di 6 mesi; tuttavia, l\u0027interesse continuerà a maturare durante questo periodo.",
+        "yext/keywords": [
+          "ppp.protezione dello stipendio"
+        ],
+        "yext/name": "Quando devo iniziare a pagare gli interessi sul mio prestito?",
+        "yext/question": "Quando devo iniziare a pagare gli interessi sul mio prestito?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "すべての支払いは6か月延期されます。ただし、この期間中は引き続き利息が発生します。",
+        "yext/name": "いつローンに利息を支払う必要がありますか？",
+        "yext/question": "いつローンに利息を支払う必要がありますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

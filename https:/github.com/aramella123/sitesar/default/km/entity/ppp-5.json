@@ -1,0 +1,81 @@
+{
+  "$id": "ppp-5",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "You can apply through Dime Community Bank. Submit your completed application along with required payroll documentation to sba@dime.com",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "Where can I apply for the PPP?",
+    "yext/question": "Where can I apply for the PPP?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie können sich über die Dime Community Bank bewerben. Senden Sie Ihren ausgefüllten Antrag zusammen mit den erforderlichen Abrechnungsunterlagen an sba@dime.com",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Wo kann ich das PPP beantragen?",
+        "yext/question": "Wo kann ich das PPP beantragen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Puede presentar su solicitud a través de Dime Community Bank. Envíe su solicitud completa junto con la documentación de nómina requerida a sba@dime.com",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Dónde puedo solicitar por el PPP?",
+        "yext/question": "¿Dónde puedo solicitar por el PPP?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous pouvez faire une demande par l\u0027intermédiaire de la Dime Community Bank. Envoyez votre demande dûment remplie, accompagnée des documents requis pour la paie, à sba@dime.com",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "Où puis-je faire une demande de PPS ?",
+        "yext/question": "Où puis-je faire une demande de PPS ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Puoi fare domanda tramite Dime Community Bank. Invia la domanda completa insieme alla documentazione sui salari richiesta a sba@dime.com",
+        "yext/keywords": [
+          "ppp.protezione dello stipendio"
+        ],
+        "yext/name": "Dove posso richiedere il PPP?",
+        "yext/question": "Dove posso richiedere il PPP?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムコミュニティバンクから申請できます。完成したアプリケーションと必要な給与計算書をsba@ダイムコミュニティバンク.comに送信します",
+        "yext/name": "PPPはどこで申請できますか？",
+        "yext/question": "PPPはどこで申請できますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

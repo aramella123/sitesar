@@ -1,0 +1,29 @@
+{
+  "$id": "pages-locations",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "streamsapi",
+  "fields": [
+    "id",
+    "uid",
+    "name",
+    "address",
+    "description",
+    "mainPhone",
+    "photoGallery",
+    "services",
+    "geomodifier",
+    "hours",
+    "c_slug",
+    "c_parents.name",
+    "c_parents.c_slug",
+    "c_parents.c_parents.name",
+    "c_parents.c_parents.id",
+    "c_parents.c_parents.c_slug"
+  ],
+  "filter": {
+    "entityTypes": [
+      "location"
+    ]
+  }
+}

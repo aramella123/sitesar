@@ -1,0 +1,111 @@
+{
+  "$id": "corona-6",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_dateOfUpdate": "3.11",
+    "c_fAQType": "COVID",
+    "yext/answer": "Dime is continually monitoring the ongoing situation regarding the Coronavirus (COVID19). While our Melville branch has had no confirmed cases, our position to support our employees and community safety remains a priority. In that light, we have made the decision to temporarily close our Melville branch. The branch is located at One Huntington Quadrangle, Suite 1N06, Melville NY 11747.\n\nIn support of Dime’s Melville customers, the following options are available to support your banking needs:\n \n\nThe Dime branch in Westbury located at 622 Old Country Road, Westbury, NY 11590 (516) 338-7900\n \tHours of Operation:\n \tMonday – Thursday: 8:30am-5pm\n \tFriday: 8:30am-7pm\n \tSaturday: 9am-2pm\n \nThe Dime Customer Call Center at (800) 321-DIME (3463)\n \tHours of Operation:\n \tMonday – Friday: 8am-7pm\n \tSaturday: 9am-2pm\n \nYou can access your accounts digitally 24/7 at dime.com, or on the mobile app as referenced in our previous statement.\n\nWe will post an update here when the branch reopens.",
+    "yext/keywords": [
+      "COVID-19",
+      "coronavirus",
+      "closures",
+      "corona",
+      "COVID",
+      "covid",
+      "covid-19",
+      "Covid-19"
+    ],
+    "yext/name": "Melville Branch Update - As of March 11, 2020",
+    "yext/question": "Melville Branch Update - As of March 11, 2020"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Dime überwacht kontinuierlich die aktuelle Situation in Bezug auf das Coronavirus (COVID19). Obwohl unsere Niederlassung in Melville keine bestätigten Fälle hatte, bleibt unsere Position zur Unterstützung unserer Mitarbeiter und der Sicherheit in der Gemeinde eine Priorität. Vor diesem Hintergrund haben wir beschlossen, vorübergehend zu schließen Unsere Niederlassung in Melville. Die Niederlassung befindet sich in One Huntington Quadrangle, Suite 1N06, Melville, NY 11747.\n \n Zur Unterstützung der Melville-Kunden von Dime stehen folgende Optionen zur Verfügung, um Ihre Bankanforderungen zu erfüllen:\n  \n \n Die Dime-Niederlassung in Westbury befindet sich in der 622 Old Country Road, Westbury, NY 11590 (516) 338-7900\n   Öffnungszeiten:\n   Montag - Donnerstag: 8:30 bis 17:00 Uhr\n   Freitag: 8:30 bis 19:00 Uhr\n   Samstag: 9-14 Uhr\n  \n Das Dime Customer Call Center unter (800) 321-DIME (3463)\n   Öffnungszeiten:\n   Montag - Freitag: 8-19 Uhr\n   Samstag: 9-14 Uhr\n  \n Sie können rund um die Uhr digital auf Ihre Konten unter dime.com oder über die mobile App zugreifen, auf die in unserer vorherigen Erklärung verwiesen wurde.\n \n Wir werden hier ein Update veröffentlichen, wenn die Filiale wieder geöffnet wird.",
+        "yext/keywords": [
+          "COVID-19",
+          "Coronavirus",
+          "Verschlüsse",
+          "Corona",
+          "COVID",
+          "Covid",
+          "Covid-19"
+        ],
+        "yext/name": "Melville Branch Update - Stand 11. März 2020",
+        "yext/question": "Melville Branch Update - Stand 11. März 2020"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Dime está monitoreando continuamente la situación actual con respecto al Coronavirus (COVID19). Si bien nuestra sucursal de Melville no ha tenido casos confirmados, nuestra posición para apoyar a nuestros empleados y la seguridad de la comunidad sigue siendo una prioridad. En ese sentido, hemos tomado la decisión de cerrar temporalmente nuestra sucursal de Melville. La sucursal está ubicada en One Huntington Quadrangle, Suite 1N06, Melville NY 11747.\n \n En apoyo de los clientes de Dime Melville, las siguientes opciones están disponibles para satisfacer sus necesidades bancarias:\n  \n \n La sucursal de Dime en Westbury ubicada en 622 Old Country Road, Westbury, NY 11590 (516) 338-7900\n   Horas de operación:\n   Lunes a jueves: 8:30 a.m. a 5 p.m.\n   Viernes: 8:30 a.m. a 7 p.m.\n   Sábado: 9 am-2pm\n  \n El centro de atención al cliente de Dime al (800) 321-DIME (3463)\n   Horas de operación:\n   Lunes a viernes de 8 a.m. a 7 p.m.\n   Sábado: 9 am-2pm\n  \n Puede acceder a sus cuentas digitalmente las 24 horas del día, los 7 días de la semana en dime.com, o en la aplicación móvil como se menciona en nuestra declaración anterior.\n \n Publicaremos una actualización aquí cuando se vuelva a abrir la sucursal.",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "cierres",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Actualización de la sucursal de Melville - A partir del 11 de marzo de 2020",
+        "yext/question": "Actualización de la sucursal de Melville - A partir del 11 de marzo de 2020"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Dime surveille en permanence la situation actuelle concernant le Coronavirus (COVID19). Bien que notre agence de Melville n\u0027ait eu aucun cas confirmé, notre position de soutien à nos employés et à la sécurité de la communauté reste une priorité. Dans cette optique, nous avons pris la décision de fermer temporairement notre agence de Melville. L\u0027agence est située au One Huntington Quadrangle, Suite 1N06, Melville NY 11747.\n\nPour aider les clients de Dime\u0027s Melville, les options suivantes sont disponibles pour répondre à vos besoins bancaires :\n\nL\u0027agence Dime à Westbury située au 622 Old Country Road, Westbury, NY 11590 (516) 338-7900\nHeures d\u0027ouverture :\nLundi - jeudi : 8h30-17h\nVendredi : 8h30-19h\nSamedi : 9h-14h\n\nLe centre d\u0027appel des clients de Dime au (800) 321-DIME (3463)\nHeures d\u0027ouverture :\nLundi - vendredi : 8h-19h\nSamedi : 9h-14h\n\nVous pouvez accéder à vos comptes par en ligne 24 heures sur 24 et 7 jours sur 7 sur dime.com, ou sur l\u0027application mobile comme indiqué dans notre précédent message.\n\nNous publierons une mise à jour ici lorsque l\u0027agence rouvrira.",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "fermetures",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Mise à jour concernant l\u0027agence de Melville - en date du 11 mars 2020",
+        "yext/question": "Mise à jour concernant l\u0027agence de Melville - en date du 11 mars 2020"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Dime monitora continuamente la situazione in corso relativa al Coronavirus (COVID19). Sebbene la nostra filiale di Melville non abbia avuto casi confermati, la nostra posizione a supporto dei nostri dipendenti e la sicurezza della comunità rimane una priorità. Alla luce di ciò, abbiamo deciso di chiudere temporaneamente la nostra filiale di Melville La filiale si trova in One Huntington Quadrangle, Suite 1N06, Melville NY 11747.\n\nA supporto dei clienti Melville di Dime, sono disponibili le seguenti opzioni per supportare le tue esigenze bancarie:\n\n\nLa filiale Dime di Westbury situata in 622 Old Country Road, Westbury, NY 11590 (516) 338-7900\nOre di operazione:\nLunedi - Giovedi: 8: 30-17: 00\nVenerdì: 8: 30-19: 00\nSabato: dalle 9 alle 14\n\nThe Dime Customer Call Center a (800) 321-DIME (3463)\nOre di operazione:\nLunedi - Venerdì: 8: 00-19: 00\nSabato: dalle 9 alle 14\n\nPuoi accedere ai tuoi account in modo digitale 24 ore su 24, 7 giorni su 7, su dime.com o sull\u0027app mobile come indicato nella nostra precedente dichiarazione.\n\nPubblicheremo un aggiornamento qui alla riapertura della filiale.",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "chiusure",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-47"
+        ],
+        "yext/name": "Aggiornamento della filiale di Melville - Dall\u002711 marzo 2020",
+        "yext/question": "Aggiornamento della filiale di Melville - Dall\u002711 marzo 2020"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムコミュニティバンクは、コロナウイルス（COVID19）に関する進行中の状況を継続的に監視しています。メルビル支店では確定例はありませんが、従業員と地域社会の安全をサポートするという私たちの立場は依然として優先事項です。その観点から、メルビル支店を一時的に閉鎖することを決定しました。支店はOne Huntington Quadrangle、Suite 1N06、Melville NY 11747にあります。ダイムコミュニティバンクのMelvilleのお客様をサポ​​ートするために、銀行のニーズをサポートするために次のオプションを利用できます：622 Old Country Road、Westbury、NY 11590にあるWestburyのダイムコミュニティバンク支店（516）338-7900営業時間：月曜日-木曜日：8:30 am-5pm金曜日：8:30 am-7pm土曜日：9 am-2pmダイムカスタマーコールセンター（800）321-ダイムコミュニティバンク（3463）営業時間：月曜日〜金曜日：午前8時〜午後7時土曜日：午前9時〜午後2時ダイムコミュニティバンク.comで24時間年中無休でアカウントにデジタルでアクセスできます。または、前のステートメントで参照されているモバイルアプリ。ブランチが再開したら、ここに更新を投稿します。",
+        "yext/name": "メルビル支店の更新-2020年3月11日現在",
+        "yext/question": "メルビル支店の更新-2020年3月11日現在"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

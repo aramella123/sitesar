@@ -1,0 +1,92 @@
+{
+  "$id": "P007",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Easy to apply for and receive a quick credit decision",
+      "View information \u0027",
+      "\u0027 deposit checks and transfer money conveniently through our Free Business Mobile Banking (2) app",
+      "Access additional working capital to ease cash flow concerns"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/business/credit-and-lending/line-of-credit"
+      }
+    ],
+    "c_productType": "Business Line of Credit",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Dime Community Bank makes it easy to access that cash when you need it with a simple Business Line of Credit.",
+    "yext/landingPageUrl": "https://www.dime.com/business/credit-and-lending/line-of-credit",
+    "yext/name": "Business Line of Credit"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Business Kreditlinie",
+        "yext/description": "Mit der Dime Community Bank können Sie mit einem einfachen Geschäftskredit einfach auf dieses Bargeld zugreifen, wenn Sie es benötigen.",
+        "yext/name": "Business Kreditlinie"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Fácil de solicitar y recibir una decisión de crédito rápida",
+          "ver información \u0027",
+          "\u0027 depositar cheques y transferir dinero convenientemente a través de nuestra aplicación Free Business Mobile Banking (2)",
+          "acceder a capital de trabajo adicional para aliviar las preocupaciones sobre el flujo de efectivo"
+        ],
+        "c_productType": "Línea de crédito comercial",
+        "yext/description": "Dime Community Bank facilita el acceso a ese efectivo cuando lo necesita con una simple línea de crédito comercial.",
+        "yext/name": "Línea de crédito comercial"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Il est facile de souscrire et de recevoir une décision de crédit rapide",
+          "de consulter les informations",
+          "de déposer des chèques et de transférer de l\u0027argent de manière pratique grâce à notre application Free Business Mobile Banking (2)",
+          "d\u0027accéder à un fonds de roulement supplémentaire pour faciliter les problèmes de trésorerie."
+        ],
+        "c_productType": "Ligne de crédit aux entreprises",
+        "yext/description": "Dime Community Bank facilite l\u0027accès à ces fonds lorsque vous en avez besoin grâce à une simple ligne de crédit professionnelle.",
+        "yext/name": "Ligne de crédit aux entreprises"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Facile da richiedere e ricevere una rapida decisione di credito",
+          "visualizzare le informazioni \"",
+          "\" assegni di deposito e trasferire denaro comodamente tramite la nostra app Free Business Mobile Banking (2)",
+          "accedere al capitale circolante aggiuntivo per alleviare i problemi di flusso di cassa"
+        ],
+        "c_productType": "Linea di Credito Aziendale",
+        "yext/description": "Dime Community Bank ti consente di accedere facilmente a quei contanti quando ne hai bisogno con una semplice linea di credito.",
+        "yext/name": "Linea di credito"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "信用枠",
+        "yext/description": "ダイムコミュニティバンクは、シンプルなビジネスクレジットで、必要なときにその現金に簡単にアクセスできるようにします。",
+        "yext/name": "信用枠"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

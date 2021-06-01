@@ -1,0 +1,49 @@
+{
+  "$id": "product-44",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/personal/additional-personal-services"
+      }
+    ],
+    "c_noFee": true,
+    "c_productType": "Additional Personal Banking Services",
+    "c_slug": "[[entityId]]",
+    "yext/landingPageUrl": "https://www.dime.com/personal/additional-personal-services",
+    "yext/name": "Consumer Debit Cards",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1000,
+          "sourceUrl": "https://images.pexels.com/photos/4482900/pexels-photo-4482900.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "thumbnails": [
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p/FHmiAWYqp933X7DX0Cy7f3OurmpY1SEoQxUcvYBIUnM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/FHmiAWYqp933X7DX0Cy7f3OurmpY1SEoQxUcvYBIUnM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p/FHmiAWYqp933X7DX0Cy7f3OurmpY1SEoQxUcvYBIUnM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/FHmiAWYqp933X7DX0Cy7f3OurmpY1SEoQxUcvYBIUnM/1000x1000.jpg",
+          "width": 1000
+        }
+      }
+    ],
+    "yext/richTextDescription": "Better than cash, safer than checks. Use Dime’s Debit Cards. No annual fees. Sign up for a free Debit Card to make the purchases you need or draw funds from the millions of ATMs around the world."
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

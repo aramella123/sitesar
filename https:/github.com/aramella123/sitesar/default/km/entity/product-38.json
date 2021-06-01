@@ -1,0 +1,61 @@
+{
+  "$id": "product-38",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_benefits": [
+      "Earns interest from day of deposit to day of withdrawal",
+      "Variable interest rates when daily balances exceed $250*",
+      "Interest compounded daily",
+      "Safe \u0027",
+      "\u0027 secure \u0027",
+      "\u0027 and FDIC-insured",
+      "Free ATM card or debit card with a Linked Checking Account",
+      "Free Online Banking for 24-hour information and transfers*",
+      "Avoid $4 monthly fee with $500 balance"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/personal/savings/statement-savings"
+      }
+    ],
+    "c_fees": "$0 if balance over $500",
+    "c_minimumDeposit": "25.0",
+    "c_productType": "Personal Savings",
+    "c_slug": "[[entityId]]",
+    "yext/landingPageUrl": "https://www.dime.com/personal/savings/statement-savings",
+    "yext/name": "Statement Savings Accounts",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1231,
+          "sourceUrl": "https://images.pexels.com/photos/4482903/pexels-photo-4482903.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "thumbnails": [
+            {
+              "height": 761,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/619x761.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/365x450.jpg",
+              "width": 365
+            },
+            {
+              "height": 241,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/196x241.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/1000x1231.jpg",
+          "width": 1000
+        }
+      }
+    ],
+    "yext/richTextDescription": "Take your personal finances one step further with a Dime Statement Savings account. Earn interest on your balances \u0026 get updates on your progress with monthly statements."
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

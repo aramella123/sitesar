@@ -1,0 +1,110 @@
+{
+  "$id": "corona-10",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_dateOfUpdate": "3.21",
+    "c_fAQType": "COVID",
+    "yext/answer": "As part of our proactive measures during the Coronavirus (COVID-19) pandemic, we have selected our Bensonhurst branch for additional enhanced cleaning. Bensonhurst will be closed beginning tomorrow, March 21, 2020.\n\nThe nearest supporting branch listed below will be operating under normally scheduled hours:\n\nCLOSED BRANCH\nBensonhurst\n\nNearest Branch:\nMidwood Branch 1600 Avenue M, Brooklyn, NY 11230 (718) 336-5600 \n\nCheck back at \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003ewww.dime.com\u003c/a\u003e for when the Bensonhurst branch will reopen.\n\nDuring this time, we encourage customers to utilize digital banking. If you haven’t enrolled, learn more about free \u003ca href\u003d\"https://www.dime.com/personal/online-banking-and-bill-pay\" target\u003d\"_blank\"\u003eonline banking\u003c/a\u003e and \u003ca href\u003d\"https://www.dime.com/personal/mobile-banking\" target\u003d\"_blank\"\u003emobile banking\u003c/a\u003e at the links provided. Our Customer Call Center is also available at 800-321-3463.\n\n\nWe will continue to update you on developments related to Dime’s Operations due to the Coronavirus (COVID-19).\n\nThank you,\n\nYour Dime Community Bank Team",
+    "yext/keywords": [
+      "COVID-19",
+      "coronavirus",
+      "closures",
+      "corona",
+      "COVID",
+      "covid",
+      "covid-19",
+      "Covid-19"
+    ],
+    "yext/name": "Bensonhurst Branch Update - As of March 20,2020",
+    "yext/question": "Bensonhurst Branch Update - As of March 20,2020"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Im Rahmen unserer proaktiven Maßnahmen während der Coronavirus (COVID-19) -Pandemie haben wir unsere Niederlassung in Bensonhurst für eine zusätzliche verbesserte Reinigung ausgewählt. Bensonhurst wird ab morgen, dem 21. März 2020, geschlossen.\n \n Die nächstgelegene unterstützende Niederlassung, die unten aufgeführt ist, wird zu den normalerweise festgelegten Zeiten betrieben:\n \n GESCHLOSSENER ZWEIG\n Bensonhurst\n \n Nächster Zweig:\n Midwood Branch 1600 Avenue M, Brooklyn, NY 11230 (718) 336-5600\n \n Überprüfen Sie unter \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003e www.dime.com \u003c/a\u003e, wann die Bensonhurst-Niederlassung wiedereröffnet wird.\n \n In dieser Zeit ermutigen wir Kunden, Digital Banking zu nutzen. Wenn Sie sich noch nicht angemeldet haben, erfahren Sie mehr über kostenloses \u003ca href\u003d\"https://www.dime.com/personal/online-banking-and-bill-pay\" target\u003d\"_blank\"\u003e Online-Banking \u003c/a\u003e und \u003ca href\u003d\"https://www.dime.com/personal/mobile-banking\" target\u003d\"_blank\"\u003e Mobile Banking \u003c/a\u003e unter den angegebenen Links. Unser Kunden-Callcenter ist auch unter 800-321-3463 erreichbar.\n \n \n Wir werden Sie weiterhin über Entwicklungen im Zusammenhang mit Dimes Operationen aufgrund des Coronavirus (COVID-19) auf dem Laufenden halten.\n \n Vielen Dank,\n \n Ihr Dime Community Bank Team",
+        "yext/keywords": [
+          "COVID-19",
+          "Coronavirus",
+          "Verschlüsse",
+          "Corona",
+          "COVID",
+          "Covid",
+          "Covid-19"
+        ],
+        "yext/name": "Bensonhurst Filiale Update - Stand 20. März 2020",
+        "yext/question": "Bensonhurst Filiale Update - Stand 20. März 2020"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Como parte de nuestras medidas proactivas durante la pandemia de Coronavirus (COVID-19), hemos seleccionado nuestra sucursal de Bensonhurst para una limpieza adicional. Bensonhurst estará cerrado a partir de mañana, 21 de marzo de 2020.\n \n La sucursal de soporte más cercana que se enumera a continuación estará operando en horarios normalmente programados:\n \nSUCURSAL CERRADA\n Bensonhurst\n \n Sucursal más cercana:\n Midwood Branch 1600 Avenue M, Brooklyn, NY 11230 (718) 336-5600\n \n Vuelva a consultar en \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003e www.dime.com \u003c/a\u003e para saber cuándo volverá a abrir la sucursal de Bensonhurst.\n \n Durante este tiempo, alentamos a los clientes a utilizar la banca digital. Si no se ha inscrito, obtenga más información sobre la \u003ca href\u003d\"https://www.dime.com/personal/online-banking-and-bill-pay\" target\u003d\"_blank\"\u003e banca en línea gratuita \u003c/a\u003e y \u003ca href\u003d\"https://www.dime.com/personal/mobile-banking\" target\u003d\"_blank\"\u003e banca móvil \u003c/a\u003e en los enlaces proporcionados. Nuestro Centro de atención al cliente también está disponible al 800-321-3463.\n \n \n Continuaremos actualizándolo sobre desarrollos relacionados con las operaciones de Dime debido al Coronavirus (COVID-19).\n \n Gracias,\n \n Su equipo de Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "cierres",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Actualización de la sucursal de Bensonhurst - A partir del 20 de marzo de 2020",
+        "yext/question": "Actualización de la sucursal de Bensonhurst - A partir del 20 de marzo de 2020"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Dans le cadre de nos mesures proactives durant la pandémie de coronavirus (COVID-19), nous avons choisi notre agence de Bensonhurst pour un nettoyage supplémentaire renforcé. Bensonhurst sera fermée à partir de demain, le 21 mars 2020.\n\nL\u0027agence la plus proche, dont la liste figure ci-dessous, fonctionnera selon les horaires habituels :\n\nAGENCE FERMÉE\nBensonhurst\n\nL\u0027agence la plus proche :\nMidwood Branch 1600 Avenue M, Brooklyn, NY 11230 (718) 336-5600 \n\nConsultez à nouveau le site \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003ewww.dime.com\u003c/a\u003e pour savoir quand l\u0027agence de Bensonhurst rouvrira.\n\n\nPendant cette période, nous encourageons les clients à utiliser la banque en ligne. Si vous n\u0027êtes pas encore inscrit, vous pouvez en savoir plus sur les services bancaires en ligne gratuits \u003ca href\u003d\"https://www.dime.com/personal/online-banking-and-bill-pay\" target\u003d\"_blank\"\u003eet les services bancaires mobiles \u003ca href\u003d\"https://www.dime.com/personal/mobile-banking\" target\u003d\"_blank\"\u003een cliquant sur les liens fournis. Notre centre d\u0027appel pour les clients est également disponible au +33 1 45 67 89 00.\n\n\nNous continuerons de vous tenir au courant des développements liés aux opérations de Dime en raison du coronavirus (COVID-19).\n\nNous vous remercions,\nVotre équipe Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "fermetures",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Mise à jour concernant l\u0027agence Bensonhurst - à compter du 20 mars 2020",
+        "yext/question": "Mise à jour concernant l\u0027agence Bensonhurst - à compter du 20 mars 2020"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "chiusure",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-26"
+        ],
+        "yext/name": "Bensonhurst Aggiornamento Filiale - Al 20 Marzo 2020",
+        "yext/question": "Bensonhurst Aggiornamento Filiale - Al 20 Marzo 2020"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "コロナウイルス（COVID-19）の大流行時の予防措置の一環として、追加の強化された洗浄のためにベンソンハースト支店を選択しました。ベンソンハーストは明日2020年3月21日から閉鎖されます。\n\n下記の最寄りの支社支店は通常の営業時間内に営業します：\n\n閉店支店ベンソンハースト最寄りの支社：\nMidwood Branch 1600 Avenue M、Brooklyn、NY 11230（718）336-5600 \n\n\u003ca href\u003d\"https://www.ダイムコミュニティバンク.com/\" target\u003d\"_blank\"\u003e www.ダイムコミュニティバンク.com \u003c/a\u003eで、Bensonhurstブランチがいつ再開されるかについて。この間、私たちはお客様にデジタルバンキングを利用することをお勧めします。登録していない場合は、無料の\u003ca href\u003d\"https://www.ダイムコミュニティバンク.com/personal/online-banking-and-bill-pay\" target\u003d\"_blank\"\u003eオンラインバンキング\u003c/a\u003eおよび\u003ca href\u003d\"https://www.ダイムコミュニティバンク.com/personal/mobile-banking\" target\u003d\"_blank\"\u003eモバイルバンキング\u003c/a\u003eの詳細をご覧ください。カスタマーコールセンターの電話番号は 800-321-3463です。\n\n私たちはコロナウイルスに関連する当社のオペレーションに関する情報を、適宜アップデートしてまいります。",
+        "yext/name": "ベンソンハースト支店の最新情報-2020年3月20日現在",
+        "yext/question": "ベンソンハースト支店の最新情報-2020年3月20日現在"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

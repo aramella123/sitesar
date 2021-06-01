@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Accessibility",
+        "url": "https://www.dime.com/accessibility"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "All Dime branches have been designed to help make banking accessible to our customers. We are committed to ensuring compliance with ADA, state and local accessibility laws.",
+    "yext/name": "Does Dime have Accessible Branches?",
+    "yext/question": "Does Dime have Accessible Branches?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Alle Dime-Filialen wurden entwickelt, um das Bankgeschäft für unsere Kunden zugänglich zu machen. Wir verpflichten uns, die Einhaltung der ADA-, staatlichen und lokalen Barrierefreiheitsgesetze sicherzustellen.",
+        "yext/name": "Hat Dime barrierefreie Filialen?",
+        "yext/question": "Hat Dime barrierefreie Filialen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Todas las sucursales de Dime han sido diseñadas para ayudar a que los clientes tengan acceso al banco. Estamos comprometidos a garantizar el cumplimiento de las leyes de accesibilidad ADA, estatales y locales.",
+        "yext/name": "¿Dime tiene sucursales accesibles?",
+        "yext/question": "¿Dime tiene sucursales accesibles?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Toutes les agences Dime ont été conçues pour rendre les services bancaires accessibles à nos clients. Nous nous engageons à assurer la conformité avec l\u0027ADA et les lois d\u0027accessibilité nationales et locales.",
+        "yext/name": "Dime a-t-elle des agences physiques ?",
+        "yext/question": "Dime a-t-elle des agences physiques ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Tutte le filiali Dime sono state progettate per rendere le attività bancarie accessibili ai nostri clienti. Ci impegniamo a garantire la conformità con le leggi ADA, statali e locali sull\u0027accessibilità.",
+        "yext/name": "Dime ha filiali accessibili?",
+        "yext/question": "Dime ha filiali accessibili?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "すべてのダイム支店は、お客様が銀行にアクセスしやすいように設計されています。私たちは、ADA、州、および地域のアクセシビリティ法を確実に遵守することをお約束します。",
+        "yext/name": "ダイムコミュニティバンクにはアクセス可能なブランチがありますか？",
+        "yext/question": "ダイムコミュニティバンクにはアクセス可能なブランチがありますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

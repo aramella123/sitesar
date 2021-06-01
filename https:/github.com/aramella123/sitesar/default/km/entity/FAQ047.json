@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ047",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "FAQ",
+        "url": "https://www.dime.com/faqs"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "The interest on the DimeDirect® Money Market Account is compounded daily and credited monthly. It is a variable rate account and can be changed at any time.",
+    "yext/name": "How is the interest calculated on a DimeDirect® Money Market Account?",
+    "yext/question": "How is the interest calculated on a DimeDirect® Money Market Account?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Die Zinsen auf dem DimeDirect®-Geldmarktkonto werden täglich berechnet und monatlich gutgeschrieben. Es ist ein Konto mit variablem Zinssatz und es kann jederzeit geändert werden.",
+        "yext/name": "Wie werden die Zinsen auf einem DimeDirect®-Geldmarktkonto berechnet?",
+        "yext/question": "Wie werden die Zinsen auf einem DimeDirect®-Geldmarktkonto berechnet?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "El interés en la cuenta del mercado monetario DimeDirect® se capitaliza diariamente y se acredita mensualmente. Es una cuenta de tasa variable y se puede cambiar en cualquier momento.",
+        "yext/name": "¿Cómo se calcula el interés en una cuenta DimeDirect® Money Market?",
+        "yext/question": "¿Cómo se calcula el interés en una cuenta DimeDirect® Money Market?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Les intérêts sur le compte DimeDirect® Marché Monétaire sont composés quotidiennement et crédités mensuellement. Il s\u0027agit d\u0027un compte à taux variable qui peut être modifié à tout moment.",
+        "yext/name": "Comment l\u0027intérêt est-il calculé sur un compte DimeDirect® du marché monétaire ?",
+        "yext/question": "Comment l\u0027intérêt est-il calculé sur un compte DimeDirect® du marché monétaire ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "L\u0027interesse sul conto del mercato monetario DimeDirect® è composto giornalmente e accreditato mensilmente. È un account a tasso variabile e può essere modificato in qualsiasi momento.",
+        "yext/name": "Come vengono calcolati gli interessi su un conto del mercato monetario DimeDirect®?",
+        "yext/question": "Come vengono calcolati gli interessi su un conto del mercato monetario DimeDirect®?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムコミュニティバンクDirect®マネーマーケットアカウントの利息は毎日複利計算され、毎月貸方記入されます。これは変動金利のアカウントであり、いつでも変更できます。",
+        "yext/name": "ダイムコミュニティバンクDirect®マネーマーケットアカウントの利息はどのように計算されますか？",
+        "yext/question": "ダイムコミュニティバンクDirect®マネーマーケットアカウントの利息はどのように計算されますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

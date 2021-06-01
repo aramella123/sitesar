@@ -1,0 +1,36 @@
+{
+  "$id": "c_productType",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "Product Type",
+  "displayNameTranslation": [
+    {
+      "localeCode": "de",
+      "value": "Produkttyp"
+    },
+    {
+      "localeCode": "es",
+      "value": "Tipo de Producto"
+    },
+    {
+      "localeCode": "fr",
+      "value": "Type de produit"
+    },
+    {
+      "localeCode": "it",
+      "value": "Tipo di prodotto"
+    },
+    {
+      "localeCode": "ja",
+      "value": "プロダクトタイプ"
+    }
+  ],
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "yext/string"
+}

@@ -1,0 +1,72 @@
+{
+  "$id": "FAQ062",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Enroll in Personal Online Banking",
+        "url": "https://dime.onlinebank.com/RegistrationDisclosure.aspx"
+      },
+      {
+        "text": "Enroll in Business Online Banking",
+        "url": "https://www.dime.com/business/online-banking/enroll"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "In order to start using Business or Personal Online Banking, you must first enroll. To enroll, please click the links below and fill out the corresponding forms. Please note that Personal Online Banking requires you to read and acknowledge an Online Banking Agreement before you are able to enroll.",
+    "yext/name": "How do I sign up for Online Banking?",
+    "yext/question": "How do I sign up for Online Banking?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Um Business oder Personal Online Banking nutzen zu können, müssen Sie sich zuerst anmelden. Um sich anzumelden, klicken Sie bitte auf die unten stehenden Links und füllen Sie die entsprechenden Formulare aus. Bitte beachten Sie, dass Sie für das persönliche Online-Banking eine Online-Banking-Vereinbarung lesen und bestätigen müssen, bevor Sie sich anmelden können.",
+        "yext/name": "Wie melde ich mich für das Online-Banking an?",
+        "yext/question": "Wie melde ich mich für das Online-Banking an?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Para comenzar a utilizar la Banca en línea comercial o personal, primero debe inscribirse. Para inscribirse, haga clic en los enlaces a continuación y complete los formularios correspondientes. Tenga en cuenta que la Banca en línea personal requiere que lea y reconozca un Acuerdo de banca en línea antes de poder inscribirse.",
+        "yext/name": "¿Cómo me inscribo en la banca en línea?",
+        "yext/question": "¿Cómo me inscribo en la banca en línea?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Pour commencer à utiliser la banque en ligne pour les entreprises ou les particuliers, vous devez d\u0027abord vous inscrire. Pour vous inscrire, veuillez cliquer sur les liens ci-dessous et remplir les formulaires correspondants. Veuillez noter que vous devez lire et accepter une convention de services bancaires en ligne avant de pouvoir vous inscrire.",
+        "yext/name": "Comment puis-je m\u0027inscrire aux services bancaires en ligne ?",
+        "yext/question": "Comment puis-je m\u0027inscrire aux services bancaires en ligne ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Per iniziare a utilizzare Business o Personal Online Banking, è necessario prima registrarsi. Per iscriversi, fare clic sui collegamenti sottostanti e compilare i moduli corrispondenti. Si noti che il Personal Online Banking richiede di leggere e riconoscere un Accordo di Online Banking prima di poter effettuare l\u0027iscrizione.",
+        "yext/name": "Come posso iscrivermi al servizio bancario online?",
+        "yext/question": "Come posso iscrivermi al servizio bancario online?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ビジネスまたはパーソナルオンラインバンキングの使用を開始するには、まず登録する必要があります。登録するには、以下のリンクをクリックして、対応するフォームに記入してください。パーソナルオンラインバンキングでは、登録する前にオンラインバンキング契約を読み、同意する必要があります。",
+        "yext/name": "オンラインバンキングにサインアップするにはどうすればよいですか？",
+        "yext/question": "オンラインバンキングにサインアップするにはどうすればよいですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

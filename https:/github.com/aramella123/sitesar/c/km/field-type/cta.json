@@ -1,0 +1,58 @@
+{
+  "$id": "c_cta",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "description": "",
+  "displayName": "CTA",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "text",
+          "displayName": "Text",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "url",
+          "displayName": "URL",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "URL"
+            }
+          }
+        },
+        {
+          "name": "icon",
+          "displayName": "Icon",
+          "isRequired": false,
+          "typeId": "yext/option",
+          "type": {
+            "optionType": {
+              "option": [
+                {
+                  "displayName": "chevron",
+                  "textValue": "chevron"
+                },
+                {
+                  "displayName": "briefcase",
+                  "textValue": "briefcase"
+                },
+                {
+                  "displayName": "star",
+                  "textValue": "star"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

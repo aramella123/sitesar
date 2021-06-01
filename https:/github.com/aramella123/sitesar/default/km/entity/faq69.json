@@ -1,0 +1,62 @@
+{
+  "$id": "faq69",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "To set up an External Transfer between bank accounts you own, you must login to your dime online account, click on Transfers and select External transfers from the drop down menu. First time users can click on “Add a New Account” to set up a new external bank. For further assistance with setting up your External Account, please contact us at 800-321-3463.",
+    "yext/name": "How can I transfer from bank to bank?",
+    "yext/question": "How can I transfer from bank to bank?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Um eine externe Überweisung zwischen Ihren Bankkonten einzurichten, müssen Sie sich bei Ihrem Dime-Online-Konto anmelden, auf Überweisungen klicken und Externe Überweisungen aus dem Dropdown-Menü auswählen. Erstmalige Benutzer können auf \"Neues Konto hinzufügen\" klicken, um eine neue externe Bank einzurichten. Für weitere Unterstützung bei der Einrichtung Ihres externen Kontos kontaktieren Sie uns bitte unter 800-321-3463.",
+        "yext/name": "Wie kann ich von Bank zu Bank überweisen?",
+        "yext/question": "Wie kann ich von Bank zu Bank überweisen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Para configurar una transferencia externa entre las cuentas bancarias que posee, debe iniciar sesión en su cuenta en línea, hacer clic en Transferencias y seleccionar Transferencias externas en el menú desplegable. Los usuarios nuevos pueden hacer clic en \"Agregar una nueva cuenta\" para configurar un nuevo banco externo. Para obtener más ayuda con la configuración de su cuenta externa, contáctenos al 800-321-3463.",
+        "yext/name": "¿Cómo puedo transferir de un banco a otro?",
+        "yext/question": "¿Cómo puedo transferir de un banco a otro?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Pour effectuer un virement externe entre des comptes bancaires dont vous êtes propriétaire, vous devez vous connecter à votre compte en ligne, cliquer sur Transferts et sélectionner Virements externes dans le menu déroulant. Les nouveaux utilisateurs peuvent cliquer sur \"Ajouter un nouveau compte\" pour créer une nouvelle banque externe. Pour plus d\u0027informations sur la création de votre compte externe, veuillez nous contacter au 800-321-3463.",
+        "yext/name": "Comment puis-je effectuer un transfert de banque à banque ?",
+        "yext/question": "Comment puis-je effectuer un transfert de banque à banque ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Per impostare un trasferimento esterno tra conti bancari di tua proprietà, devi accedere al tuo conto online Dime, fare clic su Trasferimenti e selezionare Trasferimenti esterni dal menu a discesa. La prima volta che gli utenti possono fare clic su \"Aggiungi un nuovo account\" per creare una nuova banca esterna. Per ulteriore assistenza con la configurazione del tuo account esterno, ti preghiamo di contattarci al numero 800-321-3463.",
+        "yext/name": "Come posso effettuare il trasferimento da una banca all\u0027altra?",
+        "yext/question": "Come posso effettuare il trasferimento da una banca all\u0027altra?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "所有している銀行口座間で外部送金を設定するには、ダイムオンラインアカウントにログインし、[送金]をクリックして、ドロップダウンメニューから[外部送金]を選択する必要があります。初めてのユーザーは[新しいアカウントを追加]をクリックして、新しい外部銀行を設定できます。外部アカウントの設定の詳細については、800-321-3463までお問い合わせください。",
+        "yext/name": "銀行間での送金方法を教えてください。",
+        "yext/question": "銀行間での送金方法を教えてください。"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

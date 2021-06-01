@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ033",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Business Integrity Hotline",
+        "url": "http://www.dime.ethicspoint.com"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "Dime Community Bank is committed to an environment where open, honest communications are the expectation, not the exception. We want you to feel comfortable in approaching your supervisor or management in instances where you believe violations of policies or standards have occurred. In situations where you prefer to place an anonymous report in confidence, you are encouraged to report using either the Internet or the telephone. link: www.dime.ethicspoint.com\n\nTelephone: Dial toll-free (844) 707-1206.",
+    "yext/name": "How do I make an anonymous report in confidence about Dime?",
+    "yext/question": "How do I make an anonymous report in confidence about Dime?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Die Dime Community Bank engagiert sich in einem Umfeld, in dem offene, ehrliche Kommunikation die Erwartung und nicht die Ausnahme ist. Wir möchten, dass Sie sich in Fällen, in denen Sie glauben, dass Verstöße gegen Richtlinien oder Standards aufgetreten sind, wohl fühlen, wenn Sie sich an Ihren Vorgesetzten oder Ihr Management wenden. In Situationen, in denen Sie es vorziehen, einen anonymen Bericht vertraulich zu behandeln, werden Sie aufgefordert, entweder über das Internet oder das Telefon zu berichten. Link: www.dime.ethicspoint.com\n \n  Telefon: Wählen Sie gebührenfrei (844) 707-1206.",
+        "yext/name": "Wie erstelle ich vertraulich einen anonymen Bericht über Dime?",
+        "yext/question": "Wie erstelle ich vertraulich einen anonymen Bericht über Dime?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Dime Community Bank está comprometido con un entorno donde las comunicaciones abiertas y honestas son la expectativa, no la excepción. Queremos que se sienta cómodo al acercarse a su supervisor o gerencia en casos en los que cree que han ocurrido violaciones de políticas o estándares. En situaciones en las que prefiere colocar un informe anónimo de forma confidencial, se le recomienda que lo haga por Internet o por teléfono. enlace: www.dime.ethicspoint.com\n \nTeléfono:  (844) 707-1206",
+        "yext/name": "¿Cómo hago un informe anónimo en confianza sobre Dime?",
+        "yext/question": "¿Cómo hago un informe anónimo en confianza sobre Dime?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Dime Community Bank s\u0027est engagée à créer un environnement où des communications ouvertes et honnêtes sont attendues, et non exceptionnelles. Nous voulons que vous vous sentiez à l\u0027aise d\u0027approcher votre superviseur ou votre direction dans les cas où vous pensez que des violations des politiques ou des normes ont été commises. Dans les situations où vous préférez placer un rapport anonyme en toute confidentialité, nous vous encourageons à le signaler en utilisant soit Internet, soit le téléphone. lien : www.dime.ethicspoint.com\n\nTéléphone : Composez le numéro gratuit (844) 707-1206.",
+        "yext/name": "Comment puis-je faire un rapport anonyme et confidentiel sur Dime ?",
+        "yext/question": "Comment puis-je faire un rapport anonyme et confidentiel sur Dime ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Dime Community Bank è impegnata in un ambiente in cui comunicazioni aperte e oneste sono la regola, non l\u0027eccezione. Vogliamo che tu ti senta a tuo agio a confrontarti con il tuo supervisore o con il management nei casi in cui ritieni che si siano verificate violazioni di politiche o standard. In situazioni in cui preferisci comunicare un giudizio anonimo in confidenza, sei incoraggiato a segnalarlo utilizzando Internet o il telefono. link: www.dime.ethicspoint.com\n\nTelefono: componi il numero verde (844) 707-1206.",
+        "yext/name": "Come posso fare una segnalazione anonima in confidenza su Dime?",
+        "yext/question": "Come posso fare una segnalazione anonima in confidenza su Dime?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムコミュニティバンク Community Bankは、オープンで正直なコミュニケーションが期待される環境であり、例外ではありません。ポリシーまたは基準の違反が発生したと思われる場合は、上司または経営陣に安心して連絡してください。匿名の報告を信頼して掲載したい場合は、インターネットまたは電話のいずれかを使用して報告することをお勧めします。リンク：www.ダイムコミュニティバンク.ethicspoint.com電話：フリーダイヤル（844）707-1206にダイヤルします。",
+        "yext/name": "ダイムコミュニティバンクについて信頼できる匿名のレポートを作成するにはどうすればよいですか？",
+        "yext/question": "ダイムコミュニティバンクについて信頼できる匿名のレポートを作成するにはどうすればよいですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

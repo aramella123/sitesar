@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ028",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Branch Locations",
+        "url": "http://dime.com/branches"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "You can find all of Dime\u0027s branch locations by clicking the link below.",
+    "yext/name": "Where are Dime branches located?",
+    "yext/question": "Where are Dime branches located?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie finden alle Filialen von Dime, indem Sie auf den unten stehenden Link klicken.",
+        "yext/name": "Wo befinden sich Dime-Filialen?",
+        "yext/question": "Wo befinden sich Dime-Filialen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Puede encontrar todas las sucursales de Dime haciendo clic en el enlace a continuación.",
+        "yext/name": "¿Dónde se encuentran las sucursales de Dime?",
+        "yext/question": "¿Dónde se encuentran las sucursales de Dime?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous pouvez trouver toutes les agences de Dime en cliquant sur le lien ci-dessous.",
+        "yext/name": "Où se trouvent les agences Dime ?",
+        "yext/question": "Où se trouvent les agences Dime ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Puoi trovare tutte le filiali di Dime facendo clic sul link in basso.",
+        "yext/name": "Dove si trovano le filiali Dime?",
+        "yext/question": "Dove si trovano le filiali Dime?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "下のリンクをクリックすると、ダイムのすべての支店の場所を見つけることができます。",
+        "yext/name": "ダイムの支店はどこにありますか？",
+        "yext/question": "ダイムの支店はどこにありますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ043",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Contact Us",
+        "url": "https://www.dime.com/contact-us"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "Dime\u0027s customer service phone number is 1-800-321-3463.",
+    "yext/name": "What is Dime\u0027s customer service phone number?",
+    "yext/question": "What is Dime\u0027s customer service phone number?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Die Telefonnummer für den Kundendienst von Dime lautet 1-800-321-3463.",
+        "yext/name": "Wie lautet die Telefonnummer des Kundendienstes von Dime?",
+        "yext/question": "Wie lautet die Telefonnummer des Kundendienstes von Dime?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "El número de teléfono de servicio al cliente de Dime es 1-800-321-3463.",
+        "yext/name": "¿Cuál es el número de teléfono de servicio al cliente de Dime?",
+        "yext/question": "¿Cuál es el número de teléfono de servicio al cliente de Dime?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Le numéro de téléphone du service clientèle de Dime est le 1-800-321-3463.",
+        "yext/name": "Quel est le numéro de téléphone du service clientèle de Dime ?",
+        "yext/question": "Quel est le numéro de téléphone du service clientèle de Dime ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Il numero di telefono del servizio clienti di Dime è 1-800-321-3463.",
+        "yext/name": "Qual è il numero di telefono del servizio clienti di Dime?",
+        "yext/question": "Qual è il numero di telefono del servizio clienti di Dime?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムのカスタマーサービスの電話番号は1-800-321-3463です。",
+        "yext/name": "ダイムのカスタマーサービスの電話番号は何ですか？",
+        "yext/question": "ダイムのカスタマーサービスの電話番号は何ですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

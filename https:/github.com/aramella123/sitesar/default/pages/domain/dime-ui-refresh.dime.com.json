@@ -1,0 +1,10 @@
+{
+  "$id": "dime-ui-refresh.dime.com",
+  "$schema": "https://schema.yext.com/config/pages/domain/v1",
+  "domainName": "dime-ui-refresh.dime.com",
+  "autoGenerateSitemap": true,
+  "domainAccess": false,
+  "pagesCDNAccess": true,
+  "answersIntegration": true,
+  "reverseProxy": false
+}

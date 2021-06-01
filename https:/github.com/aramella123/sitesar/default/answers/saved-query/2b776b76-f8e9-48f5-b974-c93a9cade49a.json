@@ -1,0 +1,14 @@
+{
+  "$id": "2b776b76-f8e9-48f5-b974-c93a9cade49a",
+  "$schema": "https://schema.yext.com/config/answers/saved-query/v1",
+  "answersKey": "dime",
+  "idealResult": {
+    "relevantSections": []
+  },
+  "locale": "en",
+  "latitude": 40.7359,
+  "longitude": -73.9904,
+  "pinIdealResults": false,
+  "queryString": "mortgage",
+  "notes": ""
+}

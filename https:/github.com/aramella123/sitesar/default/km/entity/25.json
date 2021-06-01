@@ -1,0 +1,385 @@
+{
+  "$id": "25",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_answersGeomodifier": "Cedarhurst",
+    "c_answersServices": [
+      "Safe Deposit Boxes"
+    ],
+    "c_branchServices": [
+      "product-49",
+      "product-40",
+      "product-6",
+      "product-5"
+    ],
+    "c_parents": [
+      "cedarhurstNY"
+    ],
+    "c_slug": "[[entityId]]",
+    "yext/address": {
+      "city": "Cedarhurst",
+      "countryCode": "US",
+      "line1": "432 Central Avenue",
+      "postalCode": "11516",
+      "region": "NY",
+      "sublocality": "Nassau"
+    },
+    "yext/alternatePhone": "+18003213463",
+    "yext/categoryIds": [
+      "1437887",
+      "1091",
+      "2288"
+    ],
+    "yext/description": "Dime Community Bank has helped New Yorkers achieve their personal and business banking goals for over 155 years. Every day, we deliver smart solutions to our business and retail customers, by providing financial guidance, personal service and honest value. We offer checking to fit your needs or lifestyle, competitive rates on CDs and money market accounts, and anytime, anywhere access through online and mobile banking. For businesses, we provide loans and lines, as well as SBA lending. Stop by any of our convenient 29 branches in Brooklyn, Queens, the Bronx, Nassau and Suffolk counties.",
+    "yext/facebookPageUrl": "https://www.facebook.com/DimeCedarhurst/",
+    "yext/featuredMessage": {
+      "description": "Buying a Home? Apply Online.",
+      "url": "https://www.dime.com/personal/mortgage?utm_source\u003dyext\u0026utm_medium\u003dlocal-listing-link\u0026utm_campaign\u003dmortgage"
+    },
+    "yext/geomodifier": "Cedarhurst",
+    "yext/hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "13:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "13:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "13:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "13:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "13:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "13:00",
+            "start": "09:00"
+          }
+        ]
+      }
+    },
+    "yext/languages": [
+      "Spanish",
+      "Greek",
+      "Italian"
+    ],
+    "yext/localPhone": "+15165691064",
+    "yext/logo": {
+      "image": {
+        "height": 890,
+        "sourceUrl": "http://a.mktgcdn.com/p/hk0SIZu_lbe19JDz05gLHXtYH2AfBSfj6vJjY3alB70/890x890.jpg",
+        "thumbnails": [
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p/hk0SIZu_lbe19JDz05gLHXtYH2AfBSfj6vJjY3alB70/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p/hk0SIZu_lbe19JDz05gLHXtYH2AfBSfj6vJjY3alB70/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p/hk0SIZu_lbe19JDz05gLHXtYH2AfBSfj6vJjY3alB70/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/hk0SIZu_lbe19JDz05gLHXtYH2AfBSfj6vJjY3alB70/890x890.jpg",
+        "width": 890
+      }
+    },
+    "yext/mainPhone": "+15165691064",
+    "yext/name": "Dime Community Bank",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "http://a.mktgcdn.com/p/5_IQZXLIrJIZL4eULvK4lrnQae3ncFTV90m9JbMy_rU/640x480.jpg",
+          "thumbnails": [
+            {
+              "height": 464,
+              "url": "http://a.mktgcdn.com/p/5_IQZXLIrJIZL4eULvK4lrnQae3ncFTV90m9JbMy_rU/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/5_IQZXLIrJIZL4eULvK4lrnQae3ncFTV90m9JbMy_rU/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "http://a.mktgcdn.com/p/5_IQZXLIrJIZL4eULvK4lrnQae3ncFTV90m9JbMy_rU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/5_IQZXLIrJIZL4eULvK4lrnQae3ncFTV90m9JbMy_rU/640x480.jpg",
+          "width": 640
+        }
+      }
+    ],
+    "yext/products": [
+      "Personal Checking",
+      "Savings",
+      "Money Market",
+      "CDs",
+      "Mortgages",
+      "IRA",
+      "Online Banking",
+      "Bill Pay",
+      "Mobile Banking",
+      "Zelle. Business Checking and Savings",
+      "Business Credit and Lending",
+      "SBA Loans",
+      "Lines of Credit",
+      "Merchant Services",
+      "Business Online Banking",
+      "Bill Pay and Mobile Banking."
+    ],
+    "yext/reservationUrl": {
+      "preferDisplayUrl": false,
+      "url": "https://www02a.timetrade.com/app/dimebank/workflows/DIME001/schedule/appointment-type-group?wfsid\u003d16a5bc0d-baba97f6-16a5bb38-baba97f6-00000002-h9e43bcjsficjafb8ipec85pmn6drgqa\u0026locationId\u003dcedarhurstoffice\u0026resourceId\u003d\u0026fs\u003d1"
+    },
+    "yext/services": [
+      "Online Banking",
+      "Safe Deposit Boxes",
+      "eStatements",
+      "Debit Cards",
+      "Telephone Banking",
+      "Check Ordering",
+      "Direct Deposit",
+      "Overdraft Protection",
+      "CDARS/ICS. Lockbox Access",
+      "Remote Deposit Capture."
+    ],
+    "yext/specialities": [
+      "The Business and Commercial Bank of New York. All business types",
+      "including Legal/Attorney",
+      "Accounting",
+      "Medical",
+      "Real Estate and Franchises."
+    ],
+    "yext/timezone": "America/New_York",
+    "yext/twitterHandle": "DimeBank",
+    "yext/videos": [
+      {
+        "video": {
+          "url": "http://www.youtube.com/watch?v\u003dedZNWaaY6FM"
+        }
+      }
+    ],
+    "yext/websiteUrl": {
+      "preferDisplayUrl": false,
+      "url": "https://www.dime.com/branches/cedarhurst"
+    },
+    "yext/yearEstablished": 1864
+  },
+  "entityType": "yext/location",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_answersServices": [
+          "Bankschließfächer"
+        ],
+        "yext/description": "Die Dime Community Bank unterstützt New Yorker seit über 155 Jahren beim Erreichen ihrer persönlichen und geschäftlichen Bankziele. Jeden Tag liefern wir unseren Geschäfts- und Einzelhandelskunden intelligente Lösungen, indem wir finanzielle Beratung, persönlichen Service und ehrlichen Wert bieten. Wir bieten Ihren Bedürfnissen und Lebensstil entsprechende Girokonten an, wettbewerbsfähige Preise für CDs und Geldmarktkonten sowie jederzeit und überall Zugriff auf Online- und Mobile-Banking. Für Unternehmen bieten wir Kredite und Linien sowie SBA-Kredite an. Besuchen Sie eine unserer 29 praktischen Niederlassungen in Brooklyn, Queens, der Bronx, Nassau und Suffolk.",
+        "yext/name": "Dime Community Bank"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/description": "Dime Community Bank ha ayudado a los neoyorquinos a alcanzar sus objetivos bancarios personales y comerciales durante más de 155 años. Todos los días, entregamos soluciones inteligentes a nuestros clientes comerciales y minoristas, proporcionando orientación financiera, servicio personal y valor honesto. Ofrecemos cheques que se ajustan a sus necesidades o estilo de vida, tarifas competitivas en CD y cuentas del mercado monetario, y acceso en cualquier momento y en cualquier lugar a través de banca en línea y móvil. Para las empresas, nosotros proporcianamos préstamos y líneas, así como préstamos de la SBA. Pase por cualquiera de nuestras 29 sucursales convenientes en los condados de Brooklyn, Queens, Bronx, Nassau y Suffolk.",
+        "yext/languages": [
+          "Español",
+          "griego",
+          "italiano"
+        ],
+        "yext/name": "Dime Community Bank",
+        "yext/products": [
+          "Cheques personales",
+          "ahorros",
+          "mercado monetario",
+          "CD",
+          "hipotecas",
+          "IRA",
+          "banca en línea",
+          "pago de facturas",
+          "banca móvil",
+          "Zelle. Cheques y ahorros comerciales",
+          "créditos y préstamos comerciales",
+          "préstamos de la SBA",
+          "líneas de crédito",
+          "servicios comerciales",
+          "banca comercial en línea",
+          "pago de facturas y banca móvil."
+        ],
+        "yext/services": [
+          "Banca en línea",
+          "cajas de seguridad",
+          "declaraciones electrónicas",
+          "tarjetas de débito",
+          "banca telefónica",
+          "pedido de cheques",
+          "depósito directo",
+          "protección contra sobregiros",
+          "CDARS / ICS. Acceso a la caja de seguridad",
+          "captura remota de depósitos."
+        ],
+        "yext/specialities": [
+          "El Banco Comercial y de Negocios de Nueva York. Todos los tipos de negocios",
+          "incluidos los legales / abogados",
+          "contables",
+          "médicos",
+          "inmobiliarios y franquicias."
+        ]
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_answersServices": [
+          "Coffre-fort de dépôt"
+        ],
+        "yext/description": "Dime Community Bank aide les New-Yorkais à atteindre leurs objectifs bancaires personnels et professionnels depuis plus de 155 ans. Chaque jour, nous proposons des solutions intelligentes à nos clients professionnels et particuliers, en leur fournissant des conseils financiers, un service personnel et une valeur honnête. Nous offrons des vérifications adaptées à vos besoins ou à votre style de vie, des taux compétitifs sur les couvertures de défaillance et les comptes du marché monétaire, et un accès à tout moment et en tout lieu par le biais des services bancaires en ligne et mobiles. Pour les entreprises, nous proposons des prêts et des lignes de crédit, ainsi que des prêts SBA. Rendez-nous visite dans l\u0027une de nos 29 agences à Brooklyn, dans le Queens, dans les comtés du Bronx, de Nassau et du Suffolk.",
+        "yext/languages": [
+          "Espagnol",
+          "Grec",
+          "Italien"
+        ],
+        "yext/name": "Dime Community Bank",
+        "yext/products": [
+          "Comptes personnels",
+          "épargne",
+          "marché monétaire",
+          "CD",
+          "hypothèques",
+          "IRA",
+          "banque en ligne",
+          "paiement de factures",
+          "banque mobile",
+          "Zelle. Épargne et comptes d\u0027entreprise",
+          "crédit et prêts d\u0027entreprise",
+          "prêts SBA",
+          "lignes de crédit",
+          "services aux commerçants",
+          "paiement de factures et banque mobile."
+        ],
+        "yext/services": [
+          "Banque en ligne",
+          "coffres-forts",
+          "relevés électroniques",
+          "cartes de débit",
+          "banque par téléphone",
+          "commande de chéquier",
+          "dépôt direct",
+          "protection contre les découverts",
+          "CDARS/ICS. Accès aux coffres-forts",
+          "saisie des dépôts à distance."
+        ],
+        "yext/specialities": [
+          "La Business and Commercial Bank of New York. Tous les types d\u0027entreprises",
+          "y compris les services juridiques/avocats",
+          "la comptabilité",
+          "les services médicaux",
+          "l\u0027immobilier et les franchises."
+        ]
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/description": "Dime Community Bank ha aiutato i newyorkesi a raggiungere i loro obiettivi bancari personali e commerciali da oltre 155 anni. Ogni giorno offriamo soluzioni intelligenti per i nostri clienti aziendali e al dettaglio, fornendo assistenza finanziaria, servizio personalizzato e valore onesto. Offriamo servizi di controllo adatti alle tue esigenze o al tuo stile di vita, tariffe competitive su CD e conti del mercato monetario e accesso sempre e ovunque tramite servizi bancari online e mobile. Per le imprese, offriamo prestiti e linee, nonché prestiti SBA. Fermati in una delle nostre 29 comode filiali nelle contee di Brooklyn, Queens, Bronx, Nassau e Suffolk.",
+        "yext/languages": [
+          "Spagnolo",
+          "greco",
+          "italiano"
+        ],
+        "yext/name": "Dime Community Bank",
+        "yext/products": [
+          "Controllo personale",
+          "risparmio",
+          "mercato monetario",
+          "CD",
+          "mutui",
+          "IRA",
+          "servizi bancari online",
+          "pagamento delle bollette",
+          "servizi bancari mobili",
+          "Zelle. Controllo e risparmio delle imprese",
+          "credito e prestiti commerciali",
+          "prestiti SBA",
+          "linee di credito",
+          "servizi per commercianti",
+          "attività bancarie online",
+          "fatture e servizi bancari mobili."
+        ],
+        "yext/services": [
+          "Servizi bancari online",
+          "cassette di sicurezza",
+          "eStatements",
+          "carte di debito",
+          "servizi bancari telefonici",
+          "assegni",
+          "deposito diretto",
+          "protezione da scoperto",
+          "CDARS / ICS. Accesso Lockbox",
+          "Acquisizione remota dei depositi."
+        ],
+        "yext/specialities": [
+          "La Business and Commercial Bank di New York. Tutti i tipi di attività",
+          "inclusi legale / avvocato",
+          "contabilità",
+          "medicina",
+          "proprietà immobiliari e franchising."
+        ]
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/description": "ダイムコミュニティバンクは、ニューヨーカーが155年以上にわたって個人およびビジネスバンキングの目標を達成するのを支援してきました。私たちは毎日、金融ガイダンス、パーソナルサービス、正直な価値を提供することで、ビジネスおよび小売顧客にスマートソリューションを提供しています。お客様のニーズやライフスタイル、CDやマネーマーケットアカウントの競争率、いつでもどこでもオンラインバンキングやモバイルバンキングを通じてアクセスできるチェックを提供します。企業向けには、ローンやライン、SBAローンを提供しています。ブルックリン、クイーンズ、ブロンクス、ナッソー、サフォーク郡の便利な29の支店のいずれかに立ち寄ってください。",
+        "yext/name": "ダイムコミュニティバンク"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

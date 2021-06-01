@@ -1,0 +1,68 @@
+{
+  "$id": "product-34",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_benefits": [
+      "Fixed rate and adjustable options up to $3 million on 1 to 4 family homes \u0027",
+      "\u0027 condos \u0027",
+      "\u0027 and co-ops. From pre approval (2) to closing \u0027",
+      "\u0027 a Dime mortgage loan originator will work with you every step of the way to make sure you get exactly what you need",
+      "You\u0027ll find Dime\u0027s mortgage solutions easy to understand and hard to beat. Plus if you are a Dime banking customer you may be eligible for a special discounted rate on ARM loans",
+      "Free pre-approvals (2). We\u0027ll tell you how much you qualify for so you can be a more savvy homebuyer",
+      "By refinancing your current mortgage \u0027",
+      "\u0027 you can tap into the equity of your home or condo to consolidate high-interest bills of for major expenses like education \u0027",
+      "\u0027 home renovation \u0027",
+      "\u0027 travel \u0027",
+      "\u0027 weddings \u0027",
+      "\u0027 a car \u0027",
+      "\u0027 whatever\u0027s important to you and your family"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Apply Online",
+        "url": "https://5252533772.mortgage-application.net/WebApp/Start.aspx?oempage\u003d1\u0026_ga\u003d2.95586847.2003660159.1582553679-1742100825.1578928651"
+      },
+      {
+        "icon": "chevron",
+        "text": "Get Pre-Approved",
+        "url": "https://5252533772.mortgage-application.net/WebApp/ShortApp.aspx?_ga\u003d2.268013325.2003660159.1582553679-1742100825.1578928651\u0026oempage\u003d1"
+      }
+    ],
+    "c_productType": "Mortgage",
+    "c_slug": "[[entityId]]",
+    "yext/landingPageUrl": "https://www.dime.com/personal/mortgage",
+    "yext/name": "Mortgages",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1231,
+          "sourceUrl": "https://images.pexels.com/photos/4482903/pexels-photo-4482903.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "thumbnails": [
+            {
+              "height": 761,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/619x761.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/365x450.jpg",
+              "width": 365
+            },
+            {
+              "height": 241,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/196x241.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/1000x1231.jpg",
+          "width": 1000
+        }
+      }
+    ],
+    "yext/richTextDescription": "Dime has the local knowledge that comes from being a neighborhood bank, plus seasoned mortgage loan originators \u0026 the commitment to deliver a mortgage loan done right."
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

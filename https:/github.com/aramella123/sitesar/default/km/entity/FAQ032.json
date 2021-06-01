@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ032",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "About Dime",
+        "url": "https://www.dime.com/about"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "Yes, Dime is a publicly traded company.",
+    "yext/name": "Is Dime a publicly traded company?",
+    "yext/question": "Is Dime a publicly traded company?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Ja, Dime ist ein börsennotiertes Unternehmen.",
+        "yext/name": "Ist Dime ein börsennotiertes Unternehmen?",
+        "yext/question": "Ist Dime ein börsennotiertes Unternehmen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Sí, Dime es una empresa que cotiza en bolsa.",
+        "yext/name": "¿Dime es una empresa que cotiza en bolsa?",
+        "yext/question": "¿Dime es una empresa que cotiza en bolsa?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Oui, Dime est une société cotée en bourse.",
+        "yext/name": "Dime est-elle une société cotée en bourse ?",
+        "yext/question": "Dime est-elle une société cotée en bourse ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Sì, Dime è una società quotata in borsa.",
+        "yext/name": "Dime è una società quotata in borsa?",
+        "yext/question": "Dime è una società quotata in borsa?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "はい、ダイムは上場企業です。",
+        "yext/name": "ダイムは上場企業ですか？",
+        "yext/question": "ダイムは上場企業ですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

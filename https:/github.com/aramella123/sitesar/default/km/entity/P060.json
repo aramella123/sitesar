@@ -1,0 +1,76 @@
+{
+  "$id": "P060",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ctas": [
+      {
+        "icon": "star",
+        "text": "App Store",
+        "url": "https://apps.apple.com/us/app/dime-business-mobile/id1399334674"
+      },
+      {
+        "icon": "star",
+        "text": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id\u003dcom.obs.android.olm.dime.prod\u0026hl\u003den_US"
+      }
+    ],
+    "c_productType": "Mobile Banking",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Already a Customer? Download on the App Store or Google Play.",
+    "yext/keywords": [
+      "App"
+    ],
+    "yext/landingPageUrl": "https://www.dime.com/business/mobile-banking",
+    "yext/name": "Business Mobile App"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Mobiles Banking",
+        "yext/description": "Schon Kunde? Im App Store oder bei Google Play herunterladen.",
+        "yext/name": "Business Mobile App"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_productType": "La Banca Móvil",
+        "yext/description": "¿Ya eres cliente? Descargar en la App Store o Google Play.",
+        "yext/name": "Aplicación móvil empresarial"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_productType": "Banque mobile",
+        "yext/description": "Déjà client ? Téléchargez sur l\u0027App Store ou sur Google Play.",
+        "yext/name": "Application mobile pour entreprises"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_productType": "Mobile Banking",
+        "yext/description": "Sei già cliente? Scarica su App Store o Google Play.",
+        "yext/name": "App mobile aziendale"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "モバイルバンキング",
+        "yext/description": "すでにお客様ですか？App StoreまたはGoogle Playからダウンロードしてください。",
+        "yext/name": "ビジネスモバイルアプリ"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

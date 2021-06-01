@@ -1,0 +1,103 @@
+{
+  "$id": "P003",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "For businesses with more complex banking needs and high transaction volumes.",
+      "\u0027Access to free business debit card",
+      "online banking",
+      "mobile banking with mobile deposit(1)",
+      "bill pay",
+      "and e-statements\u0027",
+      "No Dime charges for non-Dime ATM use(2)"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/business/checking/preferred-checking"
+      }
+    ],
+    "c_fees": "20.0",
+    "c_minimumDeposit": "100.0",
+    "c_productType": "Business Checking",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Designed for businesses with more complex banking needs, our Dime Preferred Checking account is perfect for the high transaction volume of established businesses.",
+    "yext/landingPageUrl": "https://www.dime.com/business/checking/preferred-checking",
+    "yext/name": "Preferred Checking"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Business-Girokonto",
+        "yext/description": "Unser Dime Preferred Checking-Konto wurde für Unternehmen mit komplexeren Bankanforderungen entwickelt und eignet sich perfekt für das hohe Transaktionsvolumen etablierter Unternehmen.",
+        "yext/name": "Bevorzugte Prüfung"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Para empresas con necesidades bancarias más complejas y altos volúmenes de transacciones.",
+          "\u0027Acceso a tarjeta de débito comercial gratuita",
+          "banca en línea",
+          "banca móvil con depósito móvil (1)",
+          "pago de facturas y estados de cuenta electrónicos\u0027",
+          "sin cargos Dime para cajeros automáticos que no sean Dime uso (2)"
+        ],
+        "c_productType": "Cuenta corriente comercial",
+        "yext/description": "Diseñada para negocios con necesidades bancarias más complejas, nuestra cuenta corriente Dime Preferred es perfecta para el alto volumen de transacciones de negocios establecidos.",
+        "yext/name": "Cuenta de cheques preferida"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Pour les entreprises ayant des besoins bancaires plus complexes et des volumes de transactions élevés.",
+          "\u0027Accès à une carte de débit professionnelle gratuite",
+          "aux services bancaires en ligne",
+          "aux services bancaires mobiles avec dépôt mobile(1)",
+          "au paiement de factures et aux relevés électroniques\u0027",
+          "Pas de frais pour l\u0027utilisation de distributeurs automatiques de billets autres que ceux de Dime(2)"
+        ],
+        "c_productType": "Compte Courant Entreprises",
+        "yext/description": "Conçu pour les entreprises ayant des besoins bancaires plus complexes, notre compte Chèque Préférentiel Dime est parfait pour le volume élevé de transactions des entreprises établies.",
+        "yext/name": "Vérification des préférences"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Per le aziende con esigenze bancarie più complesse e elevati volumi di transazioni.",
+          "\"Accesso a carta di debito aziendale gratuita",
+          "servizi bancari online",
+          "mobile banking con deposito mobile (1)",
+          "pagamento delle bollette e dichiarazioni elettroniche\"",
+          "nessun addebito per gli sportelli bancomat non Dime uso (2)"
+        ],
+        "c_productType": "Conto Aziendale",
+        "yext/description": "Progettato per le aziende con esigenze bancarie più complesse, il nostro conto Dime Preferred Checking è perfetto per l\u0027elevato volume di transazioni delle aziende stabilite.",
+        "yext/name": "Controllo preferito"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "ビジネスチェック",
+        "yext/description": "銀行業務のニーズがより複雑なビジネス向けに設計された、ダイムコミュニティバンク Preferred Checkingアカウントは、確立されたビジネスの大量のトランザクションに最適です。",
+        "yext/name": "優先チェック"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

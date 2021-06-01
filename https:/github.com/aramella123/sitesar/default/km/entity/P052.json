@@ -1,0 +1,83 @@
+{
+  "$id": "P052",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Order checks and deposit slips when you need them. Place an order directly from our partner",
+      "Harland Clarke(2)."
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Reorder checks",
+        "url": "https://www.ordermychecks.com/login_a.jsp"
+      }
+    ],
+    "c_productType": "Additional Business Banking Services",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Get your checks delivered directly to your home. Order checks and deposit slips when you need them. Place an order directly from our partner, Harland Clarke.",
+    "yext/name": "Check Reordering"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Zusätzliche Business Banking Services",
+        "yext/description": "Lassen Sie Ihre Schecks direkt zu Ihnen nach Hause liefern. Bestellen Sie Schecks und Einzahlungsscheine, wenn Sie sie benötigen. Bestellen Sie direkt bei unserem Partner Harland Clarke.",
+        "yext/name": "Scheck Nachbestellung"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Solicite cheques y comprobantes de depósito cuando los necesite. Realice un pedido directamente de nuestro socio",
+          "Harland Clarke (2)."
+        ],
+        "c_productType": "Servicios adicionales de banca personal",
+        "yext/description": "Obtenga sus cheques entregados directamente a su casa. Solicite cheques y comprobantes de depósito cuando los necesite. Haga un pedido directamente de nuestro socio, Harland Clarke.",
+        "yext/name": "Reordenar cheques"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Commandez des chèques et des bordereaux de dépôt lorsque vous en avez besoin. Passez une commande directement auprès de notre partenaire\u0027",
+          "\u0027 Harland Clarke(2)."
+        ],
+        "c_productType": "Autres services bancaires aux entreprises",
+        "yext/description": "Faites-vous livrer vos chèques directement à votre domicile. Commandez des chèques et des bordereaux de dépôt lorsque vous en avez besoin. Passez une commande directement auprès de notre partenaire, Harland Clarke.",
+        "yext/name": "Commande de chèques"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Ordina assegni e polizze di versamento quando ne hai bisogno. Effettua un ordine direttamente dal nostro partner",
+          "Harland Clarke (2)."
+        ],
+        "c_productType": "Servizi bancari aziendali aggiuntivi",
+        "yext/description": "Ricevi i tuoi assegni direttamente a casa tua. Ordina assegni e polizze di versamento quando ne hai bisogno. Effettua un ordine direttamente dal nostro partner, Harland Clarke.",
+        "yext/name": "Controlla il riordino"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "追加のビジネスバンキングサービス",
+        "yext/description": "小切手を自宅に直接お届けします。小切手を注文し、必要なときに伝票を預けます。パートナーのHarland Clarkeから直接注文してください。",
+        "yext/name": "再注文の確認"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

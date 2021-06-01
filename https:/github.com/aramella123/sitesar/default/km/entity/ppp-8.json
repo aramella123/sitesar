@@ -1,0 +1,81 @@
+{
+  "$id": "ppp-8",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "You will need to provide your lender with payroll documentation.",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "What other documents will I need to include in my application?",
+    "yext/question": "What other documents will I need to include in my application?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie müssen Ihrem Kreditgeber eine Gehaltsabrechnung vorlegen.",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Welche anderen Dokumente muss ich in meine Bewerbung aufnehmen?",
+        "yext/question": "Welche anderen Dokumente muss ich in meine Bewerbung aufnehmen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Deberá proporcionarle a su prestamista la documentación de la nómina.",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Qué otros documentos necesitaré incluir en mi solicitud?",
+        "yext/question": "¿Qué otros documentos necesitaré incluir en mi solicitud?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous devrez fournir à votre prêteur les documents relatifs à la paie.",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "Quels autres documents devrai-je inclure dans ma demande",
+        "yext/question": "Quels autres documents devrai-je inclure dans ma demande"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Dovrai fornire al tuo creditore la documentazione sui salari.",
+        "yext/keywords": [
+          "ppp.protezione dello stipendio"
+        ],
+        "yext/name": "Quali altri documenti dovrò includere nella mia domanda?",
+        "yext/question": "Quali altri documenti dovrò includere nella mia domanda?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "貸し手に給与計算書を提供する必要があります。",
+        "yext/name": "アプリケーションに含める必要がある他のドキュメントは何ですか？",
+        "yext/question": "アプリケーションに含める必要がある他のドキュメントは何ですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "$id": "product-40",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_benefits": [
+      "Reduce your footprint",
+      "Paperless",
+      "Keep clutter away"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Personal Login",
+        "url": "https://dime.onlinebank.com/SignIn.aspx"
+      },
+      {
+        "icon": "chevron",
+        "text": "Business Login",
+        "url": "https://dime.olbanking.com/smallbusiness/auth"
+      }
+    ],
+    "c_productType": "Additional Business Banking Services",
+    "c_slug": "[[entityId]]",
+    "yext/landingPageUrl": "http://www.landingpage.com",
+    "yext/name": "eStatements",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1231,
+          "sourceUrl": "https://images.pexels.com/photos/4482903/pexels-photo-4482903.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "thumbnails": [
+            {
+              "height": 761,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/619x761.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/365x450.jpg",
+              "width": 365
+            },
+            {
+              "height": 241,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/196x241.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/1000x1231.jpg",
+          "width": 1000
+        }
+      }
+    ],
+    "yext/richTextDescription": "You can accept e-statements by logging into your online account, clicking on \"Accounts\" \u003e \"eStatements\" from the drop-down menu and agreeing to the Agreement. To sign up for eStatements, or if you have a question, please us at 800-321-3464."
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "2f02e153-dcbf-4b44-8e31-a5906a58c4d1",
+  "$schema": "https://schema.yext.com/config/answers/saved-query/v1",
+  "answersKey": "dime",
+  "idealResult": {
+    "relevantSections": []
+  },
+  "locale": "en",
+  "latitude": 40.7359,
+  "longitude": -73.9904,
+  "pinIdealResults": false,
+  "queryString": "money market rates",
+  "notes": ""
+}

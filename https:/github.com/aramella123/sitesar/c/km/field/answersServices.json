@@ -1,0 +1,41 @@
+{
+  "$id": "c_answersServices",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "Answers Services",
+  "displayNameTranslation": [
+    {
+      "localeCode": "de",
+      "value": "Answers Services"
+    },
+    {
+      "localeCode": "es",
+      "value": "Servicios de Respuestas"
+    },
+    {
+      "localeCode": "fr",
+      "value": "Services Answers"
+    },
+    {
+      "localeCode": "it",
+      "value": "Servizi Answers"
+    },
+    {
+      "localeCode": "ja",
+      "value": "Answersプロダクト"
+    }
+  ],
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "type": {
+    "listType": {
+      "typeId": "yext/string",
+      "type": {
+        "stringType": {
+          "stereotype": "SIMPLE"
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

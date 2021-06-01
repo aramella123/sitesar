@@ -1,0 +1,54 @@
+{
+  "$id": "product-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_benefits": [
+      "Improve check fraud detection and mitigation",
+      "simplify accounts payable processing",
+      "Improve audit control",
+      "Improve business flow and profitability"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/cash-management-solutions/positive-pay"
+      }
+    ],
+    "c_productType": "Positive Pay",
+    "c_slug": "[[entityId]]",
+    "yext/landingPageUrl": "https://www.dime.com/cash-management-solutions/positive-pay",
+    "yext/name": "Positive Pay",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1231,
+          "sourceUrl": "https://images.pexels.com/photos/4482903/pexels-photo-4482903.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "thumbnails": [
+            {
+              "height": 761,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/619x761.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/365x450.jpg",
+              "width": 365
+            },
+            {
+              "height": 241,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/196x241.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/1000x1231.jpg",
+          "width": 1000
+        }
+      }
+    ],
+    "yext/richTextDescription": "With Check Positive Pay (1), we’ll match each check processed and presented for payment against a list of checks issued by your business each day. If exceptions are found, we’ll report them to your business for review, and you can make the final “go/no go” decision. We also provide ACH Positive Pay services."
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

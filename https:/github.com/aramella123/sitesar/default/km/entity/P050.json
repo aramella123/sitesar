@@ -1,0 +1,80 @@
+{
+  "$id": "P050",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Sign up for a Business Debit Card to make the purchases you need or draw funds from the millions of ATMs around the world(1)."
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/business/additional-business-services"
+      }
+    ],
+    "c_productType": "Additional Business Banking Services",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Sign up for a Business Debit Card to make the purchases you need or draw funds from the millions of ATMs around the world.",
+    "yext/landingPageUrl": "https://www.dime.com/business/additional-business-services",
+    "yext/name": "Business Debit Cards"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Zusätzliche Business Banking Services",
+        "yext/description": "Melden Sie sich für eine Business-Debitkarte an, um die gewünschten Einkäufe zu tätigen oder Geld von Millionen von Geldautomaten auf der ganzen Welt abzuheben.",
+        "yext/name": "Geschäfts-Debitkarten"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Regístrese para obtener una tarjeta de débito comercial para realizar las compras que necesita o retirar fondos de los millones de cajeros automáticos de todo el mundo (1)."
+        ],
+        "c_productType": "Servicios adicionales de banca personal",
+        "yext/description": "Regístrese para obtener una tarjeta de débito comercial para realizar las compras que necesita o retirar fondos de los millones de cajeros automáticos de todo el mundo.",
+        "yext/name": "Tarjetas de débito comerciales"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Inscrivez-vous à une carte de débit professionnelle pour effectuer les achats dont vous avez besoin ou pour retirer des fonds dans les millions de distributeurs automatiques de billets du monde entier(1)."
+        ],
+        "c_productType": "Autres services bancaires aux entreprises",
+        "yext/description": "Inscrivez-vous à une carte de débit professionnelle pour effectuer les achats dont vous avez besoin ou pour retirer des fonds dans les millions de distributeurs automatiques de billets du monde entier.",
+        "yext/name": "Cartes de débit professionnelles"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Iscriviti a una carta di debito aziendale per effettuare gli acquisti di cui hai bisogno o prelevare fondi da milioni di sportelli automatici in tutto il mondo (1)."
+        ],
+        "c_productType": "Servizi bancari aziendali aggiuntivi",
+        "yext/description": "Richiedi una carta di debito aziendale per effettuare gli acquisti di cui hai bisogno o prelevare fondi da milioni di sportelli automatici in tutto il mondo.",
+        "yext/name": "Carte di debito aziendali"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "追加のビジネスバンキングサービス",
+        "yext/description": "ビジネスデビットカードにサインアップして、必要な購入を行うか、世界中の数百万のATMから資金を引き出します。",
+        "yext/name": "ビジネスデビットカード"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "$id": "ppp-17",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "0.50% fixed rate.",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "What is my interest rate?",
+    "yext/question": "What is my interest rate?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "0,50% fester Satz.",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Was ist mein Zinssatz?",
+        "yext/question": "Was ist mein Zinssatz?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "0.50% de interes fijo",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Cuál es mi tasa de interés?",
+        "yext/question": "¿Cuál es mi tasa de interés?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "0.50% taux fixe.",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "Quel est mon taux d\u0027intérêt ?",
+        "yext/question": "Quel est mon taux d\u0027intérêt ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "tasso fisso 0.50%",
+        "yext/keywords": [
+          "ppp.protezione dello stipendio"
+        ],
+        "yext/name": "Qual è il mio tasso di interesse?",
+        "yext/question": "Qual è il mio tasso di interesse?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "0.50％の固定レート。",
+        "yext/name": "私の金利はいくらですか？",
+        "yext/question": "私の金利はいくらですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

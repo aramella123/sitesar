@@ -1,0 +1,419 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "dime",
+  "name": "Dime Answers Experience",
+  "supportedLocales": [],
+  "countryRestrictions": [],
+  "verticals": {
+    "covid_faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "COVID-19 FAQs",
+      "savedSearchId": "30488153",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_coronaVirusFAQ": {
+          "textSearch": true
+        },
+        "c_dateOfUpdate": {
+          "sortable": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [
+        {
+          "direction": "DESC",
+          "field": "c_dateOfUpdate",
+          "type": "FIELD"
+        }
+      ],
+      "source": "KNOWLEDGE_MANAGER",
+      "verticalIntents": {
+        "blacklistedIntents": [],
+        "boostingIntents": [
+          {
+            "boost": 25,
+            "phrase": "covid"
+          },
+          {
+            "boost": 25,
+            "phrase": "covid-19"
+          },
+          {
+            "boost": 25,
+            "phrase": "coronavirus"
+          }
+        ]
+      }
+    },
+    "faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "FAQs",
+      "savedSearchId": "29154600",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_dateOfUpdate": {
+          "sortable": true
+        },
+        "keywords": {
+          "facet": true,
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [
+        {
+          "direction": "DESC",
+          "field": "c_dateOfUpdate",
+          "type": "FIELD"
+        }
+      ],
+      "source": "KNOWLEDGE_MANAGER",
+      "verticalIntents": {
+        "blacklistedIntents": [],
+        "boostingIntents": [
+          {
+            "boost": 25,
+            "phrase": "contact dime"
+          },
+          {
+            "boost": 25,
+            "phrase": "mortgate rate calculator"
+          },
+          {
+            "boost": 25,
+            "phrase": "mortgate rate calculators"
+          },
+          {
+            "boost": 25,
+            "phrase": "credit card"
+          },
+          {
+            "boost": 25,
+            "phrase": "credit cards"
+          },
+          {
+            "boost": 25,
+            "phrase": "register"
+          },
+          {
+            "boost": 25,
+            "phrase": "sign up"
+          },
+          {
+            "boost": 25,
+            "phrase": "password"
+          },
+          {
+            "boost": 25,
+            "phrase": "passcode"
+          },
+          {
+            "boost": 25,
+            "phrase": "enroll"
+          }
+        ]
+      }
+    },
+    "links": {
+      "apiKey": "AIzaSyCEdak1q61XoYIH9Oq66nI8Z-wqUZDS41U",
+      "cx": "011160367914084378876:45ufrjtiiga",
+      "name": "Links",
+      "source": "GOOGLE_CSE",
+      "useSynonyms": "JUST_CUSTOMER_SYNONYMS"
+    },
+    "locations": {
+      "entityTypes": [
+        "location"
+      ],
+      "name": "Locations",
+      "savedSearchId": "27626683",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true
+        },
+        "c_answersGeomodifier": {
+          "nlpFilter": true
+        },
+        "c_answersServices": {
+          "nlpFilter": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "ppp_faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "PPP FAQs",
+      "savedSearchId": "31713726",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "products": {
+      "entityTypes": [
+        "ce_product"
+      ],
+      "name": "Products",
+      "savedSearchId": "29159999",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_productType": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "nlpFilter": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER",
+      "verticalIntents": {
+        "blacklistedIntents": [],
+        "boostingIntents": [
+          {
+            "boost": 25,
+            "phrase": "refinance"
+          },
+          {
+            "boost": 25,
+            "phrase": "paycheck"
+          },
+          {
+            "boost": 25,
+            "phrase": "ppp"
+          }
+        ]
+      }
+    }
+  },
+  "autocomplete": {
+    "disablePopularQueries": false,
+    "hardcodedPrompts": [
+      "Dime Operations \u0026 COVID-19",
+      "Locations Near Me",
+      "Business Checking Products",
+      "Open a Savings Account",
+      "What are your current cd rates?",
+      "What is Dime\u0027s Routing Number?"
+    ]
+  },
+  "synonyms": {
+    "oneWay": [
+      {
+        "phrase": "branch",
+        "synonyms": [
+          "location"
+        ]
+      },
+      {
+        "phrase": "branches",
+        "synonyms": [
+          "locations"
+        ]
+      },
+      {
+        "phrase": "negozi",
+        "synonyms": [
+          "locations"
+        ]
+      },
+      {
+        "phrase": "faq",
+        "synonyms": [
+          "FAQ"
+        ]
+      },
+      {
+        "phrase": "travel",
+        "synonyms": [
+          "traveling"
+        ]
+      },
+      {
+        "phrase": "venmo",
+        "synonyms": [
+          "zelle"
+        ]
+      },
+      {
+        "phrase": "refinance",
+        "synonyms": [
+          "mortgage"
+        ]
+      },
+      {
+        "phrase": "support",
+        "synonyms": [
+          "customer service"
+        ]
+      },
+      {
+        "phrase": "contact dime",
+        "synonyms": [
+          "customer service"
+        ]
+      },
+      {
+        "phrase": "cell phone",
+        "synonyms": [
+          "remote deposit"
+        ]
+      },
+      {
+        "phrase": "smart phone",
+        "synonyms": [
+          "remote deposit"
+        ]
+      },
+      {
+        "phrase": "android",
+        "synonyms": [
+          "remote deposit"
+        ]
+      },
+      {
+        "phrase": "iPhone",
+        "synonyms": [
+          "remote deposit"
+        ]
+      },
+      {
+        "phrase": "espanol",
+        "synonyms": [
+          "spanish"
+        ]
+      },
+      {
+        "phrase": "español",
+        "synonyms": [
+          "spanish"
+        ]
+      },
+      {
+        "phrase": "check refill",
+        "synonyms": [
+          "Check Reordering"
+        ]
+      },
+      {
+        "phrase": "personal check",
+        "synonyms": [
+          "check"
+        ]
+      }
+    ],
+    "synonymSet": [
+      [
+        "careers",
+        "job",
+        "career",
+        "open position",
+        "open positions",
+        "open jobs",
+        "jobs"
+      ],
+      [
+        "estatement",
+        "e statement",
+        "e-statement",
+        "estatements",
+        "e statements",
+        "e-statements",
+        "bank statement",
+        "bank statements",
+        "statement",
+        "statements",
+        "paperless billing",
+        "paperless statements",
+        "paperless statement"
+      ],
+      [
+        "app",
+        "mobile app",
+        "mobile banking"
+      ],
+      [
+        "sign up",
+        "sign-up",
+        "enroll",
+        "register",
+        "online banking"
+      ],
+      [
+        "cancel",
+        "close account",
+        "close"
+      ],
+      [
+        "login",
+        "log in",
+        "sign in",
+        "signin"
+      ],
+      [
+        "certificate of deposit",
+        "cd",
+        "certificate of deposits"
+      ],
+      [
+        "covid",
+        "corona virus",
+        "coronavirus",
+        "covid-19",
+        "still open"
+      ],
+      [
+        "safety deposit box",
+        "safe deposit box"
+      ],
+      [
+        "Paycheck Protection Program (PPP)",
+        "PPP",
+        "Paycheck protection",
+        "Paycheck protection program"
+      ],
+      [
+        "venmo",
+        "paypal",
+        "zelle"
+      ]
+    ]
+  },
+  "localizations": {},
+  "additionalSearchablePlaces": [],
+  "tier": "Beta"
+}

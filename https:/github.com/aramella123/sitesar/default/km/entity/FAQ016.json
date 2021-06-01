@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ016",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Business Fees",
+        "url": "https://www.dime.com/sites/default/files/2019-04/schedule-fees-business.pdf"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "You can find a copy of Dime\u0027s schedule of Business Fees by clicking the link below.",
+    "yext/name": "What are Dime\u0027s schedule of business Fees?",
+    "yext/question": "What are Dime\u0027s schedule of business Fees?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie können eine Kopie von Dimes Zeitplan für Geschäftsgebühren finden, indem Sie auf den unten stehenden Link klicken.",
+        "yext/name": "Wie sind die Gebühren für Geschäftskunden von Dime?",
+        "yext/question": "Wie sind die Gebühren für Geschäftskunden von Dime?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Puede encontrar una copia del prgrama de tarifas comerciales de Dime haciendo clic en el enlace a continuación.",
+        "yext/name": "¿Cuáles son las tarifas de negocios de Dime?",
+        "yext/question": "¿Cuáles son las tarifas de negocios de Dime?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous pouvez trouver une copie du barème des frais professionnels Dime en cliquant sur le lien ci-dessous.",
+        "yext/name": "Quels sont les tarifs Dime de dépassement entreprise ?",
+        "yext/question": "Quels sont les tarifs Dime de dépassement entreprise ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Puoi trovare una copia del programma delle commissioni aziendali di Dime facendo clic sul link in basso.",
+        "yext/name": "Qual è lo schema tariffario applicato da Dime?",
+        "yext/question": "Qual è lo schema tariffario applicato da Dime?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "以下のリンクをクリックすると、ダイムのビジネス料金のスケジュールのコピーを見つけることができます。",
+        "yext/name": "ダイムのビジネス料金のスケジュールは何ですか？",
+        "yext/question": "ダイムのビジネス料金のスケジュールは何ですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

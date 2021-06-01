@@ -1,0 +1,62 @@
+{
+  "$id": "faq-56",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "Outgoing wires are only executed at Dime locations and can be requested before 3:30pm EST.\n\nIncoming wires: Depositors may have their funds wired into their accounts from other financial institutions by using the appropriate instructions below.\n\nNote: There are different sets of instructions for wires that originate from domestic banks vs. wires from an international bank.\n \nWire Transfer Fees:\nIncoming: $15.00\nOutgoing $35.00\n\nDime Community Bank Incoming Wire Instructions – Domestic\n\nBank’s Name: Dime Community Bank\nABA: 226070306\nBeneficiary Info: Beneficiary Name, Beneficiary Account, Beneficiary Address\nOther Instructions: If applicable, otherwise, leave blank.\n\nDime Community Bank Incoming Wire Instructions – International\n\nBeneficiary Bank’s Name: J.P. Morgan Chase\nABA: 021000021\nSwift: CHASUS33\nBank’s Address: 1 Chase Manhattan Plaza, New York, NY 10005\nBeneficiary Name: Dime Community Bank\nBeneficiary Account #: 006750005\nFor Further Credit To: Dime Community Bank Customer’s Name\nCustomer’s Account Number at Dime Community Bank: _____",
+    "yext/name": "How do I send a Wire Transfer?",
+    "yext/question": "How do I send a Wire Transfer?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Ausgehende Überweisungen werden nur an Dime-Standorten ausgeführt und können vor 15:30 Uhr EST angefordert werden.\n \n Eingehende Überweisungen: Einleger können ihre Gelder von anderen Finanzinstituten unter Verwendung der entsprechenden Anweisungen auf ihre Konten überweisen lassen.\n \n Hinweis: Es gibt verschiedene Anweisungen für Überweisungen, die von inländischen Banken stammen, im Vergleich zu Überweisungen von einer internationalen Bank.\n  \n Überweisungsgebühren:\n Eingehend: 15,00 USD\n Ausgehende 35.00 USD\n \n Anweisungen für eingehende Überweisungen der Dime Community Bank - Inland\n \n Name der Bank: Dime Community Bank\n ABA: 226070306\n Informationen zum Begünstigten: Name des Begünstigten, Konto des Begünstigten, Adresse des Begünstigten\n Sonstige Anweisungen: Falls zutreffend, lassen Sie das Feld leer.\n \n Anweisungen für eingehende Überweisungen der Dime Community Bank - International\n \n Name der begünstigten Bank: J. P. Morgan Chase\n ABA: 021000021\n Swift: CHASUS33\n Adresse der Bank: 1 Chase Manhattan Plaza, New York, NY 10005\n Name des Begünstigten: Dime Community Bank\n Empfängerkontonummer: 006750005\n Für weitere Gutschriften an: Name des Kunden der Dime Community Bank\n Kundenkontonummer bei der Dime Community Bank: _____ \"",
+        "yext/name": "Wie sende ich eine Überweisung?",
+        "yext/question": "Wie sende ich eine Überweisung?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Las transferencias salientes solo se ejecutan en ubicaciones de Dime y se pueden solicitar antes de las 3:30 p.m. EST.\n \n Transferencias entrantes: los depositantes pueden tener sus fondos transferidos a sus cuentas desde otras instituciones financieras utilizando las instrucciones apropiadas a continuación.\n \n Nota: Existen diferentes conjuntos de instrucciones para transferencias que se originan en bancos nacionales versus transferencias de un banco internacional.\n  \n Tarifas de transferencia bancaria:\n Entrante: $ 15.00\n Saliente $ 35.00\n \n Instrucciones de transferencia bancaria de Dime Community Bank - Doméstica\n \n Nombre del banco: Dime Community Bank\n ABA: 226070306\n Información del beneficiario: nombre del beneficiario, cuenta del beneficiario, dirección del beneficiario\n Otras instrucciones: Solo si corresponde, sino, deje en blanco.\n \n Instrucciones para recibir transferencias bancarias de Dime Community Bank - Internacional\n \n Nombre del banco beneficiario: J.P.Morgan Chase\n ABA: 021000021\n Swift: CHASUS33\n Dirección del banco: 1 Chase Manhattan Plaza, Nueva York, NY 10005\n Nombre del beneficiario: Dime Community Bank\n Número de cuenta del beneficiario: 006750005\n Para obtener más crédito a: Nombre del cliente de Dime Community Bank\n Número de cuenta del cliente en Dime Community Bank: _____",
+        "yext/name": "¿Cómo envío una transferencia bancaria?",
+        "yext/question": "¿Cómo envío una transferencia bancaria?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Les virements externes ne sont exécutés qu\u0027auprès des agences Dime et peuvent être demandés avant 15h30 HNE.\n\nVirement entrants : Les déposants peuvent faire virer leurs fonds sur leurs comptes à partir d\u0027autres institutions financières en utilisant les instructions appropriées ci-dessous.\n\nRemarque : il existe différentes séries d\u0027instructions pour les virements provenant de banques nationales et les virements provenant d\u0027une banque internationale.\n\nFrais de virement bancaire :\nEntrant : 15,00€\nSortant : 35,00€\n\nInstructions pour les virements entrants de la Dime Community Bank - banque nationale\n\nNom de la banque : Dime Community Bank\nABA : 226070306\nInformations sur les bénéficiaires : Nom du bénéficiaire, compte du bénéficiaire, adresse du bénéficiaire\nAutres instructions : Le cas échéant, sinon, laissez en blanc.\n\nDime Community Bank Instructions pour les virements entrants - International\n\nNom de la banque bénéficiaire : J.P. Morgan Chase\nABA : 021000021\nRapide : CHASUS33\nL\u0027adresse de la banque : 1 Chase Manhattan Plaza, New York, NY 10005\nNom du bénéficiaire : Dime Community Bank\nNuméro de compte du bénéficiaire : 006750005\nPour un crédit supplémentaire à : Dime Community Bank Nom du client\nNuméro de compte du client à la Dime Community Bank : _____",
+        "yext/name": "Comment effectuer un virement bancaire ?",
+        "yext/question": "Comment effectuer un virement bancaire ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "I fondi in uscita vengono eseguiti solo nelle sedi Dime e possono essere richiesti prima delle 15:30 EST.\n\nFondi in entrata: i depositanti possono avere i loro fondi collegati ai loro conti da altri istituti finanziari utilizzando le istruzioni appropriate di seguito.\n\nNota: esistono diversi set di istruzioni per i fondi che provengono da banche nazionali rispetto a quelli di una banca internazionale.\n\nCommissioni di bonifico bancario:\nIn arrivo: $ 15,00\n$ 35,00 in uscita\n\nDime Community Bank Istruzioni per il fondo in entrata - Domestico\n\nNome della banca: Dime Community Bank\nABA: 226070306\nInformazioni sul Beneficiario: Nome del Beneficiario, Conto del Beneficiario, Indirizzo del Beneficiario\nAltre istruzioni: se applicabile, altrimenti lasciare in bianco.\n\nDime Community Bank Istruzioni per il fondo in entrata - Internazionale\n\nNome della banca del beneficiario: J.P. Morgan Chase\nABA: 021000021\nSwift: CHASUS33\nIndirizzo della banca: 1 Chase Manhattan Plaza, New York, NY 10005\nNome del beneficiario: Dime Community Bank\nN. conto beneficiario: 006750005\nPer ulteriori crediti a: Dime Community Bank Nome del cliente\nNumero di conto cliente presso Dime Community Bank: _____ \"",
+        "yext/name": "Come posso inviare un bonifico bancario",
+        "yext/question": "Come posso inviare un bonifico bancario"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "送信ワイヤはダイムの場所でのみ実行され、東部標準時午後3時30分までにリクエストできます。送金：預金者は、以下の適切な手順を使用して、他の金融機関から口座に送金することができます。注：国内銀行からの送金と国際銀行からの送金には、異なる一連の指示があります。電信送金手数料：着信：$ 15.00発信$ 35.00ダイムコミュニティ銀行着信電信–国内銀行名：ダイムコミュニティ銀行ABA：226070306受取人情報：受取人名、受取人口座、受取人住所その他の説明：該当する場合は、空白のままにします。ダイムコミュニティバンク Community Bank Incoming Wire Instructions-International Beneficiary Bank\u0027s Name：JP Morgan Chase ABA：021000021 Swift：CHASUS33 Bank\u0027s Address：1 Chase Manhattan Plaza、New York、",
+        "yext/name": "電信送金を送るにはどうすればよいですか？",
+        "yext/question": "電信送金を送るにはどうすればよいですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

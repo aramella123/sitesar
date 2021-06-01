@@ -1,0 +1,111 @@
+{
+  "$id": "corona-25",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_dateOfUpdate": "4.12",
+    "c_fAQType": "COVID",
+    "yext/answer": "Our Dime Broadway branch has reopened as of April 13, 2020. Please check the modified hours schedule before heading to any branch. \n\nThank you, \n\nYour Dime Community Bank Team",
+    "yext/keywords": [
+      "COVID-19",
+      "coronavirus",
+      "closures",
+      "corona",
+      "COVID",
+      "covid",
+      "covid-19",
+      "Covid-19"
+    ],
+    "yext/name": "Broadway Branch Update - As of April 12, 2020",
+    "yext/question": "Broadway Branch Update - As of April 12, 2020"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Unsere Dime Broadway Filiale wurde am 13. April 2020 wiedereröffnet. Bitte überprüfen Sie den geänderten Stundenplan, bevor Sie zu einer Filiale gehen.\n \n Vielen Dank,\n \n Ihr Dime Community Bank Team",
+        "yext/keywords": [
+          "COVID-19",
+          "Coronavirus",
+          "Verschlüsse",
+          "Corona",
+          "COVID",
+          "Covid",
+          "Covid-19"
+        ],
+        "yext/name": "Broadway Filiale Update - Stand 12. April 2020",
+        "yext/question": "Broadway Filiale Update - Stand 12. April 2020"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Nuestra sucursal de Dime Broadway ha reabierto a partir del 13 de abril de 2020. Verifique el horario modificado antes de dirigirse a cualquier sucursal.\n \nGracias,\n \nSu equipo de Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "cierres",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Actualización de la sucursal de Broadway - A partir del 12 de abril de 2020",
+        "yext/question": "Actualización de la sucursal de Broadway - A partir del 12 de abril de 2020"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Notre agence Dime Broadway a rouvert ses portes le 13 avril 2020. Veuillez vérifier les horaires modifiés avant de vous rendre dans l\u0027une de nos agences. \n\nMerci, \n\nVotre équipe Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "fermetures",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Mise à jour concernant l\u0027agence Broadway - à compter du 12 avril 2020",
+        "yext/question": "Mise à jour concernant l\u0027agence Broadway - à compter du 12 avril 2020"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "La nostra filiale di Dime Broadway è stata riaperta dal 13 aprile 2020. Controlla il programma orario modificato prima di andare a qualsiasi filiale.\n\nGrazie,\n\nIl tuo team Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "chiusure",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-21"
+        ],
+        "yext/name": "Aggiornamento della filiale di Broadway - Dal 12 aprile 2020",
+        "yext/question": "Aggiornamento della filiale di Broadway - Dal 12 aprile 2020"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムブロードウェイの支店は2020年4月13日をもって再開されました。支店に向かう前に、変更された営業時間のスケジュールを確認してください。ダイムコミュニティバンクチームより",
+        "yext/name": "ブロードウェイ支店の更新-2020年4月12日現在",
+        "yext/question": "ブロードウェイ支店の更新-2020年4月12日現在"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "$id": "corona-16",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_dateOfUpdate": "3.30",
+    "c_fAQType": "COVID",
+    "yext/answer": "The Dime Community Bank Greenpoint branch located at 814 Mahattan Avenue, Brooklyn, NY has reopened today, March 30, 2020 and will operate at modified scheduled hours, opening at 9:00 am.\n\nAnd, as always, you can access your accounts any time at \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003ewww.dime.com\u003c/a\u003e on your desktop or mobile device, or through the Dime mobile app.\n\nThank you,\n\nYour Dime Community Bank Team.",
+    "yext/keywords": [
+      "COVID-19",
+      "coronavirus",
+      "closures",
+      "corona",
+      "COVID",
+      "covid",
+      "covid-19",
+      "Covid-19"
+    ],
+    "yext/name": "Greenpoint Branch Update - As of March 30, 2020",
+    "yext/question": "Greenpoint Branch Update - As of March 30, 2020"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Die Greenpoint-Filiale der Dime Community Bank in der Mahattan Avenue 814 in Brooklyn, NY, wurde heute, am 30. März 2020, wiedereröffnet und wird zu geänderten Öffnungszeiten ab 9:00 Uhr geöffnet.\n \n Und wie immer können Sie jederzeit unter \u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003e www.dime.com \u003c/a\u003e auf Ihre Konten zugreifen via Desktop oder Mobilgerät oder über die Dime Mobile App.\n \n Vielen Dank,\n \n Ihr Dime Community Bank Team.",
+        "yext/keywords": [
+          "COVID-19",
+          "Coronavirus",
+          "Verschlüsse",
+          "Corona",
+          "COVID",
+          "Covid",
+          "Covid-19"
+        ],
+        "yext/name": "Greenpoint Branch Update - Stand 30. März 2020",
+        "yext/question": "Greenpoint Branch Update - Stand 30. März 2020"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "La sucursal de Dime Community Bank Greenpoint ubicada en 814 Mahattan Avenue, Brooklyn, NY ha reabierto hoy, 30 de marzo de 2020 y operará a horas programadas modificadas, abriendo a las 9:00 am.\n \n Y, como siempre, puede acceder a sus cuentas en cualquier momento en \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003e www.dime.com \u003c/a\u003e en su computadora de escritorio o dispositivo móvil , o a través de la aplicación móvil Dime.\n \n Gracias,\n \n Su equipo de Dime Community Bank.",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "cierres",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Actualización de la sucursal de Greenpoint - A partir del 30 de marzo de 2020",
+        "yext/question": "Actualización de la sucursal de Greenpoint - A partir del 30 de marzo de 2020"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "L\u0027agence Greenpoint Dime Community Bank située au 814 Mahattan Avenue, Brooklyn, NY a rouvert aujourd\u0027hui, 30 mars 2020 et fonctionnera à des heures modifiées, en ouvrant à 9h00.\n\nEt, comme toujours, vous pouvez accéder à vos comptes à tout moment sur \u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003ewww.dime.com\u003c/a\u003e depuis votre ordinateur ou votre appareil mobile, ou par le biais de l\u0027application mobile Dime.\n\nMerci,\n\nVotre équipe Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "fermetures",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Mise à jour concernant l\u0027agence Greenpoint - en date du 30 mars 2020",
+        "yext/question": "Mise à jour concernant l\u0027agence Greenpoint - en date du 30 mars 2020"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "La filiale Greenpoint della Dime Community Bank situata in 814 Mahattan Avenue, Brooklyn, New York, è stata riaperta oggi, 30 marzo 2020 e opererà ad orari programmati modificati, aprendo alle 9:00.\n\nE, come sempre, puoi accedere ai tuoi account in qualsiasi momento all\u0027indirizzo \u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003e www.dime.com \u003c/a\u003e sul tuo desktop o dispositivo mobile o tramite l\u0027app mobile Dime.\n\nGrazie,\n\nIl tuo team Dime Community Bank.",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "chiusure",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-22"
+        ],
+        "yext/name": "Greenpoint Aggiornamento Filiale - dal 30 Marzo 2020",
+        "yext/question": "Greenpoint Aggiornamento Filiale - dal 30 Marzo 2020"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ニューヨーク州ブルックリンのマハッタンアベニュー814にあるダイムコミュニティバンクグリーンポイント支店は、本日2020年3月30日に営業を再開し、変更された予定時間に営業し、午前9時に開店します。また、いつものように、デスクトップまたはモバイルデバイスの\u003ca href\u003d\"https://www.ダイムコミュニティバンク.com/\" target\u003d\"_blank\"\u003e www.ダイムコミュニティバンク.com \u003c/a\u003eからいつでもアカウントにアクセスできます、またはダイムコミュニティバンクモバイルアプリを介して。ダイムコミュニティバンクチームに感謝します。",
+        "yext/name": "Greenpoint Branch Update-2020年3月30日現在",
+        "yext/question": "Greenpoint Branch Update-2020年3月30日現在"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

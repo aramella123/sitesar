@@ -1,0 +1,59 @@
+{
+  "$id": "product-59",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_benefits": [
+      "Owner-operated real estate",
+      "Business expansion",
+      "Business start-ups or acquisitions",
+      "franchise financing",
+      "inventory \u0027",
+      "\u0027 machiner and equipment",
+      "Debt refinancing",
+      "Improvements and renovations",
+      "working capital"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/business/credit-and-lending/sba-loans"
+      }
+    ],
+    "c_productType": "SBA Loans",
+    "c_slug": "[[entityId]]",
+    "yext/landingPageUrl": "https://www.dime.com/business/credit-and-lending/sba-loans",
+    "yext/name": "SBA Loans",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1231,
+          "sourceUrl": "https://images.pexels.com/photos/4482903/pexels-photo-4482903.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "thumbnails": [
+            {
+              "height": 761,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/619x761.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/365x450.jpg",
+              "width": 365
+            },
+            {
+              "height": 241,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/196x241.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/1000x1231.jpg",
+          "width": 1000
+        }
+      }
+    ],
+    "yext/richTextDescription": "The opportunities for your business grow exponentially with SBA loans. Dime makes it easy for you to secure an SBA loan to help your business grow or get off the ground."
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

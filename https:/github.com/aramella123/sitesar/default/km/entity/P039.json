@@ -1,0 +1,113 @@
+{
+  "$id": "P039",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Interest compunded daily",
+      "credited monthly and at maturity",
+      "Various terms from three months to 84 months",
+      "A grace period of 10 calendar days to renew",
+      "No monthly fees",
+      "Free online and mobile banking",
+      "$500 minimum to open"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/personal/certificate-of-deposit"
+      }
+    ],
+    "c_fees": "0.0",
+    "c_minimumDeposit": "500.0",
+    "c_productType": "Personal Certificates of Deposit",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Certificates of Deposit (CDs) are a low risk, maximum reward investment at Dime that provide a guaranteed fixed interest rate for a specified term.",
+    "yext/keywords": [
+      "Certificate of Deposit"
+    ],
+    "yext/landingPageUrl": "https://www.dime.com/personal/certificate-of-deposit",
+    "yext/name": "Personal Certificates of Deposit"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Persönliche Einzahlungsscheine",
+        "yext/description": "Einlagenzertifikate (CDs) sind eine risikoarme Investition mit maximaler Belohnung bei Dime, die einen garantierten festen Zinssatz für eine bestimmte Laufzeit bietet.",
+        "yext/name": "Persönliche Einzahlungsscheine"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Interés compuesto diario \u0027",
+          "\u0027 acreditado mensualmente y al vencimiento",
+          "varios plazos de tres meses a 84 meses",
+          "un período de gracia de 10 días calendario para renovar",
+          "sin cargos mensuales",
+          "banca en línea y móvil gratuita",
+          "mínimo 500 para abrir"
+        ],
+        "c_productType": "Certificados personales de depósito",
+        "yext/description": "Los certificados de depósito (CD) son una inversión de bajo riesgo y máxima recompensa en Dime que proporcionan una tasa de interés fija garantizada por un plazo específico.",
+        "yext/name": "Certificados de depósito personales"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Intérêts composés quotidiennement\u0027",
+          "\u0027 crédités mensuellement et à l\u0027échéance",
+          "Nombreux type d\u0027échéances de trois mois à 84 mois",
+          "Un délai de grâce de 10 jours civils pour le renouvellement",
+          "Pas de frais mensuels",
+          "Services bancaires en ligne et mobiles gratuits",
+          "Minimum de 500 euros pour l\u0027ouverture"
+        ],
+        "c_productType": "Certificats personnels de dépôt",
+        "yext/description": "Les certificats de dépôt (CD) sont un investissement à faible risque et à rendement maximum chez Dime qui offre un taux d\u0027intérêt fixe garanti pour une durée déterminée.",
+        "yext/keywords": [
+          "Certificat de dépôt",
+          "CD"
+        ],
+        "yext/name": "Certificats personnels de dépôt"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Interessi pagati giornalmente",
+          "accreditati mensilmente e alla scadenza",
+          "termini diversi da tre mesi a 84 mesi",
+          "un periodo di tolleranza di 10 giorni di calendario da rinnovare",
+          "nessun costo mensile",
+          "servizi bancari online e mobili gratuiti",
+          "minimo $ 500 da aprire"
+        ],
+        "c_productType": "Certificati di deposito personali",
+        "yext/description": "I certificati di deposito (CD) sono un investimento a basso rischio e con la massima ricompensa in Dime che fornisce un tasso di interesse fisso garantito per un determinato periodo.",
+        "yext/name": "Certificato di Deposito Personale"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "個人預金証書",
+        "yext/description": "預金証書（CD）は、ダイムコミュニティバンクでの低リスクで最大の報酬投資であり、指定された期間に保証された固定金利を提供します。",
+        "yext/name": "個人預金証書"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "$id": "product-4",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_benefits": [
+      "No minimum balance",
+      "No monthly maintenance fee",
+      "Free debit card",
+      "Free bill pay",
+      "Free Mobile Banking and Mobile Deposit*",
+      "Free eStatements with online check images"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/personal/checking/fabulous-50-interest-checking"
+      }
+    ],
+    "c_fees": "0.0",
+    "c_minimumDeposit": "25.0",
+    "c_productType": "Checking",
+    "c_slug": "[[entityId]]",
+    "yext/landingPageUrl": "https://www.dime.com/personal/checking/fabulous-50-interest-checking",
+    "yext/name": "Fabulous 50 Interest Checking",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 170,
+          "url": "https://a.mktgcdn.com/p/bUc_LmQiM_CiNmGLx1mJC0A2MA00lerW58JPTianXyE/130x170.jpg",
+          "width": 130
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "1000"
+    },
+    "yext/richTextDescription": "Checking with competitive interest rates. A **Fabulous** 50 Interest Checking account will set you up to reach your financial goals for retirement. Dime offers competitive interest rates \\\u0026 expert financial advice.",
+    "yext/stockStatus": "BACKORDERED"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

@@ -1,0 +1,62 @@
+{
+  "$id": "FAQ014",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "To report travel to allow debit card use overseas, please visit our website at dime.com, sign in and do the following: Click Profile, Select Secure Forms, Click on Travel Notes and complete and submit the form.",
+    "yext/name": "How do I report that I am traveling to use my Dime debit card?",
+    "yext/question": "How do I report that I am traveling to use my Dime debit card?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Um Reisen zu melden, um die Verwendung von Debitkarten in Übersee zu ermöglichen, besuchen Sie bitte unsere Website unter dime.com, melden Sie sich an und gehen Sie wie folgt vor: Klicken Sie auf Profil, wählen Sie sichere Formulare aus, klicken Sie auf Reisehinweise und füllen Sie das Formular aus und senden Sie es ab.",
+        "yext/name": "Wie melde ich, dass ich auf Reisen bin, um meine Dime-Debitkarte zu verwenden?",
+        "yext/question": "Wie melde ich, dass ich auf Reisen bin, um meine Dime-Debitkarte zu verwenden?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Para informar sobre viajes para permitir el uso de tarjetas de débito en el extranjero, visite nuestro sitio web en dime.com, inicie sesión y haga lo siguiente: haga clic en Perfil, seleccione Formularios seguros, haga clic en Notas de viaje y complete y envíe el formulario.",
+        "yext/name": "¿Cómo les informo que estoy viajando, para usar mi tarjeta de débito Dime?",
+        "yext/question": "¿Cómo les informo que estoy viajando, para usar mi tarjeta de débito Dime?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Pour signaler un voyage afin de permettre l\u0027utilisation d\u0027une carte de débit à l\u0027étranger, veuillez visiter notre site web à dime.com, vous connecter et faire ce qui suit : Cliquez sur Profil, sélectionnez Formulaires sécurisés, cliquez sur Notes de voyage, puis remplissez et envoyez le formulaire.",
+        "yext/name": "Comment signaler que je voyage pour utiliser ma carte de débit Dime ?",
+        "yext/question": "Comment signaler que je voyage pour utiliser ma carte de débit Dime ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Per segnalare un viaggio per consentire l\u0027uso della carta di debito all\u0027estero, visitare il nostro sito Web all\u0027indirizzo dime.com, accedere ed effettuare le seguenti operazioni: Fare clic su Profilo, Seleziona moduli protetti, Fare clic su Note di viaggio e compilare e inviare il modulo.",
+        "yext/name": "Come posso comunicare che sto viaggiando per utilizzare la mia carta di debito Dime?",
+        "yext/question": "Come posso comunicare che sto viaggiando per utilizzare la mia carta di debito Dime?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "海外でのデビットカードの使用を許可するための旅行を報告するには、ダイムコミュニティバンク.comのWebサイトにアクセスし、サインインして次の操作を行ってください。",
+        "yext/name": "ダイムコミュニティバンクデビットカードを使用するために旅行していることを報告するにはどうすればよいですか？",
+        "yext/question": "ダイムコミュニティバンクデビットカードを使用するために旅行していることを報告するにはどうすればよいですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

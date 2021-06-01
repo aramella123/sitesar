@@ -1,0 +1,111 @@
+{
+  "$id": "corona-2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_dateOfUpdate": "3.15",
+    "c_fAQType": "COVID",
+    "yext/answer": "Branch Closure Update:\n\nAt Dime Community Bank, we are continuing to monitor the reports on the Coronavirus (COVID-19) closely. Employee, customer and community safety is our number one priority. To maintain the safety of all concerned, Dime will be performing an enhanced cleaning and disinfecting at the following branches:\n\nMelville\nPark Slope\nKent Avenue\nBedford Avenue\n86th Street\n\nThese branches will be closed until further notice, but the ATMs will continue to be available 24/7. The nearest supporting branch listed below will be operating under normally scheduled hours:\n \nCLOSED BRANCHES\n\nMELVILLE\nNearest Branch:\nWestbury Branch, 622 Old Country Rd, Westbury, NY 11590, (516) 338-7900.\n\nPARK SLOPE\nNearest Branch:\nBrooklyn Heights, 188 Montague St, Brooklyn, NY 11201, (718) 855-1942.\n\nKENT AVENUE\nNearest Branch:\nBroadway, 281 Broadway, Brooklyn, NY 11211, (718) 782-6200 or Greenpoint, 814 Manhattan Ave, Brooklyn, NY 11222, (718) 383-0561.\n\nBEDFORD AVENUE\nNearest Branch:\nBroadway, 281 Broadway, Brooklyn, NY 11211, (718) 782-6200 or Greenpoint, 814 Manhattan Ave, Brooklyn, NY 11222, (718) 383-0561.\n\n86TH STREET\nNearest Branch:\nBensonhurst, 1545 86th St, Brooklyn, NY 11228, (718) 331-6464.\n\nPlease note that these closures are just precautionary. Dime is not responding to, nor are we aware of, specific health risks at any of the branches above.\n\nDuring this time, we encourage customers to utilize digital banking. If you haven’t enrolled, learn more about free \u003ca href\u003d\"https://www.dime.com/personal/online-banking-and-bill-pay\" target\u003d\"_blank\"\u003eonline banking\u003c/a\u003e and \u003ca href\u003d\"https://www.dime.com/personal/mobile-banking\" target\u003d\"_blank\"\u003emobile banking\u003c/a\u003e at the links provided. Our Customer Call Center is also available at 800-321-3463.\n\nWe will continue to update you on developments related to Dime’s Operations due to the Coronavirus (COVID-19).\n\nThank you,\nYour Dime Community Bank Team",
+    "yext/keywords": [
+      "COVID-19",
+      "coronavirus",
+      "closures",
+      "corona",
+      "COVID",
+      "covid",
+      "covid-19",
+      "Covid-19"
+    ],
+    "yext/name": "Branch Closure Update - As of March 15, 2020",
+    "yext/question": "Branch Closure Update - As of March 15, 2020"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Schließungs Update für Filialen:\n \n Bei der Dime Community Bank überwachen wir die Berichte über das Coronavirus (COVID-19) weiterhin genau. Die Sicherheit von Mitarbeitern, Kunden und der Gemeinschaft hat für uns oberste Priorität. Um die Sicherheit aller Beteiligten zu gewährleisten, wird Dime in den folgenden Filialen eine verbesserte Reinigung und Desinfektion durchführen:\n \n Melville\n Park Hang\n Kent Avenue\n Bedford Avenue\n 86th Street\n \n Diese Filialen bleiben bis auf Weiteres geschlossen, die Geldautomaten sind jedoch weiterhin rund um die Uhr verfügbar. Die nächstgelegene unterstützende Niederlassung, die unten aufgeführt ist, wird zu den normalerweise festgelegten Zeiten betrieben:\n  \n GESCHLOSSENE NIEDERLASSUNGEN\n \n MELVILLE\n Nächste Filiale:\n Westbury Branch, 622 Old Country Road, Westbury, NY 11590, (516) 338-7900.\n \n PARKSTEIGUNG\nNächste Filiale:\n Brooklyn Heights, 188 Montague Street, Brooklyn, NY 11201, (718) 855-1942.\n \n KENT AVENUE\nNächste Filiale:\n Broadway, 281 Broadway, Brooklyn, NY 11211, (718) 782-6200 oder Greenpoint, 814 Manhattan Ave, Brooklyn, NY 11222, (718) 383-0561.\n \n BEDFORD AVENUE\nNächste Filiale:\n Broadway, 281 Broadway, Brooklyn, NY 11211, (718) 782-6200 oder Greenpoint, 814 Manhattan Ave, Brooklyn, NY 11222, (718) 383-0561.\n \n 86. STRASSE\nNächste Filiale:\n Bensonhurst, 1545 86th St, Brooklyn, NY 11228, (718) 331-6464.\n \n Bitte beachten Sie, dass diese Schließungen nur vorsorglich sind. Dime reagiert in keiner der oben genannten Filialen auf spezifische Gesundheitsrisiken.\n \n In dieser Zeit ermutigen wir Kunden, Digital Banking zu nutzen. Wenn Sie sich noch nicht angemeldet haben, erfahren Sie mehr über kostenloses \u003ca href\u003d\"https://www.dime.com/personal/online-banking-and-bill-pay\" target\u003d\"_blank\"\u003e Online-Banking \u003c/a\u003e und \u003ca href\u003d\"https://www.dime.com/personal/mobile-banking\" target\u003d\"_blank\"\u003e Mobile Banking \u003c/a\u003e unter den angegebenen Links. Unser Kunden-Callcenter ist auch unter 800-321-3463 erreichbar.\n \n Wir werden Sie weiterhin über Entwicklungen im Zusammenhang mit Dimes Operationen aufgrund des Coronavirus (COVID-19) auf dem Laufenden halten.\n \n Vielen Dank,\n Ihr Dime Community Bank Team",
+        "yext/keywords": [
+          "COVID-19",
+          "Coronavirus",
+          "Verschlüsse",
+          "Corona",
+          "COVID",
+          "Covid",
+          "Covid-19"
+        ],
+        "yext/name": "Aktualisierung der Filialschließung - Stand 15. März 2020",
+        "yext/question": "Aktualisierung der Filialschließung - Stand 15. März 2020"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Actualización de cierre de sucursal:\n \n En Dime Community Bank, continuamos monitoreando de cerca los informes sobre el Coronavirus (COVID-19). La seguridad de los empleados, los clientes y la comunidad es nuestra prioridad número uno. Para mantener la seguridad de todos los involucrados, Dime realizará una limpieza y desinfección mejorada en las siguientes sucursales:\n Melville\n Park Slope\n Kent Avenue\n Bedford Avenue\n 86th Street\n \n Estas sucursales estarán cerradas hasta nuevo aviso, pero los cajeros automáticos continuarán disponibles las 24 horas, los 7 días de la semana. La sucursal de soporte más cercana que se enumera a continuación estará operando en horarios normalmente programados:\n  \n SECURSALES CERRADAS\n \n Melville\n Sucursal más cercana:\n Westbury Branch, 622 Old Country Rd, Westbury, NY 11590, (516) 338-7900.\n \nPARK SLOPE\n Sucursal más cercana:\n Brooklyn Heights, 188 Montague St, Brooklyn, NY 11201, (718) 855-1942.\n \n KENT AVENUE\n Sucursal más cercana:\n Broadway, 281 Broadway, Brooklyn, NY 11211, (718) 782-6200 o Greenpoint, 814 Manhattan Ave, Brooklyn, NY 11222, (718) 383-0561.\n \n BEDFORD AVENUE\n Sucursal más cercana:\n Broadway, 281 Broadway, Brooklyn, NY 11211, (718) 782-6200 o Greenpoint, 814 Manhattan Ave, Brooklyn, NY 11222, (718) 383-0561.\n \n 86TH STREET\n Sucursal más cercana:\n Bensonhurst, 1545 86th St, Brooklyn, NY 11228, (718) 331-6464.\n \n Tenga en cuenta que estos cierres son solo por precaución. Dime no responde ni conocemos riesgos específicos para la salud en ninguna de las ramas anteriores.\nDurante este tiempo, alentamos a los clientes a utilizar la banca digital. Si no se ha inscrito, obtenga más información sobre la \u003ca href\u003d\"https://www.dime.com/personal/online-banking-and-bill-pay\" target\u003d\"_blank\"\u003e banca en línea gratuita \u003c/a\u003e y \u003ca href\u003d\"https://www.dime.com/personal/mobile-banking\" target\u003d\"_blank\"\u003e banca móvil \u003c/a\u003e en los enlaces proporcionados. Nuestro Centro de atención al cliente también está disponible al 800-321-3463.\n \n Continuaremos actualizándolo sobre desarrollos relacionados con las operaciones de Dime debido al Coronavirus (COVID-19).\n \n Gracias,\n Su equipo de Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "cierres",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Actualización de cierre de sucursal - A partir del 15 de marzo de 2020",
+        "yext/question": "Actualización de cierre de sucursal - A partir del 15 de marzo de 2020"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Mise à jour sur les fermetures des agences :\n\nChez Dime Community Bank, nous continuons à suivre de près les rapports sur le Coronavirus (COVID-19). La sécurité des employés, des clients et de la communauté est notre priorité numéro une. Afin de préserver la sécurité de toutes les personnes concernées, Dime procédera à un nettoyage et une désinfection renforcés dans les agences suivantes :\n\nMelville\nPente du parc\nAvenue Kent\nAvenue Bedford\n86e rue\n\nCes agences seront fermées jusqu\u0027à nouvel ordre, mais les distributeurs automatiques continueront d\u0027être disponibles 24 heures sur 24, 7 jours sur 7. L\u0027agence de soutien la plus proche mentionnée ci-dessous fonctionnera selon les horaires habituels :\n\nAGENCES FERMÉES\n\nMELVILLE\nL\u0027agence la plus proche :\nWestbury Branch, 622 Old Country Rd, Westbury, NY 11590, (516) 338-7900.\n\nPARK SLOPE\nL\u0027agence la plus proche :\nBrooklyn Heights, 188 Montague St, Brooklyn, NY 11201, (718) 855-1942.\n\nKENT AVENUE\nL\u0027agence la plus proche :\nBroadway, 281 Broadway, Brooklyn, NY 11211, (718) 782-6200 ou Greenpoint, 814 Manhattan Ave, Brooklyn, NY 11222, (718) 383-0561.\n\nAVENUE BEDFORD\nL\u0027agence la plus proche :\nBroadway, 281 Broadway, Brooklyn, NY 11211, (718) 782-6200 ou Greenpoint, 814 Manhattan Ave, Brooklyn, NY 11222, (718) 383-0561.\n\n86E RUE\nL\u0027agence la plus proche :\nBensonhurst, 1545 86th St, Brooklyn, NY 11228, (718) 331-6464.\n\nVeuillez noter que ces fermetures ne sont qu\u0027une mesure de précaution. Dime ne réagit pas, ni n\u0027en aurait connaissance, aux risques spécifiques pour la santé dans l\u0027une des agences ci-dessus.\n\nPendant cette période, nous encourageons les clients à utiliser les services bancaires en ligne. Si vous n\u0027êtes pas encore inscrit, vous pouvez en savoir plus sur les services bancaires gratuits \u003ca href\u003d\"\"https://www.dime.com/personal/online-banking-and-bill-pay\"\" target\u003d\"\"_blank\"\"\u003een ligne \u003c/a\u003e et \u003ca href\u003d\"\"https://www.dime.com/personal/mobile-banking\"\" target\u003d\"\"_blank\"\"\u003emobiles en cliquant sur les liens fournis. Notre centre d\u0027appel pour les clients est également disponible au 800-321-3463.\n\nNous continuerons de vous tenir au courant des développements liés aux opérations de Dime en raison du coronavirus (COVID-19).\n\nNous vous remercions,\nVotre équipe Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "fermetures",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Mise à jour concernant la fermeture de l\u0027agence - à compter du 15 mars 2020",
+        "yext/question": "Mise à jour concernant la fermeture de l\u0027agence - à compter du 15 mars 2020"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Aggiornamento chiusura filiale:\n\nAlla Dime Community Bank, stiamo continuando a monitorare attentamente i rapporti sul Coronavirus (COVID-19). La sicurezza dei dipendenti, dei clienti e della comunità è la nostra priorità numero uno. Per mantenere la sicurezza di tutti gli interessati, Dime eseguirà una pulizia e una disinfezione migliorate nei seguenti settori:\n\nMelville\nPark Slope\nKent Avenue\nBedford Avenue\n86th Street\n\nQueste filiali rimarranno chiuse fino a nuovo avviso, ma gli sportelli automatici continueranno a essere disponibili 24/7. La filiale di supporto più vicina elencata di seguito opererà in orari normalmente programmati:\n\nFILIALI CHIUSI\n\nMELVILLE\nFiliale più vicina:\nWestbury Branch, 622 Old Country Rd, Westbury, NY 11590, (516) 338-7900.\n\nPISTA DEL PARCO\nFiliale più vicina:\nBrooklyn Heights, 188 Montague St, Brooklyn, NY 11201, (718) 855-1942.\n\nKENT AVENUE\nFiliale più vicina:\nBroadway, 281 Broadway, Brooklyn, NY 11211, (718) 782-6200 o Greenpoint, 814 Manhattan Ave, Brooklyn, NY 11222, (718) 383-0561.\n\nBEDFORD AVENUE\nFiliale più vicina:\nBroadway, 281 Broadway, Brooklyn, NY 11211, (718) 782-6200 o Greenpoint, 814 Manhattan Ave, Brooklyn, NY 11222, (718) 383-0561.\n\n86ª STRADA\nFiliale più vicina:\nBensonhurst, 1545 86th St, Brooklyn, NY 11228, (718) 331-6464.\n\nSi prega di notare che queste chiusure sono solo precauzionali. Dime non sta rispondendo a, né siamo a conoscenza di, rischi specifici per la salute in nessuna delle filiali sopra.\n\nDurante questo periodo, incoraggiamo i clienti a utilizzare il digital banking. Se non ti sei ancora registrato, leggi ulteriori informazioni sul \u003ca href\u003d\"\"https://www.dime.com/personal/online-banking-and-bill-pay\"\" target\u003d\"\"_blank\"\"\u003e servizi bancari online \u003c/a\u003e e \u003ca href\u003d\"\"https://www.dime.com/personal/mobile-banking\"\" target\u003d\"\"_blank\"\"\u003e mobile banking \u003c/a\u003e ai link forniti. Il nostro call center clienti è disponibile anche al numero 800-321-3463.\n\nContinueremo ad aggiornarti sugli sviluppi relativi alle Operazioni di Dime a causa del Coronavirus (COVID-19).\n\nGrazie,\nIl tuo team Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "chiusure",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-40"
+        ],
+        "yext/name": "Aggiornamento Chiusura Filiale - Dal 15 Marzo 2020",
+        "yext/question": "Aggiornamento Chiusura Filiale - Dal 15 Marzo 2020"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "支店閉鎖の更新：\n\nダイムコミュニティバンクでは、コロナウイルス（COVID-19）に関するレポートを注意深く監視し続けています。従業員、顧客、コミュニティの安全は私たちの最優先事項です。関係者全員の安全を維持するために、ダイムコミュニティバンクは次のブランチで強化された洗浄と消毒を実行します：\n\nメルビルパークスロープケントアベニューベッドフォードアベニュー86番街\n\nこれらのブランチは追って通知があるまで閉鎖されますが、ATMは引き続き利用可能です24 / 7。\n\n下記の最寄りの支社支社は、通常のスケジュールで営業しています。\n\n閉店ブランチメルビル最寄支社：\nウェストベリーブランチ、622 Old Country Rd、\nウェストベリー、ニューヨーク11590、（516）338-7900。\n\nPARK SLOPE最寄りの支店：\nブルックリンハイツ、188 Montague St、ブルックリン、ニューヨーク11201、（718）855-1942。ケントアベニュー最寄りの支店：ブロードウェイ、ブロードウェイ281、ブルックリン、NY 11211、（718）782-6200またはGreenpoint、814 Manhattan Ave、Brooklyn、NY 11222、（718）383-0561。\n\nBEDFORD AVENUE Nearest Branch：Broadway、281 Broadway、Brooklyn、NY 11211、（718）782-6200またはGreenpoint、814 Manhattan Ave、Brooklyn、NY 11222、（718）383-0561。86TH STREET \n\nNearest Branch：Bensonhurst、1545 86th St、Brooklyn、NY 11228、（718）331-6464 \n\nこれらのクロージャーは単なる予防策であることに注意してください。ダイムコミュニティバンクは、上記のいずれの支店でも、特定の健康リスクに対応しておらず、認識もしていません。この間、私たちはお客様にデジタルバンキングを利用することをお勧めします。登録していない場合は、無料の\u003ca href\u003d\"https://www.ダイムコミュニティバンク.com/personal/online-banking-and-bill-pay\" target\u003d\"_blank\"\u003eオンラインバンキング\u003c/a\u003eの詳細をご覧ください。および\u003ca href\u003d\"https://www.ダイムコミュニティバンク.com/personal/mobile-banking\" target\u003d\"_blank\"\u003e 提供されているリンクでモバイルバンキング\u003c/a\u003e。カスタマーコールセンターは800-321-3463でもご利用いただけます。コロナウイルス（COVID-19）によるダイムの運用に関連する開発については、引き続き更新していきます。\n\nダイムコミュニティバンクチームより",
+        "yext/name": "支店閉鎖の更新-2020年3月15日現在",
+        "yext/question": "支店閉鎖の更新-2020年3月15日現在"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

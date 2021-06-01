@@ -1,0 +1,68 @@
+{
+  "$id": "P057",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/personal/additional-personal-services"
+      }
+    ],
+    "c_productType": "Additional Personal Banking Services",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Better than cash, safer than checks. Use Dime’s Debit Cards. No annual fees. Sign up for a free Debit Card to make the purchases you need or draw funds from the millions of ATMs around the world.",
+    "yext/landingPageUrl": "https://www.dime.com/personal/additional-personal-services",
+    "yext/name": "Consumer Debit Cards"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Zusätzliche Business Banking Services",
+        "yext/description": "Besser als Bargeld, sicherer als Schecks. Verwenden Sie die Debitkarten von Dime. Keine jährlichen Gebühren. Melden Sie sich für eine kostenlose Debitkarte an, um die benötigten Einkäufe zu tätigen oder Geld von Millionen von Geldautomaten auf der ganzen Welt abzuheben.",
+        "yext/name": "Debitkarten für Verbraucher"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_productType": "Servicios adicionales de banca personal",
+        "yext/description": "Better than cash, safer than checks. Use Dime’s Debit Cards. No annual fees. Sign up for a free Debit Card to make the purchases you need or draw funds from the millions of ATMs around the world.",
+        "yext/name": "Tarjetas de débito para consumidores"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_productType": "Services bancaires personnels supplémentaires",
+        "yext/description": "Mieux que l\u0027argent liquide, plus sûr que les chèques. Utilisez les cartes de débit de Dime. Pas de frais annuels. Inscrivez-vous à une carte de débit gratuite pour effectuer les achats dont vous avez besoin ou pour retirer des fonds dans les millions de distributeurs automatiques de billets du monde entier.",
+        "yext/name": "Cartes de débit pour les consommateurs"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_productType": "Servizi bancari aziendali aggiuntivi",
+        "yext/description": "Meglio dei contanti, più sicuro degli assegni. Usa le carte di debito di Dime. Nessun costo annuale. Iscriviti per ricevere una carta di debito gratuita per effettuare gli acquisti di cui hai bisogno o prelevare fondi da milioni di sportelli automatici in tutto il mondo.",
+        "yext/name": "Carte di debito per consumatori"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "追加のパーソナルバンキングサービス",
+        "yext/description": "現金よりも優れ、小切手よりも安全です。ダイムのデビットカードを使用してください。年会費なし。無料のデビットカードにサインアップして、必要な購入を行うか、世界中の数百万のATMから資金を引き出します。",
+        "yext/name": "消費者デビットカード"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

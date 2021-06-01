@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ066",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Existing Customer Business Online Login",
+        "url": "https://dime.olbanking.com/smallbusiness/auth"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "To retrieve your business statements online, you can login to your online account and select Statements SSO from the menu on the left panel. You can also contact a customer service representative at 800-321-3463 to request a copy be mailed.",
+    "yext/name": "How can I access my past bank statements for my business account?",
+    "yext/question": "How can I access my past bank statements for my business account?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Um Ihre Geschäftsauszüge online abzurufen, können Sie sich bei Ihrem Online-Konto anmelden und im Menü auf der linken Seite die Option Statements SSO auswählen. Sie können sich auch unter 800-321-3463 an einen Kundendienstmitarbeiter wenden, um eine Kopie per Post anzufordern.",
+        "yext/name": "Wie kann ich auf meine früheren Kontoauszüge für mein Geschäftskonto zugreifen?",
+        "yext/question": "Wie kann ich auf meine früheren Kontoauszüge für mein Geschäftskonto zugreifen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Para recuperar sus extractos comerciales en línea, puede iniciar sesión en su cuenta en línea y seleccionar Extractos SSO en el menú del panel izquierdo. También puede comunicarse con un representante de servicio al cliente al 800-321-3463 para solicitar que se le envíe una copia por correo.",
+        "yext/name": "¿Cómo puedo acceder a mis extractos bancarios anteriores de mi cuenta comercial?",
+        "yext/question": "¿Cómo puedo acceder a mis extractos bancarios anteriores de mi cuenta comercial?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Pour récupérer vos relevés d\u0027entreprise en ligne, vous pouvez vous connecter à votre compte en ligne et sélectionner Relevés BSF dans le menu du panneau de gauche. Vous pouvez également contacter un représentant du service clientèle au 800-321-3463 pour demander qu\u0027une copie vous soit envoyée par la poste.",
+        "yext/name": "Comment puis-je accéder à mes anciens relevés bancaires pour mon compte professionnel ?",
+        "yext/question": "Comment puis-je accéder à mes anciens relevés bancaires pour mon compte professionnel ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Per recuperare le dichiarazioni commerciali online, è possibile accedere al proprio account online e selezionare Dichiarazioni SSO dal menu nel pannello di sinistra. Puoi anche contattare un rappresentante del servizio clienti al numero 800-321-3463 per richiedere una copia da spedire.",
+        "yext/name": "Come posso accedere ai miei precedenti estratti conto bancari per il mio account aziendale?",
+        "yext/question": "Come posso accedere ai miei precedenti estratti conto bancari per il mio account aziendale?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "オンラインでビジネスステートメントを取得するには、オンラインアカウントにログインし、左側のパネルのメニューから[ステートメントSSO]を選択します。また、800-321-3463のカスタマーサービス担当者に連絡して、コピーの郵送を要求することもできます。",
+        "yext/name": "ビジネスアカウントの過去の銀行取引明細書にアクセスするにはどうすればよいですか？",
+        "yext/question": "ビジネスアカウントの過去の銀行取引明細書にアクセスするにはどうすればよいですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

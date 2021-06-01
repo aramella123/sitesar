@@ -1,0 +1,55 @@
+{
+  "$id": "product-19",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_benefits": [
+      "Because of our experience working with New York area law firms and attorneys",
+      "we know that your needs go beyond checking and savings accounts. From a tailored mix of cash flow solutions designed especially for attorneys",
+      "to escrow account management services",
+      "we use our experience to develop custom banking products that assist you in achieving your goals."
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/business/professional-services-solutions/attorneys-and-law-firms"
+      }
+    ],
+    "c_noFee": true,
+    "c_productType": "Attorneys and Law Firms",
+    "c_slug": "[[entityId]]",
+    "yext/landingPageUrl": "https://www.dime.com/business/professional-services-solutions/attorneys-and-law-firms",
+    "yext/name": "Attorneys and Law Firms",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1000,
+          "sourceUrl": "https://images.pexels.com/photos/4482900/pexels-photo-4482900.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "thumbnails": [
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p/FHmiAWYqp933X7DX0Cy7f3OurmpY1SEoQxUcvYBIUnM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/FHmiAWYqp933X7DX0Cy7f3OurmpY1SEoQxUcvYBIUnM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p/FHmiAWYqp933X7DX0Cy7f3OurmpY1SEoQxUcvYBIUnM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/FHmiAWYqp933X7DX0Cy7f3OurmpY1SEoQxUcvYBIUnM/1000x1000.jpg",
+          "width": 1000
+        }
+      }
+    ],
+    "yext/richTextDescription": "At Dime\u0027,\u0027 law firms and attorneys will experience easy access and a quick response. Our dedicated relationship managers are always within reach. We provide proactive thinking, a quick turnaround on all your requests, and bankers that roll up their sleeves to help you grow your business and meet your financial goals."
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

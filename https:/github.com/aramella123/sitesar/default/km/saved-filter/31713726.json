@@ -1,0 +1,30 @@
+{
+  "$id": "31713726",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Answers - PPP",
+  "filter": {
+    "entityField": [
+      {
+        "fieldId": "c_activeOnAnswers",
+        "searchBool": "TRUE"
+      },
+      {
+        "fieldId": "c_fAQType",
+        "filterOption": {
+          "choice": [
+            "PPP"
+          ],
+          "type": "IS"
+        }
+      }
+    ],
+    "entityType": [
+      {
+        "entityTypeId": [
+          "yext/faq"
+        ],
+        "type": "IS"
+      }
+    ]
+  }
+}

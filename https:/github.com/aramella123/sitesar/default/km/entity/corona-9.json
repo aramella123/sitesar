@@ -1,0 +1,111 @@
+{
+  "$id": "corona-9",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_dateOfUpdate": "3.23",
+    "c_fAQType": "COVID",
+    "yext/answer": "In order to continue servicing our customers as safely as possible, Dime Community Bank is temporarily modifying branch hours for those branches that are currently open.\n\nEffective Monday, March 23, 2020, branch hours will be:\n\nMonday - Friday 9:00 AM – 3:00 PM\nBranches with Saturday hours will be open 9:00 AM – 2:00 PM\nBranches with Sunday hours will be open 9:00 AM – 2:00 PM\nDime branches with drive through windows will keep those windows open until 5:00 PM.\n\nDime\u0027s Kent Avenue, Bedford Avenue, Park Slope, 86th Street, Melville, and Borough Park branches are still closed at this time.\n\nFor those of you who choose to visit us in a branch, our staff will be here to welcome you. At Dime Community Bank, we are continuing to monitor the reports on the Coronavirus (COVID-19) closely. Employee, customer, and community safety is our number one priority.\n\nDuring this time, we encourage customers to utilize digital banking. If you haven’t enrolled, learn more about free \u003ca href\u003d\"https://www.dime.com/personal/online-banking-and-bill-pay\" target\u003d\"_blank\"\u003eonline banking\u003c/a\u003e and \u003ca href\u003d\"https://www.dime.com/personal/mobile-banking\" target\u003d\"_blank\"\u003emobile banking\u003c/a\u003e at the links provided. Our Customer Call Center is also available at 800-321-3463.",
+    "yext/keywords": [
+      "COVID-19",
+      "coronavirus",
+      "closures",
+      "corona",
+      "COVID",
+      "covid",
+      "covid-19",
+      "Covid-19"
+    ],
+    "yext/name": "Modified Branch Hours - As of March 23, 2020",
+    "yext/question": "Modified Branch Hours - As of March 23, 2020"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Um unsere Kunden weiterhin so sicher wie möglich zu bedienen, ändert die Dime Community Bank vorübergehend die Filialzeiten für die derzeit geöffneten Filialen.\n \n Ab Montag, 23. März 2020, gelten folgende Filialzeiten:\n \n Montag - Freitag 9.00 - 15.00 Uhr\n Filialen mit Samstagsstunden sind von 9.00 bis 14.00 Uhr geöffnet\n Filialen mit Sonntagsstunden sind von 9.00 bis 14.00 Uhr geöffnet\n Dime-Zweige mit Durchfahrtsfenstern lassen diese Fenster bis 17:00 Uhr geöffnet.\n \n Die Filialen Kent Avenue, Bedford Avenue, Park Slope, 86th Street, Melville und Borough Park von Dime sind derzeit noch geschlossen.\n \n Für diejenigen unter Ihnen, die uns in einer Filiale besuchen möchten, sind unsere Mitarbeiter hier, um Sie willkommen zu heißen. Bei der Dime Community Bank überwachen wir die Berichte über das Coronavirus (COVID-19) weiterhin genau. Die Sicherheit von Mitarbeitern, Kunden und der Gemeinschaft hat für uns oberste Priorität.\n \n In dieser Zeit ermutigen wir Kunden, Digital Banking zu nutzen. Wenn Sie sich noch nicht angemeldet haben, erfahren Sie mehr über kostenloses \u003ca href\u003d\"https://www.dime.com/personal/online-banking-and-bill-pay\" target\u003d\"_blank\"\u003e Online-Banking \u003c/a\u003e und \u003ca href\u003d\"https://www.dime.com/personal/mobile-banking\" target\u003d\"_blank\"\u003e Mobile Banking \u003c/a\u003e unter den angegebenen Links. Unser Kunden-Callcenter ist auch unter 800-321-3463 erreichbar.",
+        "yext/keywords": [
+          "COVID-19",
+          "Coronavirus",
+          "Verschlüsse",
+          "Corona",
+          "COVID",
+          "Covid",
+          "Covid-19"
+        ],
+        "yext/name": "Geänderte Öffnungszeiten - Stand 23. März 2020",
+        "yext/question": "Geänderte Öffnungszeiten - Stand 23. März 2020"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Para continuar prestando servicios a nuestros clientes de la manera más segura posible, Dime Community Bank está modificando temporalmente el horario de las sucursales para aquellas sucursales que están actualmente abiertas.\n \n A partir del lunes 23 de marzo de 2020, las horas de sucursal serán:\n \n Lunes a viernes de 9:00 a.m. a 3:00 p.m.\n Las sucursales con horario de sábado estarán abiertas de 9:00 a.m. a 2:00 p.m.\n Las sucursales con horario de domingo estarán abiertas de 9:00 a.m. a 2:00 p.m.\n Las ramas de diez centavos que conducen a través de ventanas las mantendrán abiertas hasta las 5:00 p.m.\n \n Las sucursales de Dime\u0027s Kent Avenue, Bedford Avenue, Park Slope, 86th Street, Melville y Borough Park todavía están cerradas en este momento.\n \n Para los que eligen visitarnos en una sucursal, nuestro personal estará aquí para darle la bienvenida. En Dime Community Bank, continuamos monitoreando de cerca los informes sobre el Coronavirus (COVID-19). La seguridad de los empleados, clientes y la comunidad es nuestra prioridad número uno.\n \n Durante este tiempo, alentamos a los clientes a utilizar la banca digital. Si no se ha inscrito, obtenga más información sobre la \u003ca href\u003d\"https://www.dime.com/personal/online-banking-and-bill-pay\" target\u003d\"_blank\"\u003e banca en línea gratuita \u003c/a\u003e y \u003ca href\u003d\"https://www.dime.com/personal/mobile-banking\" target\u003d\"_blank\"\u003e banca móvil \u003c/a\u003e en los enlaces proporcionados. Nuestro Centro de atención al cliente también está disponible al 800-321-3463.",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "cierres",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Actualización de la sucursal de Melville - A partir del 23 de marzo de 2020",
+        "yext/question": "Actualización de la sucursal de Melville - A partir del 23 de marzo de 2020"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Afin de continuer à servir nos clients de la manière la plus sûre possible, Dime Community Bank modifie temporairement les heures d\u0027ouverture des agences actuellement en service.\n\nÀ compter du lundi 23 mars 2020, les heures d\u0027ouverture des agences seront les suivantes:\n\nLundi - vendredi 9h00 - 15h00\nLes agences ayant des heures d\u0027ouverture le samedi seront ouvertes de 9h00 à 14h00\nLes agences ayant des heures d\u0027ouverture le dimanche seront ouvertes de 9h00 à 14h00\nLes agences Dime qui ont un accès \"drive\" garderont ces fenêtres ouvertes jusqu\u0027à 17 heures.\n\nLes agences Dime Kent Avenue, Bedford Avenue, Park Slope, 86th Street, Melville et Borough Park sont toujours fermées à cette heure.\n\nPour ceux d\u0027entre vous qui choisissent de nous rendre visite dans une agence, notre personnel sera là pour vous accueillir. Chez Dime Community Bank, nous continuons à suivre de près les rapports sur le Coronavirus (COVID-19). La sécurité des employés, des clients et de la communauté est notre priorité numéro un.\n\nPendant cette période, nous encourageons les clients à utiliser les services bancaires en ligne. Si vous n\u0027êtes pas encore inscrit, vous pouvez en savoir plus sur les services bancaires gratuits \u003ca href\u003d\"\"https://www.dime.com/personal/online-banking-and-bill-pay\"\" target\u003d\"\"_blank\"\"\u003een ligne \u003c/a\u003e et \u003ca href\u003d\"\"https://www.dime.com/personal/mobile-banking\"\" target\u003d\"\"_blank\"\"\u003emobiles en cliquant sur les liens fournis. Notre centre d\u0027appel pour les clients est également disponible au 800-321-3463.",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "fermetures",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Heures d\u0027ouverture modifiées de l\u0027agence - en date du 23 mars 2020",
+        "yext/question": "Heures d\u0027ouverture modifiées de l\u0027agence - en date du 23 mars 2020"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Per continuare a servire i nostri clienti nel modo più sicuro possibile, Dime Community Bank sta modificando temporaneamente l\u0027orario delle filiali per quelle filiali che sono attualmente aperte.\n\nA partire da lunedì 23 marzo 2020, gli orari delle filiali saranno:\n\nLunedi - Venerdì 9:00 - 15:00\nLe filiali con orario di sabato saranno aperte dalle 9:00 alle 14:00\nLe filiali con orario domenicale saranno aperte dalle 9:00 alle 14:00\nLe filiali Dime con drive through windows manterranno quelle finestre aperte fino alle 17:00.\n\nLe filiali di Dime\u0027s Kent Avenue, Bedford Avenue, Park Slope, 86th Street, Melville e Borough Park sono ancora chiuse in questo momento.\n\nPer quelli di voi che scelgono di farci visita in una filiale, il nostro staff sarà qui per darvi il benvenuto. Alla Dime Community Bank, stiamo continuando a monitorare attentamente i rapporti sul Coronavirus (COVID-19). La sicurezza dei dipendenti, dei clienti e della comunità è la nostra priorità numero uno.\n\nIn questo periodo, incoraggiamo i clienti a utilizzare il digital banking. Se non ti sei ancora registrato, leggi ulteriori informazioni sul \u003ca href\u003d\"\"https://www.dime.com/personal/online-banking-and-bill-pay\"\" target\u003d\"\"_blank\"\"\u003e servizi bancari online \u003c/a\u003e e \u003ca href\u003d\"\"https://www.dime.com/personal/mobile-banking\"\" target\u003d\"\"_blank\"\"\u003e mobile banking \u003c/a\u003e ai link forniti. Il nostro call center clienti è disponibile anche al numero 800-321-3463.",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "chiusure",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-20"
+        ],
+        "yext/name": "Orario delle filiali modificato - Dal 23 marzo 2020",
+        "yext/question": "Orario delle filiali modificato - Dal 23 marzo 2020"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "お客様にできる限り安全にサービスを提供し続けるために、ダイムコミュニティバンク Community Bankは現在営業している支店の営業時間を一時的に変更しています。\n\n2020年3月23日（月）の営業時間は次のとおりです。\n月曜日から金曜日の午前9時から午後3時まで\n土曜日営業の支店は午前9時から午後2時営業です。\n日曜営業の支店は9 00 AM〜2:00 PM営業しています。\n\nドライブスルーウィンドウのあるダイムブランチは、これらのウィンドウを5:00 PMまで開いたままにします。\n\nダイムのケントアベニュー、ベッドフォードアベニュー、パークスロープ、86番街、メルビル、バラパークのブランチは、現時点ではまだ閉鎖されています。支店でお越しの方は、スタッフ一同お待ちしております。ダイムコミュニティバンクでは、コロナウイルス（COVID-19）に関する報告を注意深く監視し続けています。従業員、顧客、コミュニティの安全は私たちの最優先事項です。この間、私たちはお客様にデジタルバンキングを利用することをお勧めします。登録していない場合は、無料の\u003ca href\u003d\"https://www.ダイムコミュニティバンク.com/personal/online-banking-and-bill-pay\" target\u003d\"_blank\"\u003eオンラインバンキング\u003c/a\u003eの詳細をご覧ください。および提供されているリンクでの\u003ca href\u003d\"https://www.ダイムコミュニティバンク.com/personal/mobile-banking\" target\u003d\"_blank\"\u003eモバイルバンキング\u003c/a\u003e。カスタマーコールセンターは800-321-3463でもご利用いただけます。",
+        "yext/name": "変更された営業時間-2020年3月23日現在",
+        "yext/question": "変更された営業時間-2020年3月23日現在"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

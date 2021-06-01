@@ -1,0 +1,19 @@
+{
+  "$id": "7535491265025150409",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_primaryCTA": {
+      "label": "Learn More",
+      "link": "http://dime.com",
+      "linkType": "URL"
+    },
+    "yext/body": "Compound interest (or compounding interest) is the interest on a loan or deposit calculated based on both the initial principal and the accumulated interest from previous periods. Thought to have originated in 17th\\-century Italy, compound interest can be thought of as \"interest on interest,\" and will make a sum grow at a faster rate than simple interest, which is calculated only on the principal amount.  \nThe rate at which compound interest accrues depends on the frequency of compounding, such that the higher the number of compounding periods, the greater the compound interest. Thus, the amount of compound interest accrued on $100 compounded at 10% annually will be lower than that on $100 compounded at 5% semi\\-annually over the same time period. Since the interest\\-on\\-interest effect can generate increasingly positive returns based on the initial principal amount, it has sometimes been referred to as the \"miracle of compound interest.\"",
+    "yext/externalArticlePostDate": "2021-04-14",
+    "yext/externalArticleUpdateDate": "2021-04-15",
+    "yext/landingPageUrl": "http://www.dime.com",
+    "yext/name": "Compound Interest"
+  },
+  "entityType": "yext/helpArticle",
+  "labels": []
+}

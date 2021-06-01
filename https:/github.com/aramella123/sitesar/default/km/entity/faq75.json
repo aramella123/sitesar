@@ -1,0 +1,62 @@
+{
+  "$id": "faq75",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "External transfers are used to transfer funds between accounts you own at different financial institutions.",
+    "yext/name": "Can I transfer funds to someone else using external transfers?",
+    "yext/question": "Can I transfer funds to someone else using external transfers?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Externe Überweisungen werden verwendet, um Geld zwischen Konten zu überweisen, die Sie bei verschiedenen Finanzinstituten befinden.",
+        "yext/name": "Kann ich mit externen Überweisungen Geld an eine andere Person überweisen?",
+        "yext/question": "Kann ich mit externen Überweisungen Geld an eine andere Person überweisen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Las transferencias externas se utilizan para transferir fondos entre cuentas que posee en diferentes instituciones financieras.",
+        "yext/name": "¿Puedo transferir fondos a otra persona utilizando transferencias externas?",
+        "yext/question": "¿Puedo transferir fondos a otra persona utilizando transferencias externas?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Les virements externes sont utilisés pour transférer des fonds entre des comptes que vous possédez auprès de différentes institutions financières.",
+        "yext/name": "Puis-je transférer des fonds à une autre personne en utilisant des virements externes ?",
+        "yext/question": "Puis-je transférer des fonds à une autre personne en utilisant des virements externes ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "I trasferimenti esterni vengono utilizzati per trasferire fondi tra conti di proprietà di diversi istituti finanziari.",
+        "yext/name": "Posso trasferire fondi a qualcun altro utilizzando trasferimenti esterni?",
+        "yext/question": "Posso trasferire fondi a qualcun altro utilizzando trasferimenti esterni?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "外部送金は、異なる金融機関で所有している口座間で資金を送金するために使用されます。",
+        "yext/name": "外部送金を使用して他の人に資金を送金できますか？",
+        "yext/question": "外部送金を使用して他の人に資金を送金できますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

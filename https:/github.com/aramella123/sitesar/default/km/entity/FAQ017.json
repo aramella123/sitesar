@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ017",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Guide to Personal Banking",
+        "url": "https://www.dime.com/sites/default/files/2018-12/guide-to-personal-banking.pdf"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "You can find a copy of Dime\u0027s Guide to Personal Banking by clicking the link below.",
+    "yext/name": "Where can I access Dime\u0027s Guide to Personal Banking?",
+    "yext/question": "Where can I access Dime\u0027s Guide to Personal Banking?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie finden eine Kopie von Dimes Leitfaden für Personal Banking, indem Sie auf den unten stehenden Link klicken.",
+        "yext/name": "Wo kann ich auf Dimes Leitfaden für Personal Banking zugreifen?",
+        "yext/question": "Wo kann ich auf Dimes Leitfaden für Personal Banking zugreifen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Puede encontrar una copia de la Guía de Dime de Personal Banking haciendo clic en el enlace a continuación.",
+        "yext/name": "¿Dónde puedo acceder a la Guía Dime de Banca Personal?",
+        "yext/question": "¿Dónde puedo acceder a la Guía Dime de Banca Personal?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous pouvez trouver une copie du guide Dime sur les services bancaires aux particuliers en cliquant sur le lien ci-dessous.",
+        "yext/name": "Où puis-je accéder au guide des services bancaires aux particuliers de Dime ?",
+        "yext/question": "Où puis-je accéder au guide des services bancaires aux particuliers de Dime ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Puoi trovare una copia della Guida di Personal Banking di Dime facendo clic sul collegamento in basso.",
+        "yext/name": "Dove posso accedere alla Guida di Dime al Personal Banking?",
+        "yext/question": "Dove posso accedere alla Guida di Dime al Personal Banking?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "以下のリンクをクリックすると、パーソナルバンキングに関するダイムのガイドのコピーを見つけることができます。",
+        "yext/name": "パーソナルバンキングのダイムガイドにはどこからアクセスできますか？",
+        "yext/question": "パーソナルバンキングのダイムガイドにはどこからアクセスできますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

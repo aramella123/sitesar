@@ -1,0 +1,62 @@
+{
+  "$id": "faq70",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "There is no fee for executing an incoming or outgoing external transfer.",
+    "yext/name": "Is there a fee to transfer from bank to bank?",
+    "yext/question": "Is there a fee to transfer from bank to bank?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Für die Ausführung einer eingehenden oder ausgehenden externen Überweisung wird keine Gebühr erhoben.",
+        "yext/name": "Gibt es eine Gebühr für die Überweisung von Bank zu Bank?",
+        "yext/question": "Gibt es eine Gebühr für die Überweisung von Bank zu Bank?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "No hay tarifa por ejecutar una transferencia externa entrante o saliente.",
+        "yext/name": "¿Hay algún cargo por transferir de un banco a otro?",
+        "yext/question": "¿Hay algún cargo por transferir de un banco a otro?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Il n\u0027y a pas de frais pour l\u0027exécution d\u0027un transfert externe entrant ou sortant.",
+        "yext/name": "Y a-t-il des frais pour effectuer un transfert de banque à banque ?",
+        "yext/question": "Y a-t-il des frais pour effectuer un transfert de banque à banque ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Non ci sono costi per l\u0027esecuzione di un trasferimento esterno in entrata o in uscita.",
+        "yext/name": "È previsto un costo per il trasferimento da una banca all\u0027altra?",
+        "yext/question": "È previsto un costo per il trasferimento da una banca all\u0027altra?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "着信または発信の外部転送を実行するための料金はかかりません。",
+        "yext/name": "銀行から銀行への送金に手数料はかかりますか？",
+        "yext/question": "銀行から銀行への送金に手数料はかかりますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

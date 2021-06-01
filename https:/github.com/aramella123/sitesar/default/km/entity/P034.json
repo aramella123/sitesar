@@ -1,0 +1,86 @@
+{
+  "$id": "P034",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Low minimum balance to open - only $1",
+      "000",
+      "Make up to 6 withdrawls a month (1)",
+      "Free online and mobile banking"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/personal/money-market"
+      }
+    ],
+    "c_fees": "0.0",
+    "c_minimumDeposit": "1000.0",
+    "c_slug": "[[entityId]]",
+    "yext/description": "A Money Market account is a great option between a traditional savings account \u0026 a certificate of deposit. Talk to a Dime banker to find the right option.",
+    "yext/landingPageUrl": "https://www.dime.com/personal/money-market",
+    "yext/name": "Money Market Savings Accounts"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/description": "Ein Geldmarktkonto ist eine großartige Option zwischen einem herkömmlichen Sparkonto und einer Einzahlungsbescheinigung. Sprechen Sie mit einem Dime-Banker, um die richtige Option zu finden.",
+        "yext/name": "Geldmarktsparkonten"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Saldo mínimo bajo para abrir: solo $ 1",
+          "000",
+          "realice hasta 6 retiros al mes (1)",
+          "banca en línea y móvil gratis"
+        ],
+        "yext/description": "Una cuenta del mercado monetario es una excelente opción entre una cuenta de ahorro tradicional y un certificado de depósito. Hable con un banquero de Dime para encontrar la opción correcta.",
+        "yext/name": "Money Market Savings Accounts"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Solde minimum peu élevé à l\u0027ouverture - seulement 1 000 €",
+          "Effectuez jusqu\u0027à 6 retraits par mois (1)",
+          "Services bancaires gratuits en ligne et par téléphone portable"
+        ],
+        "yext/description": "Un compte Marché Monétaire est une excellente option entre un compte d\u0027épargne traditionnel et un certificat de dépôt. Parlez à un banquier de Dime pour trouver la bonne option.",
+        "yext/name": "Comptes épargne Marché Monétaire"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Saldo minimo basso da aprire - solo $ 1.000",
+          "effettua fino a 6 prelievi al mese (1)",
+          "servizi bancari online e su cellulare gratuiti"
+        ],
+        "yext/description": "Un conto sul mercato monetario è un\u0027ottima opzione tra un conto di risparmio tradizionale e un certificato di deposito. Parla con un banchiere Dime per trovare l\u0027opzione giusta.",
+        "yext/name": "Conti di risparmio del mercato monetario"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/description": "マネーマーケットアカウントは、従来の普通預金口座と預金証書の間の優れたオプションです。ダイムバンカーに相談して、適切なオプションを見つけてください。",
+        "yext/name": "マネーマーケット普通預金口座"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

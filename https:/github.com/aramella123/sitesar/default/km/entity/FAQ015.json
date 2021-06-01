@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ015",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Consumer Fees",
+        "url": "https://www.dime.com/sites/default/files/2019-04/schedule-fees-consumer.pdf"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "You can find a copy of Dime\u0027s schedule of Consumer Fees by clicking the link below.",
+    "yext/name": "What are Dime\u0027s schedule of consumer Fees?",
+    "yext/question": "What are Dime\u0027s schedule of consumer Fees?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie finden eine Kopie des Dimes-Zeitplans für Verbrauchergebühren, indem Sie auf den unten stehenden Link klicken.",
+        "yext/name": "Wie lauten die Gebühren für Privatkunden von Dime?",
+        "yext/question": "Wie lauten die Gebühren für Privatkunden von Dime?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Puede encontrar una copia del programa de tarifas de consumo de Dime haciendo clic en el siguiente enlace.",
+        "yext/name": "¿Cuál es el calendario de tarifas de consumo de Dime?",
+        "yext/question": "¿Cuál es el calendario de tarifas de consumo de Dime?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous pouvez trouver une copie du barème des frais de consommation Dime en cliquant sur le lien ci-dessous.",
+        "yext/name": "Quels sont les tarifs Dime de dépassement consommateur ?",
+        "yext/question": "Quels sont les tarifs Dime de dépassement consommateur ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Puoi trovare una copia del programma Dime delle Commissioni per i consumatori facendo clic sul link in basso.",
+        "yext/name": "Quali sono gli orari di Dime per le commissioni dei consumatori?",
+        "yext/question": "Quali sono gli orari di Dime per le commissioni dei consumatori?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "以下のリンクをクリックすると、ダイムの消費者料金のスケジュールのコピーを見つけることができます。",
+        "yext/name": "ダイムコミュニティバンクの消費者手数料のスケジュールはどのようになっていますか？",
+        "yext/question": "ダイムコミュニティバンクの消費者手数料のスケジュールはどのようになっていますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "$id": "1904953481640509199",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degrees": {
+      "degree": "Bachelors",
+      "graduatingYear": "1990",
+      "school": "University of Chicago"
+    },
+    "c_externalArticleUpdateDate": "5/10/20",
+    "c_primaryCTA": {
+      "label": "Read More",
+      "link": "http://dime.com",
+      "linkType": "URL"
+    },
+    "c_title": "Chief Executive Officer",
+    "yext/awards": [
+      "Forbes 30 under 30",
+      "Pulitzer Prize",
+      "Salesman of the Year"
+    ],
+    "yext/description": "Bank presidents are often portrayed in an unflattering light in film. Think of the stingy Mr. Potter from It’s a Wonderful Life. But BNB Bank President and CEO Kevin O’Connor is more a George Bailey in character and work ethic.\n\nWhile many people’s experience with a financial institution might be stuffy and corporate, O’Connor’s BNB views itself more like a neighbor with an interest in the community that it calls home. O’Connor took over the reins at BNB in January of 2008, after growing North Fork Bank from a small community bank to a regional power-player. Born, raised and educated on Long Island—with a Bachelor’s Degree from Adelphi University—O’Connor has a unique understanding of how to invest in Long Island, because he feels like Long Island has invested in him.\n\nBNB was founded more than a century ago and is perhaps the most notable business to emerge from the quaint East End hamlet of Bridgehampton, where this small bank quickly rose to become New York’s leading community bank. While O’Connor has presided over the unprecedented success, he modestly claims that the growth is mostly organic—of the school of thought that with great service and great customers, great businesses sustain.\n\nHe has shared his leadership skills and style with his three sons, who were all active in the Boy Scouts, by serving as a leader in that organization. O’Connor says that the Boy Scouts teaches young men that the most important thing, in any setting, is leadership. All three of his sons earned the Eagle Scout rank.\n\n“My job is not always to do, it is to set examples and try to keep the ship moving forward,” he says. “I took lessons I’ve learned in various roles, to keep everything I am involved in moving forward.”\n\nO’Connor is put in the unique situation of being someone who understands that when the community succeeds, so do businesses. A community bank, by definition, empowers local businesses with the resources needed to meet their goals, enables local projects to be completed on-time and under-budget, and allows small communities like Bridgehampton to emerge as economic engines for a whole local economy.\n\n“We had 40 branches where people were coming to every day, and we tend to think that the banking we do every day is easy. When I get an email or a letter or a call from a customer that tells me how we helped them, when\nour employees can help navigate that system, we realize that sometimes we do not give banking the value that it sometimes deserves,” he says. “When we have done a good job, and our employee has gone above and beyond, that’s the most satisfying.”\n\nWith this, though, comes a tenacious effort to bring in the best bankers, and recruit new customers, and this, too, is one of O’Connor’s greatest strengths.\n\n“When I go to visit potential customers, I don’t ask who their bank is, I ask who their banker is. If they don’t know, that’s an opportunity. If they do know, I make every effort to go meet that person,” he says. “We aggressively pursue good bankers to hire and build business around them—which means hiring talented bankers.”\n\nAs a company as expansive as BNB, O’Connor has never fallen out of touch with where they got their start. With previous experience in banking on Long Island’s unique East End, O’Connor’s sights never stray too far from the nucleus.\n\nA friendly face in Bridgehampton, he says that it’s like a second home to him, as he resides in the south shore town of Great River. “The beauty of the East End, whether it’s the vineyards on the North Fork, the beaches on the South Fork, I am grateful every day for where I live,” he says of Long Island.  “I love to follow Instagram and social media of the people that highlight the beauty of our home. I really think we live in a great spot in the world, where many people come and vacation, and sometimes we just do not take advantage of it.”\n\nPersonally and professionally, O’Connor is regarded as a supporter of local communities. He is a past-president and Advisory Board Member of the Suffolk County Council of the Boy Scouts of America, and is currently a Member of the Board of Trustees of Suffolk County Community College and a Board Member of the New York Bankers Association. Hamptons powerbroker, family man, titan of finance and Long Islander, he, like all of us, has an incredible affinity for our beautiful East End.",
+    "yext/landingPageUrl": "https://dime.com",
+    "yext/name": "Kevin O\u0027Connor"
+  },
+  "entityType": "ce_executive",
+  "labels": []
+}

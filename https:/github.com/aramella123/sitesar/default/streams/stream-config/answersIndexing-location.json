@@ -1,0 +1,39 @@
+{
+  "$id": "answersIndexing-location",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "streamsapi",
+  "fields": [
+    "c_answersGeomodifier",
+    "keywords",
+    "c_answersServices",
+    "blackOwnedBusiness",
+    "products",
+    "address",
+    "c_noFee",
+    "name",
+    "uid",
+    "id",
+    "timezone",
+    "meta",
+    "matchingSearchIds",
+    "displayCoordinate",
+    "yextDisplayCoordinate",
+    "geocodedCoordinate",
+    "cityCoordinate"
+  ],
+  "filter": {
+    "entityTypes": [
+      "location"
+    ]
+  },
+  "localization": {
+    "locales": [
+      "en",
+      "fr",
+      "es",
+      "de",
+      "it"
+    ]
+  }
+}

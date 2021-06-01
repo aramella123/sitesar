@@ -1,0 +1,1398 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "global_dime_test",
+  "name": "Dime Answers Experience - Global",
+  "supportedLocales": [
+    "en",
+    "es",
+    "fr",
+    "it",
+    "de",
+    "ja",
+    "zh"
+  ],
+  "countryRestrictions": [],
+  "verticals": {
+    "covid_faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "COVID-19 FAQs",
+      "savedSearchId": "30488153",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_coronaVirusFAQ": {
+          "textSearch": true
+        },
+        "c_dateOfUpdate": {
+          "sortable": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [
+        {
+          "direction": "DESC",
+          "field": "c_dateOfUpdate",
+          "type": "FIELD"
+        }
+      ],
+      "source": "KNOWLEDGE_MANAGER",
+      "verticalIntents": {
+        "blacklistedIntents": [],
+        "boostingIntents": [
+          {
+            "boost": 25,
+            "phrase": "covid"
+          },
+          {
+            "boost": 25,
+            "phrase": "covid-19"
+          },
+          {
+            "boost": 25,
+            "phrase": "coronavirus"
+          }
+        ]
+      }
+    },
+    "faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "FAQs",
+      "savedSearchId": "29154600",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_dateOfUpdate": {
+          "sortable": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [
+        {
+          "direction": "DESC",
+          "field": "c_dateOfUpdate",
+          "type": "FIELD"
+        }
+      ],
+      "source": "KNOWLEDGE_MANAGER",
+      "verticalIntents": {
+        "blacklistedIntents": [],
+        "boostingIntents": [
+          {
+            "boost": 25,
+            "phrase": "contact dime"
+          },
+          {
+            "boost": 25,
+            "phrase": "mortgate rate calculator"
+          },
+          {
+            "boost": 25,
+            "phrase": "mortgate rate calculators"
+          },
+          {
+            "boost": 25,
+            "phrase": "credit card"
+          },
+          {
+            "boost": 25,
+            "phrase": "credit cards"
+          },
+          {
+            "boost": 25,
+            "phrase": "register"
+          },
+          {
+            "boost": 25,
+            "phrase": "sign up"
+          },
+          {
+            "boost": 25,
+            "phrase": "password"
+          },
+          {
+            "boost": 25,
+            "phrase": "passcode"
+          },
+          {
+            "boost": 25,
+            "phrase": "enroll"
+          }
+        ]
+      }
+    },
+    "links": {
+      "apiKey": "AIzaSyCEdak1q61XoYIH9Oq66nI8Z-wqUZDS41U",
+      "cx": "011160367914084378876:45ufrjtiiga",
+      "name": "Links",
+      "source": "GOOGLE_CSE",
+      "useSynonyms": "JUST_CUSTOMER_SYNONYMS"
+    },
+    "locations": {
+      "entityTypes": [
+        "location"
+      ],
+      "name": "Locations",
+      "savedSearchId": "27626683",
+      "searchableFields": {
+        "address": {
+          "textSearch": true
+        },
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true
+        },
+        "c_answersGeomodifier": {
+          "nlpFilter": true
+        },
+        "c_answersServices": {
+          "nlpFilter": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "ppp_faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "PPP FAQs",
+      "savedSearchId": "31713726",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "products": {
+      "entityTypes": [
+        "ce_product"
+      ],
+      "name": "Products",
+      "savedSearchId": "29159999",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_productType": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "nlpFilter": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER",
+      "verticalIntents": {
+        "blacklistedIntents": [],
+        "boostingIntents": [
+          {
+            "boost": 25,
+            "phrase": "refinance"
+          },
+          {
+            "boost": 25,
+            "phrase": "paycheck"
+          },
+          {
+            "boost": 25,
+            "phrase": "ppp"
+          }
+        ]
+      }
+    }
+  },
+  "autocomplete": {
+    "disablePopularQueries": false,
+    "hardcodedPrompts": [
+      "Dime Operations \u0026 COVID-19",
+      "Locations Near Me",
+      "Business Checking Products",
+      "Open a Savings Account",
+      "What are your current cd rates?",
+      "What is Dime\u0027s Routing Number?"
+    ]
+  },
+  "synonyms": {
+    "oneWay": [
+      {
+        "phrase": "branch",
+        "synonyms": [
+          "location"
+        ]
+      },
+      {
+        "phrase": "branches",
+        "synonyms": [
+          "locations"
+        ]
+      },
+      {
+        "phrase": "faq",
+        "synonyms": [
+          "FAQ"
+        ]
+      },
+      {
+        "phrase": "travel",
+        "synonyms": [
+          "traveling"
+        ]
+      },
+      {
+        "phrase": "venmo",
+        "synonyms": [
+          "zelle"
+        ]
+      },
+      {
+        "phrase": "refinance",
+        "synonyms": [
+          "mortgage"
+        ]
+      },
+      {
+        "phrase": "support",
+        "synonyms": [
+          "customer service"
+        ]
+      },
+      {
+        "phrase": "contact dime",
+        "synonyms": [
+          "customer service"
+        ]
+      },
+      {
+        "phrase": "cell phone",
+        "synonyms": [
+          "remote deposit"
+        ]
+      },
+      {
+        "phrase": "smart phone",
+        "synonyms": [
+          "remote deposit"
+        ]
+      },
+      {
+        "phrase": "android",
+        "synonyms": [
+          "remote deposit"
+        ]
+      },
+      {
+        "phrase": "iPhone",
+        "synonyms": [
+          "remote deposit"
+        ]
+      },
+      {
+        "phrase": "espanol",
+        "synonyms": [
+          "spanish"
+        ]
+      },
+      {
+        "phrase": "español",
+        "synonyms": [
+          "spanish"
+        ]
+      },
+      {
+        "phrase": "check refill",
+        "synonyms": [
+          "Check Reordering"
+        ]
+      },
+      {
+        "phrase": "personal check",
+        "synonyms": [
+          "check"
+        ]
+      }
+    ],
+    "synonymSet": [
+      [
+        "careers",
+        "job",
+        "career",
+        "open position",
+        "open positions",
+        "open jobs",
+        "jobs"
+      ],
+      [
+        "estatement",
+        "e statement",
+        "e-statement",
+        "estatements",
+        "e statements",
+        "e-statements",
+        "bank statement",
+        "bank statements",
+        "statement",
+        "statements",
+        "paperless billing",
+        "paperless statements",
+        "paperless statement"
+      ],
+      [
+        "app",
+        "mobile app",
+        "mobile banking"
+      ],
+      [
+        "sign up",
+        "sign-up",
+        "enroll",
+        "register",
+        "online banking"
+      ],
+      [
+        "cancel",
+        "close account",
+        "close"
+      ],
+      [
+        "login",
+        "log in",
+        "sign in",
+        "signin"
+      ],
+      [
+        "certificate of deposit",
+        "cd",
+        "certificate of deposits"
+      ],
+      [
+        "covid",
+        "corona virus",
+        "coronavirus",
+        "covid-19",
+        "still open"
+      ],
+      [
+        "safety deposit box",
+        "safe deposit box"
+      ],
+      [
+        "Paycheck Protection Program (PPP)",
+        "PPP",
+        "Paycheck protection",
+        "Paycheck protection program"
+      ],
+      [
+        "venmo",
+        "paypal",
+        "zelle"
+      ]
+    ]
+  },
+  "localizations": {
+    "de": {
+      "autocomplete": {
+        "hardcodedPrompts": [
+          "Dime Operations COVID-19",
+          "Standorte in meine Nähe",
+          "Geschäftskonto Optionen",
+          "Öffnen Sie ein Sparkonto",
+          "Was sind Ihre aktuellen CD-Preise?",
+          "Wie lautet die Bankleitzahl von Dime?"
+        ]
+      },
+      "synonyms": {
+        "oneWay": [
+          {
+            "phrase": "Filiale",
+            "synonyms": [
+              "Standort"
+            ]
+          },
+          {
+            "phrase": "Filialen",
+            "synonyms": [
+              "Standorte"
+            ]
+          },
+          {
+            "phrase": "faq",
+            "synonyms": [
+              "FAQ"
+            ]
+          },
+          {
+            "phrase": "Reise",
+            "synonyms": [
+              "Reisen"
+            ]
+          },
+          {
+            "phrase": "venmo",
+            "synonyms": [
+              "zelle"
+            ]
+          },
+          {
+            "phrase": "Refinanzierung",
+            "synonyms": [
+              "Hypothek"
+            ]
+          },
+          {
+            "phrase": "Support",
+            "synonyms": [
+              "Kundeservice"
+            ]
+          },
+          {
+            "phrase": "Kontaktieren Sie Dime",
+            "synonyms": [
+              "Kundenservice"
+            ]
+          },
+          {
+            "phrase": "Mobiltelefon",
+            "synonyms": [
+              "Remote-Einzahlung"
+            ]
+          },
+          {
+            "phrase": "Smartphone",
+            "synonyms": [
+              "Remote-Einzahlung"
+            ]
+          },
+          {
+            "phrase": "Android",
+            "synonyms": [
+              "Remote-Einzahlung"
+            ]
+          },
+          {
+            "phrase": "iphone Telefon",
+            "synonyms": [
+              "Remote-Einzahlung"
+            ]
+          },
+          {
+            "phrase": "espanol",
+            "synonyms": [
+              "spanisch"
+            ]
+          },
+          {
+            "phrase": "español",
+            "synonyms": [
+              "spanisch"
+            ]
+          },
+          {
+            "phrase": "Bankscheck nachfüllen",
+            "synonyms": [
+              "Nachbestellung von Bankschecks"
+            ]
+          },
+          {
+            "phrase": "persönlicher Scheck",
+            "synonyms": [
+              "Scheck"
+            ]
+          }
+        ],
+        "synonymSet": [
+          [
+            "Karrieren",
+            "Job",
+            "Karriere",
+            "Offene Stelle",
+            "Offene Stellen",
+            "offene Jobs",
+            "Jobs"
+          ],
+          [
+            "elektronischer Bankauszug",
+            "Bankauszug",
+            "Bankauszüge",
+            "Auszug",
+            "Auszüge",
+            "papierlose Abrechnung",
+            "papierlose Auszüge",
+            "papierloser Auszug"
+          ],
+          [
+            "App",
+            "Mobilapp",
+            "Mobiles Banking"
+          ],
+          [
+            "Registrieren",
+            "Anmelden",
+            "online banking"
+          ],
+          [
+            "stornieren",
+            "Konto schließen",
+            "schließen"
+          ],
+          [
+            "login",
+            "einloggen",
+            "anmelden"
+          ],
+          [
+            "Einzahlungsbescheinigung",
+            "cd"
+          ],
+          [
+            "covid",
+            "corona virus",
+            "coronavirus",
+            "covid-19",
+            "noch geöffnet"
+          ],
+          [
+            "Paycheck Protection Program (PPP)",
+            "PPP",
+            "Gehaltsschutz",
+            "Paycheck protection program",
+            "paycheck protection"
+          ],
+          [
+            "venmo",
+            "paypal",
+            "zelle"
+          ],
+          [
+            "unternehmen",
+            "geschäft"
+          ],
+          [
+            "überweisen",
+            "überweisung"
+          ],
+          [
+            "desteinzahlung",
+            "depot"
+          ]
+        ]
+      },
+      "verticals": {}
+    },
+    "es": {
+      "autocomplete": {
+        "hardcodedPrompts": [
+          "Operaciones COVID-19 Dime",
+          "Ubicaciones cerca de mí",
+          "Productos de cheques comerciales",
+          "Abrir una cuenta de ahorros",
+          "¿Cuáles son sus tasas actuales de CD?",
+          "¿Cuál es el número de ruta de Dime?"
+        ]
+      },
+      "synonyms": {
+        "oneWay": [
+          {
+            "phrase": "sucursal",
+            "synonyms": [
+              "ubicación",
+              "local"
+            ]
+          },
+          {
+            "phrase": "sucursales",
+            "synonyms": [
+              "ubicaciónes",
+              "locales"
+            ]
+          },
+          {
+            "phrase": "ubicación",
+            "synonyms": [
+              "local"
+            ]
+          },
+          {
+            "phrase": "ubicaciónes",
+            "synonyms": [
+              "locales"
+            ]
+          },
+          {
+            "phrase": "lugares",
+            "synonyms": [
+              "locales"
+            ]
+          },
+          {
+            "phrase": "lugar",
+            "synonyms": [
+              "local"
+            ]
+          },
+          {
+            "phrase": "faq",
+            "synonyms": [
+              "Preguntas frecuentes"
+            ]
+          },
+          {
+            "phrase": "viaje",
+            "synonyms": [
+              "de viaje"
+            ]
+          },
+          {
+            "phrase": "venmo",
+            "synonyms": [
+              "zelle"
+            ]
+          },
+          {
+            "phrase": "refinanciar",
+            "synonyms": [
+              "hipoteca"
+            ]
+          },
+          {
+            "phrase": "apoyo",
+            "synonyms": [
+              "Servicio al Cliente"
+            ]
+          },
+          {
+            "phrase": "contactar dime",
+            "synonyms": [
+              "Servicio al Cliente"
+            ]
+          },
+          {
+            "phrase": "Teléfono móvil",
+            "synonyms": [
+              "depósito remoto"
+            ]
+          },
+          {
+            "phrase": "teléfono inteligente",
+            "synonyms": [
+              "depósito remoto"
+            ]
+          },
+          {
+            "phrase": "android",
+            "synonyms": [
+              "depósito remoto"
+            ]
+          },
+          {
+            "phrase": "teléfono iphone",
+            "synonyms": [
+              "depósito remoto"
+            ]
+          },
+          {
+            "phrase": "espanol",
+            "synonyms": [
+              "spanish"
+            ]
+          },
+          {
+            "phrase": "español",
+            "synonyms": [
+              "spanish"
+            ]
+          },
+          {
+            "phrase": "rellnar cheque",
+            "synonyms": [
+              "reordenar cheques"
+            ]
+          },
+          {
+            "phrase": "cheque personal",
+            "synonyms": [
+              "cheque"
+            ]
+          },
+          {
+            "phrase": "cheques commerciales",
+            "synonyms": [
+              "Cuenta corriente comercial"
+            ]
+          },
+          {
+            "phrase": "cuenta commercial",
+            "synonyms": [
+              "cuenta corriente comercial"
+            ]
+          },
+          {
+            "phrase": "faqs",
+            "synonyms": [
+              "preguntas frecuentes"
+            ]
+          },
+          {
+            "phrase": "negocios",
+            "synonyms": [
+              "comercial"
+            ]
+          },
+          {
+            "phrase": "protección de cheques de pago",
+            "synonyms": [
+              "ppp"
+            ]
+          }
+        ],
+        "synonymSet": [
+          [
+            "carrera",
+            "trabajo",
+            "carreras",
+            "posición abierta",
+            "posiciónes abierta",
+            "trabajos"
+          ],
+          [
+            "extracto electronico",
+            "extracto bancario",
+            "extracto",
+            "extractos",
+            "facturación sin papel",
+            "extractos sin papel",
+            "extracto sin papel"
+          ],
+          [
+            "aplicación movil",
+            "la banca móvil"
+          ],
+          [
+            "regístrate",
+            "inscribirse",
+            "registrar",
+            "banca en línea",
+            "inscribo",
+            "registrarse"
+          ],
+          [
+            "cancelar",
+            "cuenta cerrada",
+            "cerrar"
+          ],
+          [
+            "iniciar sesión",
+            "registrarse"
+          ],
+          [
+            "certificado de depósitos",
+            "cd"
+          ],
+          [
+            "covid",
+            "corona virus",
+            "coronavirus",
+            "covid-19",
+            "todavía abierto",
+            "todavía están abiertos"
+          ],
+          [
+            "PPP",
+            "Programa de protección",
+            "Programa de protección de cheques"
+          ],
+          [
+            "venmo",
+            "paypal",
+            "zelle"
+          ],
+          [
+            "activo",
+            "activar"
+          ],
+          [
+            "horas",
+            "horario",
+            "horarios"
+          ],
+          [
+            "depósito",
+            "depositar"
+          ],
+          [
+            "aplicación",
+            "solicitud",
+            "solicitar",
+            "aplicar"
+          ],
+          [
+            "negocio",
+            "empresa"
+          ],
+          [
+            "tarifa",
+            "tarifas",
+            "cargo",
+            "cargos",
+            "tasa",
+            "tasas"
+          ]
+        ]
+      },
+      "verticals": {}
+    },
+    "fr": {
+      "autocomplete": {
+        "hardcodedPrompts": [
+          "Opérations Dime COVID-19",
+          "Agences près de moi",
+          "Produits de contrôle des entreprises",
+          "Ouvrir un compte épargne",
+          "Quels sont vos tarifs actuels pour les CD ?",
+          "Quel est le numéro d\u0027acheminement Dime ?"
+        ]
+      },
+      "synonyms": {
+        "oneWay": [
+          {
+            "phrase": "agence",
+            "synonyms": [
+              "agences"
+            ]
+          },
+          {
+            "phrase": "agences",
+            "synonyms": [
+              "agence"
+            ]
+          },
+          {
+            "phrase": "faq",
+            "synonyms": [
+              "FAQ"
+            ]
+          },
+          {
+            "phrase": "voyage",
+            "synonyms": [
+              "voyageant"
+            ]
+          },
+          {
+            "phrase": "venmo",
+            "synonyms": [
+              "zelle"
+            ]
+          },
+          {
+            "phrase": "refinancer",
+            "synonyms": [
+              "hypothèque"
+            ]
+          },
+          {
+            "phrase": "support",
+            "synonyms": [
+              "service clientèle"
+            ]
+          },
+          {
+            "phrase": "contacter dime",
+            "synonyms": [
+              "service clientèle"
+            ]
+          },
+          {
+            "phrase": "téléphone portable",
+            "synonyms": [
+              "dépôt à distance"
+            ]
+          },
+          {
+            "phrase": "smartphone",
+            "synonyms": [
+              "dépôt à distance"
+            ]
+          },
+          {
+            "phrase": "android",
+            "synonyms": [
+              "dépôt à distance"
+            ]
+          },
+          {
+            "phrase": "téléphone iphone",
+            "synonyms": [
+              "dépôt à distance"
+            ]
+          },
+          {
+            "phrase": "espanol",
+            "synonyms": [
+              "espagnol"
+            ]
+          },
+          {
+            "phrase": "espagnol",
+            "synonyms": [
+              "espagnol"
+            ]
+          },
+          {
+            "phrase": "réapprovisionnement chèque",
+            "synonyms": [
+              "Commander des chèques"
+            ]
+          },
+          {
+            "phrase": "chèque personnel",
+            "synonyms": [
+              "chèque"
+            ]
+          }
+        ],
+        "synonymSet": [
+          [
+            "carrières",
+            "emploi",
+            "poste ouvert",
+            "postes ouverts",
+            "emplois ouverts",
+            "emplois"
+          ],
+          [
+            "déclaration",
+            "déclaration électronique",
+            "déclaration électroniques",
+            "relevé de compte bancaire",
+            "relevés bancaires",
+            "déclarations",
+            "facturation sans papier",
+            "déclarations sans papier"
+          ],
+          [
+            "app",
+            "application mobile",
+            "services bancaires mobiles"
+          ],
+          [
+            "annuler",
+            "fermer le compte",
+            "fermer"
+          ],
+          [
+            "login",
+            "se connecter",
+            "s\u0027identifier",
+            "signin"
+          ],
+          [
+            "certificat de dépôt",
+            "cd"
+          ],
+          [
+            "covid",
+            "virus corona",
+            "coronavirus",
+            "covid-19",
+            "encore ouvert"
+          ],
+          [
+            "Programme de protection du salaire (PPS)",
+            "PPS",
+            "Protection du salaire",
+            "Programme de protection des salaires"
+          ],
+          [
+            "venmo",
+            "paypal",
+            "zelle"
+          ]
+        ]
+      },
+      "verticals": {}
+    },
+    "it": {
+      "autocomplete": {
+        "hardcodedPrompts": [
+          "Operazioni Dime COVID-19",
+          "Negozi vicino a me",
+          "Prodotti per il controllo aziendale",
+          "Aprire un Conto Risparmi",
+          "Quali sono le tue tasse CD attualmente?",
+          "Qual è il numero di routing Dime?"
+        ]
+      },
+      "synonyms": {
+        "oneWay": [
+          {
+            "phrase": "succursale",
+            "synonyms": [
+              "luogo"
+            ]
+          },
+          {
+            "phrase": "succursali",
+            "synonyms": [
+              "luoghi"
+            ]
+          },
+          {
+            "phrase": "faq",
+            "synonyms": [
+              "FAQ"
+            ]
+          },
+          {
+            "phrase": "viaggio",
+            "synonyms": [
+              "viaggiando"
+            ]
+          },
+          {
+            "phrase": "venmo",
+            "synonyms": [
+              "zelle"
+            ]
+          },
+          {
+            "phrase": "rifinanziare",
+            "synonyms": [
+              "ipoteca"
+            ]
+          },
+          {
+            "phrase": "supporto",
+            "synonyms": [
+              "servizio al cliente"
+            ]
+          },
+          {
+            "phrase": "contatta dime",
+            "synonyms": [
+              "Servizio al cliente"
+            ]
+          },
+          {
+            "phrase": "telefono cellulare",
+            "synonyms": [
+              "deposito remoto"
+            ]
+          },
+          {
+            "phrase": "smartphone",
+            "synonyms": [
+              "deposito remoto"
+            ]
+          },
+          {
+            "phrase": "android",
+            "synonyms": [
+              "deposito remoto"
+            ]
+          },
+          {
+            "phrase": "telefono iphone",
+            "synonyms": [
+              "deposito remoto"
+            ]
+          },
+          {
+            "phrase": "espanol",
+            "synonyms": [
+              "spagnolo"
+            ]
+          },
+          {
+            "phrase": "español",
+            "synonyms": [
+              "spagnolo"
+            ]
+          },
+          {
+            "phrase": "ricaricare il conto",
+            "synonyms": [
+              "Riordinare il conto"
+            ]
+          },
+          {
+            "phrase": "conto personale",
+            "synonyms": [
+              "conto"
+            ]
+          }
+        ],
+        "synonymSet": [
+          [
+            "opportunità lavorative",
+            "lavoro",
+            "carriere",
+            "posizione aperta",
+            "posizioni aperte",
+            "lavori"
+          ],
+          [
+            "estratto conto elettronico",
+            "estratto conto bancario",
+            "estratti conti bancari",
+            "estratto conto",
+            "estratti conto",
+            "fatturazione senza carta",
+            "estratti conto digitali",
+            "estratto conto digitale"
+          ],
+          [
+            "app",
+            "applicazione cellulare",
+            "banca sul cellulare"
+          ],
+          [
+            "Registrati",
+            "iscriversi",
+            "registrare",
+            "banca online"
+          ],
+          [
+            "cancellare",
+            "chiudere account",
+            "chiudere"
+          ],
+          [
+            "accesso",
+            "accedere"
+          ],
+          [
+            "certificato di deposito",
+            "cd"
+          ],
+          [
+            "covid",
+            "corona virus",
+            "coronavirus",
+            "covid-19",
+            "ancora aperto"
+          ],
+          [
+            "cassaforte di sicurezza",
+            "cassetta di sicurezza"
+          ],
+          [
+            "Programma di protezione stipendio (PPS)",
+            "PPS",
+            "Protezione stipendio",
+            "Programma di protezione salario"
+          ],
+          [
+            "venmo",
+            "paypal",
+            "zelle"
+          ]
+        ]
+      },
+      "verticals": {}
+    },
+    "ja": {
+      "autocomplete": {
+        "hardcodedPrompts": [
+          "ダイム・コロナウイルス・オペレーションズ",
+          "近くの場所",
+          "ビジネスチェック製品",
+          "普通預金口座を開く",
+          "現在のCDレートはいくらですか？",
+          "ダイムのルーティング番号とは何ですか？"
+        ]
+      },
+      "synonyms": {
+        "oneWay": [
+          {
+            "phrase": "ブランチ",
+            "synonyms": [
+              "ロケーション"
+            ]
+          },
+          {
+            "phrase": "枝",
+            "synonyms": [
+              "場所"
+            ]
+          },
+          {
+            "phrase": "よくある質問",
+            "synonyms": [
+              "よくある質問"
+            ]
+          },
+          {
+            "phrase": "トラベル",
+            "synonyms": [
+              "トラベル"
+            ]
+          },
+          {
+            "phrase": "ベンモ",
+            "synonyms": [
+              "ゼリー"
+            ]
+          },
+          {
+            "phrase": "借り換え",
+            "synonyms": [
+              "抵当"
+            ]
+          },
+          {
+            "phrase": "サポート",
+            "synonyms": [
+              "顧客サービス"
+            ]
+          },
+          {
+            "phrase": "連絡ダイム",
+            "synonyms": [
+              "顧客サービス"
+            ]
+          },
+          {
+            "phrase": "携帯電話",
+            "synonyms": [
+              "リモート預金"
+            ]
+          },
+          {
+            "phrase": "スマートフォン",
+            "synonyms": [
+              "リモート預金"
+            ]
+          },
+          {
+            "phrase": "アンドロイド",
+            "synonyms": [
+              "リモート預金"
+            ]
+          },
+          {
+            "phrase": "iphone電話",
+            "synonyms": [
+              "リモート預金"
+            ]
+          },
+          {
+            "phrase": "espanol",
+            "synonyms": [
+              "スペイン語"
+            ]
+          },
+          {
+            "phrase": "español",
+            "synonyms": [
+              "スペイン語"
+            ]
+          },
+          {
+            "phrase": "詰め替え確認",
+            "synonyms": [
+              "再注文の確認"
+            ]
+          },
+          {
+            "phrase": "個人小切手",
+            "synonyms": [
+              "小切手"
+            ]
+          }
+        ],
+        "synonymSet": [
+          [
+            "キャリア",
+            "ジョブ",
+            "オープンポジション",
+            "求人",
+            "仕事"
+          ],
+          [
+            "地所",
+            "eステートメント",
+            "電子ステートメント",
+            "銀行取引明細書",
+            "ステートメント",
+            "ペーパーレス請求",
+            "ペーパーレス声明"
+          ],
+          [
+            "アプリ",
+            "モバイルアプリ",
+            "モバイルバンキング"
+          ],
+          [
+            "サインアップ",
+            "登録する",
+            "登録",
+            "オンラインバンキング"
+          ],
+          [
+            "キャンセル",
+            "アカウントを閉じる",
+            "閉じる"
+          ],
+          [
+            "ログインする",
+            "サインイン"
+          ],
+          [
+            "譲渡性預金証書",
+            "CD",
+            "預金証書"
+          ],
+          [
+            "COVID",
+            "コロナウイルス",
+            "COVID-19",
+            "まだ開いている"
+          ],
+          [
+            "給与保護プログラム（PPP）",
+            "PPP",
+            "給与保護",
+            "給与保護プログラム"
+          ],
+          [
+            "ベンモ",
+            "ペイパル",
+            "Zelle"
+          ]
+        ]
+      },
+      "verticals": {}
+    }
+  },
+  "additionalSearchablePlaces": [],
+  "tier": "Beta"
+}

@@ -1,0 +1,63 @@
+{
+  "$id": "product-57",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_benefits": [
+      "Interest compounded daily \u0027",
+      "\u0027 credited monthly and at maturity",
+      "Various terms from three months to 84 moths",
+      "A grace period of 10 calendar days to renew",
+      "No monthly fees",
+      "Free online and mobile banking",
+      "500 minimum to open"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/personal/certificate-of-deposit"
+      }
+    ],
+    "c_fees": "0.0",
+    "c_minimumDeposit": "500.0",
+    "c_noFee": true,
+    "c_productType": "Personal Savings",
+    "c_slug": "[[entityId]]",
+    "yext/keywords": [
+      "Certificate of Deposit"
+    ],
+    "yext/landingPageUrl": "https://www.dime.com/personal/certificate-of-deposit",
+    "yext/name": "Certificates of Deposit (CDs)",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1000,
+          "sourceUrl": "https://images.pexels.com/photos/4482900/pexels-photo-4482900.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "thumbnails": [
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p/FHmiAWYqp933X7DX0Cy7f3OurmpY1SEoQxUcvYBIUnM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/FHmiAWYqp933X7DX0Cy7f3OurmpY1SEoQxUcvYBIUnM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p/FHmiAWYqp933X7DX0Cy7f3OurmpY1SEoQxUcvYBIUnM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/FHmiAWYqp933X7DX0Cy7f3OurmpY1SEoQxUcvYBIUnM/1000x1000.jpg",
+          "width": 1000
+        }
+      }
+    ],
+    "yext/richTextDescription": "Certificates of Deposit (CDs) are a low risk, maximum reward investment at Dime that provide a guaranteed fixed interest rate for a specified term."
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

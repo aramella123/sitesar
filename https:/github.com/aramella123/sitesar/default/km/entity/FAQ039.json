@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ039",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Personal Money Market",
+        "url": "https://www.dime.com/personal/money-market"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "The minimum deposit to open a Personal Money Market Account is $1,000.",
+    "yext/name": "What is the minimum deposit to open up a Dime Personal Money Market Account?",
+    "yext/question": "What is the minimum deposit to open up a Dime Personal Money Market Account?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Die Mindesteinzahlung für die Eröffnung eines persönlichen Geldmarktkontos beträgt 1.000 USD.",
+        "yext/name": "Was ist die Mindesteinzahlung, um ein persönliches Geldmarktkonto von Dime zu eröffnen?",
+        "yext/question": "Was ist die Mindesteinzahlung, um ein persönliches Geldmarktkonto von Dime zu eröffnen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "El depósito mínimo para abrir una cuenta personal del mercado monetario es de $ 1,000.",
+        "yext/name": "¿Cuál es el depósito mínimo para abrir una cuenta mercado monetario personal de Dime?",
+        "yext/question": "¿Cuál es el depósito mínimo para abrir una cuenta mercado monetario personal de Dime?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Le dépôt minimum pour ouvrir un compte personnel Marché Monétaire est de 1 000 €.",
+        "yext/name": "Quel est le dépôt minimum pour ouvrir un compte personnel Dime sur le marché monétaire ?",
+        "yext/question": "Quel est le dépôt minimum pour ouvrir un compte personnel Dime sur le marché monétaire ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Il deposito minimo per aprire un conto sul mercato monetario personale è di $ 1.000.",
+        "yext/name": "Qual è il deposito minimo per aprire un conto sul mercato monetario personale Dime?",
+        "yext/question": "Qual è il deposito minimo per aprire un conto sul mercato monetario personale Dime?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "パーソナルマネーマーケットアカウントを開設するための最低入金額は$ 1,000です。",
+        "yext/name": "ダイムパーソナルマネーマーケットアカウントを開設するための最低入金額はいくらですか？",
+        "yext/question": "ダイムパーソナルマネーマーケットアカウントを開設するための最低入金額はいくらですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

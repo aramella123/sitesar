@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ048",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "FAQ",
+        "url": "https://www.dime.com/faqs"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "We cannot offer to title the DimeDirect® Money Market Account in the name of a trust, however, the trust can be set up as a beneficiary.",
+    "yext/name": "Can the DimeDirect® Money Market Account be titled in the name of a trust?",
+    "yext/question": "Can the DimeDirect® Money Market Account be titled in the name of a trust?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Wir können nicht anbieten, das DimeDirect®-Geldmarktkonto im Namen eines Trusts zu benennen. Der Trust kann jedoch als Begünstigter eingerichtet werden.",
+        "yext/name": "Kann das DimeDirect®-Geldmarktkonto im Namen eines Trusts betitelt werden?",
+        "yext/question": "Kann das DimeDirect®-Geldmarktkonto im Namen eines Trusts betitelt werden?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "No podemos ofrecer el título de la cuenta DimeDirect® Money Market a nombre de un fideicomiso, sin embargo, el fideicomiso se puede configurar como beneficiario.",
+        "yext/name": "¿Se puede titular la cuenta de mercado monetario DimeDirect® a nombre de un fideicomiso?",
+        "yext/question": "¿Se puede titular la cuenta de mercado monetario DimeDirect® a nombre de un fideicomiso?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Nous ne pouvons pas proposer d\u0027intituler le compte DimeDirect® Marché monétaire au nom d\u0027un trust, mais celui-ci peut être créé en tant que bénéficiaire.",
+        "yext/name": "Le compte DimeDirect® Marché monétaire peut-il être intitulé au nom d\u0027un trust ?",
+        "yext/question": "Le compte DimeDirect® Marché monétaire peut-il être intitulé au nom d\u0027un trust ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Non possiamo consentire di nominare il Conto del mercato monetario DimeDirect® in nome di un trust, tuttavia, il trust può essere impostato come beneficiario.",
+        "yext/name": "Il Conto del mercato monetario DimeDirect® può essere intitolato a nome di un trust?",
+        "yext/question": "Il Conto del mercato monetario DimeDirect® può essere intitolato a nome di un trust?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムコミュニティバンクDirect®マネーマーケットアカウントに信託の名前を付けることはできませんが、信託は受益者として設定できます。",
+        "yext/name": "ダイムコミュニティバンクDirect®マネーマーケットアカウントに信託の名前を付けることはできますか？",
+        "yext/question": "ダイムコミュニティバンクDirect®マネーマーケットアカウントに信託の名前を付けることはできますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ021",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Privacy",
+        "url": "https://www.dime.com/privacy"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "Our mortgage calculators can help with everything from figuring out if you have enough money to purchase a house, to figuring out the type of mortgage will work for you.",
+    "yext/name": "Does Dime have mortgage calculators I can use to help purchase my home?",
+    "yext/question": "Does Dime have mortgage calculators I can use to help purchase my home?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Unsere Hypothekenrechner können Ihnen dabei helfen, herauszufinden, ob Sie genug Geld haben, um ein Haus zu kaufen, oder herauszufinden, welche Art von Hypothek für Sie geeignet ist.",
+        "yext/name": "Hat Dime Hypothekenrechner, die ich benutzen kann um mir zu helfen mein Haus zu kaufen?",
+        "yext/question": "Hat Dime Hypothekenrechner, die ich benutzen kann um mir zu helfen mein Haus zu kaufen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Nuestras calculadoras de hipotecas pueden ayudarlo con todo, desde averiguar si tiene suficiente dinero para comprar una casa, hasta determinar qué tipo de hipoteca funcionará para usted.",
+        "yext/name": "¿Dime tiene calculadoras de hipotecas que puedo usar para ayudarme a comprar mi casa?",
+        "yext/question": "¿Dime tiene calculadoras de hipotecas que puedo usar para ayudarme a comprar mi casa?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Nos simulateurs d\u0027hypothèque peuvent vous aider à déterminer si vous avez suffisamment d\u0027argent pour acheter une maison ou à déterminer le type d\u0027hypothèque qui vous conviendra le mieux.",
+        "yext/name": "Dime dispose-t-elle de simulateurs de prêts hypothécaires que je peux utiliser pour m\u0027aider à acheter mon logement ?",
+        "yext/question": "Dime dispose-t-elle de simulateurs de prêts hypothécaires que je peux utiliser pour m\u0027aider à acheter mon logement ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "I nostri calcolatori ipotecari possono aiutarti con qualsiasi cosa, dal capire se hai abbastanza soldi per acquistare una casa, a capire che tipo di mutuo funzionerà per te.",
+        "yext/name": "Dime ha calcolatori dei mutui che posso usare per aiutare a comprare la mia casa?",
+        "yext/question": "Dime ha calcolatori dei mutui che posso usare per aiutare a comprare la mia casa?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "私たちの住宅ローン計算機は、家を購入するのに十分なお金があるかどうかを判断することから、住宅ローンの種類を判断することまで、すべてを支援します。",
+        "yext/name": "ダイムコミュニティバンクには、住宅購入に使用できる住宅ローン計算機はありますか？",
+        "yext/question": "ダイムコミュニティバンクには、住宅購入に使用できる住宅ローン計算機はありますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

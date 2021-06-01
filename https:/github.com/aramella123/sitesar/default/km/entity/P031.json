@@ -1,0 +1,108 @@
+{
+  "$id": "P031",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Reimbursed up to $10 on non Dime ATM fees incurred",
+      "Free debit card",
+      "Free bill pay",
+      "Free Mobile Banking and Mobile Deposit (2)",
+      "Free eStatements with online check images",
+      "No Dime charges on ATM usage (3)",
+      "Monthly fee waived if the daily average balance remains $1",
+      "500"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/personal/checking/prime-dime-interest-checking"
+      }
+    ],
+    "c_fees": "10.0",
+    "c_minimumDeposit": "25.0",
+    "c_productType": "Checking",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Competitive rates based on balance. Open a Prime Dime Interest Checking account today and earn up to 0.10% Annual Percentage Yield (APY)1 so that as your finances grow, so do your possibilities.",
+    "yext/landingPageUrl": "https://www.dime.com/personal/checking/prime-dime-interest-checking",
+    "yext/name": "Prime Dime Interest Checking"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Girokonto",
+        "yext/description": "Wettbewerbsfähige Preise basierend auf dem Gleichgewicht. Eröffnen Sie noch heute ein Prime Dime Interest Checking-Konto und verdienen Sie bis zu 0,10% Annual Percentage Yield (APY) 1, damit Ihre Möglichkeiten wachsen, wenn Ihre Finanzen wachsen.",
+        "yext/name": "Prime Dime Interest Checking"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Reembolsado hasta $ 10 en tarifas de ATM no Dime incurridas",
+          "tarjeta de débito gratuita",
+          "pago de facturas gratuito",
+          "banca móvil gratuita y depósito móvil (2)",
+          "declaraciones electrónicas gratuitas con imágenes de cheques en línea",
+          "cargos No Dime sobre el uso del cajero automático (3)",
+          "exención de tarifa mensual si el saldo promedio diario sigue siendo $ 1",
+          "500"
+        ],
+        "c_productType": "La cuenta corriente",
+        "yext/description": "Tasas competitivas basadas en el saldo. Abra una cuenta de cheques de interés Prime Dime hoy y gane hasta un 0,10% de rendimiento porcentual anual (APY) 1 para que a medida que crezcan sus finanzas, también crezcan sus posibilidades.",
+        "yext/name": "Cuenta de cheques de interés Prime Dime"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Remboursement jusqu\u0027à 10 € sur les frais de guichet automatique autres que ce ceux de Dime",
+          "Carte de débit gratuite",
+          "Paiement de facture gratuit",
+          "Services bancaires mobiles et dépôt gratuit par téléphone (2)",
+          "Relevés électroniques gratuits avec images de contrôle en ligne",
+          "Pas de frais sur l\u0027utilisation des guichets automatiques (3)",
+          "Exonération des frais mensuels si le solde moyen quotidien reste à 1 500€"
+        ],
+        "c_productType": "Consultez le site",
+        "yext/description": "Des tarifs compétitifs basés sur l\u0027équilibre. Ouvrez un compte-chèques à taux préférentiel dès aujourd\u0027hui et gagnez jusqu\u0027à 0,10 % de rendement annuel en pourcentage (APY)1 afin que vos possibilités augmentent au fur et à mesure que vos finances se développent.",
+        "yext/name": "Vérification des intérêts sur Dime Prime"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Rimborsato fino a $ 10 sulle commissioni bancomat non Dime sostenute",
+          "Carta di debito gratuita",
+          "Pagamento delle bollette gratuito",
+          "Mobile Banking gratuito e deposito mobile (2)",
+          "eStatements gratuiti con immagini di assegni online",
+          "Nessun addebito di Dime sull\u0027uso dello sportello automatico (3)",
+          "Commissione mensile revocata se il saldo medio giornaliero rimane di $ 1.500"
+        ],
+        "c_productType": "Controllo",
+        "yext/description": "Tariffe competitive basate sul saldo. Apri un conto di controllo degli interessi Prime Dime oggi e guadagna fino allo 0,10% di rendimento percentuale annuo (APY) 1 in modo che, man mano che le tue finanze crescono, aumentino le tue possibilità.",
+        "yext/name": "Controllo degli interessi Prime Dime"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "チェック中",
+        "yext/description": "バランスに基づく競争率。今日、プライムダイムのインタレストチェックアカウントを開設し、最大0.10％の年間利回り（APY）1を獲得して、財政が成長するにつれて、可能性を拡大してください。",
+        "yext/name": "プライムダイムの金利チェック"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "$id": "answersIndexing-ceExecutive",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "streamsapi",
+  "fields": [
+    "awards",
+    "keywords",
+    "c_title",
+    "description",
+    "name",
+    "uid",
+    "id",
+    "timezone",
+    "meta",
+    "matchingSearchIds",
+    "displayCoordinate",
+    "yextDisplayCoordinate",
+    "geocodedCoordinate",
+    "cityCoordinate"
+  ],
+  "filter": {
+    "entityTypes": [
+      "ce_executive"
+    ]
+  },
+  "localization": {
+    "locales": [
+      "en",
+      "fr",
+      "es",
+      "de",
+      "it"
+    ]
+  }
+}

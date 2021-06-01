@@ -1,0 +1,14 @@
+{
+  "$id": "1be1b4e8-5b30-4fef-bedc-95da8999daae",
+  "$schema": "https://schema.yext.com/config/answers/saved-query/v1",
+  "answersKey": "dime",
+  "idealResult": {
+    "relevantSections": []
+  },
+  "locale": "en",
+  "latitude": 40.9043,
+  "longitude": -72.4103,
+  "pinIdealResults": false,
+  "queryString": "branches",
+  "notes": ""
+}

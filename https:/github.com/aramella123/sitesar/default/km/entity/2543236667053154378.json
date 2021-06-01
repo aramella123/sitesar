@@ -1,0 +1,30 @@
+{
+  "$id": "2543236667053154378",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_children": [
+      "NY",
+      "CA"
+    ],
+    "c_slug": "index.html",
+    "yext/logo": {
+      "image": {
+        "height": 316,
+        "thumbnails": [
+          {
+            "height": 316,
+            "url": "https://a.mktgcdn.com/p/eEScuRbWJ_wg43YUVTraB3vfeDDbSEZC2aFGjwBLG7w/316x316.png",
+            "width": 316
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/eEScuRbWJ_wg43YUVTraB3vfeDDbSEZC2aFGjwBLG7w/316x316.png",
+        "width": 316
+      }
+    },
+    "yext/name": "Dime Bank Site"
+  },
+  "entityType": "ce_site",
+  "folder": "yext/root",
+  "labels": []
+}

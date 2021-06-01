@@ -1,0 +1,88 @@
+{
+  "$id": "P027",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Foreign trade",
+      "Loss mitigation",
+      "Advance payment"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/commercial/letters-of-credit"
+      }
+    ],
+    "c_productType": "Letters of Credit",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Dime will work with you to provide fixed Standby Letters of Credit to ensure your transactions are uninterrupted.",
+    "yext/landingPageUrl": "https://www.dime.com/commercial/letters-of-credit",
+    "yext/name": "Letters of Credit"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Kreditbriefe",
+        "yext/description": "Dime wird mit Ihnen zusammenarbeiten, um feste Standby-Akkreditive bereitzustellen, um sicherzustellen, dass Ihre Transaktionen nicht unterbrochen werden.",
+        "yext/name": "Kreditbriefe"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Comercio exterior",
+          "mitigación de pérdidas",
+          "pago por adelantado"
+        ],
+        "c_productType": "Cartas de crédito",
+        "yext/description": "Dime trabajará con usted para proporcionar cartas de crédito de reserva fijas para garantizar que sus transacciones sean ininterrumpidas.",
+        "yext/name": "Cartas de crédito"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Commerce extérieur",
+          "Réduction des pertes",
+          "Paiement anticipé"
+        ],
+        "c_productType": "Lettres de crédit",
+        "yext/description": "Dime travaillera avec vous pour vous fournir des lettres de crédit stand-by fixes afin de garantir que vos transactions ne soient pas interrompues.",
+        "yext/name": "Lettres de crédit"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Commercio estero",
+          "mitigazione delle perdite",
+          "pagamento anticipato"
+        ],
+        "c_productType": "Lettera di Credito",
+        "yext/description": "Dime lavorerà con te per fornire lettere di credito in standby fisse per garantire che le tue transazioni siano ininterrotte.",
+        "yext/name": "Lettera di Credito"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "信用状",
+        "yext/description": "ダイムはあなたと協力して、固定されたスタンバイ信用状を提供し、取引が中断されないようにします。",
+        "yext/name": "信用状"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

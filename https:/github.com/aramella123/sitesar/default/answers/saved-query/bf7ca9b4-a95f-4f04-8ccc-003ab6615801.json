@@ -1,0 +1,14 @@
+{
+  "$id": "bf7ca9b4-a95f-4f04-8ccc-003ab6615801",
+  "$schema": "https://schema.yext.com/config/answers/saved-query/v1",
+  "answersKey": "dime",
+  "idealResult": {
+    "relevantSections": []
+  },
+  "locale": "en",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "pinIdealResults": false,
+  "queryString": "mobile deposit",
+  "notes": ""
+}

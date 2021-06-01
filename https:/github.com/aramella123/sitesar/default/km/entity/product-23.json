@@ -1,0 +1,63 @@
+{
+  "$id": "product-23",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_benefits": [
+      "Tiered",
+      "variable interest rate that is compounded daily and credited monthly",
+      "Earn a competitive interest rate on your funds",
+      "Safe and secure; FDIC-insured",
+      "Low $2",
+      "500 average daily balance to avoid a $10 monthly fee",
+      "Up to six checks per statement cycle(1)",
+      "Link your account to any Dime Business Banking checking account and make fast",
+      "easy transfers online or by phone",
+      "The minimum deposit required to open a Business Money Market Account is $100"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/business/savings/money-market"
+      }
+    ],
+    "c_fees": "10.0",
+    "c_minimumDeposit": "100.0",
+    "c_noFee": true,
+    "c_productType": "Business Money Market",
+    "c_slug": "[[entityId]]",
+    "yext/landingPageUrl": "https://www.dime.com/business/savings/money-market",
+    "yext/name": "Business Money Market Accounts",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1000,
+          "sourceUrl": "https://images.pexels.com/photos/4482900/pexels-photo-4482900.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "thumbnails": [
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p/FHmiAWYqp933X7DX0Cy7f3OurmpY1SEoQxUcvYBIUnM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/FHmiAWYqp933X7DX0Cy7f3OurmpY1SEoQxUcvYBIUnM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p/FHmiAWYqp933X7DX0Cy7f3OurmpY1SEoQxUcvYBIUnM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/FHmiAWYqp933X7DX0Cy7f3OurmpY1SEoQxUcvYBIUnM/1000x1000.jpg",
+          "width": 1000
+        }
+      }
+    ],
+    "yext/richTextDescription": "With Dime\u0027s money market account, you receive competitive, variable interest rates, with higher rates for higher balances. As you grow, your account will grow with you."
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

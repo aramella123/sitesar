@@ -1,0 +1,12 @@
+{
+  "$id": "3841223303864499780",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/body": "Many consumers have little understanding of finances, how credit works, and the potential hit to financial well\\-being that poor financial decisions can create for many, many years. In fact, a lack of financial understanding has been signaled as one of the main reasons many Americans struggle with saving and investing.1  \nEvery few years, the Financial Industry Regulatory Authority (FINRA) issues a five\\-question test as part of its National Financial Capability Study, which measures consumers\u0027 knowledge about interest, compounding, inflation, diversification, and bond prices. On its most recent test, only 34% of those who took the test got four out of five questions correct, which suggests that the basic economic and financial principles that underpin these problems are widespread.2  \nSome changes in consumer habits and financial products have made it harder for Americans to manage their finances. In the past, most people used cash for daily purchases. Today, credit cards are more frequently used. In 2019 credit use accounted for 23% of payments, up from 21% in 2017.3 The way we shop has also changed. Online shopping is now the top choice for many, which can make it easy to use and overextend credit, an all\\-too\\-convenient way to accumulate debt quickly.4  \nMeanwhile, credit card companies, banks, and other financial institutions are inundating consumers with credit opportunities—the ability to apply for credit cards or pay off one card with another. Without the proper knowledge, it is easy to get into financial trouble.  \nFinancial planning is long term, and people cannot depend on one\\-time windfalls such as the recent $1,400 stimulus checks sent due to the American Rescue Plan.5 Instead, individuals need to shore up their financial knowledge to manage their day\\-to\\-day financial lives while also taking a longer view for the future.",
+    "yext/externalArticlePostDate": "2021-04-06",
+    "yext/name": "Why Financial Literacy Is So Important"
+  },
+  "entityType": "yext/helpArticle",
+  "labels": []
+}

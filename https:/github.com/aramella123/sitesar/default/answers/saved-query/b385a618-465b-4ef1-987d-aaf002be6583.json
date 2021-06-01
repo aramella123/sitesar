@@ -1,0 +1,14 @@
+{
+  "$id": "b385a618-465b-4ef1-987d-aaf002be6583",
+  "$schema": "https://schema.yext.com/config/answers/saved-query/v1",
+  "answersKey": "dime",
+  "idealResult": {
+    "relevantSections": []
+  },
+  "locale": "en",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "pinIdealResults": false,
+  "queryString": "certificate of deposit",
+  "notes": ""
+}

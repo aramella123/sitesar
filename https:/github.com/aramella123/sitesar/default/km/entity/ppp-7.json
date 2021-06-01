@@ -1,0 +1,81 @@
+{
+  "$id": "ppp-7",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "You will need to complete the Paycheck Protection Program loan application and submit the application with the required documentation to an approved lender that is available to process your application by June 30, 2020.",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "What do I need to apply for the PPP?",
+    "yext/question": "What do I need to apply for the PPP?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie müssen den Kreditantrag für das Gehaltsscheckschutzprogramm ausfüllen und den Antrag mit den erforderlichen Unterlagen bei einem zugelassenen Kreditgeber einreichen, der zur Bearbeitung Ihres Antrags bis zum 30. Juni 2020 zur Verfügung steht.",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Was brauche ich, um das PPP zu beantragen?",
+        "yext/question": "Was brauche ich, um das PPP zu beantragen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Deberá completar la solicitud de préstamo del Programa de Protección de Cheques de Pago y enviar la solicitud con la documentación requerida a un prestamista aprobado que esté disponible para procesar su solicitud antes del 30 de junio de 2020.",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Qué necesito para solicitar el PPP?",
+        "yext/question": "¿Qué necesito para solicitar el PPP?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous devrez remplir la demande de prêt du Programme de protection des salaires et l\u0027envoyer, accompagnée des documents requis, à un prêteur agréé qui sera disponible pour traiter votre demande avant le 30 juin 2020.",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "Que dois-je faire pour demander le PPS ?",
+        "yext/question": "Que dois-je faire pour demander le PPS ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Dovrai completare la domanda di prestito del Programma di protezione dello stipendio e presentare la domanda con la documentazione richiesta a un creditore autorizzato che è disponibile per elaborare la tua domanda entro il 30 giugno 2020.",
+        "yext/keywords": [
+          "ppp.protezione dello stipendio"
+        ],
+        "yext/name": "Cosa devo fare per richiedere il PPP?",
+        "yext/question": "Cosa devo fare per richiedere il PPP?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ペイチェックプロテクションプログラムのローン申し込みを完了し、2020年6月30日までに申し込みを処理できる承認済みの貸し手に必要な書類を添えて申し込みを提出する必要があります。",
+        "yext/name": "PPPを申請するには何が必要ですか？",
+        "yext/question": "PPPを申請するには何が必要ですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "$id": "P009",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Improve your cash flow",
+      "Significantly lower check processing costs",
+      "Simplify your payment processing",
+      "schedule payments",
+      "mitigate check fraud"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/cash-management-solutions/ach-originations-services"
+      }
+    ],
+    "c_productType": "ACH Origination Services",
+    "c_slug": "[[entityId]]",
+    "yext/description": "You need the right tools to run your business and manage your cash flow as securely and efficiently as possible. That’s why Dime Community Bank provides Automated Clearing House (ACH) services to help you process your credit and debit transactions without the cost and time related to paper checks.",
+    "yext/landingPageUrl": "https://www.dime.com/cash-management-solutions/ach-originations-services",
+    "yext/name": "ACH Origination Services"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "ACH Origination Services",
+        "yext/description": "Sie benötigen die richtigen Tools, um Ihr Unternehmen zu führen und Ihren Cashflow so sicher und effizient wie möglich zu verwalten. Aus diesem Grund bietet die Dime Community Bank ACH-Dienste (Automated Clearing House) an, mit denen Sie Ihre Kredit- und Debittransaktionen ohne die mit Papierschecks verbundenen Kosten und Zeit abwickeln können.",
+        "yext/name": "ACH Origination Services"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Mejore su flujo de caja",
+          "reduzca significativamente los costos de procesamiento de cheques",
+          "simplifique su procesamiento de pagos",
+          "programe pagos",
+          "mitigue el fraude de cheques"
+        ],
+        "c_productType": "Servicios de originación de ACH",
+        "yext/description": "Necesita las herramientas adecuadas para administrar su negocio y administrar su flujo de caja de la manera más segura y eficiente posible. Es por eso que Dime Community Bank proporciona servicios de la ACH para ayudarlo a procesar sus transacciones de crédito y débito sin el costo y el tiempo relacionados con los cheques en papel.",
+        "yext/name": "Servicios de originación de ACH"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Améliorez votre trésorerie",
+          "Réduisez considérablement les coûts de traitement des chèques",
+          "Simplifiez le traitement de vos paiements",
+          "Planifiez les paiements",
+          "Limitez la fraude par chèque"
+        ],
+        "c_productType": "Services de création ACH",
+        "yext/description": "Vous avez besoin des bons outils pour gérer votre entreprise et votre trésorerie de la manière la plus sûre et la plus efficace possible. C\u0027est pourquoi Dime Community Bank propose des services de chambre de compensation automatisée (ACH) pour vous aider à traiter vos opérations de crédit et de débit sans les coûts et le temps liés aux chèques papier.",
+        "yext/name": "Services de création ACH"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Migliora il tuo flusso di cassa",
+          "Abbassa significativamente i costi di elaborazione degli assegni",
+          "Semplifica l\u0027elaborazione dei pagamenti",
+          "pianifica i pagamenti",
+          "mitiga le frodi degli assegni"
+        ],
+        "c_productType": "Servizi di origine ACH",
+        "yext/description": "Hai bisogno degli strumenti giusti per gestire la tua attività e gestire il tuo flusso di cassa nel modo più sicuro ed efficiente possibile. Ecco perché Dime Community Bank fornisce servizi di Clearing House automatizzata (ACH) per aiutarti a elaborare le tue transazioni di credito e debito senza i costi e i tempi relativi agli assegni cartacei.",
+        "yext/name": "Servizi di origine ACH"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "ACHオリジネーションサービス",
+        "yext/description": "ビジネスを運営し、キャッシュフローをできるだけ安全かつ効率的に管理するには、適切なツールが必要です。これが、ダイムコミュニティバンク Community BankがAutomated Clearing House（ACH）サービスを提供して、紙の小切手に関連するコストと時間をかけずにクレジットとデビットの取引を処理できるようにする理由です。",
+        "yext/name": "ACHオリジネーションサービス"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

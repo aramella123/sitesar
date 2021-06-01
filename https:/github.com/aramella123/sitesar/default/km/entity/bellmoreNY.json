@@ -1,0 +1,18 @@
+{
+  "$id": "bellmoreNY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_children": [
+      "5"
+    ],
+    "c_parents": [
+      "NY"
+    ],
+    "c_slug": "[[entityId]]",
+    "yext/name": "Bellmore"
+  },
+  "entityType": "ce_city",
+  "folder": "yext/root",
+  "labels": []
+}

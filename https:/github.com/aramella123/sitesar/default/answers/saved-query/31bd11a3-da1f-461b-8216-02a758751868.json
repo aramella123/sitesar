@@ -1,0 +1,14 @@
+{
+  "$id": "31bd11a3-da1f-461b-8216-02a758751868",
+  "$schema": "https://schema.yext.com/config/answers/saved-query/v1",
+  "answersKey": "dime",
+  "idealResult": {
+    "relevantSections": []
+  },
+  "locale": "en",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "pinIdealResults": false,
+  "queryString": "safe deposit box",
+  "notes": ""
+}

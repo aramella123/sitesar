@@ -1,0 +1,93 @@
+{
+  "$id": "c_fAQType",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "This field controls which FAQ tab this falls under",
+  "displayName": "FAQ Type",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "optionType": {
+      "option": [
+        {
+          "displayName": "Regular FAQ",
+          "textValue": "REGULAR_FAQ",
+          "displayNameTranslation": [
+            {
+              "localeCode": "de",
+              "value": "Reguläre FAQ"
+            },
+            {
+              "localeCode": "es",
+              "value": "Preguntas más Frecuentes Regulares"
+            },
+            {
+              "localeCode": "fr",
+              "value": "FAQ Standard"
+            },
+            {
+              "localeCode": "it",
+              "value": "FAQ Standard"
+            },
+            {
+              "localeCode": "ja",
+              "value": "FAQ"
+            }
+          ]
+        },
+        {
+          "displayName": "COVID",
+          "textValue": "COVID",
+          "displayNameTranslation": [
+            {
+              "localeCode": "de",
+              "value": "Covid FAQ"
+            },
+            {
+              "localeCode": "es",
+              "value": "Preguntas más Frecuentes COVID"
+            },
+            {
+              "localeCode": "fr",
+              "value": "FAQ Covid"
+            },
+            {
+              "localeCode": "it",
+              "value": "FAQ Covid"
+            },
+            {
+              "localeCode": "ja",
+              "value": "FAQ（コロナウイルス関連）"
+            }
+          ]
+        },
+        {
+          "displayName": "PPP",
+          "textValue": "PPP",
+          "displayNameTranslation": [
+            {
+              "localeCode": "de",
+              "value": "PPP FAQ"
+            },
+            {
+              "localeCode": "es",
+              "value": "Preguntas más Frecuentes PPP"
+            },
+            {
+              "localeCode": "fr",
+              "value": "FAQ PPS"
+            },
+            {
+              "localeCode": "it",
+              "value": "FAQ PPP"
+            },
+            {
+              "localeCode": "ja",
+              "value": "FAQ（PPP関連）"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "typeId": "yext/option"
+}

@@ -1,0 +1,62 @@
+{
+  "$id": "faq73",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "To view your incoming and outgoing external transfer limits, you must login to your dime online account, click on Transfers and select External transfers from the drop down menu. Click on the View Limits hyperlink, select the to and from accounts for your transfer, and your limits will appear on the bottom of the page. For assistance with your limits, please contact us at 800-321-3463.",
+    "yext/name": "How much can I transfer externally?",
+    "yext/question": "How much can I transfer externally?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Um Ihre eingehenden und ausgehenden externen Überweisungslimits anzuzeigen, müssen Sie sich bei Ihrem Dime-Online-Konto anmelden, auf Überweisungen klicken und Externe Überweisungen aus dem Dropdown-Menü auswählen. Klicken Sie auf den Hyperlink \"Limits anzeigen\", wählen Sie die Zu- und Von-Konten für Ihre Überweisungeng aus. Ihre Limits werden unten auf der Seite angezeigt. Für Unterstützung bei Ihren Limits kontaktieren Sie uns bitte unter 800-321-3463.",
+        "yext/name": "Wie viel kann ich extern überweisen?",
+        "yext/question": "Wie viel kann ich extern überweisen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Para ver sus límites de transferencias externas entrantes y salientes, debe iniciar sesión en su cuenta en línea de Dime, hacer clic en Transferencias y seleccionar Transferencias externas en el menú desplegable. Haga clic en el hipervínculo Ver límites, seleccione las cuentas ay desde su transferencia, y sus límites aparecerán en la parte inferior de la página. Para asistencia con sus límites, contáctenos al 800-321-3463.",
+        "yext/name": "¿Cuánto puedo transferir externamente?",
+        "yext/question": "¿Cuánto puedo transferir externamente?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Pour consulter vos limites de transferts externes entrants et sortants, vous devez vous connecter à votre compte en ligne dime, cliquer sur Transferts et sélectionner Transferts externes dans le menu déroulant. Cliquez sur le lien Afficher les limites, sélectionnez les comptes à destination et en provenance de votre transfert, et vos limites apparaîtront au bas de la page. Pour obtenir de l\u0027aide concernant vos limites, veuillez nous contacter au 800-321-3463.",
+        "yext/name": "Combien puis-je transférer à l\u0027extérieur ?",
+        "yext/question": "Combien puis-je transférer à l\u0027extérieur ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Per visualizzare i limiti dei trasferimenti esterni in entrata e in uscita, è necessario accedere al proprio account online Dime, fare clic su Trasferimenti e selezionare Trasferimenti esterni dal menu a tendina. Fai clic sul collegamento ipertestuale Visualizza limiti, seleziona gli account da e verso il tuo trasferimento e i tuoi limiti verranno visualizzati nella parte inferiore della pagina. Per assistenza con i tuoi limiti, ti preghiamo di contattarci al numero 800-321-3463.",
+        "yext/name": "Quanto posso trasferire esternamente?",
+        "yext/question": "Quanto posso trasferire esternamente?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "着信および発信の外部転送制限を表示するには、ダイムオンラインアカウントにログインし、[転送]をクリックして、ドロップダウンメニューから[外部転送]を選択する必要があります。[制限の表示]ハイパーリンクをクリックし、転送先のアカウントと転送元のアカウントを選択すると、ページの下部に制限が表示されます。制限については、800-321-3463までお問い合わせください。",
+        "yext/name": "外部にいくら転送できますか？",
+        "yext/question": "外部にいくら転送できますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

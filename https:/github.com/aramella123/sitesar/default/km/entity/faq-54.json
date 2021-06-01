@@ -1,0 +1,68 @@
+{
+  "$id": "faq-54",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "See Locations",
+        "url": "https://www.dime.com/branches?zipcode\u003d\u0026geolocation_geocoder_google_geocoding_api_state\u003d1\u0026proximity-lat\u003d\u0026proximity-lng\u003d\u0026proximity\u003d5\u0026proximitymap-lat\u003d\u0026proximitymap-lng\u003d\u0026proximitymap\u003d5\u0026boroughmap\u003dAll\u0026languagespokenmap\u003dAll\u0026opensaturdaymap\u003dAll\u0026opensundaymap\u003dAll\u0026services_list_map%5B%5D\u003dSafe+Deposit+Boxes\u0026sort_by\u003dname\u0026sort_order\u003dASC\u0026borough\u003dAll\u0026languagespoken\u003dAll\u0026services_list%5B%5D\u003dSafe+Deposit+Boxes\u0026languagespoken\u003dAll"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "Some of our locations offer safe deposit boxes. Click the link below to see which.",
+    "yext/name": "Does Dime have safe deposit boxes?",
+    "yext/question": "Does Dime have safe deposit boxes?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Einige unserer Standorte bieten Tresorfächer an. Klicken Sie auf den Link unten, um zu sehen, welche.",
+        "yext/name": "Hat Dime Tresorfächer?",
+        "yext/question": "Hat Dime Tresorfächer?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Algunas de nuestras ubicaciones ofrecen cajas de seguridad. Haga clic en el enlace de abajo para ver cuál.",
+        "yext/name": "¿Dime tiene cajas de seguridad?",
+        "yext/question": "¿Dime tiene cajas de seguridad?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Certaines de nos agences proposent des coffres-forts. Cliquez sur le lien ci-dessous pour découvrir lesquelles.",
+        "yext/name": "Dime dispose-t-elle de coffres-forts ?",
+        "yext/question": "Dime dispose-t-elle de coffres-forts ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Alcune delle nostre sedi offrono cassette di sicurezza. Fai clic sul link in basso per vedere quale.",
+        "yext/name": "Dime ha cassette di sicurezza?",
+        "yext/question": "Dime ha cassette di sicurezza?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "一部の場所には、セーフティボックスがあります。以下のリンクをクリックして、どちらを表示するかを確認してください。",
+        "yext/name": "ダイムには金庫がありますか？",
+        "yext/question": "ダイムには金庫がありますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

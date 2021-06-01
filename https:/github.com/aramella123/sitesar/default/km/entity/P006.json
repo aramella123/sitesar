@@ -1,0 +1,112 @@
+{
+  "$id": "P006",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Owner-operated real estate",
+      "Business expansion",
+      "Business start-ups or acquisitions",
+      "franchise financing",
+      "inventory \u0027",
+      "\u0027 machiner and equipment",
+      "Debt refinancing",
+      "Improvements and renovations",
+      "working capital"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/business/credit-and-lending/sba-loans"
+      }
+    ],
+    "c_productType": "SBA Loans",
+    "c_slug": "[[entityId]]",
+    "yext/description": "The opportunities for your business grow exponentially with SBA loans. Dime makes it easy for you to secure an SBA loan to help your business grow or get off the ground.",
+    "yext/landingPageUrl": "https://www.dime.com/business/credit-and-lending/sba-loans",
+    "yext/name": "SBA Loans"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "SBA-Kredite",
+        "yext/description": "Die Chancen für Ihr Unternehmen wachsen mit SBA-Darlehen exponentiell. Mit Dime können Sie ganz einfach einen SBA-Kredit aufnehmen, um Ihr Unternehmen beim Wachstum oder beim Start zu unterstützen.",
+        "yext/name": "SBA-Kredite"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Bienes inmuebles operados por sus propietarios",
+          "expansión de negocios",
+          "nuevas empresas o adquisiciones",
+          "financiamiento de franquicias",
+          "inventario \u0027",
+          "\u0027 maquinaria y equipo",
+          "refinanciamiento de deuda",
+          "mejoras y renovaciones",
+          "capital de trabajo"
+        ],
+        "c_productType": "Préstamos para SBA (asociaciones de pequeñas empresas)",
+        "yext/description": "Las oportunidades para su negocio crecen exponencialmente con los préstamos de la SBA. Dime le facilita la obtención de un préstamo de la SBA para ayudar a que su negocio crezca o despegue.",
+        "yext/name": "Préstamos para SBA (asociaciones de pequeñas empresas)"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Immobilier exploité par son propriétaire",
+          "Expansion des entreprises",
+          "Création ou acquisition d\u0027entreprises",
+          "Financement de franchise",
+          "Inventaire\u0027",
+          "\u0027 machines et équipements",
+          "Refinancement de la dette",
+          "Améliorations et rénovations",
+          "Fonds de roulement"
+        ],
+        "c_productType": "Prêts de la SBA",
+        "yext/description": "Les opportunités pour votre entreprise se développent de manière exponentielle avec les prêts du SBA. Dime vous permet d\u0027obtenir facilement un prêt SBA pour aider votre entreprise à se développer ou à démarrer.",
+        "yext/name": "Prêts de la SBA"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Immobili gestiti dal proprietario",
+          "Espansione aziendale",
+          "Start-up o acquisizioni aziendali",
+          "finanziamento in franchising",
+          "inventario \"",
+          "\" macchinari e attrezzature",
+          "rifinanziamento del debito",
+          "miglioramenti e ristrutturazioni",
+          "capitale circolante"
+        ],
+        "c_productType": "Prestiti SBA",
+        "yext/description": "Le opportunità per il tuo business crescono esponenzialmente con i prestiti SBA. Con Dime è facile ottenere un prestito SBA per aiutare la tua azienda a crescere o decollare.",
+        "yext/name": "Prestiti SBA"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "SBAローン",
+        "yext/description": "SBAローンにより、ビジネスの機会が飛躍的に増大します。ダイムコミュニティバンクを使用すると、SBAローンを簡単に確保して、ビジネスの成長または開業を支援できます。",
+        "yext/name": "SBAローン"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "7d0da2c7-28a2-4b6e-96cd-7d3380b19ba3",
+  "$schema": "https://schema.yext.com/config/answers/saved-query/v1",
+  "answersKey": "dime",
+  "idealResult": {
+    "relevantSections": []
+  },
+  "locale": "en",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "pinIdealResults": false,
+  "queryString": "jobs",
+  "notes": ""
+}

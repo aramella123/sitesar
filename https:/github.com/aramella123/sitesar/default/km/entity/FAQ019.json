@@ -1,0 +1,67 @@
+{
+  "$id": "FAQ019",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": false,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Schedule An Appointment",
+        "url": "http://dime.com/schedule"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "yext/answer": "You can schedule an appointment with Dime by clicking the link below.",
+    "yext/name": "How do I schedule an appointment with Dime?",
+    "yext/question": "How do I schedule an appointment with Dime?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie können einen Termin mit Dime vereinbaren, indem Sie auf den unten stehenden Link klicken.",
+        "yext/name": "Wie vereinbare ich einen Termin mit Dime?",
+        "yext/question": "Wie vereinbare ich einen Termin mit Dime?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Puede programar una cita con Dime haciendo clic en el siguiente enlace.",
+        "yext/name": "¿Cómo programo una cita con Dime?",
+        "yext/question": "¿Cómo programo una cita con Dime?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous pouvez prendre rendez-vous avec Dime en cliquant sur le lien ci-dessous.",
+        "yext/name": "Comment prendre rendez-vous avec Dime ?",
+        "yext/question": "Comment prendre rendez-vous avec Dime ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Puoi fissare un appuntamento con Dime facendo clic sul link in basso.",
+        "yext/name": "Come posso fissare un appuntamento con Dime?",
+        "yext/question": "Come posso fissare un appuntamento con Dime?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "以下のリンクをクリックして、ダイムとの予定をスケジュールすることができます。",
+        "yext/name": "ダイムコミュニティバンクとのアポイントメントをどのようにスケジュールしますか？",
+        "yext/question": "ダイムコミュニティバンクとのアポイントメントをどのようにスケジュールしますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

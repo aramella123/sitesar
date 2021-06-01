@@ -1,0 +1,96 @@
+{
+  "$id": "faq - 133",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ctas": [
+      {
+        "text": "2020 Letter to Shareholders",
+        "url": "http://www.snl.com/Cache/IRCache/c942d1082-b0a3-e065-a5ce-a5ac7cbcb149.html"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "yext/answer": "You can read the 2020 Letter to Shareholders below.",
+    "yext/keywords": [
+      "Shareholders",
+      "CEO",
+      "Ken Mahon",
+      "Kenneth Mahon"
+    ],
+    "yext/name": "Where can I read the 2020 Letter to Shareholders?",
+    "yext/question": "Where can I read the 2020 Letter to Shareholders?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie können den Brief 2020 an die Aktionäre unten lesen.",
+        "yext/keywords": [
+          "Aktionär",
+          "CEO",
+          "Ken Mahon",
+          "Kenneth Mahon"
+        ],
+        "yext/name": "Wo kann ich den Brief an die Aktionäre 2020 lesen?",
+        "yext/question": "Wo kann ich den Brief an die Aktionäre 2020 lesen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Puede leer la Carta a los Accionistas del 2020 a continuación.",
+        "yext/keywords": [
+          "Accionistas",
+          "CEO",
+          "Ken Mahon",
+          "Kenneth Mahon"
+        ],
+        "yext/name": "¿Dónde puedo leer la Carta a los accionistas de 2020?",
+        "yext/question": "¿Dónde puedo leer la Carta a los accionistas de 2020?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous pouvez lire la Lettre aux actionnaires de 2020 ci-dessous.",
+        "yext/keywords": [
+          "Actionnaires",
+          "PDG",
+          "Ken Mahon",
+          "Kenneth Mahon"
+        ],
+        "yext/name": "Où puis-je lire la lettre aux actionnaires de 2020 ?",
+        "yext/question": "Où puis-je lire la lettre aux actionnaires de 2020 ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Di seguito puoi leggere la Lettera agli azionisti del 2020.",
+        "yext/keywords": [
+          "Azionisti",
+          "CEO",
+          "Ken Mahon",
+          "Kenneth Mahon"
+        ],
+        "yext/name": "Dove posso leggere la Lettera agli azionisti del 2020?",
+        "yext/question": "Dove posso leggere la Lettera agli azionisti del 2020?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "2020年の株主への手紙は以下で読むことができます。",
+        "yext/name": "2020年の株主への手紙はどこで読むことができますか？",
+        "yext/question": "2020年の株主への手紙はどこで読むことができますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

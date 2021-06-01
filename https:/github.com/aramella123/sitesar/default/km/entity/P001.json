@@ -1,0 +1,103 @@
+{
+  "$id": "P001",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Perfect for most businesses",
+      "\u0027Access to free business debit card",
+      "online banking",
+      "mobile banking with mobile deposit(1)",
+      "bill pay",
+      "and e-statements\u0027",
+      "No Dime charges for non-Dime ATM use(2)"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/business/checking/advantage-checking"
+      }
+    ],
+    "c_fees": "$0 or $10*",
+    "c_minimumDeposit": "100.0",
+    "c_productType": "Business Checking",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Business Advantage Checking is a versatile account that provides exceptional value. That way you can focus on what matters most: growing your business.",
+    "yext/landingPageUrl": "https://www.dime.com/business/checking/advantage-checking",
+    "yext/name": "Advantage Checking"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Business-Girokonto",
+        "yext/description": "Business Advantage Checking ist ein vielseitiges Konto, das einen außergewöhnlichen Wert bietet. Auf diese Weise können Sie sich auf das konzentrieren, was am wichtigsten ist: das Wachstum Ihres Unternehmens.",
+        "yext/name": "Vorteilsprüfung"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Perfecto para la mayoría de las empresas",
+          "\u0027Acceso a tarjeta de débito comercial gratuita",
+          "banca en línea",
+          "banca móvil con depósito móvil (1)",
+          "pago de facturas y estados de cuenta electrónicos\u0027",
+          "cargos sin Dime por el uso de cajeros automáticos que no sean Dime (2)"
+        ],
+        "c_productType": "Cuenta corriente comercial",
+        "yext/description": "Business Advantage Checking es una cuenta versátil que proporciona un valor excepcional. De esa manera, puede concentrarse en lo que más importa: hacer crecer su negocio.",
+        "yext/name": "Comprobación de ventajas"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Parfait pour la plupart des entreprises",
+          "\u0027Accès à une carte de débit professionnelle gratuite",
+          "aux services bancaires en ligne",
+          "aux services bancaires mobiles avec dépôt mobile(1)",
+          "au paiement de factures et aux relevés électroniques\u0027",
+          "Pas de frais de transaction pour l\u0027utilisation de distributeurs automatiques autres que ceux de Dime(2)"
+        ],
+        "c_productType": "Compte Courant Entreprises",
+        "yext/description": "Le Business Advantage Checking est un compte polyvalent qui offre une valeur exceptionnelle. Vous pouvez ainsi vous concentrer sur ce qui compte le plus : la croissance de votre entreprise.",
+        "yext/name": "Avantages Compte courant"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Perfetto per la maggior parte delle aziende",
+          "\"Accesso a carte di debito aziendali gratuite",
+          "servizi bancari online",
+          "servizi bancari mobili con deposito mobile (1)",
+          "pagamento delle bollette ed estratti conto elettronici\"",
+          "nessun addebito di Dime per l\u0027utilizzo di ATM non Dime (2)"
+        ],
+        "c_productType": "Conto Aziendale",
+        "yext/description": "Business Advantage Checking è un account versatile che offre un valore eccezionale. In questo modo puoi concentrarti su ciò che conta di più: far crescere la tua attività.",
+        "yext/name": "Vantaggio di controllo"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "ビジネスチェック",
+        "yext/description": "Business Advantage Checkingは、優れた価値を提供する多目的なアカウントです。そうすることで、最も重要なこと、つまりビジネスの成長に集中できます。",
+        "yext/name": "アドバンテージチェック"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

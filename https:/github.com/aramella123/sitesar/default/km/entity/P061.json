@@ -1,0 +1,90 @@
+{
+  "$id": "P061",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Over 155 years of stability and banking experience.",
+      "Safe and secure. FDIC insured",
+      "Low minimum balance.",
+      "Free online and mobile banking"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "http://dime.com/prime"
+      }
+    ],
+    "c_productType": "Money Market",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Guaranteed for 100 Days! A great rate from a bank you can trust. Low $1,000 minimum opening balance.",
+    "yext/landingPageUrl": "http://dime.com/prime",
+    "yext/name": "Prime Money Market Account"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Geldmarkt",
+        "yext/description": "100 Tage garantiert! Ein großartiger Preis von einer Bank, der Sie vertrauen können. Niedriges Mindestguthaben von 1.000 USD.",
+        "yext/name": "Prime Geldmarktkonto"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Más de 155 años de estabilidad y experiencia bancaria. Seguro y protegido. Asegurado por la FDIC",
+          "saldo mínimo bajo.",
+          "Banca en línea y móvil gratuita"
+        ],
+        "c_productType": "Mercado Monetario",
+        "yext/description": "¡Garantizado por 100 días! Una excelente tasa de un banco en el que puede confiar. Bajo saldo mínimo de apertura de $ 1,000.",
+        "yext/name": "Cuenta del mercado monetario Prime"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Plus de 155 ans de stabilité et d\u0027expérience bancaire",
+          "en toute sécurité. Assurance FDIC",
+          "Solde minimum peu élevé.",
+          "Services bancaires en ligne et mobile gratuits"
+        ],
+        "c_productType": "Money Market",
+        "yext/description": "Garanti pour 100 jours ! Un taux avantageux d\u0027une banque en qui vous pouvez avoir confiance. Solde d\u0027ouverture minimum de 1 000€.",
+        "yext/name": "Compte Money Market Prime"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Oltre 155 anni di stabilità ed esperienza bancaria. Sicuro e protetto. Assicurato FDIC",
+          "saldo minimo basso.",
+          "Servizi bancari online e mobili gratuiti"
+        ],
+        "c_productType": "Mercato monetario",
+        "yext/description": "Garantito per 100 giorni! Un ottimo tasso da una banca di cui ti puoi fidare. Saldo minimo di apertura minimo di $ 1.000.",
+        "yext/name": "Conto del mercato monetario Prime"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "金融市場",
+        "yext/description": "100日間保証！あなたが信頼できる銀行からの大きなレート。最低$ 1,000の最低オープニングバランス。",
+        "yext/name": "プライムマネーマーケットアカウント"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

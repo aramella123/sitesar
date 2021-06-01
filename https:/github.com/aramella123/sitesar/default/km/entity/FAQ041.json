@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ041",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Personal Mobile Banking",
+        "url": "https://www.dime.com/personal/mobile-banking"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "Yes, you can learn about Dime\u0027s Personal Mobile Banking by clicking the link below.",
+    "yext/name": "Does Dime offer Personal Mobile Banking?",
+    "yext/question": "Does Dime offer Personal Mobile Banking?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Ja, Sie können mehr über Dimes Personal Mobile Banking erfahren, indem Sie auf den unten stehenden Link klicken.",
+        "yext/name": "Bietet Dime Personal Mobile Banking an?",
+        "yext/question": "Bietet Dime Personal Mobile Banking an?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Sí, puede obtener información sobre la Banca móvil personal de Dime haciendo clic en el siguiente enlace.",
+        "yext/name": "¿Dime ofrece Banca Móvil Personal?",
+        "yext/question": "¿Dime ofrece Banca Móvil Personal?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Oui, vous pouvez en savoir plus sur les services bancaires mobiles personnels Dime en cliquant sur le lien ci-dessous.",
+        "yext/name": "Dime offre-t-elle des services bancaires mobiles aux Particuliers ?",
+        "yext/question": "Dime offre-t-elle des services bancaires mobiles aux Particuliers ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Sì, puoi conoscere il Mobile Banking personale di Dime facendo clic sul link in basso.",
+        "yext/name": "Dime offre personal banking via mobile?",
+        "yext/question": "Dime offre personal banking via mobile?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "はい、ダイムのパーソナルモバイルバンキングについては、以下のリンクをクリックして学習できます。",
+        "yext/name": "ダイムコミュニティバンクはパーソナルモバイルバンキングを提供していますか？",
+        "yext/question": "ダイムコミュニティバンクはパーソナルモバイルバンキングを提供していますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

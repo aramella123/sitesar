@@ -1,0 +1,102 @@
+{
+  "$id": "P030",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "No minimum balance",
+      "No monthly maintenance fee",
+      "Free debit card",
+      "Free bill pay",
+      "Free Mobile Banking and Mobile Deposit*",
+      "Free eStatements with online check images"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/personal/checking/direct-interest-checking"
+      }
+    ],
+    "c_fees": "0.0",
+    "c_minimumDeposit": "25.0",
+    "c_productType": "Checking",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Interest with the convenience of direct deposit. With a Dime Direct Interest Checking account, you can earn interest on your money with no minimum balance. Start creating the future you want and enroll today.",
+    "yext/landingPageUrl": "https://www.dime.com/personal/checking/direct-interest-checking",
+    "yext/name": "Direct Interest Checking"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Girokonto",
+        "yext/description": "Zinsen mit der Bequemlichkeit der direkten Einzahlung. Mit einem Dime Direct Interest Checking-Konto können Sie ohne Mindestguthaben Zinsen für Ihr Geld verdienen. Erstellen Sie die gewünschte Zukunft und melden Sie sich noch heute an.",
+        "yext/name": "Direkte Zinsprüfung"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Sin saldo mínimo",
+          "Sin cuota de mantenimiento mensual",
+          "Tarjeta de débito gratuita",
+          "Pago de facturas gratuito",
+          "Banca móvil gratuita y Depósito móvil *",
+          "Declaraciones electrónicas gratuitas con imágenes de cheques en línea"
+        ],
+        "c_productType": "La cuenta corriente",
+        "yext/description": "Interés con la conveniencia de depósito directo. Con una cuenta de cheques de interés directo Dime, puede ganar intereses sobre su dinero sin saldo mínimo. Comience a crear el futuro que desea e inscríbase hoy.",
+        "yext/name": "Cuenta Corriente de interés directo"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Pas de solde minimum",
+          "Pas de frais de maintenance mensuels",
+          "Carte de débit gratuite",
+          "Paiement de factures gratuit",
+          "Banque mobile et Dépôt mobile* gratuits",
+          "Relevés électroniques gratuits avec images de chèques en ligne"
+        ],
+        "c_productType": "Consultez le site",
+        "yext/description": "Des intérêts avec la commodité du dépôt direct. Avec un compte Dime Direct Interest Checking, vous pouvez obtenir des intérêts sur votre argent sans solde minimum. Commencez à créer l\u0027avenir que vous souhaitez et inscrivez-vous dès aujourd\u0027hui.",
+        "yext/name": "Intérêts directs Compte Courant"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Nessun saldo minimo",
+          "Nessuna commissione mensile di manutenzione",
+          "Carta di debito gratuita",
+          "Pagamento delle bollette gratuito",
+          "Mobile banking e deposito Mobile gratuiti *",
+          "eStatements gratuiti con immagini di assegni online"
+        ],
+        "c_productType": "Controllo",
+        "yext/description": "Interesse con la comodità del deposito diretto. Con un conto Dime Direct per il controllo degli interessi, puoi guadagnare interessi sui tuoi soldi senza un saldo minimo. Inizia a creare il futuro che desideri e iscriviti oggi.",
+        "yext/name": "Controllo diretto degli interessi"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "チェック中",
+        "yext/description": "口座振込の便利さでどうぞ。ダイム直接金利当座預金口座を使用すると、最低残高なしであなたのお金の金利を稼ぐことができます。希望する未来の創造を始め、今すぐ登録しましょう。",
+        "yext/name": "直接金利チェック"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

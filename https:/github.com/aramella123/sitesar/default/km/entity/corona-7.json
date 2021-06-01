@@ -1,0 +1,111 @@
+{
+  "$id": "corona-7",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_dateOfUpdate": "3.18",
+    "c_fAQType": "COVID",
+    "yext/answer": "The Dime Community Bank Avenue M branch located at 1600 Avenue M, Brooklyn, NY will reopen on March 19, 2020 and will operate at full capacity under normally scheduled hours, opening at 8:30am.\n\nAnd, as always, you can access your accounts any time at \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003ewww.dime.com\u003c/a\u003e on your desktop or mobile device, or through the Dime mobile app. \n\nThank you,\nYour Dime Community Bank Team",
+    "yext/keywords": [
+      "COVID-19",
+      "coronavirus",
+      "closures",
+      "corona",
+      "COVID",
+      "covid",
+      "covid-19",
+      "Covid-19"
+    ],
+    "yext/name": "Avenue M Branch Update - As of March 18, 2020",
+    "yext/question": "Avenue M Branch Update - As of March 18, 2020"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Die Filiale der Dime Community Bank Avenue M in der 1600 Avenue M in Brooklyn, NY, wird am 19. März 2020 wiedereröffnet und zu den normalerweise geplanten Zeiten mit voller Kapazität betrieben und um 8:30 Uhr geöffnet.\n \n Und wie immer können Sie jederzeit unter \u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003e www.dime.com \u003c/a\u003e auf Ihre Konten zugreifen via Desktop oder Mobilgerät oder über die Dime Mobile App.\n \n Vielen Dank,\n Ihr Dime Community Bank Team",
+        "yext/keywords": [
+          "COVID-19",
+          "Coronavirus",
+          "Verschlüsse",
+          "Corona",
+          "COVID",
+          "Covid",
+          "Covid-19"
+        ],
+        "yext/name": "Avenue M Filiale Update - Stand 18. März 2020",
+        "yext/question": "Avenue M Filiale Update - Stand 18. März 2020"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "La sucursal de Dime Community Bank Avenue M ubicada en 1600 Avenue M, Brooklyn, NY, volverá a abrir el 19 de marzo de 2020 y operará a plena capacidad en las horas normalmente programadas, abriendo a las 8:30 am.\n \n Y, como siempre, puede acceder a sus cuentas en cualquier momento en \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003e www.dime.com \u003c/a\u003e en su computadora de escritorio o dispositivo móvil , o a través de la aplicación móvil Dime.\n \n Gracias,\n Su equipo de Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "cierres",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Actualización de la sucursal Avenue M - A partir del 18 de marzo de 2020",
+        "yext/question": "Actualización de la sucursal Avenue M - A partir del 18 de marzo de 2020"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "L\u0027agence Dime Community Bank Avenue M située au 1600 Avenue M, Brooklyn, NY, rouvrira le 19 mars 2020 et fonctionnera à pleine capacité aux heures normalement prévues, en ouvrant à 8h30.\n\nEt, comme toujours, vous pouvez accéder à vos comptes à tout moment sur \u003ca href\u003d\"\"https://www.dime.com/\" target\u003d\"\"_blank\"\"\u003ewww.dime.com\u003c/a\u003e depuis votre ordinateur ou votre appareil mobile, ou par le biais de l\u0027application mobile Dime. \n\nMerci,\nVotre équipe Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "fermetures",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Mise à jour concernant l\u0027agence Avenue M - à compter du 18 mars 2020",
+        "yext/question": "Mise à jour concernant l\u0027agence Avenue M - à compter du 18 mars 2020"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "La filiale Dime Community Bank Avenue M, situata a 1600 Avenue M, Brooklyn, NY, riaprirà il 19 marzo 2020 e funzionerà a pieno regime negli orari normalmente previsti, aprendo alle 8:30.\n\nE, come sempre, puoi accedere ai tuoi account in qualsiasi momento all\u0027indirizzo \u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003e www.dime.com \u003c/a\u003e sul tuo desktop o dispositivo mobile o tramite l\u0027app mobile Dime.\n\nGrazie,\nIl tuo team Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "chiusure",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Avenue M Aggiornamento Filiale - Al 18 Marzo 2020",
+        "yext/question": "Avenue M Aggiornamento Filiale - Al 18 Marzo 2020"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ニューヨーク州ブルックリンの1600アベニューMにあるダイムコミュニティバンクアベニューM支店は、2020年3月19日に営業を再開し、通常の営業時間内、午前8時30分にフル稼働します。また、いつものように、デスクトップまたはモバイルデバイスの\u003ca href\u003d\"https://www.ダイムコミュニティバンク.com/\" target\u003d\"_blank\"\u003e www.ダイムコミュニティバンク.com \u003c/a\u003eからいつでもアカウントにアクセスできます、またはダイムコミュニティバンクモバイルアプリを介して。ダイムコミュニティバンクチームより",
+        "yext/name": "アベニューMブランチの更新-2020年3月18日現在",
+        "yext/question": "アベニューMブランチの更新-2020年3月18日現在"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

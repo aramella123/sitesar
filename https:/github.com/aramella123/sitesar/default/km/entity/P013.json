@@ -1,0 +1,100 @@
+{
+  "$id": "P013",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Provides convenince and flexibility to customers using debit and credit cards",
+      "save money over large merchant service providers",
+      "Access 24/7 local support",
+      "Receive simplified monthly statements",
+      "Lower potential fraud or chargeback costs",
+      "Transmit checks securely"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/cash-management-solutions/merchant-services"
+      }
+    ],
+    "c_productType": "Merchant Services",
+    "c_slug": "[[entityId]]",
+    "yext/description": "As your business needs evolve, you need banking and payment solutions that will evolve with you. Merchant Services¹ from Dime enable you to provide point-of-sale payment services for your debit and credit card customers without putting a drag on your business’s profitability.",
+    "yext/landingPageUrl": "https://www.dime.com/cash-management-solutions/merchant-services",
+    "yext/name": "Merchant Services"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Händlerdienste",
+        "yext/description": "Wenn sich Ihre Geschäftsanforderungen ändern, benötigen Sie Bank- und Zahlungslösungen, die sich mit Ihnen weiterentwickeln. Mit Merchant Services¹ von Dime können Sie Ihren Debit- und Kreditkartenkunden POS-Zahlungsdienste anbieten, ohne die Rentabilität Ihres Unternehmens zu beeinträchtigen.",
+        "yext/name": "Händlerdienste"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Brinda conveniencia y flexibilidad a los clientes que usan tarjetas de débito y crédito",
+          "ahorra dinero en comparación con los grandes proveedores de servicios comerciales",
+          "accede al soporte local 24/7",
+          "recibe extractos mensuales simplificados",
+          "reduce los posibles costos de fraude o contracargo",
+          "transmite cheques de forma segura"
+        ],
+        "c_productType": "Servicios comerciales",
+        "yext/description": "A medida que su negocio necesita evolucionar, necesita soluciones bancarias y de pago que evolucionarán con usted. Merchant Services¹ de Dime le permite proporcionar servicios de pago en puntos de venta para sus clientes de tarjetas de débito y crédito sin afectar la rentabilidad de su negocio.",
+        "yext/name": "Servicios comerciales"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Fournit la commodité et la flexibilité aux clients utilisant des cartes de débit et de crédit",
+          "Permet d\u0027économiser de l\u0027argent par rapport aux grands fournisseurs de services aux commerçants",
+          "Permet d\u0027accéder à une assistance locale 24 heures sur 24 et 7 jours sur 7",
+          "Permet de recevoir des relevés mensuels simplifiés",
+          "Réduit les risques de fraude ou les coûts de rétrofacturation",
+          "Permet de transmettre les chèques en toute sécurité"
+        ],
+        "c_productType": "Services aux commerçants",
+        "yext/description": "Au fur et à mesure de l\u0027évolution des besoins de votre entreprise, vous avez besoin de solutions bancaires et de paiement qui évolueront avec vous. Les services aux commerçants¹ de Dime vous permettent de fournir des services de paiement aux points de vente pour vos clients titulaires de cartes de débit et de crédit sans nuire à la rentabilité de votre entreprise.",
+        "yext/name": "Services aux commerçants"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Fornisce convenienza e flessibilità ai clienti che utilizzano carte di debito e di credito",
+          "risparmia denaro rispetto ai grandi fornitori di servizi commerciali",
+          "accedi al supporto locale 24 ore su 24",
+          "ricevi estratti conto mensili semplificati",
+          "riduce i potenziali costi di frode o di addebito",
+          "trasmette assegni in modo sicuro"
+        ],
+        "c_productType": "Servizi mercantili",
+        "yext/description": "Man mano che le esigenze della tua azienda si evolvono, hai bisogno di soluzioni bancarie e di pagamento che si evolveranno con te. I servizi commercianti¹ di Dime ti consentono di fornire servizi di pagamento al punto vendita per i tuoi clienti con carta di debito e di credito senza trascurare la redditività della tua attività.",
+        "yext/name": "Servizi mercantili"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "商人サービス",
+        "yext/description": "ビジネスニーズの進化に伴い、進化する銀行および決済ソリューションが必要になります。ダイムコミュニティバンクのMerchantServices¹を使用すると、デビットおよびクレジットカードの顧客にPOS決済サービスを提供して、ビジネスの収益性を損なうことはありません。",
+        "yext/name": "商人サービス"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "de_dime_test",
+  "name": "Dime Answers Experience - German",
+  "supportedLocales": [
+    "de"
+  ],
+  "countryRestrictions": [],
+  "verticals": {
+    "covid_faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "COVID-19 FAQ",
+      "savedSearchId": "30488153",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_coronaVirusFAQ": {
+          "textSearch": true
+        },
+        "c_dateOfUpdate": {
+          "sortable": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [
+        {
+          "direction": "DESC",
+          "field": "c_dateOfUpdate",
+          "type": "FIELD"
+        }
+      ],
+      "source": "KNOWLEDGE_MANAGER",
+      "verticalIntents": {
+        "blacklistedIntents": [],
+        "boostingIntents": [
+          {
+            "boost": 25,
+            "phrase": "covid"
+          },
+          {
+            "boost": 25,
+            "phrase": "covid-19"
+          },
+          {
+            "boost": 25,
+            "phrase": "coronavirus"
+          }
+        ]
+      }
+    },
+    "faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "FAQs",
+      "savedSearchId": "29154600",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_dateOfUpdate": {
+          "sortable": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [
+        {
+          "direction": "DESC",
+          "field": "c_dateOfUpdate",
+          "type": "FIELD"
+        }
+      ],
+      "source": "KNOWLEDGE_MANAGER",
+      "verticalIntents": {
+        "blacklistedIntents": [],
+        "boostingIntents": [
+          {
+            "boost": 25,
+            "phrase": "Kontakt Dime"
+          },
+          {
+            "boost": 25,
+            "phrase": "Hypothekenzinsrechner"
+          },
+          {
+            "boost": 25,
+            "phrase": "Kreditkarte"
+          },
+          {
+            "boost": 25,
+            "phrase": "Kreditkarten"
+          },
+          {
+            "boost": 25,
+            "phrase": "registrieren"
+          },
+          {
+            "boost": 25,
+            "phrase": "anmelden"
+          },
+          {
+            "boost": 25,
+            "phrase": "passwort"
+          },
+          {
+            "boost": 25,
+            "phrase": "passcode"
+          },
+          {
+            "boost": 25,
+            "phrase": "anmelden"
+          }
+        ]
+      }
+    },
+    "links": {
+      "apiKey": "AIzaSyCEdak1q61XoYIH9Oq66nI8Z-wqUZDS41U",
+      "cx": "011160367914084378876:45ufrjtiiga",
+      "name": "Links",
+      "source": "GOOGLE_CSE",
+      "useSynonyms": "JUST_CUSTOMER_SYNONYMS"
+    },
+    "locations": {
+      "entityTypes": [
+        "location"
+      ],
+      "name": "Standorte",
+      "savedSearchId": "27626683",
+      "searchableFields": {
+        "address": {
+          "textSearch": true
+        },
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true
+        },
+        "c_answersGeomodifier": {
+          "nlpFilter": true
+        },
+        "c_answersServices": {
+          "nlpFilter": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "ppp_faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "PPP FAQs",
+      "savedSearchId": "31713726",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "products": {
+      "entityTypes": [
+        "ce_product"
+      ],
+      "name": "Produkte",
+      "savedSearchId": "29159999",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_productType": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "nlpFilter": true
+        },
+        "name": {
+          "nlpFilter": true,
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER",
+      "verticalIntents": {
+        "blacklistedIntents": [],
+        "boostingIntents": [
+          {
+            "boost": 25,
+            "phrase": "Gehaltsscheck"
+          },
+          {
+            "boost": 25,
+            "phrase": "Refinanzierung"
+          },
+          {
+            "boost": 25,
+            "phrase": "ppp"
+          }
+        ]
+      }
+    }
+  },
+  "autocomplete": {
+    "disablePopularQueries": false,
+    "hardcodedPrompts": [
+      "Dime Operations COVID-19",
+      "Standorte in meine Nähe",
+      "Geschäftskonto Optionen",
+      "Öffnen Sie ein Sparkonto",
+      "Was sind Ihre aktuellen CD-Preise?",
+      "Wie lautet die Bankleitzahl von Dime?"
+    ]
+  },
+  "synonyms": {
+    "oneWay": [
+      {
+        "phrase": "Filiale",
+        "synonyms": [
+          "Standort"
+        ]
+      },
+      {
+        "phrase": "Filialen",
+        "synonyms": [
+          "Standorte"
+        ]
+      },
+      {
+        "phrase": "faq",
+        "synonyms": [
+          "häufig gestellte fragen"
+        ]
+      },
+      {
+        "phrase": "faqs",
+        "synonyms": [
+          "häufig gestellte fragen"
+        ]
+      },
+      {
+        "phrase": "Reise",
+        "synonyms": [
+          "Reisen"
+        ]
+      },
+      {
+        "phrase": "venmo",
+        "synonyms": [
+          "zelle"
+        ]
+      },
+      {
+        "phrase": "karte",
+        "synonyms": [
+          "Kreditkarte",
+          "Debitkarte"
+        ]
+      },
+      {
+        "phrase": "Refinanzierung",
+        "synonyms": [
+          "Hypothek"
+        ]
+      },
+      {
+        "phrase": "Support",
+        "synonyms": [
+          "Kundeservice"
+        ]
+      },
+      {
+        "phrase": "Kontaktieren Sie Dime",
+        "synonyms": [
+          "Kundenservice"
+        ]
+      },
+      {
+        "phrase": "Mobiltelefon",
+        "synonyms": [
+          "Remote-Einzahlung"
+        ]
+      },
+      {
+        "phrase": "Smartphone",
+        "synonyms": [
+          "Remote-Einzahlung"
+        ]
+      },
+      {
+        "phrase": "Android",
+        "synonyms": [
+          "Remote-Einzahlung"
+        ]
+      },
+      {
+        "phrase": "iphone Telefon",
+        "synonyms": [
+          "Remote-Einzahlung"
+        ]
+      },
+      {
+        "phrase": "espanol",
+        "synonyms": [
+          "spanisch"
+        ]
+      },
+      {
+        "phrase": "español",
+        "synonyms": [
+          "spanisch"
+        ]
+      },
+      {
+        "phrase": "Bankscheck nachfüllen",
+        "synonyms": [
+          "Nachbestellung von Bankschecks"
+        ]
+      },
+      {
+        "phrase": "bankkonto",
+        "synonyms": [
+          "konten"
+        ]
+      },
+      {
+        "phrase": "konto",
+        "synonyms": [
+          "konten"
+        ]
+      },
+      {
+        "phrase": "Girokonto",
+        "synonyms": [
+          "konto"
+        ]
+      },
+      {
+        "phrase": "persönlicher Scheck",
+        "synonyms": [
+          "Scheck"
+        ]
+      },
+      {
+        "phrase": "kontostand",
+        "synonyms": [
+          "mindestguthaben"
+        ]
+      },
+      {
+        "phrase": "Stimulus-Check",
+        "synonyms": [
+          "Scheck"
+        ]
+      }
+    ],
+    "synonymSet": [
+      [
+        "Karrieren",
+        "Job",
+        "Karriere",
+        "Offene Stelle",
+        "Offene Stellen",
+        "offene Jobs",
+        "Jobs"
+      ],
+      [
+        "elektronischer Bankauszug",
+        "Bankauszug",
+        "Bankauszüge",
+        "Auszug",
+        "Auszüge",
+        "papierlose Abrechnung",
+        "papierlose Auszüge",
+        "papierloser Auszug",
+        "Kontoauszug",
+        "kontoauszug",
+        "Online-Kontoauszug",
+        "online-kontoauszug",
+        "online kontoauszug",
+        "Onlinekontoauszug",
+        "onlinekontoauszug"
+      ],
+      [
+        "App",
+        "Mobilapp",
+        "Mobiles Banking"
+      ],
+      [
+        "Registrieren",
+        "Anmelden",
+        "online banking"
+      ],
+      [
+        "stornieren",
+        "Konto schließen",
+        "schließen"
+      ],
+      [
+        "login",
+        "einloggen",
+        "anmelden"
+      ],
+      [
+        "Einzahlungsbescheinigung",
+        "cd"
+      ],
+      [
+        "covid",
+        "corona virus",
+        "coronavirus",
+        "covid-19",
+        "noch geöffnet"
+      ],
+      [
+        "Paycheck Protection Program (PPP)",
+        "PPP",
+        "Gehaltsschutz",
+        "Paycheck protection program",
+        "paycheck protection"
+      ],
+      [
+        "venmo",
+        "paypal",
+        "zelle"
+      ],
+      [
+        "unternehmen",
+        "geschäft"
+      ],
+      [
+        "überweisen",
+        "überweisung",
+        "überweisungslimits"
+      ],
+      [
+        "desteinzahlung",
+        "depot"
+      ],
+      [
+        "antrag",
+        "anmeldung",
+        "anwendung",
+        "bewerbung",
+        "bewerben"
+      ],
+      [
+        "bankschließfach",
+        "bankschließfächer",
+        "schließfach",
+        "schließfächer"
+      ],
+      [
+        "gebühr",
+        "gebühren"
+      ]
+    ]
+  },
+  "localizations": {},
+  "additionalSearchablePlaces": [],
+  "tier": "Beta"
+}

@@ -1,0 +1,36 @@
+{
+  "$id": "product",
+  "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
+  "enabled": true,
+  "entityType": "yext/product",
+  "field": [
+    {
+      "id": "c_benefits",
+      "required": false
+    },
+    {
+      "id": "c_ctas",
+      "required": false
+    },
+    {
+      "id": "c_fees",
+      "required": false
+    },
+    {
+      "id": "c_minimumDeposit",
+      "required": false
+    },
+    {
+      "id": "c_noFee",
+      "required": false
+    },
+    {
+      "id": "c_productType",
+      "required": false
+    },
+    {
+      "id": "c_slug",
+      "required": false
+    }
+  ]
+}

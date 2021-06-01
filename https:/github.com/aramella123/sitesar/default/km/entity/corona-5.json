@@ -1,0 +1,111 @@
+{
+  "$id": "corona-5",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_dateOfUpdate": "3.11",
+    "c_fAQType": "COVID",
+    "yext/answer": "Dime Community Bank is closely monitoring developments and updates regarding the Coronavirus (COVID-19). For direct information on COVID-19, you can visit the Centers for Disease Control and Prevention website at \u003ca href\u003d\"https://www.cdc.gov/coronavirus/2019-ncov/index.html\" target\u003d\"_blank\"\u003ehttps://www.cdc.gov/coronavirus/2019-ncov/index.html\u003c/a\u003e.\n\nCurrently at Dime, all branches and operations are maintaining normal working hours and service. We will keep you updated if this changes on our website at \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003ewww.dime.com\u003c/a\u003e.\n\nThis is a good time to remind you that your accounts can be accessed digitally. We have several avenues for you to do your banking from anywhere\n\nIf you don’t already have online banking, we encourage you to \u003ca href\u003d\"https://dime.onlinebank.com/RegistrationDisclosure.aspx\" target\u003d\"_blank\"\u003eSign Up\u003c/a\u003e.\n\nThese options are all available 24/7:\n\nWebsite: You can access your accounts anytime on Dime’s website at \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003ewww.dime.com\u003c/a\u003e. Simply click the “sign in” button at \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003ewww.dime.com\u003c/a\u003e.\n\nMobile Banking: If you have signed up for online banking, you can also download the Dime Community Bank Mobile App from the iTunes store or Google Play:\n\n\u003ca href\u003d\"https://itunes.apple.com/us/app/dime-community-bank-mobile/id1386709439?mt\u003d8\" target\u003d\"_blank\"\u003eiTunes\u003c/a\u003e\n\u003ca href\u003d\"https://play.google.com/store/apps/details?id\u003dcom.DIME.mobile\" target\u003d\"_blank\"\u003eGoogle Play\u003c/a\u003e\n\nMobile Web: You can access your accounts on your mobile device by going to your browser, entering dime.com, and logging in through “sign-In”.\n\nTelephone Banking: You should also have a PIN for telephone banking set up for basic transactions. You can call 800-321-3463 to set that up.\n\nWe value your business and will keep you updated should there be any changes to Dime’s operations.\n\nYour Dime Community Bank Team.",
+    "yext/keywords": [
+      "COVID-19",
+      "coronavirus",
+      "closures",
+      "corona",
+      "COVID",
+      "covid",
+      "covid-19",
+      "Covid-19"
+    ],
+    "yext/name": "Coronavirus (COVID-19): Being prepared with Dime - As of March 11, 2020",
+    "yext/question": "Coronavirus (COVID-19): Being prepared with Dime - As of March 11, 2020"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Die Dime Community Bank überwacht die Entwicklungen und Aktualisierungen in Bezug auf das Coronavirus (COVID-19) genau. Direkte Informationen zu COVID-19 finden Sie auf der Website der Zentren für die Kontrolle und Prävention von Krankheiten unter \u003ca href \u003d\" \"https: // www .cdc.gov / coronavirus / 2019-ncov / index.html \"\" target \u003d \"\" _blank \"\"\u003e https://www.cdc.gov/coronavirus/2019-ncov/index.html \u003c/a\u003e.\n \n Derzeit bei Dime behalten alle Niederlassungen und Betriebe ihre normalen Arbeitszeiten und ihren normalen Service bei. Wir werden Sie auf dem Laufenden halten, wenn sich dies auf unserer Website unter \u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003e www.dime.com \u003c/a\u003e ändert.\n \n Dies ist ein guter Zeitpunkt, um Sie daran zu erinnern, dass auf Ihre Konten digital zugegriffen werden kann. Wir haben verschiedene Möglichkeiten für Sie, Ihre Bankgeschäfte von überall aus zu erledigen\n \n Wenn Sie noch kein Online-Banking haben, empfehlen wir Ihnen, sich \u003ca href\u003d\"\"https://dime.onlinebank.com/RegistrationDisclosure.aspx\"\" target\u003d\"\"_blank\"\"\u003e anzumelden \u003c/a\u003e.\n \n Diese Optionen sind alle rund um die Uhr verfügbar:\n \n Website: Sie können jederzeit auf Ihre Konten auf der Website von Dime unter \u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003e www.dime.com \u003c/a\u003e zugreifen. Klicken Sie einfach auf die Schaltfläche \"Anmelden\" unter \u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003e www.dime.com \u003c/a\u003e.\n \n Mobile Banking: Wenn Sie sich für das Online-Banking angemeldet haben, können Sie die Dime Community Bank Mobile App auch aus dem iTunes Store oder von Google Play herunterladen:\n \n \u003ca href\u003d\"\"https://itunes.apple.com/us/app/dime-community-bank-mobile/id1386709439?mt\u003d8\"\" target\u003d\"\"_blank\"\"\u003e iTunes \u003c/a\u003e\n \u003ca href\u003d\"\"https://play.google.com/store/apps/details?id\u003dcom.DIME.mobile\"\" target\u003d\"\"_blank\"\"\u003e Google Play \u003c/a\u003e\n \n Mobiles Web: Sie können auf Ihre Konten auf Ihrem Mobilgerät zugreifen, indem Sie zu Ihrem Browser gehen, dime.com eingeben und sich über \"Anmelden\" anmelden.\n \n Telefonbanking: Sie sollten auch eine PIN für das Telefonbanking für grundlegende Transaktionen eingerichtet haben. Sie können 800-321-3463 anrufen, um dies einzurichten.\n \n Wir schätzen Ihr Geschäft und werden Sie auf dem Laufenden halten, falls sich die Geschäftstätigkeit von Dime ändert.\n \n Ihr Dime Community Bank Team.",
+        "yext/keywords": [
+          "COVID-19",
+          "Coronavirus",
+          "Verschlüsse",
+          "Corona",
+          "COVID",
+          "Covid",
+          "Covid-19"
+        ],
+        "yext/name": "Coronavirus (COVID-19): Vorbereitung mit Dime - Stand 11. März 2020",
+        "yext/question": "Coronavirus (COVID-19): Vorbereitung mit Dime - Stand 11. März 2020"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Dime Community Bank está monitoreando de cerca los desarrollos y actualizaciones con respecto al Coronavirus (COVID-19). Para obtener información directa sobre COVID-19, puede visitar el sitio web de los Centros para el Control y la Prevención de Enfermedades en \u003ca href \u003d \"https://www.cdc.gov/coronavirus/2019-ncov/index.html\" target \u003d \"_ blank\" \u003e https://www.cdc.gov/coronavirus/2019-ncov/index.html \u003c/a\u003e.\n \n Actualmente en Dime, todas las sucursales y operaciones mantienen un horario laboral normal y servicio. Lo mantendremos informado si esto cambia en nuestro sitio web en \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003e www.dime.com \u003c/a\u003e.\n \n Este es un buen momento para recordarle que se puede acceder digitalmente a sus cuentas. Tenemos varias vías para que pueda realizar sus operaciones bancarias desde cualquier lugar\n \n Si aún no tiene banca en línea, le recomendamos que \u003ca href\u003d\"https://dime.onlinebank.com/RegistrationDisclosure.aspx\" target\u003d\"_blank\"\u003e Regístrese \u003c/a\u003e.\n \n Estas opciones están todas disponibles 24/7:\n \n Sitio web: puede acceder a sus cuentas en cualquier momento en el sitio web de Dime en \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003e www.dime.com \u003c/a\u003e. Simplemente haga clic en el botón \"iniciar sesión\" en \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003e www.dime.com \u003c/a\u003e.\n \n Banca móvil: si se ha registrado para la banca en línea, también puede descargar la aplicación móvil Dime Community Bank de la tienda iTunes o Google Play:\n \n \u003ca href\u003d\"https://itunes.apple.com/us/app/dime-community-bank-mobile/id1386709439?mt\u003d8\" target\u003d\"_blank\"\u003e iTunes \u003c/a\u003e\n \u003ca href\u003d\"https://play.google.com/store/apps/details?id\u003dcom.DIME.mobile\" target\u003d\"_blank\"\u003e Google Play \u003c/a\u003e\n \n Web móvil: puede acceder a sus cuentas en su dispositivo móvil accediendo a su navegador, ingresando a dime.com e iniciando sesión a través de “iniciar sesión”.\n \n Banca telefónica: también debe tener un PIN para la banca telefónica configurado para transacciones básicas. Puede llamar al 800-321-3463 para configurar eso.\n \n Valoramos su negocio y lo mantendremos actualizado en caso de que haya algún cambio en las operaciones de Dime.\n \n Su equipo de Dime Community Bank.",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "cierres",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Coronavirus (COVID-19): Preparándose con Dime - A partir del 11 de marzo de 2020",
+        "yext/question": "Coronavirus (COVID-19): Preparándose con Dime - A partir del 11 de marzo de 2020"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Dime Community Bank suit de près les développements et les mises à jour concernant le Coronavirus (COVID-19). Pour obtenir des informations directes sur COVID-19, vous pouvez consulter le site web des Centers for Disease Control and Prevention à l\u0027adresse suivante : \u003ca href\u003d\"\"https://www.cdc.gov/coronavirus/2019-ncov/index.html\"\" target\u003d\"\"_blank\"\"\u003ehttps://www.cdc.gov/coronavirus/2019-ncov/index.html\u003c/a\u003e.\n\nActuellement, chez Dime, toutes les agences et opérations maintiennent des heures de travail et un service normaux. Nous vous tiendrons au courant si cela change sur notre site web à l\u0027adresse \u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003ewww.dime.com\u003c/a\u003e.\n\nC\u0027est le bon moment pour vous rappeler que vos comptes sont accessibles en ligne. Nous vous proposons plusieurs possibilités pour effectuer vos opérations bancaires depuis n\u0027importe quel endroit\n\nSi vous ne disposez pas encore de services bancaires en ligne, nous vous encourageons à \u003ca href\u003d\"\"https://dime.onlinebank.com/RegistrationDisclosure.aspx\"\" target\u003d\"\"_blank\"\"\u003evous inscrire\u003c/a\u003e.\n\nCes options sont toutes disponibles 24 heures sur 24, 7 jours sur 7 :\n\nSite web : Vous pouvez accéder à vos comptes à tout moment sur le site web de Dime à l\u0027adresse \u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003ewww.dime.com\u003c/a\u003e. Il vous suffit de cliquer sur le bouton \"Se connecter\" à l\u0027adresse \u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003ewww.dime.com\u003c/a\u003e.\n\nBanque mobile : Si vous vous êtes inscrit à la banque en ligne, vous pouvez également télécharger l\u0027application mobile Dime Community Bank sur l\u0027iTunes store ou Google Play :\n\n\u003ca href\u003d\"\"https://itunes.apple.com/us/app/dime-community-bank-mobile/id1386709439?mt\u003d8\"\" target\u003d\"\"_blank\"\"\u003eiTunes\u003c/a\u003e\n\u003ca href\u003d\"\"https://play.google.com/store/apps/details?id\u003dcom.DIME.mobile\"\" target\u003d\"\"_blank\"\"\u003eGoogle Play\u003c/a\u003e\n\nWeb mobile : Vous pouvez accéder à vos comptes sur votre appareil mobile en allant sur votre navigateur, en entrant sur dime.com et en vous connectant via \"Connectez-vous\".\n\nBanque par téléphone : Vous devez également disposer d\u0027un code PIN pour les opérations bancaires par téléphone pour les opérations de base. Vous pouvez appeler le +33 1 45 67 89 00 pour le configurer.\n\nNous attachons beaucoup d\u0027importance à votre entreprise et nous vous tiendrons au courant de tout changement dans les opérations de Dime.\n\nVotre équipe Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "fermetures",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Coronavirus (COVID-19) : Se préparer avec Dime - À compter du 11 mars 2020",
+        "yext/question": "Coronavirus (COVID-19) : Se préparer avec Dime - À compter du 11 mars 2020"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Dime Community Bank sta monitorando attentamente gli sviluppi e gli aggiornamenti riguardanti il ​​Coronavirus (COVID-19). Per informazioni dirette su COVID-19, è possibile visitare il sito Web dei Centri per il controllo e la prevenzione delle malattie all\u0027indirizzo \u003ca href \u003d\" \"https: // www .cdc.gov / coronavirus / 2019-ncov / index.html \"\" target \u003d \"\" _blank \"\"\u003e https://www.cdc.gov/coronavirus/2019-ncov/index.html \u003c/a\u003e.\n\nAttualmente presso Dime, tutte le filiali e le operazioni mantengono il normale orario di lavoro e assistenza. Ti terremo aggiornato se questo cambia sul nostro sito Web all\u0027indirizzo \u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003e www.dime.com \u003c/a\u003e.\n\nQuesto è un buon momento per ricordarti che è possibile accedere ai tuoi account in modo digitale. Abbiamo diverse opzioni per consentirti di svolgere le tue attività bancarie da qualsiasi luogo\n\nSe non disponi già di servizi bancari online, ti invitiamo a \u003ca href\u003d\"\"https://dime.onlinebank.com/RegistrationDisclosure.aspx\"\" target\u003d\"\"_blank\"\"\u003e Iscriviti \u003c/a\u003e.\n\nQueste opzioni sono tutte disponibili 24/7:\n\nSito web: puoi accedere ai tuoi account in qualsiasi momento sul sito Web di Dime all\u0027indirizzo \u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003e www.dime.com \u003c/a\u003e. Fai semplicemente clic sul pulsante \"accedi\" in \u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003e www.dime.com \u003c/a\u003e.\n\nMobile Banking: se ti sei registrato per l\u0027online banking, puoi anche scaricare l\u0027app mobile Dime Community Bank dallo store di iTunes o Google Play:\n\n\u003ca href\u003d\"\"https://itunes.apple.com/us/app/dime-community-bank-mobile/id1386709439?mt\u003d8\"\" target\u003d\"\"_blank\"\"\u003e iTunes \u003c/a\u003e\n\u003ca href\u003d\"\"https://play.google.com/store/apps/details?id\u003dcom.DIME.mobile\"\" target\u003d\"\"_blank\"\"\u003e Google Play \u003c/a\u003e\n\nWeb mobile: puoi accedere ai tuoi account sul tuo dispositivo mobile accedendo al browser, immettendo dime.com e accedendo tramite \"accesso\".\n\nBanking telefonico: è inoltre necessario disporre di un PIN per il banking bancario impostato per le transazioni di base. Puoi chiamare il numero 800-321-3463 per configurarlo.\n\nApprezziamo la tua attività e ti terremo aggiornato in caso di modifiche alle operazioni di Dime.\n\nIl tuo team Dime Community Bank.",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "chiusure",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-42"
+        ],
+        "yext/name": "Coronavirus (COVID-19): essere preparati con Dime - Dall\u002711 marzo 2020",
+        "yext/question": "Coronavirus (COVID-19): essere preparati con Dime - Dall\u002711 marzo 2020"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムコミュニティバンク Community Bankは、コロナウイルス（COVID-19）に関する開発と更新を注意深く監視しています。COVID-19の直接的な情報については、\u003ca href \u003d \"https://www.cdc.gov/coronavirus/2019-ncov/index.html\" target \u003d \"_ blank\"\u003eにあるCenters for Disease Control and PreventionのWebサイトにアクセスしてください。 https://www.cdc.gov/coronavirus/2019-ncov/index.html \u003c/a\u003e。\n\n現在ダイムでは、すべての支店と業務が通常の労働時間とサービスを維持しています。この変更が当社のウェブサイト\u003ca href\u003d\"https://www.ダイムコミュニティバンク.com/\" target\u003d\"_blank\"\u003e www.ダイムコミュニティバンク.com \u003c/a\u003eに、随時お知らせします。\n\nアカウントにデジタルでアクセスできる機会です。まだオンラインバンキングを持っていない場合は、\u003ca href \u003d \" \u003e Google Play \u003c/a\u003e\n\nモバイルウェブ：ブラウザにアクセスしてダイムコミュニティバンク.comにアクセスし、「ログイン」からログインすることで、モバイルデバイスのアカウントにアクセスできます。\n\nテレフォンバンキング：基本的な取引用に設定されたテレフォンバンキングのPINも必要です。800-321-3463に電話して設定してください。\n\n私たちは、ダイムの事業に変更があった場合は常に最新情報を提供します。\n\nダイムコミュニティバンクチームより",
+        "yext/name": "コロナウイルス（COVID-19）：ダイムで準備中-2020年3月11日現在",
+        "yext/question": "コロナウイルス（COVID-19）：ダイムで準備中-2020年3月11日現在"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

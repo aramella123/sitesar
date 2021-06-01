@@ -1,0 +1,62 @@
+{
+  "$id": "FAQ002",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "You can find your balance visiting our website and logging in to online banking, by using our 24 hour telephone banking system, or by logging into our Dime Community Bank mobile app found in your app store.",
+    "yext/name": "Where can I find my account balance?",
+    "yext/question": "Where can I find my account balance?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie können Ihr Guthaben auf unserer Website finden und sich beim Online-Banking anmelden, indem Sie unser 24-Stunden-Telefonbanking-System verwenden oder sich bei unserer mobilen Dime Community Bank-App in Ihrem App Store anmelden.",
+        "yext/name": "Wo finde ich meinen Kontostand?",
+        "yext/question": "Wo finde ich meinen Kontostand?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Puede encontrar su saldo visitando nuestro sitio web e iniciando sesión en la banca en línea, utilizando nuestro sistema de banca telefónica las 24 horas, o iniciando sesión en nuestra aplicación móvil Dime Community Bank que se encuentra en su tienda de aplicaciones.",
+        "yext/name": "¿Dónde puedo encontrar el saldo de mi cuenta?",
+        "yext/question": "¿Dónde puedo encontrar el saldo de mi cuenta?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous pouvez trouver votre solde en visitant notre site web et en vous connectant aux services bancaires en ligne, en utilisant notre système bancaire téléphonique 24 heures sur 24, ou en vous connectant à notre application mobile Dime Community Bank qui se trouve dans votre app store.",
+        "yext/name": "Où puis-je trouver le solde de mon compte ?",
+        "yext/question": "Où puis-je trouver le solde de mon compte ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Puoi trovare il tuo saldo visitando il nostro sito Web e accedendo all\u0027online banking, utilizzando il nostro sistema bancario telefonico 24 ore su 24 o accedendo alla nostra app mobile Dime Community Bank presente nel tuo app store.",
+        "yext/name": "Dove posso trovare il saldo del mio conto?",
+        "yext/question": "Dove posso trovare il saldo del mio conto?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "残高は、ウェブサイトにアクセスしてオンラインバンキングにログインするか、24時間電話バンキングシステムを使用するか、アプリストアにあるダイムコミュニティバンク Community Bankモバイルアプリにログインすることで確認できます。",
+        "yext/name": "アカウント残高はどこにありますか？",
+        "yext/question": "アカウント残高はどこにありますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

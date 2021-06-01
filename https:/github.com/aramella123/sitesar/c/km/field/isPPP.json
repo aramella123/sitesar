@@ -1,0 +1,12 @@
+{
+  "$id": "c_isPPP",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Used to indicate whether or not FAQ should be included in PPP Answers section",
+  "displayName": "Is PPP",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "yext/boolean"
+}

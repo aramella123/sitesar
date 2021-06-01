@@ -1,0 +1,81 @@
+{
+  "$id": "ppp-13",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "Payroll costs include:\n\nSalary, wages, commissions, or tips (capped at $100,000 on an annualized basis for eachemployee);\n\nEmployee benefits including costs for vacation, parental, family, medical, or sick leave;allowance for separation or dismissal; payments required for the provisions of grouphealth care benefits including insurance premiums; and payment of any retirementbenefit;\n\nState and local taxes assessed on compensation; and\n\nFor a sole proprietor or independent contractor: wages, commissions, income, or netearnings from self-employment, capped at $100,000 on an annualized basis for eachemployee.",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "What counts as payroll costs under the PPP?",
+    "yext/question": "What counts as payroll costs under the PPP?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Die Lohnkosten umfassen:\n \n Gehalt, Löhne, Provisionen oder Trinkgelder (auf 100.000 USD auf Jahresbasis für jeden Mitarbeiter begrenzt);\n \n Leistungen an Arbeitnehmer, einschließlich Kosten für Urlaub, Eltern-, Familien-, oder Krankenurlaub, Zulage für Trennung oder Entlassung; Zahlungen, die für die Bereitstellung von Leistungen der Gruppengesundheitsversorgung einschließlich Versicherungsprämien erforderlich sind; und Zahlung von Altersrenten;\n \n Staatliche und lokale Steuern, die auf die Entschädigung erhoben werden; und\n \n Für einen Einzelunternehmer oder unabhängigen Auftragnehmer: Löhne, Provisionen, Einkommen oder Nettoeinkommen aus selbständiger Tätigkeit, die auf Jahresbasis für jeden Mitarbeiter auf 100.000 USD begrenzt sind. \"",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Was zählt als Lohnkosten im Rahmen des PPP?",
+        "yext/question": "Was zählt als Lohnkosten im Rahmen des PPP?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Los costos de nómina incluyen:\n \n Salario salarios, comisiones o propinas (con un tope de $ 100,000 en forma anual para cada empleado);\n \n Beneficios a los empleados, incluyendo los costos de vacaciones, vacaciones parentales, familiares, médicas o por enfermedad, subsidio por separación o despido; pagos requeridos para la provisión de beneficios de atención médica grupal, incluidas las primas de seguros; y el pago de cualquier beneficio de jubilación;\n \n Impuestos estatales y locales evaluados sobre compensación; y\n \n Para un propietario único o un contratista independiente: salarios, comisiones, ingresos o ingresos netos del trabajo por cuenta propia, con un límite de $ 100,000 por año para empleados por cuenta ajena.",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Qué cuenta como costos de nómina bajo el PPP?",
+        "yext/question": "¿Qué cuenta como costos de nómina bajo el PPP?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Les coûts salariaux comprennent :\n\nLes salaires, les traitements, les commissions ou les pourboires (plafonnés à 100 000 € sur une base annualisée pour un employé) ;\n\nLes avantages sociaux des employés, y compris les coûts des vacances, des congés parentaux, familiaux, médicaux ou de maladie, les indemnités de départ ou de licenciement, les paiements requis pour les prestations de soins de santé de groupe, y compris les primes d\u0027assurance, et le paiement de toute prestation de retraite ;\n\nles taxes d\u0027État et locales prélevées sur les indemnités ; et\n\nPour un propriétaire unique ou un entrepreneur indépendant : salaires, commissions, revenus ou gains nets provenant d\u0027un travail indépendant, plafonnés à 100 000 € sur une base annualisée pour un employé.",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "Qu\u0027est-ce qui compte comme coûts salariaux dans le cadre du PPS ?",
+        "yext/question": "Qu\u0027est-ce qui compte comme coûts salariaux dans le cadre du PPS ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "I costi del personale comprendono:\n\nStipendio, salari, commissioni o mance (limitato a $ 100.000 su base annua per i dipendenti);\n\nBenefici ai dipendenti, inclusi i costi per ferie, parentali, famiglia, cure mediche o malattia, indennità per separazione o licenziamento; pagamenti richiesti per le prestazioni di assistenza di gruppo, compresi i premi assicurativi; e pagamento di qualsiasi indennità di pensionamento;\n\nImposte statali e locali valutate sulla compensazione; e\n\nPer un unico imprenditore o appaltatore indipendente: salari, commissioni, entrate o guadagni netti da lavoro autonomo, limitato a $ 100.000 su base annua per dipendenti.",
+        "yext/keywords": [
+          "ppp.protezione dello stipendio"
+        ],
+        "yext/name": "Cosa conta come costo del personale nel PPP?",
+        "yext/question": "Cosa conta come costo del personale nel PPP?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "給与コストには次のものが含まれます。給与、賃金、コミッション、またはチップ（各従業員の年間ベースで100,000ドルを上限とする）。休暇、親、家族、医療、病気休暇などの従業員の福利厚生、離職または解雇の手当。保険料を含むグループヘルスケア給付の規定に必要な支払い。退職金の支払い。補償に対して評価される州税および地方税。個人事業主または独立請負業者の場合：賃金、コミッション、収入、または自営業からの純利益。各従業員の年間ベースで100,000ドルを上限とします。",
+        "yext/name": "PPPに基づく給与計算には何が含まれますか？",
+        "yext/question": "PPPに基づく給与計算には何が含まれますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

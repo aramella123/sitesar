@@ -1,0 +1,404 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "ja_dime_test",
+  "name": "Dime Answers Experience - Japanese",
+  "supportedLocales": [
+    "ja"
+  ],
+  "countryRestrictions": [],
+  "verticals": {
+    "covid_faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "コロナウイルスに関するFAQ",
+      "savedSearchId": "30488153",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_coronaVirusFAQ": {
+          "textSearch": true
+        },
+        "c_dateOfUpdate": {
+          "sortable": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [
+        {
+          "direction": "DESC",
+          "field": "c_dateOfUpdate",
+          "type": "FIELD"
+        }
+      ],
+      "source": "KNOWLEDGE_MANAGER",
+      "verticalIntents": {
+        "blacklistedIntents": [],
+        "boostingIntents": [
+          {
+            "boost": 25,
+            "phrase": "コロナウイルス"
+          },
+          {
+            "boost": 25,
+            "phrase": "コロナウイルス"
+          },
+          {
+            "boost": 25,
+            "phrase": "コロナウイルス"
+          }
+        ]
+      }
+    },
+    "faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "よくある質問",
+      "savedSearchId": "29154600",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_dateOfUpdate": {
+          "sortable": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [
+        {
+          "direction": "DESC",
+          "field": "c_dateOfUpdate",
+          "type": "FIELD"
+        }
+      ],
+      "source": "KNOWLEDGE_MANAGER",
+      "verticalIntents": {
+        "blacklistedIntents": [],
+        "boostingIntents": [
+          {
+            "boost": 25,
+            "phrase": "ダイムにお問い合わせ"
+          },
+          {
+            "boost": 25,
+            "phrase": "住宅ローン金利計算機"
+          },
+          {
+            "boost": 25,
+            "phrase": "住宅ローン金利計算機"
+          },
+          {
+            "boost": 25,
+            "phrase": "クレジットカード"
+          },
+          {
+            "boost": 25,
+            "phrase": "クレジットカード"
+          },
+          {
+            "boost": 25,
+            "phrase": "登録"
+          },
+          {
+            "boost": 25,
+            "phrase": "サインアップ"
+          },
+          {
+            "boost": 25,
+            "phrase": "パスワード"
+          },
+          {
+            "boost": 25,
+            "phrase": "パスコード"
+          },
+          {
+            "boost": 25,
+            "phrase": "参加する"
+          }
+        ]
+      }
+    },
+    "links": {
+      "apiKey": "AIzaSyCEdak1q61XoYIH9Oq66nI8Z-wqUZDS41U",
+      "cx": "011160367914084378876:45ufrjtiiga",
+      "name": "リンク集",
+      "source": "GOOGLE_CSE",
+      "useSynonyms": "JUST_CUSTOMER_SYNONYMS"
+    },
+    "locations": {
+      "entityTypes": [
+        "location"
+      ],
+      "name": "場所",
+      "savedSearchId": "27626683",
+      "searchableFields": {
+        "address": {
+          "textSearch": true
+        },
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true
+        },
+        "c_answersGeomodifier": {
+          "nlpFilter": true
+        },
+        "c_answersServices": {
+          "nlpFilter": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "ppp_faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "PPPに関するFAQ",
+      "savedSearchId": "31713726",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "products": {
+      "entityTypes": [
+        "ce_product"
+      ],
+      "name": "製品",
+      "savedSearchId": "29159999",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_productType": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "nlpFilter": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER",
+      "verticalIntents": {
+        "blacklistedIntents": [],
+        "boostingIntents": [
+          {
+            "boost": 25,
+            "phrase": "借り換え"
+          },
+          {
+            "boost": 25,
+            "phrase": "給料"
+          },
+          {
+            "boost": 25,
+            "phrase": "ppp"
+          }
+        ]
+      }
+    }
+  },
+  "autocomplete": {
+    "disablePopularQueries": false,
+    "hardcodedPrompts": [
+      "ダイム・コロナウイルス・オペレーションズ",
+      "近くの場所",
+      "ビジネスチェック製品",
+      "普通預金口座を開く",
+      "現在のCDレートはいくらですか？",
+      "ダイムのルーティング番号とは何ですか？"
+    ]
+  },
+  "synonyms": {
+    "oneWay": [
+      {
+        "phrase": "ブランチ",
+        "synonyms": [
+          "ロケーション"
+        ]
+      },
+      {
+        "phrase": "枝",
+        "synonyms": [
+          "場所"
+        ]
+      },
+      {
+        "phrase": "よくある質問",
+        "synonyms": [
+          "よくある質問"
+        ]
+      },
+      {
+        "phrase": "トラベル",
+        "synonyms": [
+          "トラベル"
+        ]
+      },
+      {
+        "phrase": "ベンモ",
+        "synonyms": [
+          "ゼリー"
+        ]
+      },
+      {
+        "phrase": "借り換え",
+        "synonyms": [
+          "抵当"
+        ]
+      },
+      {
+        "phrase": "サポート",
+        "synonyms": [
+          "顧客サービス"
+        ]
+      },
+      {
+        "phrase": "連絡ダイム",
+        "synonyms": [
+          "顧客サービス"
+        ]
+      },
+      {
+        "phrase": "携帯電話",
+        "synonyms": [
+          "リモート預金"
+        ]
+      },
+      {
+        "phrase": "スマートフォン",
+        "synonyms": [
+          "リモート預金"
+        ]
+      },
+      {
+        "phrase": "アンドロイド",
+        "synonyms": [
+          "リモート預金"
+        ]
+      },
+      {
+        "phrase": "iphone電話",
+        "synonyms": [
+          "リモート預金"
+        ]
+      },
+      {
+        "phrase": "espanol",
+        "synonyms": [
+          "スペイン語"
+        ]
+      },
+      {
+        "phrase": "español",
+        "synonyms": [
+          "スペイン語"
+        ]
+      },
+      {
+        "phrase": "詰め替え確認",
+        "synonyms": [
+          "再注文の確認"
+        ]
+      },
+      {
+        "phrase": "個人小切手",
+        "synonyms": [
+          "小切手"
+        ]
+      }
+    ],
+    "synonymSet": [
+      [
+        "キャリア",
+        "ジョブ",
+        "オープンポジション",
+        "求人",
+        "仕事"
+      ],
+      [
+        "地所",
+        "eステートメント",
+        "電子ステートメント",
+        "銀行取引明細書",
+        "ステートメント",
+        "ペーパーレス請求",
+        "ペーパーレス声明"
+      ],
+      [
+        "アプリ",
+        "モバイルアプリ",
+        "モバイルバンキング"
+      ],
+      [
+        "サインアップ",
+        "登録する",
+        "登録",
+        "オンラインバンキング"
+      ],
+      [
+        "キャンセル",
+        "アカウントを閉じる",
+        "閉じる"
+      ],
+      [
+        "ログインする",
+        "サインイン"
+      ],
+      [
+        "譲渡性預金証書",
+        "CD",
+        "預金証書"
+      ],
+      [
+        "COVID",
+        "コロナウイルス",
+        "COVID-19",
+        "まだ開いている"
+      ],
+      [
+        "セーフティボックス"
+      ],
+      [
+        "給与保護プログラム（PPP）",
+        "PPP",
+        "給与保護",
+        "給与保護プログラム"
+      ],
+      [
+        "ベンモ",
+        "ペイパル",
+        "Zelle"
+      ]
+    ]
+  },
+  "localizations": {},
+  "additionalSearchablePlaces": [],
+  "tier": "Beta"
+}

@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ024",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Accessibility",
+        "url": "https://www.dime.com/accessibility"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "Dime utilizes talking Automated Teller Machines (ATMs) at all of its 29 branch offices. At these locations, customers can use standard headphone (1/8” jack) for audible access to Dime financial services.",
+    "yext/name": "Does Dime have Talking ATMs?",
+    "yext/question": "Does Dime have Talking ATMs?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Dime verwendet in allen 29 Niederlassungen Geldautomaten. An diesen Standorten können Kunden Standardkopfhörer (1/8 ”-Buchse) für den hörbaren Zugriff auf Dime-Finanzdienstleistungen verwenden.",
+        "yext/name": "Hat Dime sprechende Geldautomaten?",
+        "yext/question": "Hat Dime sprechende Geldautomaten?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Dime utiliza cajeros automáticos (ATM) que hablan en todas sus 29 sucursales. En estos lugares, los clientes pueden usar auriculares estándar (conector de 1/8 ”) para acceso audible a los servicios financieros de Dime.\nSoporte de lector de pantalla habilitado.",
+        "yext/name": "¿Dime tiene cajeros automáticos (ATM) que hablan?",
+        "yext/question": "¿Dime tiene cajeros automáticos (ATM) que hablan?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Dime utilise des distributeurs automatiques de billets (DAB) parlants dans ses 29 agences. Dans ces endroits, les clients peuvent utiliser des écouteurs standard (prise 1/8\") pour un accès audible aux services financiers de Dime.",
+        "yext/name": "Dime a-t-elle des distributeurs automatiques parlants ?",
+        "yext/question": "Dime a-t-elle des distributeurs automatiques parlants ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Dime utilizza distributori automatici (ATM) parlanti in tutte le sue 29 filiali. In queste località, i clienti possono utilizzare cuffie standard (jack da 1/8 \") per l\u0027accesso udibile ai servizi finanziari Dime.",
+        "yext/name": "Dime ha sportelli automatici parlanti?",
+        "yext/question": "Dime ha sportelli automatici parlanti?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムコミュニティバンクは、29か所あるすべての支店で、自動現金預け払い機（ATM）を利用しています。これらの場所では、顧客は標準のヘッドフォン（1/8インチジャック）を使用して、ダイムコミュニティバンク金融サービスに音声でアクセスできます。",
+        "yext/name": "ダイムは話すATMを持っていますか？",
+        "yext/question": "ダイムは話すATMを持っていますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

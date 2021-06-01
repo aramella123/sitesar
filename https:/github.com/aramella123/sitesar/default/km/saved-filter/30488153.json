@@ -1,0 +1,30 @@
+{
+  "$id": "30488153",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Answers - COVID",
+  "filter": {
+    "entityField": [
+      {
+        "fieldId": "c_activeOnAnswers",
+        "searchBool": "TRUE"
+      },
+      {
+        "fieldId": "c_fAQType",
+        "filterOption": {
+          "choice": [
+            "COVID"
+          ],
+          "type": "IS"
+        }
+      }
+    ],
+    "entityType": [
+      {
+        "entityTypeId": [
+          "yext/faq"
+        ],
+        "type": "IS"
+      }
+    ]
+  }
+}

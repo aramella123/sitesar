@@ -1,0 +1,51 @@
+{
+  "$id": "product-27",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_benefits": [
+      "Life can be unpredictable. Protect yourself from the inconvenience and expense of a bounced check with a line of credit linked to your checking account. Sign up for only $25 per year."
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Apply Now",
+        "url": "https://www.dime.com/personal/checking/overdraft-line-of-credit"
+      }
+    ],
+    "c_productType": "Checking",
+    "c_slug": "[[entityId]]",
+    "yext/landingPageUrl": "http://www.landingpage.com",
+    "yext/name": "Overdraft Protection",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1231,
+          "sourceUrl": "https://images.pexels.com/photos/4482903/pexels-photo-4482903.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "thumbnails": [
+            {
+              "height": 761,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/619x761.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/365x450.jpg",
+              "width": 365
+            },
+            {
+              "height": 241,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/196x241.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/1000x1231.jpg",
+          "width": 1000
+        }
+      }
+    ],
+    "yext/richTextDescription": "Protect yourself from mistakes"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

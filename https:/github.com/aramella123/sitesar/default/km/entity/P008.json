@@ -1,0 +1,97 @@
+{
+  "$id": "P008",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "No monthly fee",
+      "Earned interest is donated to the New York State IOLA Fund",
+      "Dime takes care of record keeping \u0027",
+      "\u0027 reporting and remittance",
+      "Proceeds support legal aid and law-related public interest programs"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/business/iola-and-iolta-accounts"
+      }
+    ],
+    "c_fees": "0.0",
+    "c_productType": "IOLA \u0026 IOLTA Accounts",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Dime offers Interest on Lawyer Accounts (IOLA) and Interest on Lawyer’s Trust Accounts (IOLTA) programs to offset the cost of managing the funds.",
+    "yext/landingPageUrl": "https://www.dime.com/business/iola-and-iolta-accounts",
+    "yext/name": "IOLA \u0026 IOLTA Accounts"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "IOLA \u0026 IOLTA Konten",
+        "yext/description": "Dime bietet Programme für Zinsen auf Anwaltskonten (IOLA) und Zinsen auf Anwaltskonten (IOLTA) an, um die Kosten für die Verwaltung der Fonds auszugleichen.",
+        "yext/name": "IOLA \u0026 IOLTA Konten"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Sin cuota mensual",
+          "los intereses ganados se donan al Fondo IOLA del Estado de Nueva York",
+          "Dime se encarga del mantenimiento de registros \u0027",
+          "\u0027 informes y remesas",
+          "los ingresos apoyan la asistencia legal y los programas de interés público relacionados con la ley"
+        ],
+        "c_productType": "Cuentas IOLA \u0026 IOLTA",
+        "yext/description": "Dime ofrece programas de interés en cuentas de abogados (IOLA) e intereses en cuentas de fideicomiso de abogados (IOLTA) para compensar el costo de administrar los fondos.",
+        "yext/name": "Cuentas IOLA \u0026 IOLTA"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Pas de frais mensuels",
+          "Les intérêts gagnés sont reversés au Fonds IOLA de l\u0027État de New York",
+          "Dime s\u0027occupe de la tenue des registres\u0027",
+          "\u0027 des rapports et des remises",
+          "Les recettes servent à financer l\u0027aide juridique et les programmes d\u0027intérêt public liés au droit."
+        ],
+        "c_productType": "Comptes IOLA \u0026 IOLTA",
+        "yext/description": "Dime propose les programmes Interest on Lawyer Accounts (IOLA) et Interest on Lawyer\u0027s Trust Accounts (IOLTA) pour compenser le coût de la gestion des fonds.",
+        "yext/name": "Comptes IOLA \u0026 IOLTA"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Nessuna spesa mensile",
+          "gli interessi guadagnati vengono donati al fondo IOLA dello Stato di New York",
+          "Dime si occupa della tenuta dei registri \"",
+          "\" segnalazione e rimessa",
+          "i proventi sostengono l\u0027assistenza legale e i programmi di interesse pubblico connessi alla legge"
+        ],
+        "c_productType": "Conti IOLA \u0026 IOLTA",
+        "yext/description": "Dime offre programmi di interessi su conti legali (IOLA) e interessi su conti fiduciari (IOLTA) per compensare i costi di gestione dei fondi.",
+        "yext/name": "Conti IOLA \u0026 IOLTA"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "IOLA＆IOLTAアカウント",
+        "yext/description": "ダイムは、ファンドを管理するコストを相殺するために、弁護士口座への利息（IOLA）と弁護士信託口座（IOLTA）への利息プログラムを提供しています。",
+        "yext/name": "IOLA＆IOLTAアカウント"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

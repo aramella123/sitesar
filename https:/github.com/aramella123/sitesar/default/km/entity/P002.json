@@ -1,0 +1,103 @@
+{
+  "$id": "P002",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Perfect for qualifying sole proprietorship and not-for-profit organizations.",
+      "\u0027Access to free business debit card",
+      "online banking",
+      "mobile banking with mobile deposit(1)",
+      "bill pay",
+      "and e-statements\u0027",
+      "No Dime charges for non-Dime ATM use(2)"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/business/checking/interest-checking"
+      }
+    ],
+    "c_fees": "$0 or $15**",
+    "c_minimumDeposit": "100.0",
+    "c_productType": "Business Checking",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Perfect for sole proprietorship and not-for-profit organizations, Dime\u0027s Business Interest Checking offers a higher level of benefits with the ability to earn interest.",
+    "yext/landingPageUrl": "https://www.dime.com/business/checking/interest-checking",
+    "yext/name": "Interest Checking"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Business-Girokonto",
+        "yext/description": "Dimes Business Interest Checking eignet sich perfekt für Einzelunternehmen und gemeinnützige Organisationen und bietet ein höheres Maß an Vorteilen mit der Möglichkeit, Zinsen zu verdienen.",
+        "yext/name": "Zinsprüfung"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Perfecto para empresas unipersonales calificadas y organizaciones sin fines de lucro.",
+          "\u0027Acceso a tarjeta de débito comercial gratuita",
+          "banca en línea",
+          "banca móvil con depósito móvil (1)",
+          "pago de facturas y estados de cuenta electrónicos\u0027",
+          "cargos No Dime para no Dime Uso de cajero automático (2)"
+        ],
+        "c_productType": "Cuenta corriente comercial",
+        "yext/description": "Perfecta para empresas unipersonales y organizaciones sin fines de lucro, Dime\u0027s Business Interest Checking ofrece un mayor nivel de beneficios con la capacidad de generar intereses.",
+        "yext/name": "Cuenta corriente de intereses"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Parfait pour les entreprises individuelles et les organisations à but non lucratif",
+          "\u0027Accès à une carte de débit professionnelle gratuite",
+          "aux services bancaires en ligne",
+          "aux services bancaires mobiles avec dépôt mobile(1)",
+          "au paiement de factures et aux relevés électroniques\u0027",
+          "Pas de frais pour l\u0027utilisation de distributeurs automatiques de billets autres que ceux de Dime(2)"
+        ],
+        "c_productType": "Compte Courant Entreprises",
+        "yext/description": "Parfait pour les entreprises individuelles et les organisations à but non lucratif, le système de vérification des intérêts commerciaux Dime offre un niveau d\u0027avantages supérieur avec la possibilité de percevoir des intérêts.",
+        "yext/name": "Intérêt Compte courant"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Perfetto per le imprese individuali qualificate e le organizzazioni senza scopo di lucro.",
+          "\"Accesso a carte di debito aziendali gratuite",
+          "servizi bancari online",
+          "mobile banking con deposito mobile (1)",
+          "pagamento delle bollette ed e-statement\"",
+          "Nessun addebito per non-Dime utilizzo del bancomat (2)"
+        ],
+        "c_productType": "Conto Aziendale",
+        "yext/description": "Perfetto per le imprese individuali e le organizzazioni no profit, Dime\u0027s Business Interest Checking offre un livello più elevato di vantaggi con la possibilità di guadagnare interessi.",
+        "yext/name": "Controllo degli interessi"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "ビジネスチェック",
+        "yext/description": "個人事業主および非営利組織に最適なダイムコミュニティバンクのBusiness Interest Checkingは、より高いレベルの利益を提供し、利益を得ることができます。",
+        "yext/name": "インタレストチェック"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

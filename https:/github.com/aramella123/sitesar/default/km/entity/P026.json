@@ -1,0 +1,102 @@
+{
+  "$id": "P026",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Competivie fixed-rate and adjustable loans",
+      "Commercial loans available up to $15 million with low rates on 5 \u0027",
+      "\u0027 7 \u0027",
+      "\u0027 and 15-year terms",
+      "Up to 75% loan-to-value on multifamily and mixed-use properties",
+      "Amortization terms up to 30 years",
+      "Refinancing and acquisition loans"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/commercial/multi-family-property-loans"
+      }
+    ],
+    "c_productType": "Multifamily \u0026 Mixed-Use Property",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Dime provides the flexible terms and expert service you need to finance your multifamily or mixed-use property in a way that works for you. Whether it’s an apartment building or a residential complex with commercial spaces, we’ll work with you to find the right financing option for your situation.",
+    "yext/landingPageUrl": "https://www.dime.com/commercial/multi-family-property-loans",
+    "yext/name": "Multifamily \u0026 Mixed-Use Property"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Mehrfamilien- und gemischt genutzte Immobilie",
+        "yext/description": "Dime bietet die flexiblen Konditionen und den kompetenten Service, die Sie benötigen, um Ihre Mehrfamilien- oder gemischt genutzte Immobilie auf eine für Sie geeignete Weise zu finanzieren. Ob es sich um ein Wohnhaus oder einen Wohnkomplex mit Gewerbeflächen handelt, wir arbeiten mit Ihnen zusammen, um die richtige Finanzierungsoption für Ihre Situation zu finden.",
+        "yext/name": "Mehrfamilien- und gemischt genutzte Immobilie"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Préstamos competitivos de tasa fija y ajustable",
+          "préstamos comerciales disponibles de hasta $ 15 millones con tasas bajas a plazos de 5 \u0027",
+          "\u0027 7 \u0027\u0027 y 15 años",
+          "hasta un 75% de préstamo a valor en propiedades multifamiliares y de uso mixto",
+          "Plazos de amortización hasta 30 años",
+          "refinanciamiento y adquisición de préstamos."
+        ],
+        "c_productType": "Propiedad multifamiliar y de uso mixto",
+        "yext/description": "Dime proporciona los términos flexibles y el servicio experto que necesita para financiar su propiedad multifamiliar o de uso mixto de una manera que funcione para usted. Ya sea un edificio de apartamentos o una comunidad residencial con espacios comerciales, trabajaremos con usted para encontrar la opción de financiamiento adecuada para su situación.",
+        "yext/name": "Propiedad multifamiliar y de uso mixto"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Prêts compétitifs à taux fixe et ajustables",
+          "Prêts commerciaux disponibles jusqu\u0027à 15 millions de dollars avec des taux bas sur des durées de 5\u0027",
+          "\u0027 7 et 15 ans",
+          "Jusqu\u0027à 75% de la valeur du prêt sur les propriétés multifamiliales et à usage mixte",
+          "Durée d\u0027amortissement jusqu\u0027à 30 ans",
+          "Prêts de refinancement et d\u0027acquisition"
+        ],
+        "c_productType": "Biens multifamiliaux et à usage mixte",
+        "yext/description": "Dime vous propose des conditions flexibles et un service d\u0027expert pour financer votre propriété multifamiliale ou à usage mixte d\u0027une manière qui vous convienne. Qu\u0027il s\u0027agisse d\u0027un immeuble d\u0027appartements ou d\u0027un complexe résidentiel avec des espaces commerciaux, nous travaillerons avec vous pour trouver l\u0027option de financement la mieux adaptée à votre situation.",
+        "yext/name": "Biens multifamiliaux et à usage mixte"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Prestiti competitivi a tasso fisso e regolabili",
+          "prestiti commerciali disponibili fino a $ 15 milioni con tassi bassi sui termini 5 \u0027",
+          "\u0027 7 \u0027",
+          "\u0027 e 15 anni",
+          "fino al 75% del prestito al valore su proprietà plurifamiliari e ad uso misto",
+          "Termini di ammortamento fino a 30 anni",
+          "Rifinanziamento e prestiti di acquisizione"
+        ],
+        "c_productType": "Multifamiglia e proprietà ad uso misto",
+        "yext/description": "Dime fornisce i termini flessibili e il servizio esperto di cui hai bisogno per finanziare la tua proprietà multi-famiglia o ad uso misto in un modo che funzioni per te. Che si tratti di un condominio o di un complesso residenziale con spazi commerciali, lavoreremo con te per trovare la giusta opzione di finanziamento per la tua situazione.",
+        "yext/name": "Multifamiglia e proprietà ad uso misto"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "集合住宅および混合使用物件",
+        "yext/description": "ダイムコミュニティバンクは、多目的または多目的の不動産の資金調達に必要な柔軟な条件と専門家のサービスを提供します。それがアパートの建物であろうと商業スペースのある住宅団地であろうと、私たちはあなたと協力してあなたの状況に適した資金調達オプションを見つけます。",
+        "yext/name": "集合住宅および混合使用物件"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

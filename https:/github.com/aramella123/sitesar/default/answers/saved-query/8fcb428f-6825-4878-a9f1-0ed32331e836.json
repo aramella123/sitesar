@@ -1,0 +1,14 @@
+{
+  "$id": "8fcb428f-6825-4878-a9f1-0ed32331e836",
+  "$schema": "https://schema.yext.com/config/answers/saved-query/v1",
+  "answersKey": "dime",
+  "idealResult": {
+    "relevantSections": []
+  },
+  "locale": "en",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "pinIdealResults": false,
+  "queryString": "business checking products",
+  "notes": ""
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "streams_pages-states",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "streamsapi",
+  "fields": [
+    "id",
+    "uid",
+    "name",
+    "c_children"
+  ],
+  "filter": {
+    "entityTypes": [
+      "ce_state"
+    ]
+  }
+}

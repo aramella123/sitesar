@@ -1,0 +1,81 @@
+{
+  "$id": "ppp-9",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "No. We are waiving the usual SBA requirement that you try to obtain some or all of the loan funds from other sources (i.e., we are waiving the Credit Elsewhere requirement).",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "Do I need to first look for other funds before applying to this program?",
+    "yext/question": "Do I need to first look for other funds before applying to this program?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Nein. Wir verzichten auf die übliche SBA-Anforderung, dass Sie versuchen, einige oder alle Darlehensmittel aus anderen Quellen zu beziehen (d. H. Wir verzichten auf die Anforderung \"Credit Elsewhere\").",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Muss ich zuerst nach anderen Fonds suchen, bevor ich mich für dieses Programm bewerbe?",
+        "yext/question": "Muss ich zuerst nach anderen Fonds suchen, bevor ich mich für dieses Programm bewerbe?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "No. Estamos renunciando al requisito habitual de la SBA de que intente obtener parte o la totalidad de los fondos del préstamo de otras fuentes (es decir, estamos renunciando al requisito de crédito en otros lugares).",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Necesito primero buscar otros fondos antes de solicitar este programa?",
+        "yext/question": "¿Necesito primero buscar otros fondos antes de solicitar este programa?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Non. Nous renonçons à l\u0027exigence habituelle du SBA selon laquelle vous devez essayer d\u0027obtenir une partie ou la totalité des fonds du prêt auprès d\u0027autres sources (c\u0027est-à-dire que nous renonçons à l\u0027exigence du Crédit Ailleurs).",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "Dois-je d\u0027abord chercher d\u0027autres fonds avant de postuler à ce programme ?",
+        "yext/question": "Dois-je d\u0027abord chercher d\u0027autres fonds avant de postuler à ce programme ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "No. Rinunciamo al solito requisito SBA che si tenta di ottenere alcuni o tutti i fondi di prestito da altre fonti (vale a dire, stiamo rinunciando al requisito del credito altrove).",
+        "yext/keywords": [
+          "ppp.protezione dello stipendio"
+        ],
+        "yext/name": "Devo cercare altri prima di applicare a questo programma?",
+        "yext/question": "Devo cercare altri prima di applicare a questo programma?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "いいえ。ローン資金の一部またはすべてを他のソースから取得しようとするという通常のSBA要件は免除されます（つまり、Credit Elsewhere要件は免除されます）。",
+        "yext/name": "このプログラムに申し込む前に、まず他の資金を探す必要がありますか？",
+        "yext/question": "このプログラムに申し込む前に、まず他の資金を探す必要がありますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

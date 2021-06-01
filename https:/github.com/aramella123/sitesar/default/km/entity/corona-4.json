@@ -1,0 +1,111 @@
+{
+  "$id": "corona-4",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_dateOfUpdate": "3.12",
+    "c_fAQType": "COVID",
+    "yext/answer": "As of today, March 12, 2020, the Dime Community Bank Melville branch located at One Huntington Quadrangle, Suite 1N06, Melville NY 11747 has reopened, and will operate at full capacity under normally scheduled hours, opening at 8:30am.\n\nAnd, as always, you can access your accounts any time at \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003ewww.dime.com\u003c/a\u003e on your desktop or mobile device, or through the Dime mobile app.\n\nThank you,\n\nYour Dime Community Bank Team",
+    "yext/keywords": [
+      "COVID-19",
+      "coronavirus",
+      "closures",
+      "corona",
+      "COVID",
+      "covid",
+      "covid-19",
+      "Covid-19"
+    ],
+    "yext/name": "Melville Branch Update - As of March 12, 2020",
+    "yext/question": "Melville Branch Update - As of March 12, 2020"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Ab heute, dem 12. März 2020, wurde die Filiale der Dime Community Bank in Melville, One Huntington Quadrangle, Suite 1N06, Melville, NY 11747, wiedereröffnet und wird zu den normalen Zeiten, die um 8:30 Uhr geöffnet sind, voll ausgelastet sein. \n\nUnd wie immer können Sie jederzeit auf \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003e www.dime.com \u003c/a\u003e auf Ihrem Desktop oder Mobilgerät auf Ihre Konten zugreifen oder über die Dime Mobile App.\n\nVielen Dank,\n\nIhr Dime Community Bank Team",
+        "yext/keywords": [
+          "COVID-19",
+          "Coronavirus",
+          "Verschlüsse",
+          "Corona",
+          "COVID",
+          "Covid",
+          "Covid-19"
+        ],
+        "yext/name": "Melville Branch Update - Stand 12. März 2020",
+        "yext/question": "Melville Branch Update - Stand 12. März 2020"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "A partir de hoy, 12 de marzo de 2020, la sucursal de Dime Community Bank Melville ubicada en One Huntington Quadrangle, Suite 1N06, Melville NY 11747 ha reabierto, y operará a capacidad completa en horas normalmente programadas, abriendo a las 8:30 am.\n \nY, como siempre, puede acceder a sus cuentas en cualquier momento en \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003e www.dime.com \u003c/a\u003e en su computadora de escritorio o dispositivo móvil , o a través de la aplicación móvil Dime.\n \nGracias,\n \nSu equipo de Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "cierres",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Actualización de la sucursal de Melville - A partir del 12 de marzo de 2020",
+        "yext/question": "Actualización de la sucursal de Melville - A partir del 12 de marzo de 2020"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "À compter de ce jour, 12 mars 2020, l\u0027agence Dime Community Bank Melville située au One Huntington Quadrangle, Suite 1N06, Melville NY 11747 a rouvert et fonctionnera à pleine capacité aux heures normales d\u0027ouverture, soit à 8h30.\n\nEt, comme toujours, vous pouvez accéder à vos comptes à tout moment sur \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003ewww.dime.com\u003c/a\u003e depuis votre ordinateur ou votre téléphone mobile, ou par le biais de l\u0027application mobile Dime.\n\nMerci,\n\nVotre équipe Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "fermetures",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Mise à jour concernant l\u0027agence de Melville - en date du 12 mars 2020",
+        "yext/question": "Mise à jour concernant l\u0027agence de Melville - en date du 12 mars 2020"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "A partire da oggi, 12 marzo 2020, la filiale di Dime Community Bank Melville situata in One Huntington Quadrangle, Suite 1N06, Melville NY 11747 è stata riaperta e funzionerà a pieno regime con orari normalmente previsti, aprendo alle 8:30.\n\nE, come sempre, puoi accedere ai tuoi account in qualsiasi momento all\u0027indirizzo \u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003e www.dime.com \u003c/a\u003e sul tuo desktop o dispositivo mobile o tramite l\u0027app mobile Dime.\n\nGrazie,\n\nIl tuo team Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "chiusure",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-36"
+        ],
+        "yext/name": "Aggiornamento della filiale di Melville - Dal 12 marzo 2020",
+        "yext/question": "Aggiornamento della filiale di Melville - Dal 12 marzo 2020"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "2020年3月12日現在、One Huntington Quadrangle、Suite 1N06、Melville NY 11747にあるダイムコミュニティバンク Community Bank Melville支店が営業を再開し、通常の営業時間で午前8時30分にフル稼働します。\n\nまた、いつものように、デスクトップまたはモバイルデバイスの\u003ca href\u003d\"https://www.ダイムコミュニティバンク.com/\" target\u003d\"_blank\"\u003e www.ダイムコミュニティバンク.com \u003c/a\u003eからいつでもアカウントにアクセスできます、またはダイムコミュニティバンクモバイルアプリを介して。\n\nダイムコミュニティバンクチームより",
+        "yext/name": "メルビル支店の更新-2020年3月12日現在",
+        "yext/question": "メルビル支店の更新-2020年3月12日現在"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

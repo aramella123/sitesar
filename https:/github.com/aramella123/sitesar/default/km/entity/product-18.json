@@ -1,0 +1,65 @@
+{
+  "$id": "product-18",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Application",
+        "url": "https://customers.dime.com/files/Dime-Paycheck-Protection-Program-Application-Form-2483.pdf?_ga\u003d2.130870541.328625703.1584916865-1742100825.1578928651"
+      },
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/covid-19"
+      }
+    ],
+    "c_slug": "[[entityId]]",
+    "yext/keywords": [
+      "PPP",
+      "coronavirus",
+      "covid-19",
+      "Paycheck Protection Program",
+      "Paycheck Protection",
+      "Paycheck Protection Application"
+    ],
+    "yext/landingPageUrl": "https://www.dime.com/covid-19",
+    "yext/name": "Paycheck Protection Program  (PPP)",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1231,
+          "sourceUrl": "https://images.pexels.com/photos/4482903/pexels-photo-4482903.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "thumbnails": [
+            {
+              "height": 761,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/619x761.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/365x450.jpg",
+              "width": 365
+            },
+            {
+              "height": 241,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/196x241.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/1000x1231.jpg",
+          "width": 1000
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "GBP",
+      "value": "10000"
+    },
+    "yext/richTextDescription": "Dime Community Bank stands with **you**.",
+    "yext/stockStatus": "IN_STOCK"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

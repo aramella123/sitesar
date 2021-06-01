@@ -1,0 +1,10 @@
+{
+  "$id": "overlay-dime-hosted.yext.com",
+  "$schema": "https://schema.yext.com/config/pages/domain/v1",
+  "domainName": "overlay-dime-hosted.yext.com",
+  "autoGenerateSitemap": true,
+  "domainAccess": false,
+  "pagesCDNAccess": true,
+  "answersIntegration": true,
+  "reverseProxy": false
+}

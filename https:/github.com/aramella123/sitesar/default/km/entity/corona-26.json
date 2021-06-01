@@ -1,0 +1,111 @@
+{
+  "$id": "corona-26",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_dateOfUpdate": "4.14",
+    "c_fAQType": "COVID",
+    "yext/answer": "Our Dime Bellmore branch has reopened as of April 15, 2020. Please check the modified hours schedule before heading to any branch. \n\nThank you, \n\nYour Dime Community Bank Team",
+    "yext/keywords": [
+      "COVID-19",
+      "coronavirus",
+      "closures",
+      "corona",
+      "COVID",
+      "covid",
+      "covid-19",
+      "Covid-19"
+    ],
+    "yext/name": "Bellmore Branch Update - As of April 14, 2020",
+    "yext/question": "Bellmore Branch Update - As of April 14, 2020"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Unsere Dime Bellmore Filiale wurde am 15. April 2020 wiedereröffnet. Bitte überprüfen Sie den geänderten Stundenplan, bevor Sie zu einer Filiale gehen.\n \n Vielen Dank,\n \n Ihr Dime Community Bank Team",
+        "yext/keywords": [
+          "COVID-19",
+          "Coronavirus",
+          "Verschlüsse",
+          "Corona",
+          "COVID",
+          "Covid",
+          "Covid-19"
+        ],
+        "yext/name": "Bellmore Filiale Update - Stand 14. April 2020",
+        "yext/question": "Bellmore Filiale Update - Stand 14. April 2020"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Nuestra sucursal de Dime Bellmore ha reabierto a partir del 15 de abril de 2020. Verifique el horario modificado antes de dirigirse a cualquier sucursal.\n \nGracias,\n \nSu equipo de Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "cierres",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Actualización de la sucursal de Bellmore - A partir del 14 de abril de 2020",
+        "yext/question": "Actualización de la sucursal de Bellmore - A partir del 14 de abril de 2020"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Notre agence Dime Bellmore a rouvert ses portes le 15 avril 2020. Veuillez vérifier les horaires modifiés avant de vous rendre dans l\u0027une de nos agences. \n\nMerci, \n\nVotre équipe Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "fermetures",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Mise à jour concernant l\u0027agence Bellmore - à compter du 14 avril 2020",
+        "yext/question": "Mise à jour concernant l\u0027agence Bellmore - à compter du 14 avril 2020"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "La nostra filiale di Dime Bellmore è stata riaperta dal 15 aprile 2020. Si prega di controllare il programma orario modificato prima di recarsi in qualsiasi filiale.\n\nGrazie,\n\nIl tuo team Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "chiusure",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-35"
+        ],
+        "yext/name": "Bellmore Aggiornamento Filiale - Al 14 Aprile 2020",
+        "yext/question": "Bellmore Aggiornamento Filiale - Al 14 Aprile 2020"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "2020年4月15日をもって、ダイムコミュニティバンク Bellmore支店が再開されました。支店に向かう前に、変更された営業時間のスケジュールを確認してください。ダイムコミュニティバンクチームより",
+        "yext/name": "ベルモア支店の更新-2020年4月14日現在",
+        "yext/question": "ベルモア支店の更新-2020年4月14日現在"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

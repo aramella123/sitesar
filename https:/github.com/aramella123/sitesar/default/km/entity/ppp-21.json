@@ -1,0 +1,81 @@
+{
+  "$id": "ppp-21",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "No. No collateral is required.",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "Do I need to pledge any collateral for these loans?",
+    "yext/question": "Do I need to pledge any collateral for these loans?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Nein, es sind keine Sicherheiten erforderlich.",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Muss ich für diese Kredite Sicherheiten verpfänden?",
+        "yext/question": "Muss ich für diese Kredite Sicherheiten verpfänden?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "No. No se requiere garantía",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Debo prometer alguna garantía para estos préstamos?",
+        "yext/question": "¿Debo prometer alguna garantía para estos préstamos?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Non. Aucune garantie n\u0027est requise.",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "Dois-je donner des garanties pour ces prêts ?",
+        "yext/question": "Dois-je donner des garanties pour ces prêts ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "No. Non è richiesta alcuna garanzia.",
+        "yext/keywords": [
+          "ppp.protezione dello stipendio"
+        ],
+        "yext/name": "Devo impegnarmi in garanzie per questi prestiti?",
+        "yext/question": "Devo impegnarmi in garanzie per questi prestiti?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "いいえ。担保は必要ありません。",
+        "yext/name": "これらのローンの担保を差し入れる必要がありますか？",
+        "yext/question": "これらのローンの担保を差し入れる必要がありますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

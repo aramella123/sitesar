@@ -1,0 +1,92 @@
+{
+  "$id": "P011",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Improve check fraud detection and mitigation",
+      "simplify accounts payable processing",
+      "Improve audit control",
+      "Improve business flow and profitability"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/cash-management-solutions/positive-pay"
+      }
+    ],
+    "c_productType": "Positive Pay",
+    "c_slug": "[[entityId]]",
+    "yext/description": "With Check Positive Pay (1), we’ll match each check processed and presented for payment against a list of checks issued by your business each day. If exceptions are found, we’ll report them to your business for review, and you can make the final “go/no go” decision. We also provide ACH Positive Pay services.",
+    "yext/landingPageUrl": "https://www.dime.com/cash-management-solutions/positive-pay",
+    "yext/name": "Positive Pay"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Positive Bezahlung",
+        "yext/description": "Mit Scheck Positive Pay (1) vergleichen wir jeden verarbeiteten und zur Zahlung vorgelegten Scheck mit einer Liste von Schecks, die Ihr Unternehmen täglich ausstellt. Wenn Ausnahmen gefunden werden, melden wir sie Ihrem Unternehmen zur Überprüfung, und Sie können die endgültige Entscheidung „Go / No Go“ treffen. Wir bieten auch ACH Positive Pay-Dienstleistungen an.",
+        "yext/name": "Positive Bezahlung"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Mejore la detección y mitigación de fraudes con cheques",
+          "simplifique el procesamiento de cuentas por pagar",
+          "mejore el control de auditoría",
+          "mejore el flujo comercial y la rentabilidad"
+        ],
+        "c_productType": "Pago positivo",
+        "yext/description": "Con Check Positive Pay (1), haremos coincidir cada cheque procesado y presentado para el pago con una lista de cheques emitidos por su empresa cada día. Si se encuentran excepciones, las informaremos a su empresa para su revisión, y usted puede tomar la decisión final de \"ir / no ir\". También proporcionamos servicios ACH Positive Pay.",
+        "yext/name": "Pago Positivo"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Améliorer la détection et la réduction des fraudes aux chèques",
+          "Simplifier le traitement des comptes créditeurs",
+          "Améliorer le contrôle des audits",
+          "Améliorer le flux d\u0027affaires et la rentabilité"
+        ],
+        "c_productType": "Rémunération positive",
+        "yext/description": "Avec le paiement par chèque positif (1), nous comparerons chaque chèque traité et présenté pour paiement à une liste de chèques émis par votre entreprise chaque jour. Si des exceptions sont constatées, nous les signalons à votre entreprise pour examen, et vous pouvez prendre la décision finale \"go/no go\". Nous offrons également les services de ACH Positive Pay.",
+        "yext/name": "Rémunération positive"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Migliora il rilevamento e la mitigazione delle frodi di controllo",
+          "semplifica l\u0027elaborazione della contabilità fornitori",
+          "migliora il controllo di audit",
+          "migliora il flusso di affari e la redditività"
+        ],
+        "c_productType": "Paga positiva",
+        "yext/description": "Con Check Positive Pay (1), abbineremo ogni assegno elaborato e presentato per il pagamento a un elenco di assegni emessi dalla tua azienda ogni giorno. Se vengono rilevate eccezioni, le segnaleremo alla tua attività commerciale per la revisione e potrai prendere la decisione finale \"vai / non andare\". Forniamo anche servizi di pagamento positivo ACH.",
+        "yext/name": "Retribuzione positiva"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "ポジティブペイ",
+        "yext/description": "小切手正払い（1）を使用すると、処理され、支払いのために提示された各小切手が、ビジネスによって毎日発行される小切手のリストと照合されます。例外が見つかった場合は、レビューのためにあなたのビジネスに報告し、最終的な「許可/不許可」の決定を下すことができます。また、ACH Positive Payサービスも提供しています。",
+        "yext/name": "ポジティブペイ"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

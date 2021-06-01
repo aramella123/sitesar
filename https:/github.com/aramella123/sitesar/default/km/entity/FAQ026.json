@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ026",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Terms \u0026 Conditions",
+        "url": "https://www.dime.com/terms-and-conditions"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "You can find Dime\u0027s Terms \u0026 Conditions by clicking the link below.",
+    "yext/name": "What are Dime\u0027s Term \u0026 Conditions?",
+    "yext/question": "What are Dime\u0027s Term \u0026 Conditions?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie finden die Allgemeinen Geschäftsbedingungen von Dime, indem Sie auf den unten stehenden Link klicken.",
+        "yext/name": "Was sind die Allgemeinen Geschäftsbedingungen von Dime?",
+        "yext/question": "Was sind die Allgemeinen Geschäftsbedingungen von Dime?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Puede encontrar los Términos y condiciones de Dime haciendo clic en el enlace a continuación.",
+        "yext/name": "¿Cuáles son los términos y condiciones de Dime?",
+        "yext/question": "¿Cuáles son los términos y condiciones de Dime?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous pouvez trouver les conditions générales de Dime en cliquant sur le lien ci-dessous.",
+        "yext/name": "Quelles sont les conditions d\u0027utilisation de Dime ?",
+        "yext/question": "Quelles sont les conditions d\u0027utilisation de Dime ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Puoi trovare i Termini e condizioni di Dime facendo clic sul collegamento in basso.",
+        "yext/name": "Quali sono i termini e le condizioni di Dime?",
+        "yext/question": "Quali sono i termini e le condizioni di Dime?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "以下のリンクをクリックすると、ダイムの利用規約を確認できます。",
+        "yext/name": "ダイムの契約条件とは何ですか？",
+        "yext/question": "ダイムの契約条件とは何ですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

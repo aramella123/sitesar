@@ -1,0 +1,62 @@
+{
+  "$id": "FAQ060",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "To request a Visa Debit Card for your checking account, please contact one of our customer service representatives at 800-321-3463.",
+    "yext/name": "How can I order a Visa Debit Card for my checking account?",
+    "yext/question": "How can I order a Visa Debit Card for my checking account?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Um eine Visa-Debitkarte für Ihr Girokonto anzufordern, wenden Sie sich bitte an einen unserer Kundendienstmitarbeiter unter 800-321-3463.",
+        "yext/name": "Wie kann ich eine Visa-Debitkarte für mein Girokonto bestellen?",
+        "yext/question": "Wie kann ich eine Visa-Debitkarte für mein Girokonto bestellen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Para solicitar una tarjeta de débito Visa para su cuenta corriente, comuníquese con uno de nuestros representantes de servicio al cliente al 800-321-3463.",
+        "yext/name": "¿Cómo puedo solicitar una tarjeta de débito Visa para mi cuenta corriente?",
+        "yext/question": "¿Cómo puedo solicitar una tarjeta de débito Visa para mi cuenta corriente?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Pour demander une carte de débit Visa pour votre compte chèque, veuillez contacter l\u0027un de nos représentants du service clientèle au 800-321-3463.",
+        "yext/name": "Comment puis-je commander une carte de débit Visa pour mon compte chèque ?",
+        "yext/question": "Comment puis-je commander une carte de débit Visa pour mon compte chèque ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Per richiedere una carta di debito Visa per il tuo conto corrente, contatta uno dei nostri rappresentanti del servizio clienti al numero 800-321-3463.",
+        "yext/name": "Come posso ordinare una carta di debito Visa per il mio conto corrente?",
+        "yext/question": "Come posso ordinare una carta di debito Visa per il mio conto corrente?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "当座預金口座用のVisaデビットカードをリクエストするには、カスタマーサービス担当者（800-321-3463）までご連絡ください。",
+        "yext/name": "当座預金口座用のVisaデビットカードを注文するにはどうすればよいですか？",
+        "yext/question": "当座預金口座用のVisaデビットカードを注文するにはどうすればよいですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

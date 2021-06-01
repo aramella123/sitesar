@@ -1,0 +1,94 @@
+{
+  "$id": "P036",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "This account is best for those who: Are looking for tax decductions now",
+      "Aren\u0027t eligble for a Roth IRA because income is high",
+      "Are expecting to be in a lower tax bracket when they retire"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/personal/retirement"
+      }
+    ],
+    "c_fees": "0.0",
+    "c_minimumDeposit": "500.0",
+    "c_productType": "Personal Savings",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Make your money work for you, open a retirement savings account with Dime. We offer IRAs, Roth IRAs \u0026 other options to help make your future exactly how you dreamed.",
+    "yext/keywords": [
+      "ira",
+      "roth"
+    ],
+    "yext/landingPageUrl": "https://www.dime.com/personal/retirement",
+    "yext/name": "Retirement Savings Accounts"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Persönliche Ersparnisse",
+        "yext/description": "Lassen Sie Ihr Geld für sich arbeiten, eröffnen Sie ein Vorsorgekonto bei Dime. Wir bieten IRAs, Roth IRAs und andere Optionen an, um Ihre Zukunft genau so zu gestalten, wie Sie es sich erträumt haben.",
+        "yext/name": "Vorsorgekonten"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Esta cuenta es mejor para aquellos que: están buscando reducciones de impuestos ahora",
+          "no son elegibles para una cuenta Roth IRA porque los ingresos son altos",
+          "esperan estar en un nivel de impuestos más bajo cuando se jubilen"
+        ],
+        "c_productType": "Ahorros Personales",
+        "yext/description": "Haga que su dinero trabaje para usted, abra una cuenta de ahorros para la jubilación con Dime. Ofrecemos IRA, Roth IRA y otras opciones para ayudarlo a hacer que su futuro sea exactamente como lo soñó.",
+        "yext/name": "Cuentas de ahorro para la jubilación"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Ce compte est le meilleur pour ceux qui : recherchent des réductions d\u0027impôts maintenant",
+          "ne sont pas éligibles pour un Roth IRA parce que leurs revenus sont élevés",
+          "s\u0027attendent à être dans une tranche d\u0027imposition plus faible lorsqu\u0027ils prendront leur retraite"
+        ],
+        "c_productType": "Épargne personnelle",
+        "yext/description": "Faites travailler votre argent pour vous, ouvrez un compte d\u0027épargne retraite chez Dime. Nous proposons des IRA, des IRA Roth et d\u0027autres options pour vous aider à faire de votre avenir exactement ce dont vous avez rêvé.",
+        "yext/name": "Comptes d\u0027épargne-retraite"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Questo account è il migliore per coloro che: sono alla ricerca di riduzioni fiscali ora",
+          "non sono idonei per un Roth IRA perché il reddito è elevato",
+          "si aspettano di essere in una fascia fiscale inferiore quando vanno in pensione"
+        ],
+        "c_productType": "Risparmi personali",
+        "yext/description": "Fai in modo che i tuoi soldi funzionino per te, apri un conto previdenza con Dime. Offriamo IRA, Roth IRA e altre opzioni per aiutarti a rendere il tuo futuro esattamente come hai sognato.",
+        "yext/name": "Conti risparmio pensionistici"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "個人貯蓄",
+        "yext/description": "あなたのお金があなたのために働くようにし、ダイムで退職貯蓄口座を開きます。IRA、Roth IRA、その他のオプションを提供して、あなたが夢に描いたとおりに未来を築きます。",
+        "yext/name": "退職貯蓄口座"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "c_externalArticleUpdateDate",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "External Article Update Date ",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "yext/string"
+}

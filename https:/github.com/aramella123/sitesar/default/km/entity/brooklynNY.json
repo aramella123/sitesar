@@ -1,0 +1,30 @@
+{
+  "$id": "brooklynNY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_children": [
+      "8",
+      "12",
+      "22",
+      "19",
+      "13",
+      "10",
+      "32",
+      "31",
+      "3",
+      "24",
+      "27",
+      "28",
+      "11"
+    ],
+    "c_parents": [
+      "NY"
+    ],
+    "c_slug": "[[entityId]]",
+    "yext/name": "Brooklyn"
+  },
+  "entityType": "ce_city",
+  "folder": "yext/root",
+  "labels": []
+}

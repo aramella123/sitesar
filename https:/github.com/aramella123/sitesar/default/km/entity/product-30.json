@@ -1,0 +1,54 @@
+{
+  "$id": "product-30",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_benefits": [
+      "Through our experience working with New York area Real Estate professionals and businesses\u0027",
+      "\u0027 we understand that your time is valuable and your needs go beyond basic checking and savings accounts. From a tailored mix of cash flow solutions designed especially for real estate professionals\u0027",
+      "\u0027 to technology that enables you to effectively manage check receivables and prevent check fraud\u0027",
+      "\u0027we use our experience to develop custom banking products that assist you in achieving your goals."
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/business/professional-services-solutions/real-estate-professionals"
+      }
+    ],
+    "c_productType": "Real Estate Professionals",
+    "c_slug": "[[entityId]]",
+    "yext/landingPageUrl": "https://www.dime.com/business/professional-services-solutions/real-estate-professionals",
+    "yext/name": "Real Estate Professionals",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1231,
+          "sourceUrl": "https://images.pexels.com/photos/4482903/pexels-photo-4482903.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "thumbnails": [
+            {
+              "height": 761,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/619x761.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/365x450.jpg",
+              "width": 365
+            },
+            {
+              "height": 241,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/196x241.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/1000x1231.jpg",
+          "width": 1000
+        }
+      }
+    ],
+    "yext/richTextDescription": "At Dime, Real Estate professionals and businesses will experience easy access and quick response. Our dedicated relationship managers are always within reach. We provide proactive thinking, a quick turnaround on all of your requests, and bankers who roll up their sleeves to help you grow your business and meet your financial goals."
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

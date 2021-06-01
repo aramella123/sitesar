@@ -1,0 +1,106 @@
+{
+  "$id": "P025",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Competivie fixed-rate and adjustable loans",
+      "Commercial loans available up to $15 million with low rates on 5 \u0027",
+      "\u0027 7 \u0027",
+      "\u0027 and 15-year terms",
+      "Financing for the office buildings \u0027",
+      "\u0027 industrial and real estate strip centers",
+      "Up to 75% loan-to-value on commercial real estate properties",
+      "Amortization terms up to 30 years"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/commercial/real-estate-loans"
+      }
+    ],
+    "c_productType": "Mortgage",
+    "c_slug": "[[entityId]]",
+    "yext/description": "As a leader in commercial mortgage financing in New York City, Long Island and Westchester County, Dime gives you expert advice, flexible terms, and competitive rates. We\u0027ll work with you to design custom-tailored loans that fit your specific needs.",
+    "yext/landingPageUrl": "https://www.dime.com/commercial/real-estate-loans",
+    "yext/name": "Commercial Real Estate Lending"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Hypothek",
+        "yext/description": "Als führender Anbieter von gewerblichen Hypothekenfinanzierungen in New York City, Long Island und Westchester County bietet Ihnen Dime kompetente Beratung, flexible Konditionen und wettbewerbsfähige Preise. Wir arbeiten mit Ihnen zusammen, um maßgeschneiderte Kredite zu entwickeln, die Ihren spezifischen Anforderungen entsprechen.",
+        "yext/name": "Gewerbliche Immobilienkredite"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Préstamos competitivos de tasa fija y ajustable",
+          "préstamos comerciales disponibles de hasta $ 15 millones con tasas bajas a plazos de 5 \u0027",
+          "\u0027 7 \u0027\u0027 y 15 años",
+          "financiamiento para edificios de oficinas \u0027",
+          "\u0027 centros de franjas industriales e inmobiliarias",
+          "hasta 75% de préstamo a valor en propiedades inmobiliarias comerciales",
+          "plazos de amortización de hasta 30 años"
+        ],
+        "c_productType": "Hipoteca",
+        "yext/description": "Como líder en financiamiento hipotecario comercial en la ciudad de Nueva York, Long Island y el condado de Westchester, Dime le brinda asesoramiento experto, términos flexibles y tarifas competitivas. Trabajaremos con usted para diseñar préstamos personalizados que se ajusten a sus necesidades específicas.",
+        "yext/name": "Préstamo Comercial Inmobiliario"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Prêts compétitifs à taux fixe et ajustables",
+          "Prêts commerciaux disponibles jusqu\u0027à 15 millions de dollars avec des taux bas sur des durées de 5\u0027",
+          "\u0027 7 et 15 ans",
+          "Financement pour les immeubles de bureaux",
+          "Industriels et les centres immobiliers",
+          "Jusqu\u0027à 75% de la valeur du prêt sur les biens immobiliers commerciaux",
+          "Durée d\u0027amortissement jusqu\u0027à 30 ans"
+        ],
+        "c_productType": "Hypothèque",
+        "yext/description": "En tant que leader du financement des prêts hypothécaires commerciaux à New York, Long Island et Westchester County, Dime vous offre des conseils d\u0027experts, des conditions flexibles et des taux compétitifs. Nous travaillerons avec vous pour concevoir des prêts sur mesure qui répondent à vos besoins spécifiques.",
+        "yext/name": "Prêts immobiliers commerciaux"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Prestiti competitivi a tasso fisso e regolabili",
+          "prestiti commerciali disponibili fino a $ 15 milioni con tassi bassi sui termini 5 \u0027",
+          "\u0027 7 \u0027",
+          "\u0027 e 15 anni",
+          "finanziamento per gli edifici per uffici \u0027",
+          "\u0027 centri industriali e immobiliari",
+          "fino a 75% di prestiti in valore su immobili commerciali",
+          "condizioni di ammortamento fino a 30 anni"
+        ],
+        "c_productType": "Mutuo",
+        "yext/description": "In qualità di leader nel finanziamento di mutui commerciali a New York, Long Island e Westchester County, Dime offre consulenza di esperti, condizioni flessibili e tariffe competitive. Lavoreremo con voi per progettare prestiti su misura adatti alle vostre esigenze specifiche.",
+        "yext/name": "Prestito immobiliare commerciale"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "抵当",
+        "yext/description": "ニューヨーク市、ロングアイランド、ウエストチェスター郡の商業用住宅ローンのリーダーとして、ダイムは専門家のアドバイス、柔軟な条件、そして競争力のある金利を提供します。私たちはあなたと協力して、特定のニーズに合ったカスタムメイドのローンを設計します。",
+        "yext/name": "商業用不動産融資"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

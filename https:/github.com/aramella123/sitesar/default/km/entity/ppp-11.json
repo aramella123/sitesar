@@ -1,0 +1,81 @@
+{
+  "$id": "ppp-11",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "You may only take out one loan.",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "How many loans can I take out under the PPP Program?",
+    "yext/question": "How many loans can I take out under the PPP Program?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie können nur einen Kredit aufnehmen.",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Wie viele Kredite kann ich im Rahmen des PPP-Programms aufnehmen?",
+        "yext/question": "Wie viele Kredite kann ich im Rahmen des PPP-Programms aufnehmen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Solo puede sacar un préstamo.",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Cuántos préstamos puedo obtener bajo el Programa PPP?",
+        "yext/question": "¿Cuántos préstamos puedo obtener bajo el Programa PPP?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous ne pouvez contracter qu\u0027un seul prêt.",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "Combien de prêts puis-je contracter dans le cadre du programme PPS ?",
+        "yext/question": "Combien de prêts puis-je contracter dans le cadre du programme PPS ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "È possibile sottoscrivere un solo prestito.",
+        "yext/keywords": [
+          "ppp.protezione dello stipendio"
+        ],
+        "yext/name": "Quanti prestiti posso sottoscrivere nell\u0027ambito del programma PPP?",
+        "yext/question": "Quanti prestiti posso sottoscrivere nell\u0027ambito del programma PPP?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "あなたは1つのローンしか取り出せません。",
+        "yext/name": "PPPプログラムではいくつのローンを借りることができますか？",
+        "yext/question": "PPPプログラムではいくつのローンを借りることができますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

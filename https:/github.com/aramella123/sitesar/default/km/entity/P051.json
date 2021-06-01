@@ -1,0 +1,82 @@
+{
+  "$id": "P051",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Simply call 800-321-3463 and choose our convenient 24-hour automated service",
+      "or speak to a Dime representative."
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron"
+      }
+    ],
+    "c_productType": "Additional Business Banking Services",
+    "c_slug": "[[entityId]]",
+    "yext/description": "All your Business services are just one call away",
+    "yext/name": "Telephone Banking"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Zusätzliche Business Banking Services",
+        "yext/description": "Alle Ihre Business-Services sind nur einen Anruf entfernt",
+        "yext/name": "Telefonbanking"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Simplemente llame al 800-321-3463 y elija nuestro conveniente servicio automatizado las 24 horas",
+          "o hable con un representante de Dime."
+        ],
+        "c_productType": "Servicios adicionales de banca personal",
+        "yext/description": "Todos sus servicios comerciales están a solo una llamada",
+        "yext/name": "Banca telefónica"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Il vous suffit d\u0027appeler le 800-321-3463 et de choisir notre service automatisé pratique",
+          "disponible 24 heures sur 24",
+          "ou de parler à un représentant Dime."
+        ],
+        "c_productType": "Autres services bancaires aux entreprises",
+        "yext/description": "Tous vos services aux entreprises en un seul appel",
+        "yext/name": "Banque par téléphone"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Chiama semplicemente il numero 800-321-3463 e scegli il nostro comodo servizio automatizzato 24 ore su 24",
+          "oppure parla con un rappresentante Dime."
+        ],
+        "c_productType": "Servizi bancari aziendali aggiuntivi",
+        "yext/description": "Tutti i tuoi servizi aziendali sono a portata di una chiamata",
+        "yext/name": "Banca via telefono"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "追加のビジネスバンキングサービス",
+        "yext/description": "すべてのビジネスサービスが1回の電話で",
+        "yext/name": "テレフォンバンキング"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "fc5c9aae-0c79-4c1f-9a70-92700680ba3e",
+  "$schema": "https://schema.yext.com/config/answers/saved-query/v1",
+  "answersKey": "dime",
+  "idealResult": {
+    "relevantSections": []
+  },
+  "locale": "en",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "pinIdealResults": false,
+  "queryString": "open a savings account",
+  "notes": ""
+}

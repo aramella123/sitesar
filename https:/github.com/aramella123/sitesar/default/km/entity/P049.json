@@ -1,0 +1,92 @@
+{
+  "$id": "P049",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Reduce your footprint",
+      "Paperless",
+      "Keep clutter away"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Personal Login",
+        "url": "https://dime.onlinebank.com/SignIn.aspx"
+      },
+      {
+        "icon": "chevron",
+        "text": "Business Login",
+        "url": "https://dime.olbanking.com/smallbusiness/auth"
+      }
+    ],
+    "c_productType": "Additional Business Banking Services",
+    "c_slug": "[[entityId]]",
+    "yext/description": "You can accept e-statements by logging into your online account, clicking on \"Accounts\" \u003e \"eStatements\" from the drop-down menu and agreeing to the Agreement. To sign up for eStatements, or if you have a question, please us at 800-321-3464.",
+    "yext/name": "eStatements"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Zusätzliche Business Banking Services",
+        "yext/description": "Sie können elektronische Kontoauszüge akzeptieren, indem Sie sich in Ihrem Online-Konto anmelden, im Dropdown-Menü auf \"Konten\"\u003e \"eStatements\" klicken und der Vereinbarung zustimmen. Um sich für eStatements anzumelden oder wenn Sie eine Frage haben, wenden Sie sich bitte an 800-321-3464.",
+        "yext/name": "eStatements"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Reduzca su huella",
+          "sin papel",
+          "mantenga el desorden alejado"
+        ],
+        "c_productType": "Servicios adicionales de banca personal",
+        "yext/description": "Puede aceptar estados de cuenta electrónicos iniciando sesión en su cuenta en línea, haciendo clic en \"Accounts\" \u003e \"eStatements\" en el menú desplegable y aceptando el Acuerdo. Para suscribirse a eStatements, o si tiene alguna pregunta, comuníquese con nosotros al 800-321-3464.",
+        "yext/name": "Declaraciones electrónicas"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Réduisez votre empreinte",
+          "Sans papier",
+          "Sans encombrement"
+        ],
+        "c_productType": "Autres services bancaires aux entreprises",
+        "yext/description": "Vous pouvez accepter les relevés électroniques en vous connectant à votre compte en ligne, en cliquant sur \"Comptes\" \u003e \"Relevés électroniques\" dans le menu déroulant et en acceptant l\u0027accord. Pour vous inscrire aux relevés électroniques, ou si vous avez une question, veuillez nous contacter au 800-321-3464.",
+        "yext/name": "Relevés en ligne"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Riduci il tuo ingombro",
+          "senza carta",
+          "mantieni lontano il disordine"
+        ],
+        "c_productType": "Servizi bancari aziendali aggiuntivi",
+        "yext/description": "Puoi accettare dichiarazioni elettroniche accedendo al tuo account online, facendo clic su \"Account\"\u003e \"eStatements\" dal menu a discesa e accettando il Contratto. Per iscriverti agli eStatements o se hai una domanda, ti preghiamo di contattarci al numero 800-321-3464.",
+        "yext/name": "eStatements"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "追加のビジネスバンキングサービス",
+        "yext/description": "オンラインアカウントにログインし、ドロップダウンメニューから[アカウント]\u003e [eステートメント]をクリックして、契約に同意することにより、eステートメントを受け入れることができます。eステートメントにサインアップするには、または質問がある場合は、800-321-3464までご連絡ください。",
+        "yext/name": "eステートメント"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

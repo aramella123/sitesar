@@ -1,0 +1,88 @@
+{
+  "$id": "P024",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Acquisition of commercial real estate property",
+      "Renovations or improvements to current building",
+      "Refinances for debt reduction or cash outs"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/commercial/commercial-construction-loans"
+      }
+    ],
+    "c_productType": "Commercial Construction Loans",
+    "c_slug": "[[entityId]]",
+    "yext/description": "As an experienced lender in the Tri-State area, Dime understands both the market and the needs of its commercial loan customers. If you’re looking for Commercial Construction Loans for residential and commercial properties, we can help you finance new construction projects or add to existing buildings and properties.",
+    "yext/landingPageUrl": "https://www.dime.com/commercial/commercial-construction-loans",
+    "yext/name": "Commercial Construction Loans"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Gewerbliche Baukredite",
+        "yext/description": "Als erfahrener Kreditgeber in der Region Tri-State versteht Dime sowohl den Markt als auch die Bedürfnisse seiner gewerblichen Kreditkunden. Wenn Sie nach gewerblichen Baukrediten für Wohn- und Gewerbeimmobilien suchen, können wir Ihnen bei der Finanzierung neuer Bauprojekte oder bei der Erweiterung bestehender Gebäude und Immobilien behilflich sein.",
+        "yext/name": "Gewerbliche Baukredite"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Adquisición de bienes inmuebles comerciales",
+          "Renovaciones o mejoras en el edificio actual",
+          "Refinanciaciones para la reducción de deuda o reintegros"
+        ],
+        "c_productType": "Préstamos para construcción comercial",
+        "yext/description": "Como prestamista experimentado en el área de los tres estados, Dime comprende tanto el mercado como las necesidades de sus clientes de préstamos comerciales. Si está buscando préstamos de construcción comercial para propiedades residenciales y comerciales, podemos ayudarlo a financiar nuevos proyectos de construcción o agregar a edificios y propiedades existentes.",
+        "yext/name": "Préstamos para construcción comercial"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Acquisition de biens immobiliers commerciaux",
+          "Rénovation ou amélioration de l\u0027immeuble actuel",
+          "Refinancement pour le désendettement ou encaissement"
+        ],
+        "c_productType": "Prêts commerciaux à la construction",
+        "yext/description": "En tant que prêteur expérimenté dans la région des trois États, Dime comprend à la fois le marché et les besoins de ses clients de prêts commerciaux. Si vous recherchez des prêts commerciaux à la construction pour des propriétés résidentielles et commerciales, nous pouvons vous aider à financer de nouveaux projets de construction ou à agrandir des bâtiments et des propriétés existants.",
+        "yext/name": "Prêts commerciaux à la construction"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Acquisto di immobili commerciali",
+          "ristrutturazioni o miglioramenti dell\u0027edificio attuale",
+          "rifinanziamenti per riduzione del debito o prelievi"
+        ],
+        "c_productType": "Prestiti edili commerciali",
+        "yext/description": "In qualità di prestatore con esperienza nell\u0027area Tri-State, Dime comprende sia il mercato che le esigenze dei suoi clienti in prestiti commerciali. Se stai cercando prestiti per l\u0027edilizia commerciale per immobili residenziali e commerciali, possiamo aiutarti a finanziare nuovi progetti di costruzione o ad aggiungere edifici e proprietà esistenti.",
+        "yext/name": "Prestiti edili commerciali"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "商業建設ローン",
+        "yext/description": "トライステート地域での経験豊富な貸し手として、ダイムは市場とその商業ローン顧客のニーズの両方を理解しています。住宅および商業用不動産の商業建設ローンをお探しの場合は、新しい建設プロジェクトへの融資や、既存の建物や不動産への追加をお手伝いします。",
+        "yext/name": "商業建設ローン"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

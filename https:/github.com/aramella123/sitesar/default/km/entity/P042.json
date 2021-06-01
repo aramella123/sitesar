@@ -1,0 +1,99 @@
+{
+  "$id": "P042",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Save time and money by banking from your home or office",
+      "Review account balances and tansactions",
+      "Move money easily and securely",
+      "Find local Dime branches and ATMs quickly",
+      "Approve ACH and wire transfers on the go"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/business/mobile-banking"
+      }
+    ],
+    "c_productType": "Mobile Banking",
+    "c_slug": "[[entityId]]",
+    "yext/description": "The ability to manage your finances and accounts right in the palm of your hand. Make running your business more efficient with Dime’s Mobile Business Banking app.",
+    "yext/landingPageUrl": "https://www.dime.com/business/mobile-banking",
+    "yext/name": "Business Mobile Banking"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Mobiles Banking",
+        "yext/description": "Die Möglichkeit, Ihre Finanzen und Konten direkt in Ihrer Hand zu verwalten. Machen Sie Ihr Geschäft mit der Mobile Business Banking-App von Dime effizienter.",
+        "yext/name": "Business Mobile Banking"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Ahorre tiempo y dinero al realizar operaciones bancarias desde su hogar u oficina",
+          "revise los saldos y transacciones de la cuenta",
+          "mueva dinero de manera fácil y segura",
+          "encuentre sucursales y cajeros automáticos locales de Dime rápidamente",
+          "apruebe ACH y transferencias electrónicas sobre la marcha"
+        ],
+        "c_productType": "La Banca Móvil",
+        "yext/description": "La capacidad de administrar sus finanzas y cuentas en la palma de su mano. Haga que su negocio sea más eficiente con la aplicación Mobile Business Banking de Dime.",
+        "yext/name": "Banca móvil empresarial"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Gagnez du temps et de l\u0027argent en effectuant vos opérations bancaires depuis votre domicile ou votre bureau",
+          "Examinez le solde de vos comptes et les transactions",
+          "Déplacez de l\u0027argent facilement et en toute sécurité",
+          "Trouvez rapidement des agences et des distributeurs automatiques de billets locaux",
+          "Approuvez les ACH et les virements en déplacement"
+        ],
+        "c_productType": "Banque mobile",
+        "yext/description": "La possibilité de gérer vos finances et vos comptes au creux de votre main. Rendez la gestion de votre entreprise plus efficace grâce à l\u0027application Mobile Business Banking de Dime.",
+        "yext/keywords": [
+          "mobile"
+        ],
+        "yext/name": "Services bancaires mobiles pour entreprises"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Risparmia tempo e denaro tramite operazioni bancarie da casa o dall\u0027ufficio",
+          "rivedi i saldi e i trasferimenti del conto",
+          "sposta denaro in modo facile e sicuro",
+          "trova rapidamente le filiali e gli sportelli bancomat Dime locali",
+          "approva ACH e bonifici in movimento"
+        ],
+        "c_productType": "Banca via cellulare",
+        "yext/description": "La capacità di gestire le tue finanze e i tuoi conti nel palmo della tua mano. Rendi la tua attività più efficiente con l\u0027app Mobile Business Banking di Dime.",
+        "yext/name": "Business Mobile Banking"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "モバイルバンキング",
+        "yext/description": "手のひらの上で財務と口座を管理する機能。ダイムコミュニティバンクのモバイルビジネスバンキングアプリでビジネスの効率を高めましょう。",
+        "yext/name": "ビジネスモバイルバンキング"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

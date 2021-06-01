@@ -1,0 +1,34 @@
+{
+  "$id": "answersIndexing-customProduct",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "streamsapi",
+  "fields": [
+    "c_productType",
+    "keywords",
+    "name",
+    "uid",
+    "id",
+    "timezone",
+    "meta",
+    "matchingSearchIds",
+    "displayCoordinate",
+    "yextDisplayCoordinate",
+    "geocodedCoordinate",
+    "cityCoordinate"
+  ],
+  "filter": {
+    "entityTypes": [
+      "ce_product"
+    ]
+  },
+  "localization": {
+    "locales": [
+      "en",
+      "fr",
+      "es",
+      "de",
+      "it"
+    ]
+  }
+}

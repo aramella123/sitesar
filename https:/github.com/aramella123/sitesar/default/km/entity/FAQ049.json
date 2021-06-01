@@ -1,0 +1,87 @@
+{
+  "$id": "FAQ049",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Forgot My Password",
+        "url": "https://dime.onlinebank.com/ForgotPassword.aspx"
+      },
+      {
+        "text": "More FAQs",
+        "url": "https://www.dime.com/faqs"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "If you forgot your username, contact DimeDirect®, our customer service center at 800-321-DIME and speak to a representative Monday through Friday, 8:00am to 7:00pm, and Saturday, 9:00am to 3:00pm. \n\nIf you forgot your password, click \"forgot password\" below.",
+    "yext/keywords": [
+      "password"
+    ],
+    "yext/name": "What do I do if I forget my Online Banking username and password?",
+    "yext/question": "What do I do if I forget my Online Banking username and password?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Wenn Sie Ihren Benutzernamen vergessen haben, wenden Sie sich an DimeDirect®, unser Kundendienstzentrum unter 800-321-DIME, und sprechen Sie Montags bis Freitags von 8.00 bis 19.00 Uhr und Samstags von 9.00 bis 15.00 Uhr mit einem Vertreter.\n \n Wenn Sie Ihr Passwort vergessen haben, klicken Sie unten auf Passwort vergessen.",
+        "yext/keywords": [
+          "Passwort"
+        ],
+        "yext/name": "Was mache ich, wenn ich meinen Online-Banking-Benutzernamen und mein Passwort vergessen habe?",
+        "yext/question": "Was mache ich, wenn ich meinen Online-Banking-Benutzernamen und mein Passwort vergessen habe?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Si olvidate tu nombre de usuario, comuníquese con DimeDirect®, nuestro centro de servicio al cliente al 800-321-DIME y hable con un representante de lunes a viernes de 8:00 a.m. a 7:00 p.m. y los sábados de 9:00 a.m. a 3:00 p.m.\n \n Si olvidaste tu contraseña, haga clic en \"Olvidé mi contraseña\" a continuación.",
+        "yext/keywords": [
+          "contraseña"
+        ],
+        "yext/name": "¿Qué hago si me olvido mi nombre de usuario y contraseña de la Banca en Línea?",
+        "yext/question": "¿Qué hago si me olvido mi nombre de usuario y contraseña de la Banca en Línea?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Si vous avez oublié votre nom d\u0027utilisateur, contactez DimeDirect®, notre service clientèle au 800-321-DIME et échangez avec un collaborateur du lundi au vendredi, de 8h00 à 19h00, et le samedi, de 9h00 à 15h00. \n\nSi vous avez oublié votre mot de passe, cliquez sur \"Mot de passe oublié\" ci-dessous.",
+        "yext/keywords": [
+          "mot de passe"
+        ],
+        "yext/name": "Que dois-je faire si j\u0027oublie mon nom d\u0027utilisateur et mon mot de passe de la banque en ligne ?",
+        "yext/question": "Que dois-je faire si j\u0027oublie mon nom d\u0027utilisateur et mon mot de passe de la banque en ligne ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Se hai dimenticato il tuo nome utente, contatta DimeDirect®, il nostro centro di assistenza clienti al numero 800-321-DIME e parla con un rappresentante dal lunedì al venerdì, dalle 8:00 alle 19:00 e il sabato, dalle 9:00 alle 15:00.\n\nSe hai dimenticato la password, fai clic su \"\" password dimenticata \"\" qui sotto.",
+        "yext/keywords": [
+          "password"
+        ],
+        "yext/name": "Cosa devo fare se dimentico il nome utente e la password di Online Banking?",
+        "yext/question": "Cosa devo fare se dimentico il nome utente e la password di Online Banking?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ユーザー名を忘れた場合は、カスタマーサービスセンターであるダイムコミュニティバンクDirect®（800-321-ダイムコミュニティバンク）に連絡して、月曜日から金曜日の午前8時から午後7時までと土曜日の午前9時から午後3時まで担当者にご連絡ください。パスワードを忘れた場合は、下の「パスワードを忘れた」をクリックしてください。",
+        "yext/name": "オンラインバンキングのユーザー名とパスワードを忘れた場合はどうすればよいですか？",
+        "yext/question": "オンラインバンキングのユーザー名とパスワードを忘れた場合はどうすればよいですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

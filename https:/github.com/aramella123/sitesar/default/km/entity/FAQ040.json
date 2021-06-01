@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ040",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Business Mobile Banking",
+        "url": "https://www.dime.com/business/mobile-banking"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "Yes, you can learn about Dime\u0027s Business Mobile Banking by clicking the link below.",
+    "yext/name": "Does Dime offer Business Mobile Banking?",
+    "yext/question": "Does Dime offer Business Mobile Banking?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Ja, Sie können mehr über Dimes Business Mobile Banking erfahren, indem Sie auf den unten stehenden Link klicken.",
+        "yext/name": "Bietet Dime Business Mobile Banking an?",
+        "yext/question": "Bietet Dime Business Mobile Banking an?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Sí, puede obtener información sobre la banca móvil empresarial (Business Mobile Banking) de Dime haciendo clic en el enlace a continuación.",
+        "yext/name": "¿Dime ofrece Banca Móvil para Empresas?",
+        "yext/question": "¿Dime ofrece Banca Móvil para Empresas?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Oui, vous pouvez en savoir plus sur les services bancaires mobiles professionnels Dime en cliquant sur le lien ci-dessous.",
+        "yext/name": "Dime offre-t-elle des services bancaires mobiles aux entreprises ?",
+        "yext/question": "Dime offre-t-elle des services bancaires mobiles aux entreprises ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Sì, puoi conoscere Dime\u0027s Business Mobile Banking facendo clic sul link in basso.",
+        "yext/name": "Dime offre Business Mobile Banking?",
+        "yext/question": "Dime offre Business Mobile Banking?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "はい、以下のリンクをクリックすると、ダイムのビジネスモバイルバンキングについて学ぶことができます。",
+        "yext/name": "ダイムコミュニティバンクはビジネスモバイルバンキングを提供していますか？",
+        "yext/question": "ダイムコミュニティバンクはビジネスモバイルバンキングを提供していますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

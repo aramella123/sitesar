@@ -1,0 +1,19 @@
+{
+  "$id": "flushingNY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_children": [
+      "20",
+      "4"
+    ],
+    "c_parents": [
+      "NY"
+    ],
+    "c_slug": "[[entityId]]",
+    "yext/name": "Flushing"
+  },
+  "entityType": "ce_city",
+  "folder": "yext/root",
+  "labels": []
+}

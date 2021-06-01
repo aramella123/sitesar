@@ -1,0 +1,56 @@
+{
+  "$id": "product-61",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_benefits": [
+      "Provides convenince and flexibility to customers using debit and credit cards",
+      "save money over large merchant service providers",
+      "Access 24/7 local support",
+      "Receive simplified monthly statements",
+      "Lower potential fraud or chargeback costs",
+      "Transmit checks securely"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/cash-management-solutions/merchant-services"
+      }
+    ],
+    "c_productType": "Merchant Services",
+    "c_slug": "[[entityId]]",
+    "yext/landingPageUrl": "https://www.dime.com/cash-management-solutions/merchant-services",
+    "yext/name": "Merchant Services",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1231,
+          "sourceUrl": "https://images.pexels.com/photos/4482903/pexels-photo-4482903.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "thumbnails": [
+            {
+              "height": 761,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/619x761.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/365x450.jpg",
+              "width": 365
+            },
+            {
+              "height": 241,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/196x241.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/1000x1231.jpg",
+          "width": 1000
+        }
+      }
+    ],
+    "yext/richTextDescription": "As your business needs evolve, you need banking and payment solutions that will evolve with you. Merchant Services¹ from Dime enable you to provide point-of-sale payment services for your debit and credit card customers without putting a drag on your business’s profitability."
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

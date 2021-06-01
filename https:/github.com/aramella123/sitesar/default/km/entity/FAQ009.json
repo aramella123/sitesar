@@ -1,0 +1,62 @@
+{
+  "$id": "FAQ009",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "To activate and create or change the PIN to your debit card, please call 800-992-3808.",
+    "yext/name": "How do I activate and create a PIN for my debit card?",
+    "yext/question": "How do I activate and create a PIN for my debit card?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Um die PIN Ihrer Debitkarte zu aktivieren und zu erstellen oder zu ändern, rufen Sie bitte 800-992-3808 an.",
+        "yext/name": "Wie aktiviere und erstelle ich eine PIN für meine Debitkarte?",
+        "yext/question": "Wie aktiviere und erstelle ich eine PIN für meine Debitkarte?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Para activar y crear o cambiar el PIN de su tarjeta de débito, llame al 800-992-3808.",
+        "yext/name": "¿Cómo activo y creo un PIN para mi tarjeta de débito?",
+        "yext/question": "¿Cómo activo y creo un PIN para mi tarjeta de débito?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Pour activer et créer ou modifier le code PIN de votre carte de débit, veuillez appeler le 800-992-3808.",
+        "yext/name": "Comment puis-je activer et créer un code PIN pour ma carte de débit ?",
+        "yext/question": "Comment puis-je activer et créer un code PIN pour ma carte de débit ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Per attivare e creare o modificare il PIN sulla tua carta di debito, chiama il numero 800-992-3808.",
+        "yext/name": "Come faccio ad attivare e creare un PIN per la mia carta di debito?",
+        "yext/question": "Come faccio ad attivare e creare un PIN per la mia carta di debito?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "PINを有効にして作成するか、デビットカードのPINを変更するには、800-992-3808に電話してください。",
+        "yext/name": "デビットカードのPINを有効にして作成するにはどうすればよいですか？",
+        "yext/question": "デビットカードのPINを有効にして作成するにはどうすればよいですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

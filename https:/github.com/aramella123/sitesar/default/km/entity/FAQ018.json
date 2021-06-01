@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ018",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Guide To Business Banking",
+        "url": "https://www.dime.com/sites/default/files/2019-04/guide-to-business-banking.pdf"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "You can find a copy of Dime\u0027s Guide to Business Banking by clicking the link below.",
+    "yext/name": "Where can I access Dime\u0027s Guide to Business Banking?",
+    "yext/question": "Where can I access Dime\u0027s Guide to Business Banking?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie finden eine Kopie von Dimes Leitfaden für Business Banking, indem Sie auf den unten stehenden Link klicken.",
+        "yext/name": "Wo kann ich auf Dimes Leitfaden für Business Banking zugreifen?",
+        "yext/question": "Wo kann ich auf Dimes Leitfaden für Business Banking zugreifen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Puede encontrar una copia de la Guía de Dime de Business Banking haciendo clic en el enlace a continuación.",
+        "yext/name": "¿Dónde puedo acceder a la Guía Dime de Banca Comercial?",
+        "yext/question": "¿Dónde puedo acceder a la Guía Dime de Banca Comercial?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous pouvez trouver un exemplaire du guide Dime sur les services bancaires aux entreprises en cliquant sur le lien ci-dessous.",
+        "yext/name": "Où puis-je accéder au guide des services bancaires aux entreprises de Dime ?",
+        "yext/question": "Où puis-je accéder au guide des services bancaires aux entreprises de Dime ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Puoi trovare una copia della Guida al business banking di Dime facendo clic sul collegamento in basso.",
+        "yext/name": "Dove posso accedere alla Guida di Dime al Business Banking?",
+        "yext/question": "Dove posso accedere alla Guida di Dime al Business Banking?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "以下のリンクをクリックすると、ダイムのビジネスバンキングガイドがご覧になれます。",
+        "yext/name": "ダイムのビジネスバンキングガイドにはどこからアクセスできますか？",
+        "yext/question": "ダイムのビジネスバンキングガイドにはどこからアクセスできますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

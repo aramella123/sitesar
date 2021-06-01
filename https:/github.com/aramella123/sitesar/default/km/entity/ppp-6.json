@@ -1,0 +1,81 @@
+{
+  "$id": "ppp-6",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "All businesses – including nonprofits, veterans organizations, Tribal business concerns, sole proprietorships, self-employed individuals, and independent contractors – with 500 or fewer employees can apply. Businesses in certain industries can have more than 500 employees if they meet applicable SBA employee-based size standards for those industries.\n\nFor this program, the SBA’s affiliation standards are waived for small businesses (1) in the hotel and food services industries (click \u003ca href\u003d\"https://www.census.gov/eos/www/naics/\" target\u003d\"_blank\"\u003eHERE\u003c/a\u003e for NAICS code 72 to confirm); or (2) that are franchises in the SBA’s Franchise Directory (click \u003ca href\u003d\"https://www.sba.gov/sba-franchise-directory\" target\u003d\"_blank\"\u003eHERE\u003c/a\u003e  to check); or (3) that receive financial assistance from small business investment companies licensed by the SBA. Additional guidance may be released as appropriate.",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "Who can apply for the PPP?",
+    "yext/question": "Who can apply for the PPP?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Alle Unternehmen - einschließlich gemeinnütziger Organisationen, Veteranenorganisationen, Stammesunternehmen, Einzelunternehmen, Selbstständiger und unabhängiger Auftragnehmer - mit 500 oder weniger Mitarbeitern können sich bewerben. Unternehmen in bestimmten Branchen können mehr als 500 Mitarbeiter beschäftigen, wenn sie den entsprechenden SBA-Mitarbeiter-basierte Größenstandards für diese Branchen einhalten.\n\nFür dieses Programm wird auf die Zugehörigkeitsstandards der SBA für kleine Unternehmen (1) in der Hotel- und Lebensmitteldienstleistungsbranche verzichtet (klicken Sie auf \u003ca href \u003d \"\" https://www.census.gov/eos/www/naics/ \"\") \u003d \"\" _ blank \"\"\u003e HIER \u003c/a\u003e für NAICS-Code 72 zur Bestätigung); oder (2) Franchise-Unternehmen im Franchise-Verzeichnis der SBA (klicken Sie HIER auf \u003ca href\u003d\"\"https://www.sba.gov/sba-franchise-directory\"\" target\u003d\"\"_blank\"\"\u003e HIER \u003c/a\u003e überprüfen); oder (3) die finanzielle Unterstützung von von der SBA lizenzierten Investmentgesellschaften für Kleinunternehmen erhalten. Zusätzliche Leitlinien können gegebenenfalls veröffentlicht werden. \"",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Wer kann die PPP beantragen?",
+        "yext/question": "Wer kann die PPP beantragen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Todas las empresas, incluidas las organizaciones sin fines de lucro, las organizaciones de veteranos, las preocupaciones comerciales tribales, las empresas individuales, los trabajadores independientes y los contratistas independientes, con 500 empleados o menos, pueden presentar una solicitud. Las empresas en ciertas industrias pueden tener más de 500 empleados si cumplen con los estándares de tamaño de empleados de la SBA aplicables para esas industrias.\n \nPara este programa, los estándares de afiliación de la SBA no se aplican a las pequeñas empresas (1) en la industria hotelera y de servicios de alimentos (haga clic en \u003ca href \u003d \"https://www.census.gov/eos/www/naics/\" target \u003d \" _blank \"\u003e AQUÍ \u003c/a\u003e para confirmar el código 72 de NAICS); o (2) que son franquicias en el Directorio de franquicias de la SBA (haga clic \u003ca href\u003d\"https://www.sba.gov/sba-franchise-directory\" target\u003d\"_blank\"\u003e AQUÍ \u003c/a\u003e para verificar); o (3) que reciben asistencia financiera de compañías de inversión de pequeñas empresas autorizadas por la SBA. Se puede publicar orientación adicional según corresponda.",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Quién puede solicitar por el PPP?",
+        "yext/question": "¿Quién puede solicitar por el PPP?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "\"Toutes les entreprises - y compris les associations à but non lucratif, les organisations d\u0027anciens combattants, les entreprises tribales, les entreprises individuelles, les travailleurs indépendants et les entrepreneurs indépendants - comptant 500 employés ou moins peuvent présenter une demande. Les entreprises de certaines industries peuvent avoir plus de 500 employés si elles répondent aux normes de taille des employés applicables à ces industries.\n\nDans le cadre de ce programme, les normes d\u0027affiliation du SBA ne s\u0027appliquent pas aux petites entreprises (1) des secteurs de l\u0027hôtellerie et de la restauration (cliquez \u003ca href\u003d\"\"https://www.census.gov/eos/www/naics/\"\" target\u003d\"\"_blank\"\"\u003eICI\u003c/a\u003e pour confirmer le code 72 du SCIAN) ; ou (2) qui sont des franchises figurant dans le répertoire des franchises du SBA (cliquez \u003ca href\u003d\"\"https://www. sba.gov/sba-franchise-directory\"\" target\u003d\"\"_blank\"\"\u003eICI\u003c/a\u003e pour vérifier) ; ou (3) qui reçoivent une aide financière de sociétés d\u0027investissement dans les petites entreprises agréées par la SBA. Des conseils supplémentaires peuvent être publiés le cas échéant.\"",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "Qui peut demander le PPS ?",
+        "yext/question": "Qui peut demander le PPS ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Tutte le aziende - tra cui organizzazioni non profit, organizzazioni di veterani, preoccupazioni tribali di affari, imprese individuali, lavoratori autonomi e appaltatori indipendenti - con 500 o meno dipendenti possono applicare. Le imprese in alcuni settori possono avere più di 500 dipendenti se rispecchiano gli standard SBA base dipendente di dimensioni per quei settori\n\nPer questo programma, gli standard di affiliazione dell\u0027SBA sono esclusi dalle piccole imprese (1) nel settore alberghiero e dei servizi alimentari (fare clic su \u003ca href \u003d \"\" https://www.census.gov/eos/www/naics/ \"\" target \u003d \"\" _ blank \"\"\u003e QUI \u003c/a\u003e per confermare il codice NAICS 72); o (2) che sono in franchising nell\u0027elenco di franchising dell\u0027SBA (fare clic su \u003ca href\u003d\"\"https://www.sba.gov/sba-franchise-directory\"\" target\u003d\"\"_blank\"\"\u003e QUI \u003c/a\u003e controllare); o (3) che ricevono assistenza finanziaria da società di investimento di piccole imprese autorizzate dalla SBA. Se necessario, è possibile fornire ulteriori indicazioni.",
+        "yext/keywords": [
+          "ppp.protezione dello stipendio"
+        ],
+        "yext/name": "Chi può richiedere il PPP?",
+        "yext/question": "Chi può richiedere il PPP?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "非営利団体、退役軍人組織、部族の事業上の懸念事項、個人事業主、自営業者、および独立請負業者など、従業員が500人以下のすべての企業が申請できます。特定の業界の企業は、それらの業界に適用されるSBAの従業員ベースのサイズ基準を満たす場合、500人を超える従業員を抱えることがあります。\n\nこのプログラムでは、ホテルおよびフードサービス業界の小規模ビジネス（1）のSBAの加入基準が免除されます（\u003ca href \u003d \"https://www.census.gov/eos/www/naics/\" target \u003d \" _blank \"\u003eこちらから\u003c/a\u003e NAICSコード72で確認）; または（2）SBAのフランチャイズディレクトリにあるフランチャイズ（\u003ca href\u003d\"https://www.sba.gov/sba-franchise-directory\" target\u003d\"_blank\"\u003eこちらから\u003c/a\u003eをクリックして確認してください）; （3）SBAからライセンスを受けた中小企業投資会社からの財政援助を受ける。必要に応じて、追加のガイダンスがリリースされる場合があります。",
+        "yext/name": "誰がPPPを申請できますか？",
+        "yext/question": "誰がPPPを申請できますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

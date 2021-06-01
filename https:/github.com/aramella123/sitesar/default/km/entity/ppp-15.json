@@ -1,0 +1,81 @@
+{
+  "$id": "ppp-15",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "You will owe money when your loan is due if you use the loan amount for anything other than payroll costs, mortgage interest, rent, and utilities payments over the 8 weeks after getting the loan. Due to likely high subscription, it is anticipated that not more than 25% of the forgiven amount may be for non-payroll costs.\n\nYou will also owe money if you do not maintain your staff and payroll.\n\nNumber of Staff: Your loan forgiveness will be reduced if you decrease your full-time employee headcount.\n\nLevel of Payroll: Your loan forgiveness will also be reduced if you decrease salaries and wages by more than 25% for any employee that made less than $100,000 annualized in 2019.\n\nRe-Hiring: You have until June 30, 2020 to restore your full-time employment and salary levels for any changes made between February 15, 2020 and April 26, 2020.",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "How much of my loan will be forgiven?",
+    "yext/question": "How much of my loan will be forgiven?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie werden Geld schulden, wenn Ihr Darlehen fällig ist, wenn Sie den Darlehensbetrag innerhalb von 8 Wochen nach Erhalt des Darlehens für andere Zwecke als Lohn- und Gehaltskosten, Hypothekenzinsen, Miete und Nebenkosten verwenden. Aufgrund des wahrscheinlich hohen Abonnements wird davon ausgegangen, dass dies der Fall ist. Nicht mehr als 25% des vergebenen Betrags dürfen für nicht abrechnungsfähige Kosten verwendet werden.\n \n Sie schulden auch Geld, wenn Sie Ihre Mitarbeiter und Ihre Gehaltsabrechnung nicht unterhalten.\n \n Anzahl der Mitarbeiter: Ihre Kreditvergabe wird reduziert, wenn Sie die Anzahl Ihrer Vollzeitmitarbeiter verringern.\n \n Lohnniveau: Ihre Kreditvergabe wird auch reduziert, wenn Sie die Gehälter und Löhne für jeden Mitarbeiter, der 2019 weniger als 100.000 USD auf Jahresbasis verdient hat, um mehr als 25% senken.\n \n Neueinstellung: Sie haben bis zum 30. Juni 2020 Zeit, um Ihre Vollzeitbeschäftigung und Ihr Gehalt für alle Änderungen wiederherzustellen, die zwischen dem 15. Februar 2020 und dem 26. April 2020 vorgenommen wurden. \"",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Wie viel von meinem Darlehen wird vergeben?",
+        "yext/question": "Wie viel von meinem Darlehen wird vergeben?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "\"Deberá dinero cuando venza su préstamo si utiliza el monto del préstamo para cualquier cosa que no sean costos de nómina, intereses hipotecarios, alquileres y servicios públicos durante las 8 semanas posteriores a la obtención del préstamo. Debido a la alta suscripción probable, se anticipa que no más del 25% del monto perdonado puede ser para costos que no sean de nómina.\n \nTambién deberá dinero si no mantiene su personal y su nómina.\n \nNúmero de empleados: la condonación de su préstamo se reducirá si disminuye la cantidad de empleados a tiempo completo.\n \nNivel de nómina: la condonación de su préstamo también se reducirá si disminuye los sueldos y salarios en más del 25% para cualquier empleado que ganó menos de $ 100,000 anualizados en 2019.\n \nRecontratación: tiene hasta el 30 de junio de 2020 para restablecer sus niveles de empleo y salario a tiempo completo para cualquier cambio realizado entre el 15 de febrero de 2020 y el 26 de abril de 2020 \".",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Cuánto de mi préstamo será perdonado?",
+        "yext/question": "¿Cuánto de mi préstamo será perdonado?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous devrez payer votre prêt à l\u0027échéance si vous utilisez le montant du prêt pour autre chose que les salaires, les intérêts hypothécaires, le loyer et les paiements des services publics au cours des 8 semaines suivant l\u0027obtention du prêt. En raison du montant probablement élevé de la souscription, il est prévu que pas plus de 25 % du montant remis puisse être utilisé pour des frais autres que les salaires.\n\nVous devrez également de l\u0027argent si vous ne maintenez pas votre personnel et les salaires.\n\nNombre d\u0027employés : Votre remise de prêt sera réduite si vous réduisez votre effectif de personnel à temps plein.\n\nNiveau de la masse salariale : Votre remise de prêt sera également réduite si vous réduisez les salaires et traitements de plus de 25 % pour tout employé ayant gagné moins de 100 000 € par an en 2019.\n\nRéembauche : Vous avez jusqu\u0027au 30 juin 2020 pour rétablir votre emploi à temps plein et le niveau des salaires pour tout changement effectué entre le 15 février 2020 et le 26 avril 2020.",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "De combien mon prêt sera-t-il remis ?",
+        "yext/question": "De combien mon prêt sera-t-il remis ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Sarai in debito quando il tuo prestito è dovuto se utilizzi l\u0027importo del prestito per qualcosa di diverso dai costi del personale, interessi sui mutui, affitto e servizi di pubblica utilità nelle 8 settimane successive all\u0027ottenimento del prestito. A causa della probabile elevata sottoscrizione, si prevede che non più del 25% dell\u0027importo condonato può essere dovuto a costi non salariali.\n\nSarai in debito anche se non mantieni il personale e il libro paga.\n\nNumero di dipendenti: il condono del prestito sarà ridotto se si riduce il personale a tempo pieno.\n\nLivello delle retribuzioni: il condono del prestito sarà ridotto se si riducono gli stipendi e i salari di oltre il 25% per qualsiasi dipendente che ha guadagnato meno di $ 100.000 annualizzati nel 2019.\n\nRiassunzione: hai tempo fino al 30 giugno 2020 per ripristinare i livelli occupazionali e retributivi a tempo pieno per eventuali modifiche apportate tra il 15 febbraio 2020 e il 26 aprile 2020.",
+        "yext/keywords": [
+          "ppp.protezione dello stipendio"
+        ],
+        "yext/name": "Quanto del mio prestito sarà condonato?",
+        "yext/question": "Quanto del mio prestito sarà condonato?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ローンを受け取ってから8週間にわたって、給与費用、住宅ローンの利息、家賃、水道光熱費以外の支払いにローン金額を使用すると、ローンの期日までに支払い義務があります。サブスクリプションが高い可能性があるため、許された金額の25％以下が給与以外の費用であると予想されます。あなたがあなたのスタッフと給与を維持しないならば、あなたはまたお金を借ります。\n\nスタッフ数：フルタイムの従業員数を減らすと、融資の許しが少なくなります。\n\n給与のレベル：2019年に年換算で100,000ドルを下回った従業員の給与と賃金を25％以上減らすと、ローンの許しも減少します。\n\n再雇用：2020年2月15日から2020年4月26日までの間に変更された時間の雇用および給与レベルについて、2020年6月30日までに、全額を回復する必要があります。",
+        "yext/name": "私のローンのいくらが許されますか？",
+        "yext/question": "私のローンのいくらが許されますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

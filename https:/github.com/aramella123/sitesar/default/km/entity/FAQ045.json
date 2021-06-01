@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ045",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Zelle",
+        "url": "https://www.dime.com/personal/mobile-banking/zelle"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "Learn more about Zelle by clicking the link below.",
+    "yext/name": "Does Dime have Zelle?",
+    "yext/question": "Does Dime have Zelle?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Erfahren Sie mehr über Zelle, indem Sie auf den unten stehenden Link klicken.",
+        "yext/name": "Hat Dime Zelle?",
+        "yext/question": "Hat Dime Zelle?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Obtenga más información sobre Zelle haciendo clic en el siguiente enlace.",
+        "yext/name": "¿Dime tiene Zelle?",
+        "yext/question": "¿Dime tiene Zelle?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Pour en savoir plus sur Zelle, cliquez sur le lien ci-dessous.",
+        "yext/name": "Dime dispose-t-elle de Zelle ?",
+        "yext/question": "Dime dispose-t-elle de Zelle ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Scopri di più su Zelle facendo clic sul collegamento in basso.",
+        "yext/name": "Dime ha Zelle?",
+        "yext/question": "Dime ha Zelle?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "Zelleの詳細については、以下のリンクをクリックしてください。",
+        "yext/name": "ダイムはゼリーを持っていますか？",
+        "yext/question": "ダイムはゼリーを持っていますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

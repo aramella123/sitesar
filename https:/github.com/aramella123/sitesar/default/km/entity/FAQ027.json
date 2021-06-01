@@ -1,0 +1,67 @@
+{
+  "$id": "FAQ027",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "url": "https://investors.dime.com/"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "You can visit investors.dime.com to learn more about Dime\u0027s Corporate Profile and Investor Relations.",
+    "yext/name": "Where can I learn more about Dime\u0027s Investor Relations?",
+    "yext/question": "Where can I learn more about Dime\u0027s Investor Relations?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie können investors.dime.com besuchen, um mehr über das Unternehmensprofil und die Investorenbeziehungen von Dime zu erfahren.",
+        "yext/name": "Wo kann ich mehr über Dimes Investor Relations erfahren?",
+        "yext/question": "Wo kann ich mehr über Dimes Investor Relations erfahren?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Puede visitar investors.dime.com para obtener más información sobre el perfil corporativo y las relaciones con los inversores de Dime.",
+        "yext/name": "¿Dónde puedo obtener más información sobre las relaciones con los inversores de Dime?",
+        "yext/question": "¿Dónde puedo obtener más información sobre las relaciones con los inversores de Dime?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous pouvez visiter le site investors.dime.com pour en savoir plus sur le profil de l\u0027entreprise et les relations avec les investisseurs de Dime.",
+        "yext/name": "Où puis-je en savoir plus sur les relations avec les investisseurs de Dime ?",
+        "yext/question": "Où puis-je en savoir plus sur les relations avec les investisseurs de Dime ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Puoi visitare investors.dime.com per saperne di più sul profilo aziendale e le relazioni con gli investitori di Dime.",
+        "yext/name": "Dove posso saperne di più sulle relazioni con gli investitori di Dime?",
+        "yext/question": "Dove posso saperne di più sulle relazioni con gli investitori di Dime?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "投資家.ダイムコミュニティバンク.comにアクセスして、ダイムの会社概要と投資家向け広報活動の詳細をご覧ください。",
+        "yext/name": "ダイムの投資家向け情報の詳細はどこで確認できますか？",
+        "yext/question": "ダイムの投資家向け情報の詳細はどこで確認できますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

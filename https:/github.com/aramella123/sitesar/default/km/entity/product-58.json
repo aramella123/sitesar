@@ -1,0 +1,56 @@
+{
+  "$id": "product-58",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_ctas": [
+      {
+        "icon": "star",
+        "text": "App Store",
+        "url": "https://apps.apple.com/us/app/dime-business-mobile/id1399334674"
+      },
+      {
+        "icon": "star",
+        "text": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id\u003dcom.obs.android.olm.dime.prod\u0026hl\u003den_US"
+      }
+    ],
+    "c_productType": "Mobile Banking",
+    "c_slug": "[[entityId]]",
+    "yext/keywords": [
+      "App"
+    ],
+    "yext/landingPageUrl": "https://www.dime.com/personal/mobile-banking",
+    "yext/name": "Consumer Mobile App",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1231,
+          "sourceUrl": "https://images.pexels.com/photos/4482903/pexels-photo-4482903.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "thumbnails": [
+            {
+              "height": 761,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/619x761.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/365x450.jpg",
+              "width": 365
+            },
+            {
+              "height": 241,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/196x241.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/1000x1231.jpg",
+          "width": 1000
+        }
+      }
+    ],
+    "yext/richTextDescription": "Already a Customer? Download on the App Store or Google Play."
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

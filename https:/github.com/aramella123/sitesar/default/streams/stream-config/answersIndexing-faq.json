@@ -1,0 +1,33 @@
+{
+  "$id": "answersIndexing-faq",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "streamsapi",
+  "fields": [
+    "c_coronaVirusFAQ",
+    "c_dateOfUpdate",
+    "keywords",
+    "name",
+    "question",
+    "answer",
+    "uid",
+    "id",
+    "timezone",
+    "meta",
+    "matchingSearchIds"
+  ],
+  "filter": {
+    "entityTypes": [
+      "faq"
+    ]
+  },
+  "localization": {
+    "locales": [
+      "en",
+      "fr",
+      "es",
+      "de",
+      "it"
+    ]
+  }
+}

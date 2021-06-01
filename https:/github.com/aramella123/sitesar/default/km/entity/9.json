@@ -1,0 +1,235 @@
+{
+  "$id": "9",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_answersGeomodifier": "Valley Stream",
+    "c_answersServices": [
+      "Safe Deposit Boxes"
+    ],
+    "c_branchServices": [
+      "product-49",
+      "product-40",
+      "product-6",
+      "product-5"
+    ],
+    "c_parents": [
+      "valleyStreamNY"
+    ],
+    "c_slug": "[[entityId]]",
+    "yext/address": {
+      "city": "Valley Stream",
+      "countryCode": "US",
+      "line1": "175 West Merrick Road",
+      "postalCode": "11580",
+      "region": "NY",
+      "sublocality": "Nassau"
+    },
+    "yext/alternatePhone": "+18003213463",
+    "yext/categoryIds": [
+      "1437887",
+      "1091",
+      "2288"
+    ],
+    "yext/description": "Dime Community Bank has helped New Yorkers achieve their personal and business banking goals for over 155 years. Every day, we deliver smart solutions to our business and retail customers, by providing financial guidance, personal service and honest value. We offer checking to fit your needs or lifestyle, competitive rates on CDs and money market accounts, and anytime, anywhere access through online and mobile banking. For businesses, we provide loans and lines, as well as SBA lending. Stop by any of our convenient 29 branches in Brooklyn, Queens, the Bronx, Nassau and Suffolk counties.",
+    "yext/facebookPageUrl": "https://www.facebook.com/DimeValleyStream/",
+    "yext/featuredMessage": {
+      "description": "Buying a Home? Apply Online.",
+      "url": "https://www.dime.com/personal/mortgage?utm_source\u003dyext\u0026utm_medium\u003dlocal-listing-link\u0026utm_campaign\u003dmortgage"
+    },
+    "yext/geomodifier": "Valley Stream",
+    "yext/hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "15:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "15:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "15:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "15:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "15:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "15:00",
+            "start": "09:00"
+          }
+        ]
+      }
+    },
+    "yext/localPhone": "+15168250140",
+    "yext/logo": {
+      "image": {
+        "height": 250,
+        "sourceUrl": "http://a.mktgcdn.com/p/EeTLmW_cV7v4hshx-c3S0mEZy-wn8OmzVYWZo2Jd7x4/250x250.png",
+        "thumbnails": [
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p/EeTLmW_cV7v4hshx-c3S0mEZy-wn8OmzVYWZo2Jd7x4/196x196.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/EeTLmW_cV7v4hshx-c3S0mEZy-wn8OmzVYWZo2Jd7x4/250x250.png",
+        "width": 250
+      }
+    },
+    "yext/mainPhone": "+15168250140",
+    "yext/name": "Dime Community Bank",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "http://a.mktgcdn.com/p/J_cq2X6xEkGp5e36Kwjp_-1vGmjEqGvaCm-bgVKxkhA/640x480.jpg",
+          "thumbnails": [
+            {
+              "height": 464,
+              "url": "http://a.mktgcdn.com/p/J_cq2X6xEkGp5e36Kwjp_-1vGmjEqGvaCm-bgVKxkhA/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/J_cq2X6xEkGp5e36Kwjp_-1vGmjEqGvaCm-bgVKxkhA/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "http://a.mktgcdn.com/p/J_cq2X6xEkGp5e36Kwjp_-1vGmjEqGvaCm-bgVKxkhA/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/J_cq2X6xEkGp5e36Kwjp_-1vGmjEqGvaCm-bgVKxkhA/640x480.jpg",
+          "width": 640
+        }
+      }
+    ],
+    "yext/products": [
+      "Personal Checking",
+      "Savings",
+      "Money Market",
+      "CDs",
+      "Mortgages",
+      "IRA",
+      "Online Banking",
+      "Bill Pay",
+      "Mobile Banking",
+      "Zelle. Business Checking and Savings",
+      "Business Credit and Lending",
+      "SBA Loans",
+      "Lines of Credit",
+      "Merchant Services",
+      "Business Online Banking",
+      "Bill Pay and Mobile Banking."
+    ],
+    "yext/reservationUrl": {
+      "preferDisplayUrl": false,
+      "url": "https://www02a.timetrade.com/app/dimebank/workflows/DIME001/schedule/appointment-type-group?wfsid\u003d16a5bb8c-baba97f6-16a5bb38-baba97f6-00000002-oekjlb1kc5nvnl0d9t0a0jg0svn74cla\u0026locationId\u003dvalleystreamoffice\u0026resourceId\u003d\u0026fs\u003d1"
+    },
+    "yext/services": [
+      "Online Banking",
+      "Safe Deposit Boxes",
+      "eStatements",
+      "Debit Cards",
+      "Telephone Banking",
+      "Check Ordering",
+      "Direct Deposit",
+      "Overdraft Protection",
+      "CDARS/ICS. Lockbox Access",
+      "Remote Deposit Capture."
+    ],
+    "yext/specialities": [
+      "The Business and Commercial Bank of New York. All business types",
+      "including Legal/Attorney",
+      "Accounting",
+      "Medical",
+      "Real Estate and Franchises."
+    ],
+    "yext/timezone": "America/New_York",
+    "yext/twitterHandle": "DimeBank",
+    "yext/videos": [
+      {
+        "video": {
+          "url": "http://www.youtube.com/watch?v\u003dNkRKwQZJ-PA"
+        }
+      }
+    ],
+    "yext/websiteUrl": {
+      "preferDisplayUrl": false,
+      "url": "https://www.dime.com/branches/valley-stream"
+    },
+    "yext/yearEstablished": 1864
+  },
+  "entityType": "yext/location",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_answersServices": [
+          "Bankschließfächer"
+        ]
+      }
+    },
+    {
+      "locale": "es",
+      "content": {}
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_answersServices": [
+          "Coffre-fort de dépôt"
+        ]
+      }
+    },
+    {
+      "locale": "it",
+      "content": {}
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/description": "ダイムコミュニティバンクは、ニューヨーカーが155年以上にわたって個人およびビジネスバンキングの目標を達成するのを支援してきました。 私たちは毎日、金融ガイダンス、パーソナルサービス、正直な価値を提供することで、ビジネスおよび小売顧客にスマートソリューションを提供しています。 お客様のニーズやライフスタイル、CDやマネーマーケットアカウントの競争率、いつでもどこでもオンラインバンキングやモバイルバンキングを通じてアクセスできるチェックを提供します。 企業向けには、ローンやライン、SBAローンを提供しています。 ブルックリン、クイーンズ、ブロンクス、ナッソー、サフォーク郡の便利な29の支店のいずれかに立ち寄ってください。",
+        "yext/name": "ウィリアムズバーグ・ダイム貯蓄銀行"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "$id": "P028",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "A reliable",
+      "free checking account",
+      "No minimum balance",
+      "No monthly maintenance fee",
+      "Free debit card",
+      "Free bill pay",
+      "Free Mobile Banking and Mobile Deposit*",
+      "Free eStatements with online check images"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/personal/checking/personal-checking"
+      }
+    ],
+    "c_fees": "0.0",
+    "c_minimumDeposit": "25.0",
+    "c_productType": "Checking",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Open a Consumer Checking account with Dime Community Bank to manage your personal finances, to start your teen’s first account or a simple account for yourself.",
+    "yext/landingPageUrl": "https://www.dime.com/personal/checking/personal-checking",
+    "yext/name": "Consumer Checking"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Girokonto",
+        "yext/description": "Eröffnen Sie ein Consumer Checking-Konto bei der Dime Community Bank, um Ihre persönlichen Finanzen zu verwalten, das erste Konto Ihres Teenagers oder ein einfaches Konto für sich selbst zu eröffnen.",
+        "yext/name": "Kundenüberprüfung"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Una cuenta de cheques confiable y gratuita",
+          "Sin saldo mínimo",
+          "Sin cargo de mantenimiento mensual",
+          "Tarjeta de débito gratuita",
+          "Pago de facturas gratuito",
+          "Banca móvil gratuita y Depósito móvil *",
+          "Declaraciones electrónicas gratuitas con imágenes de cheques en línea"
+        ],
+        "c_productType": "La cuenta corriente",
+        "yext/description": "Abra una cuenta de cheques para el consumidor con Dime Community Bank para administrar sus finanzas personales, para iniciar la primera cuenta de su hijo adolescente o una cuenta simple para usted.",
+        "yext/name": "Cheques para Consumidores"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Un compte chèque fiable et gratuit",
+          "Pas de solde minimum",
+          "Pas de frais de maintenance mensuels",
+          "Carte de débit gratuite",
+          "Paiement de factures gratuit",
+          "Mobile Banking et Mobile Deposit* gratuits",
+          "Relevés électroniques gratuits avec images de chèques en ligne"
+        ],
+        "c_productType": "Consultez le site",
+        "yext/description": "Ouvrez un compte chèque consommateur auprès de Dime Community Bank pour gérer vos finances personnelles, pour ouvrir le premier compte de votre adolescent ou un simple compte pour vous-même.",
+        "yext/name": "Compte courant pour les consommateurs"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Un conto corrente affidabile e gratuito",
+          "nessun saldo minimo",
+          "nessuna spesa mensile di manutenzione",
+          "carta di debito gratuita",
+          "pagamento delle bollette gratuito",
+          "servizi bancari e depositi mobili gratuiti *",
+          "eStatements gratuiti con immagini di assegni online"
+        ],
+        "c_productType": "Conto",
+        "yext/description": "Apri un conto di Consumer Checking con Dime Community Bank per gestire le tue finanze personali, avviare il primo account di tuo figlio o un semplice account per te.",
+        "yext/name": "Controllo del consumatore"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "チェック中",
+        "yext/description": "ダイムコミュニティバンク Community BankでConsumer Checkingアカウントを開いて、個人の財政を管理し、10代の最初のアカウントまたは簡単なアカウントを自分で開始します。",
+        "yext/name": "消費者チェック"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

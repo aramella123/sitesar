@@ -1,0 +1,62 @@
+{
+  "$id": "FAQ008",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "To dispute a transaction you do not recognize, please call 833-809-9981 for immediate assistance.",
+    "yext/name": "How do I report suspicious debit card activity?",
+    "yext/question": "How do I report suspicious debit card activity?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Um eine Transaktion zu bestreiten, die Sie nicht erkennen, rufen Sie bitte 833-809-9981 an, um sofortige Unterstützung zu erhalten.",
+        "yext/name": "Wie melde ich verdächtige Debitkartenaktivitäten?",
+        "yext/question": "Wie melde ich verdächtige Debitkartenaktivitäten?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Para disputar una transacción que no reconoce, llame al 833-809-9981 para asistencia inmediata.",
+        "yext/name": "¿Cómo puedo denunciar la actividad sospechosa de mi tarjeta de débito?",
+        "yext/question": "¿Cómo puedo denunciar la actividad sospechosa de mi tarjeta de débito?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Pour contester une transaction que vous ne reconnaissez pas, veuillez appeler le 833-809-9981 pour obtenir une assistance immédiate.",
+        "yext/name": "Comment signaler une activité suspecte sur ma carte de débit ?",
+        "yext/question": "Comment signaler une activité suspecte sur ma carte de débit ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Per contestare una transazione che non riconosci, chiama 833-809-9981 per assistenza immediata.",
+        "yext/name": "Come posso segnalare attività sospette sulla di carta di debito?",
+        "yext/question": "Come posso segnalare attività sospette sulla di carta di debito?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "覚えのない取引については、833-809-9981までお電話ください。",
+        "yext/name": "疑わしいデビットカードのアクティビティを報告するにはどうすればよいですか？",
+        "yext/question": "疑わしいデビットカードのアクティビティを報告するにはどうすればよいですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

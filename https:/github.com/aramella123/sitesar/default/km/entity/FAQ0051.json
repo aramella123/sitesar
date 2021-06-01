@@ -1,0 +1,62 @@
+{
+  "$id": "FAQ0051",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "Your IRS Form 1099-INT will be mailed no later than January 31, 2020.  You will only receive a form if you earned at least $10 of interest income on your Dime account(s) or on U.S. Savings Bonds redeemed at Dime.  You will also receive Form 1099-INT if you paid an early withdrawal penalty or had Federal Income Tax withheld during 2019.  \n\nYour IRS Form 1099-R will be mailed no later than January 31, 2020.  You will only receive this form if you received a distribution from your Dime retirement plan in 2019.",
+    "yext/name": "Where is my 1099 Form?",
+    "yext/question": "Where is my 1099 Form?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "\"Ihr IRS-Formular 1099-INT wird bis spätestens 31. Januar 2020 versandt. Sie erhalten nur ein Formular, wenn Sie mindestens 10 US-Dollar Zinserträge auf Ihren Dime-Konten oder auf bei Dime eingelösten US-Sparbriefen erzielt haben. Sie erhalten außerdem das Formular 1099-INT, wenn Sie eine Vorfälligkeitsentschädigung gezahlt haben oder die Bundeseinkommensteuer im Jahr 2019 einbehalten wurde.\n \n Ihr IRS-Formular 1099-R wird bis spätestens 31. Januar 2020 versandt. Sie erhalten dieses Formular nur, wenn Sie 2019 eine Ausschüttung aus Ihrem Dime-Pensionsplan erhalten haben. \"",
+        "yext/name": "Wo ist mein 1099 Formular?",
+        "yext/question": "Wo ist mein 1099 Formular?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Su Formulario 1099-INT del IRS será enviado por correo a más tardar el 31 de enero de 2020. Solo recibirá un formulario si obtuvo al menos $10 de ingresos por intereses en su(s) cuenta(s) De Dime o en Bonos de Ahorro de EE. UU. canjeados en Dime. También recibirá el Formulario 1099-INT si pagó una multa por retiro anticipado o tuvo que retener el Impuesto Federal sobre la Renta durante 2019. \nSu Formulario 1099-R del IRS será enviado por correo a más tardar el 31 de enero de 2020. Solo recibirá este formulario si recibió una distribución de su plan de jubilación Dime en 2019.",
+        "yext/name": "¿Dónde está mi formulario 1099?",
+        "yext/question": "¿Dónde está mi formulario 1099?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Votre formulaire 1099-INT de l\u0027IRS vous sera envoyé par la poste au plus tard le 31 janvier 2020. Vous ne recevrez un formulaire que si vous avez gagné au moins 10 € de revenus d\u0027intérêts sur votre (vos) compte(s) Dime ou sur les obligations d\u0027épargne américaines rachetées à Dime. Vous recevrez également le formulaire 1099-INT si vous avez payé une pénalité de retrait anticipé ou si vous avez fait retenir l\u0027impôt fédéral sur le revenu en 2019. \n\nVotre formulaire 1099-R de l\u0027IRS vous sera envoyé par la poste au plus tard le 31 janvier 2020. Vous ne recevrez ce formulaire que si vous avez reçu une distribution de votre régime de retraite Dime en 2019.",
+        "yext/name": "Où se trouve mon formulaire 1099 ?",
+        "yext/question": "Où se trouve mon formulaire 1099 ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Il modulo IRS 1099-INT verrà inviato entro e non oltre il 31 gennaio 2020. Riceverai un modulo solo se hai guadagnato almeno $ 10 di interessi attivi sul tuo conto Dime o sui buoni di risparmio USA riscattati a Dime. Riceverai anche il modulo 1099-INT se hai pagato una penalità di prelievo anticipato o se hai trattenuto l\u0027imposta sul reddito federale durante il 2019.\n\nIl modulo IRS 1099-R verrà inviato entro e non oltre il 31 gennaio 2020. Riceverai questo modulo solo se hai ricevuto una distribuzione dal tuo piano pensionistico Dime nel 2019.",
+        "yext/name": "Dov\u0027è il mio modulo 1099?",
+        "yext/question": "Dov\u0027è il mio modulo 1099?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "IRSフォーム1099-INTは、2020年1月31日までに郵送されます。フォームを受け取るのは、ダイムアカウントまたはダイムで引き換えた米国普通預金証券で少なくとも10ドルの利息収入を得た場合のみです。また、2019年中に早期撤退ペナルティを支払ったか、連邦所得税を源泉徴収した場合は、フォーム1099-INTも受け取ります。IRSフォーム1099-Rは、遅くとも2020年1月31日までに郵送されます。受け取った場合にのみ、このフォームを受け取ります2019年のあなたのダイム退職プランからの分配。",
+        "yext/name": "1099フォームはどこにありますか？",
+        "yext/question": "1099フォームはどこにありますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

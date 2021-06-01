@@ -1,0 +1,72 @@
+{
+  "$id": "FAQ061",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Existing Customer Personal Online Login",
+        "url": "https://dime.onlinebank.com/SignIn.aspx"
+      },
+      {
+        "text": "Existing Customer Business Online Login",
+        "url": "https://dime.olbanking.com/smallbusiness/auth"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "To place a travel note you can log in to your online account, click on \"Profile\", select \"Secured Forms\" from the drop-down menu and Select \"Travel Notes\". You can also contact a customer service representative at 800-321-3463 to request a copy to be mailed.",
+    "yext/name": "How can I place a travel note on my Debit Card?",
+    "yext/question": "How can I place a travel note on my Debit Card?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Um eine Reisenotiz zu platzieren, die Sie in Ihrem Online-Konto anmelden können, klicken Sie auf \"Profil\", wählen Sie \"Gesicherte Formulare\" aus dem Dropdown-Menü und wählen Sie \"Reisehinweise\". Sie können sich auch unter 800-321-3463 an einen Kundendienstmitarbeiter wenden, um eine Kopie per Post anzufordern.",
+        "yext/name": "Wie kann ich einen Reisenotiz auf meine Debitkarte festlegen?",
+        "yext/question": "Wie kann ich einen Reisenotiz auf meine Debitkarte festlegen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Para colocar una nota de viaje, puede iniciar sesión en su cuenta en línea, haga clic en \"Profile\", seleccione \"Secured Forms\" en el menú desplegable y seleccione \"Travel Notes\". También puede comunicarse con un representante de servicio al cliente al 800-321-3463 para solicitar que se le envíe una copia por correo.",
+        "yext/name": "¿Cómo puedo colocar una nota de viaje en mi tarjeta de débito?",
+        "yext/question": "¿Cómo puedo colocar una nota de viaje en mi tarjeta de débito?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Pour ajouter une note de voyage, vous pouvez vous connecter à votre compte en ligne, cliquer sur \"Profil\", sélectionner \"Formulaires sécurisés\" dans le menu déroulant et choisir \"Notes de voyage\". Vous pouvez également contacter un représentant du service clientèle au 800-321-3463 pour demander qu\u0027une copie vous soit envoyée par la poste.",
+        "yext/name": "Comment puis-je ajouter une note de voyage sur ma carte de débit ?",
+        "yext/question": "Comment puis-je ajouter une note de voyage sur ma carte de débit ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Per inserire una nota di viaggio è possibile accedere al proprio account online, fare clic su \"Profilo\", selezionare \"Moduli protetti\" dal menu a discesa e selezionare \"Note di viaggio\". Puoi anche contattare un rappresentante dell\u0027assistenza clienti al numero 800-321-3463 per richiedere una copia da spedire.",
+        "yext/name": "Come posso inserire una nota di viaggio sulla mia carta di debito?",
+        "yext/question": "Come posso inserire una nota di viaggio sulla mia carta di debito?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "オンラインアカウントにログインできるトラベルノートを配置するには、[プロファイル]をクリックし、ドロップダウンメニューから[セキュリティで保護されたフォーム]を選択して、[トラベルノート]を選択します。800-321-3463のカスタマーサービス担当者に連絡して、コピーの郵送を要求することもできます。",
+        "yext/name": "どうすれば旅行メモをデビットカードに入れることができますか？",
+        "yext/question": "どうすれば旅行メモをデビットカードに入れることができますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

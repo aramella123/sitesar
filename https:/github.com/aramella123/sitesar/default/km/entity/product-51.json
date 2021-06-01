@@ -1,0 +1,57 @@
+{
+  "$id": "product-51",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_benefits": [
+      "Competivie fixed-rate and adjustable loans",
+      "Commercial loans available up to $15 million with low rates on 5 \u0027",
+      "\u0027 7 \u0027",
+      "\u0027 and 15-year terms",
+      "Up to 75% loan-to-value on multifamily and mixed-use properties",
+      "Amortization terms up to 30 years",
+      "Refinancing and acquisition loans"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/commercial/multi-family-property-loans"
+      }
+    ],
+    "c_productType": "Multifamily \u0026 Mixed-Use Property",
+    "c_slug": "[[entityId]]",
+    "yext/landingPageUrl": "https://www.dime.com/commercial/multi-family-property-loans",
+    "yext/name": "Multifamily \u0026 Mixed-Use Property",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1231,
+          "sourceUrl": "https://images.pexels.com/photos/4482903/pexels-photo-4482903.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "thumbnails": [
+            {
+              "height": 761,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/619x761.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/365x450.jpg",
+              "width": 365
+            },
+            {
+              "height": 241,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/196x241.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/1000x1231.jpg",
+          "width": 1000
+        }
+      }
+    ],
+    "yext/richTextDescription": "Dime provides the flexible terms and expert service you need to finance your multifamily or mixed-use property in a way that works for you. Whether it’s an apartment building or a residential complex with commercial spaces, we’ll work with you to find the right financing option for your situation."
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

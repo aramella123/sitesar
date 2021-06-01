@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ030",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Holiday Schedule",
+        "url": "https://www.dime.com/branches/holiday-schedule"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "You can view the Holiday\u0027s Dime closes for by clicking the link below.",
+    "yext/name": "What holidays will Dime be closed for?",
+    "yext/question": "What holidays will Dime be closed for?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie können die Schließung des Holiday\u0027s Dime anzeigen, indem Sie auf den unten stehenden Link klicken.",
+        "yext/name": "Für welche Feiertage ist Dime geschlossen?",
+        "yext/question": "Für welche Feiertage ist Dime geschlossen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Puede ver los dias feriados de Dime haciendo clic en el enlace a continuación.",
+        "yext/name": "¿Qué días festivos estará cerrado Dime?",
+        "yext/question": "¿Qué días festivos estará cerrado Dime?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous pouvez consulter la fermeture pour congés de Dime en cliquant sur le lien ci-dessous.",
+        "yext/name": "Quels sont les jours fériés pour lesquels Dime sera fermée ?",
+        "yext/question": "Quels sont les jours fériés pour lesquels Dime sera fermée ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Puoi visualizzare le chiusure di Holiday\u0027s Dime facendo clic sul link in basso.",
+        "yext/name": "Per quali giorni festivi Dime sarà chiuso?",
+        "yext/question": "Per quali giorni festivi Dime sarà chiuso?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "以下のリンクをクリックすると、ホリデーダイムの締め切りを確認できます。",
+        "yext/name": "ダイムの休業日は？",
+        "yext/question": "ダイムの休業日は？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

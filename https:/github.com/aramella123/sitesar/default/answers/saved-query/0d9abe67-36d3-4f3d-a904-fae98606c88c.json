@@ -1,0 +1,14 @@
+{
+  "$id": "0d9abe67-36d3-4f3d-a904-fae98606c88c",
+  "$schema": "https://schema.yext.com/config/answers/saved-query/v1",
+  "answersKey": "dime",
+  "idealResult": {
+    "relevantSections": []
+  },
+  "locale": "en",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "pinIdealResults": false,
+  "queryString": "bank statement",
+  "notes": ""
+}

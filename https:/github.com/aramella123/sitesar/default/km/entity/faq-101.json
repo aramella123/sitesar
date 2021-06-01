@@ -1,0 +1,84 @@
+{
+  "$id": "faq-101",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "You can can submit the payment to: Dime Direct: P.O. Box 25226, Brooklyn, NY 11202",
+    "yext/keywords": [
+      "safety deposit box",
+      "safety box",
+      "safe box"
+    ],
+    "yext/name": "I have a safety deposit box at a branch that is temporarily closed. How can I submit my payment?",
+    "yext/question": "I have a safety deposit box at a branch that is temporarily closed. How can I submit my payment?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie können die Zahlung an folgende Adresse senden: Dime Direct: P.O. Box 25226, Brooklyn, NY 11202",
+        "yext/keywords": [
+          "Schließfach",
+          "Sicherheitsbox",
+          "Safe"
+        ],
+        "yext/name": "Ich habe einen Safe in einer Filiale, die vorübergehend geschlossen ist. Wie kann ich meine Zahlung einreichen?",
+        "yext/question": "Ich habe einen Safe in einer Filiale, die vorübergehend geschlossen ist. Wie kann ich meine Zahlung einreichen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Puede enviar el pago a: Dime Direct: P.O. Box 25226, Brooklyn, NY 11202",
+        "yext/keywords": [
+          "caja de seguridad"
+        ],
+        "yext/name": "Tengo una caja de seguridad en una sucursal que está temporalmente cerrada. ¿Cómo puedo enviar mi pago?",
+        "yext/question": "Tengo una caja de seguridad en una sucursal que está temporalmente cerrada. ¿Cómo puedo enviar mi pago?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous pouvez soumettre le paiement à : Dime Direct : P.O. Box 25226, Brooklyn, NY 11202",
+        "yext/keywords": [
+          "coffret de sûreté",
+          "coffre-fort"
+        ],
+        "yext/name": "J\u0027ai un coffre-fort dans une agence temporairement fermée. Comment puis-je effectuer mon paiement ?",
+        "yext/question": "J\u0027ai un coffre-fort dans une agence temporairement fermée. Comment puis-je effectuer mon paiement ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Puoi inviare il pagamento a: Dime Direct: P.O. Box 25226, Brooklyn, NY 11202",
+        "yext/keywords": [
+          "cassetta di sicurezza",
+          "deposito cassetta di sicurezza",
+          "cassaforte"
+        ],
+        "yext/name": "Ho una cassetta di sicurezza presso una filiale temporaneamente chiusa. Come posso inviare il mio pagamento?",
+        "yext/question": "Ho una cassetta di sicurezza presso una filiale temporaneamente chiusa. Come posso inviare il mio pagamento?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "支払い先は次のとおりです。ダイムコミュニティバンクDirect：PO Box 25226、Brooklyn、NY 11202",
+        "yext/name": "一時休業中の支店にセーフティボックスがあります。支払いを送信するにはどうすればよいですか？",
+        "yext/question": "一時休業中の支店にセーフティボックスがあります。支払いを送信するにはどうすればよいですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

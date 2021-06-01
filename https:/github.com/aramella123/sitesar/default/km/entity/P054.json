@@ -1,0 +1,68 @@
+{
+  "$id": "P054",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Read More",
+        "url": "https://www.dime.com/business/additional-business-services/beneficial-ownership"
+      }
+    ],
+    "c_productType": "Additional Business Banking Services",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Dime\u0027s Compliance to Beneficial Ownership",
+    "yext/landingPageUrl": "https://www.dime.com/business/additional-business-services/beneficial-ownership",
+    "yext/name": "Beneficial Ownership"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Zusätzliche Business Banking Services",
+        "yext/description": "Dimes Einhaltung des wirtschaftlichen Eigentums",
+        "yext/name": "Vorteilhafter Besitz"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_productType": "Servicios adicionales de banca personal",
+        "yext/description": "Cumplimiento de Dime de la propiedad beneficiaria",
+        "yext/name": "Propiedad beneficiosa"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_productType": "Autres services bancaires aux entreprises",
+        "yext/description": "Conformité de Dime à la propriété bénéficiaire",
+        "yext/name": "Propriété effective"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_productType": "Servizi bancari aziendali aggiuntivi",
+        "yext/description": "Conformità di Dime alla proprietà benefica",
+        "yext/name": "Proprietà benefica"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "追加のビジネスバンキングサービス",
+        "yext/description": "ダイムコミュニティバンクの受益所有権の遵守",
+        "yext/name": "受益権"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "$id": "location",
+  "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
+  "enabled": true,
+  "entityType": "yext/location",
+  "field": [
+    {
+      "id": "c_activeOnAnswers",
+      "required": false
+    },
+    {
+      "id": "c_answersGeomodifier",
+      "required": false
+    },
+    {
+      "id": "c_answersServices",
+      "required": false
+    },
+    {
+      "id": "c_branchServices",
+      "required": false
+    },
+    {
+      "id": "c_ctas",
+      "required": false
+    },
+    {
+      "id": "c_noFee",
+      "required": false
+    },
+    {
+      "id": "c_parents",
+      "required": false
+    },
+    {
+      "id": "c_slug",
+      "required": false
+    }
+  ]
+}

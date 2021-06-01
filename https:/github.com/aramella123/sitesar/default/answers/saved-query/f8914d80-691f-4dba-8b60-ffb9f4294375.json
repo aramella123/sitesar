@@ -1,0 +1,14 @@
+{
+  "$id": "f8914d80-691f-4dba-8b60-ffb9f4294375",
+  "$schema": "https://schema.yext.com/config/answers/saved-query/v1",
+  "answersKey": "dime",
+  "idealResult": {
+    "relevantSections": []
+  },
+  "locale": "en",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "pinIdealResults": false,
+  "queryString": "routing number",
+  "notes": ""
+}

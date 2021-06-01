@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ038",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Business Money Market",
+        "url": "https://www.dime.com/business/savings/money-market"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "The minimum deposit to open a Business Money Market Account is $100.",
+    "yext/name": "What is the minimum deposit to open up a Dime Business Money Market Account?",
+    "yext/question": "What is the minimum deposit to open up a Dime Business Money Market Account?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Die Mindesteinzahlung für die Eröffnung eines Business Money Market-Kontos beträgt 100 USD.",
+        "yext/name": "Was ist die Mindesteinzahlung, um ein Dime Business Money Market-Konto zu eröffnen?",
+        "yext/question": "Was ist die Mindesteinzahlung, um ein Dime Business Money Market-Konto zu eröffnen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "El depósito mínimo para abrir una cuenta de mercado monetario comercial es de $ 100.",
+        "yext/name": "¿Cuál es el depósito mínimo para abrir una cuenta mercado monetario comercial de Dime?",
+        "yext/question": "¿Cuál es el depósito mínimo para abrir una cuenta mercado monetario comercial de Dime?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Le dépôt minimum pour ouvrir un compte Business Marché Monétaire est de 100 €.",
+        "yext/name": "Quel est le dépôt minimum pour ouvrir un compte Dime Entreprise Money Market ?",
+        "yext/question": "Quel est le dépôt minimum pour ouvrir un compte Dime Entreprise Money Market ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Il deposito minimo per aprire un conto del mercato monetario aziendale è $ 100.",
+        "yext/name": "Qual è il deposito minimo per aprire un conto sul mercato monetario di Dime Business?",
+        "yext/question": "Qual è il deposito minimo per aprire un conto sul mercato monetario di Dime Business?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ビジネスマネーマーケットアカウントを開設するための最低入金額は$ 100です。",
+        "yext/name": "ダイムビジネスマネーマーケットアカウントを開設するための最低入金額はいくらですか？",
+        "yext/question": "ダイムビジネスマネーマーケットアカウントを開設するための最低入金額はいくらですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

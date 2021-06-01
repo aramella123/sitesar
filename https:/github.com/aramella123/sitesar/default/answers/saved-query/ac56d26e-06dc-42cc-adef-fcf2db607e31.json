@@ -1,0 +1,14 @@
+{
+  "$id": "ac56d26e-06dc-42cc-adef-fcf2db607e31",
+  "$schema": "https://schema.yext.com/config/answers/saved-query/v1",
+  "answersKey": "dime",
+  "idealResult": {
+    "relevantSections": []
+  },
+  "locale": "en",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "pinIdealResults": false,
+  "queryString": "personal banking",
+  "notes": ""
+}

@@ -1,0 +1,81 @@
+{
+  "$id": "ppp-22",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "No. There is no personal guarantee requirement. ***However, if the proceeds are used for fraudulent purposes, the U.S. government will pursue criminal charges against you.***",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "Do I need to personally guarantee this loan?",
+    "yext/question": "Do I need to personally guarantee this loan?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Nein, es besteht keine persönliche Garantie. *** Wenn der Erlös jedoch für betrügerische Zwecke verwendet wird, wird die US-Regierung Strafanzeigen gegen Sie erheben. ***",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Muss ich dieses Darlehen persönlich garantieren?",
+        "yext/question": "Muss ich dieses Darlehen persönlich garantieren?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "No. No hay requisito de garantía personal. *** Sin embargo, si las ganancias se utilizan con propósitos fraudulentos, el gobierno de los Estados Unidos presentará cargos penales contra usted. ***",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Necesito garantizar personalmente este préstamo?",
+        "yext/question": "¿Necesito garantizar personalmente este préstamo?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Non. Il n\u0027y a pas d\u0027exigence de garantie personnelle. ***Cependant, si le produit est utilisé à des fins frauduleuses, le gouvernement américain engagera des poursuites pénales contre vous.***",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "Dois-je garantir personnellement ce prêt ?",
+        "yext/question": "Dois-je garantir personnellement ce prêt ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "No. Non esiste alcun requisito di garanzia personale. *** Tuttavia, se i proventi vengono utilizzati a fini fraudolenti, il governo degli Stati Uniti perseguirà accuse penali nei tuoi confronti. ***",
+        "yext/keywords": [
+          "ppp.protezione dello stipendio"
+        ],
+        "yext/name": "Devo garantire personalmente questo prestito?",
+        "yext/question": "Devo garantire personalmente questo prestito?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "いいえ。個人的な保証の要件はありません。***ただし、収益が詐欺目的で使用された場合、米国政府はあなたに対する刑事訴訟を起こします。***",
+        "yext/name": "このローンを個人的に保証する必要がありますか？",
+        "yext/question": "このローンを個人的に保証する必要がありますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

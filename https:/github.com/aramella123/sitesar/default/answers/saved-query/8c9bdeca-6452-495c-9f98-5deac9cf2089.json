@@ -1,0 +1,14 @@
+{
+  "$id": "8c9bdeca-6452-495c-9f98-5deac9cf2089",
+  "$schema": "https://schema.yext.com/config/answers/saved-query/v1",
+  "answersKey": "dime",
+  "idealResult": {
+    "relevantSections": []
+  },
+  "locale": "en",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "pinIdealResults": false,
+  "queryString": "mobile banking",
+  "notes": ""
+}

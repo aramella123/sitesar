@@ -1,0 +1,50 @@
+{
+  "$id": "product-6",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_benefits": [
+      "Get FDIC insurance on your biggest investments",
+      "plus the flexibility to make withdraws using ICS accounts through Dime. Unmatched safety\u0027",
+      "\u0027 returns and coverage are available at your local Dime branch."
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron"
+      }
+    ],
+    "c_slug": "[[entityId]]",
+    "yext/landingPageUrl": "http://www.landingpage.com",
+    "yext/name": "Insured Cash Sweep (ICS)",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1231,
+          "sourceUrl": "https://images.pexels.com/photos/4482903/pexels-photo-4482903.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "thumbnails": [
+            {
+              "height": 761,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/619x761.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/365x450.jpg",
+              "width": 365
+            },
+            {
+              "height": 241,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/196x241.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/1000x1231.jpg",
+          "width": 1000
+        }
+      }
+    ],
+    "yext/richTextDescription": "Get access to ICS accounts and FDIC insurance with the convenience of Dime"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

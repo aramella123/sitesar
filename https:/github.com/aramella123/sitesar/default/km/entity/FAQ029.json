@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ029",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Branch Locations",
+        "url": "http://dime.com/branches"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "Dime has 28 Branches.",
+    "yext/name": "How many branches does Dime have?",
+    "yext/question": "How many branches does Dime have?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Dime hat 28 Niederlassungen.",
+        "yext/name": "Wie viele Filialen hat Dime?",
+        "yext/question": "Wie viele Filialen hat Dime?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Dime tiene 28 secursales.",
+        "yext/name": "¿Cuántas sucursales tiene Dime?",
+        "yext/question": "¿Cuántas sucursales tiene Dime?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Dime dispose de 28 agences.",
+        "yext/name": "De combien d\u0027agences dispose Dime ?",
+        "yext/question": "De combien d\u0027agences dispose Dime ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Dime ha 28 filiali.",
+        "yext/name": "Quante filiali ha Dime?",
+        "yext/question": "Quante filiali ha Dime?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムコミュニティバンクには28のブランチがあります。",
+        "yext/name": "ダイムにはいくつの支店がありますか？",
+        "yext/question": "ダイムにはいくつの支店がありますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

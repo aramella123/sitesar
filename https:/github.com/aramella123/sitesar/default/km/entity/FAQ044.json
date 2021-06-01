@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ044",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Contact Us",
+        "url": "https://www.dime.com/contact-us"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "Dime\u0027s customer service phone number hours are Monday - Friday 8:00 a.m. to 7:00 p.m. EST or Saturday 9:00 a.m. to 3:00 p.m. EST.",
+    "yext/name": "What are Dime\u0027s customer phone service hours?",
+    "yext/question": "What are Dime\u0027s customer phone service hours?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Der Kundenservice von Dime ist an folgenden Zeiten erreichbar: Montag bis Freitag von 8.00 bis 19.00 Uhr. EST oder Samstag 9.00 bis 15.00 Uhr EST.",
+        "yext/name": "Wie sind die Kundendienstzeiten von Dime?",
+        "yext/question": "Wie sind die Kundendienstzeiten von Dime?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "El horario de servicios al cliente de Dime es de lunes a viernes de 8:00 a.m. a 7:00 p.m. EST o sábado de 9:00 a.m. a 3:00 p.m. EST.",
+        "yext/name": "¿Cuáles son los horarios de atención telefónica de Dime?",
+        "yext/question": "¿Cuáles son los horarios de atención telefónica de Dime?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Le service clientèle par téléphone de Dime est accessible du lundi au vendredi de 8 h à 19 h (heure de l\u0027Est) ou le samedi de 9 h à 15 h (heure de l\u0027Est).",
+        "yext/name": "Quelles sont les heures d\u0027ouverture du service téléphonique pour les clients de Dime ?",
+        "yext/question": "Quelles sont les heures d\u0027ouverture du service téléphonique pour les clients de Dime ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Il numero di telefono del servizio clienti di Dime è dal lunedì al venerdì, dalle 8:00 alle 19:00 EST o sabato dalle 9:00 alle 15:00 EST.",
+        "yext/name": "Quali sono gli orari del servizio telefonico clienti di Dime?",
+        "yext/question": "Quali sono gli orari del servizio telefonico clienti di Dime?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムコミュニティバンクのカスタマーサービスの電話番号の営業時間は、月曜日から金曜日の午前8時から午後7時まで、または土曜日の午前9時から午後3時までです。",
+        "yext/name": "ダイムの顧客の電話サービス時間は何ですか？",
+        "yext/question": "ダイムの顧客の電話サービス時間は何ですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "$id": "P029",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "No minimum balance",
+      "No monthly maintenance fee",
+      "Free debit card",
+      "Free bill pay",
+      "Free Mobile Banking and Mobile Deposit*",
+      "Free eStatements with online check images"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/personal/checking/fabulous-50-interest-checking"
+      }
+    ],
+    "c_fees": "0.0",
+    "c_minimumDeposit": "25.0",
+    "c_productType": "Checking",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Checking with competitive interest rates. A Fabulous 50 Interest Checking account will set you up to reach your financial goals for retirement. Dime offers competitive interest rates \u0026 expert financial advice.",
+    "yext/landingPageUrl": "https://www.dime.com/personal/checking/fabulous-50-interest-checking",
+    "yext/name": "Fabulous 50 Interest Checking"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Girokonto",
+        "yext/description": "Überprüfung mit wettbewerbsfähigen Zinssätzen. Mit einem Fabulous 50 Interest Checking-Konto können Sie Ihre finanziellen Ziele für den Ruhestand erreichen. Dime bietet wettbewerbsfähige Zinssätze und kompetente Finanzberatung.",
+        "yext/name": "Fabulous 50 Interest Checking"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Sin saldo mínimo",
+          "Sin cuota de mantenimiento mensual",
+          "Tarjeta de débito gratuita",
+          "Pago de facturas gratuito",
+          "Banca móvil gratuita y Depósito móvil *",
+          "Declaraciones electrónicas gratuitas con imágenes de cheques en línea"
+        ],
+        "c_productType": "La cuenta corriente",
+        "yext/description": "Comprobación con tasas de interés competitivas. Una cuenta corriente Fabulous 50 Interest Checking lo preparará para alcanzar sus metas financieras para la jubilación. Dime ofrece tasas de interés competitivas y asesoramiento financiero experto.",
+        "yext/name": "50 cheques de interés fabulosos"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Pas de solde minimum",
+          "Pas de frais de maintenance mensuels",
+          "Carte de débit gratuite",
+          "Paiement de factures gratuit",
+          "Banque mobile et Dépôt mobile* gratuits",
+          "Relevés électroniques gratuits avec images de chèques en ligne"
+        ],
+        "c_productType": "Consultez le site",
+        "yext/description": "Vérification avec des taux d\u0027intérêt compétitifs. Un compte Fabulous 50 Interest Checking vous permettra d\u0027atteindre vos objectifs financiers pour la retraite. Dime propose des taux d\u0027intérêt compétitifs et des conseils financiers d\u0027experts.",
+        "yext/name": "Compte courant Fabulous 50 Interest"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Nessun saldo minimo",
+          "Nessuna commissione mensile di manutenzione",
+          "Carta di debito gratuita",
+          "Pagamento delle bollette gratuito",
+          "Mobile banking e deposito Mobile gratuiti *",
+          "eStatements gratuiti con immagini di assegni online"
+        ],
+        "c_productType": "Controllo",
+        "yext/description": "Verifica con tassi di interesse competitivi. Un favoloso conto di 50 interessi attivi ti imposterà per raggiungere i tuoi obiettivi finanziari per la pensione. Dime offre tassi di interesse competitivi e consulenza finanziaria di esperti.",
+        "yext/name": "Fabulous 50 Interest Checking"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "チェック中",
+        "yext/description": "競争力のある金利で確認します。ファビュラス50インタレストチェックアカウントは、退職後の財務目標を達成するための準備をします。ダイムは競争力のある金利と専門家の金融アドバイスを提供しています。",
+        "yext/name": "すばらしい50インタレストチェック"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

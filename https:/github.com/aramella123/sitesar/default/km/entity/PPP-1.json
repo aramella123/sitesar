@@ -1,0 +1,81 @@
+{
+  "$id": "PPP-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "For additional information, please contact Dime’s SBA Department by email at sba@dime.com or by calling 631-782-6280",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "Do I need to bank with Dime to submit a PPP Application?",
+    "yext/question": "Do I need to bank with Dime to submit a PPP Application?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Weitere Informationen erhalten Sie von der SBA-Abteilung von Dime per E-Mail unter sba@dime.com oder telefonisch unter 631-782-6280",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Muss ich bei Dime ein Bankkonto haben, um einen PPP-Antrag einzureichen?",
+        "yext/question": "Muss ich bei Dime ein Bankkonto haben, um einen PPP-Antrag einzureichen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Para obtener información adicional, comuníquese con el Departamento de la SBA (Administración de Pequeños Negocios) de Dime por correo electrónico a sba@dime.com o llamando al 631-782-6280",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Debo realizar operaciones bancarias con Dime para enviar una solicitud de PPP?",
+        "yext/question": "¿Debo realizar operaciones bancarias con Dime para enviar una solicitud de PPP?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Pour de plus amples informations, veuillez contacter le département SBA de Dime par e-mail à l\u0027adresse sba@dime.com ou par téléphone au 631-782-6280",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "Dois-je effectuer des opérations bancaires avec Dime pour soumettre une demande de PPS ?",
+        "yext/question": "Dois-je effectuer des opérations bancaires avec Dime pour soumettre une demande de PPS ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Per ulteriori informazioni, si prega di contattare il dipartimento SBA di Dime via e-mail all\u0027indirizzo sba@dime.com o chiamando il numero 631-782-6280",
+        "yext/keywords": [
+          "ppp.protezione dello stipendio"
+        ],
+        "yext/name": "Devo avere un conto bancario con Dime per inviare una richiesta PPP?",
+        "yext/question": "Devo avere un conto bancario con Dime per inviare una richiesta PPP?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "追加情報については、sba @ ダイムコミュニティバンク.comに電子メールで、または631-782-6280に電話することにより、ダイムのSBA部門に連絡してください。",
+        "yext/name": "PPP申請書を提出するには、ダイムコミュニティバンクで銀行に預金する必要がありますか？",
+        "yext/question": "PPP申請書を提出するには、ダイムコミュニティバンクで銀行に預金する必要がありますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

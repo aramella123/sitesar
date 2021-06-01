@@ -1,0 +1,14 @@
+{
+  "$id": "24777b0f-67b0-4f59-83ba-d50ffc0f7922",
+  "$schema": "https://schema.yext.com/config/answers/saved-query/v1",
+  "answersKey": "dime",
+  "idealResult": {
+    "relevantSections": []
+  },
+  "locale": "en",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "pinIdealResults": false,
+  "queryString": "credit card",
+  "notes": ""
+}

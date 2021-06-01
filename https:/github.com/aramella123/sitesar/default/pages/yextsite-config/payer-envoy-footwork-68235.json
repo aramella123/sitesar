@@ -1,0 +1,46 @@
+{
+  "$id": "payer-envoy-footwork-68235",
+  "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
+  "siteName": "Dime Bank",
+  "repoConfig": "giving-prowess-bannister-07586",
+  "siteSettings": {
+    "autoDeploy": true,
+    "autoStage": true,
+    "autoPublish": false,
+    "pullRequestsEnabled": false
+  },
+  "branches": [
+    {
+      "name": "main",
+      "stagingCredentials": {
+        "username": "",
+        "password": ""
+      },
+      "envVars": [],
+      "isProductionBranch": true
+    },
+    {
+      "name": "luc",
+      "stagingCredentials": {
+        "username": "",
+        "password": ""
+      },
+      "envVars": [
+        {
+          "key": "LUC_ENV_VARIABLE",
+          "value": "12345678910"
+        }
+      ],
+      "isProductionBranch": false
+    },
+    {
+      "name": "analytics",
+      "stagingCredentials": {
+        "username": "",
+        "password": ""
+      },
+      "envVars": [],
+      "isProductionBranch": false
+    }
+  ]
+}

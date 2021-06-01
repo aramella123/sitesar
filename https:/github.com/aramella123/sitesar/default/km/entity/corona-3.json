@@ -1,0 +1,111 @@
+{
+  "$id": "corona-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_dateOfUpdate": "3.12",
+    "c_fAQType": "COVID",
+    "yext/answer": "At Dime Community Bank, we are continuing to closely monitor the reports on Coronavirus (COVID-19). For information on COVID-19, you can visit the Centers for Disease Control and Prevention website at \u003ca href\u003d\"https://www.cdc.gov/coronavirus/2019-ncov/index.html\" target\u003d\"_blank\"\u003ehttps://www.cdc.gov/coronavirus/2019-ncov/index.html\u003c/a\u003e.\n\nWe would also like to take this opportunity to discuss how you can be prepared during this time. At Dime, we have several avenues for online banking that will allow you direct access to your accounts and payment of your bills digitally. First and foremost, you need to be enrolled in online banking. If you are, then you can pick from one of the options below to access your accounts 24/7 through Dime’s digital banking options. If you haven’t already done so, now is a great time to enroll. You can do that by clicking this link: \u003ca href\u003d\"https://dime.onlinebank.com/RegistrationDisclosure.aspx\" target\u003d\"_blank\"\u003eOnline Banking Enrollment\u003c/a\u003e to begin the process. It’s quick and will enable you to then choose from one of the options below for online banking.\n\nDime Mobile App\n\u003ca href\u003d\"https://itunes.apple.com/us/app/dime-community-bank-mobile/id1386709439?mt\u003d8\" target\u003d\"_blank\"\u003eApp Store\u003c/a\u003e\n\u003ca href\u003d\"https://play.google.com/store/apps/details?id\u003dcom.DIME.mobile\" target\u003d\"_blank\"\u003eGoogle Play\u003c/a\u003e\nDime.com on your desktop or mobile device\n\u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003ewww.dime.com\u003c/a\u003e\n\nWe will continue to monitor this situation, and keep you updated as it relates to the safety of our employees and customers.\n\nThank you,\n\nYour Dime Community Bank Team",
+    "yext/keywords": [
+      "COVID-19",
+      "coronavirus",
+      "closures",
+      "corona",
+      "COVID",
+      "covid",
+      "covid-19",
+      "Covid-19"
+    ],
+    "yext/name": "Coronavirus (COVID-19): Being prepared with Dime - As of March 12, 2020",
+    "yext/question": "Coronavirus (COVID-19): Being prepared with Dime - As of March 12, 2020"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "\"Bei der Dime Community Bank überwachen wir die Berichte über Coronavirus (COVID-19) weiterhin genau. Informationen zu COVID-19 finden Sie auf der Website der Zentren für die Kontrolle und Prävention von Krankheiten unter \u003ca href \u003d\" \"https: / /www.cdc.gov/coronavirus/2019-ncov/index.html \"\" target \u003d \"\" _blank \"\"\u003e https://www.cdc.gov/coronavirus/2019-ncov/index.html \u003c/a\u003e.\n \n Wir möchten diese Gelegenheit auch nutzen, um zu besprechen, wie Sie in dieser Zeit vorbereitet sein können. Bei Dime gibt es verschiedene Möglichkeiten für das Online-Banking, mit denen Sie direkt auf Ihre Konten zugreifen und Ihre Rechnungen digital bezahlen können. In erster Linie müssen Sie im Online-Banking registriert sein. Wenn dies der Fall ist, können Sie aus einer der folgenden Optionen auswählen, um rund um die Uhr über die digitalen Bankoptionen von Dime auf Ihre Konten zuzugreifen. Wenn Sie dies noch nicht getan haben, ist jetzt ein guter Zeitpunkt, sich anzumelden. Klicken Sie dazu auf diesen Link: \u003ca href\u003d\"\"https://dime.onlinebank.com/RegistrationDisclosure.aspx\"\" target\u003d\"\"_blank\"\"\u003e Online-Banking-Registrierung \u003c/a\u003e, um den Vorgang zu starten. Es ist schnell und ermöglicht es Ihnen, eine der folgenden Optionen für das Online-Banking auszuwählen.\n \n Dime Mobile App\n \u003ca href\u003d\"\"https://itunes.apple.com/us/app/dime-community-bank-mobile/id1386709439?mt\u003d8\"\" target\u003d\"\"_blank\"\"\u003e App Store \u003c/a\u003e\n \u003ca href\u003d\"\"https://play.google.com/store/apps/details?id\u003dcom.DIME.mobile\"\" target\u003d\"\"_blank\"\"\u003e Google Play \u003c/a\u003e\n Dime.com auf Ihrem Desktop oder Mobilgerät\n \u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003e www.dime.com \u003c/a\u003e\n \n Wir werden diese Situation weiterhin überwachen und Sie über die Sicherheit unserer Mitarbeiter und Kunden auf dem Laufenden halten.\n \n Vielen Dank,\n \n Ihr Dime Community Bank Team \"",
+        "yext/keywords": [
+          "COVID-19",
+          "Coronavirus",
+          "Verschlüsse",
+          "Corona",
+          "COVID",
+          "Covid",
+          "Covid-19"
+        ],
+        "yext/name": "Coronavirus (COVID-19): Vorbereitung mit Dime - Stand 12. März 2020",
+        "yext/question": "Coronavirus (COVID-19): Vorbereitung mit Dime - Stand 12. März 2020"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "En Dime Community Bank, continuamos monitoreando de cerca los informes sobre Coronavirus (COVID-19). Para obtener información sobre COVID-19, puede visitar el sitio web de los Centros para el Control y la Prevención de Enfermedades en \u003ca href\u003d\"https://www.cdc.gov/coronavirus/2019-ncov/index.html\" target\u003d\"_blank\"\u003e https://www.cdc.gov/coronavirus/2019-ncov/index.html \u003c/a\u003e.\n \n También nos gustaría aprovechar esta oportunidad para analizar cómo puede estar preparado durante este tiempo. En Dime, tenemos varias vías para la banca en línea que le permitirán acceder directamente a sus cuentas y al pago de sus facturas digitalmente. En primer lugar, debe estar inscrito en la banca en línea. Si es así, puede elegir una de las siguientes opciones para acceder a sus cuentas las 24 horas, los 7 días de la semana, a través de las opciones de banca digital de Dime. Si aún no lo ha hecho, ahora es un buen momento para inscribirse. Puede hacerlo haciendo clic en este enlace: \u003ca href\u003d\"https://dime.onlinebank.com/RegistrationDisclosure.aspx\" target\u003d\"_blank\"\u003e Inscripción en la banca en línea \u003c/a\u003e para comenzar el proceso. Es rápido y le permitirá elegir una de las siguientes opciones para la banca en línea.\n \n Dime Mobile App\n \u003ca href\u003d\"https://itunes.apple.com/us/app/dime-community-bank-mobile/id1386709439?mt\u003d8\" target\u003d\"_blank\"\u003e App Store \u003c/a\u003e\n \u003ca href\u003d\"https://play.google.com/store/apps/details?id\u003dcom.DIME.mobile\" target\u003d\"_blank\"\u003e Google Play \u003c/a\u003e\n Dime.com en su computadora de escritorio o dispositivo móvil\n \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003e www.dime.com \u003c/a\u003e\n \n Continuaremos monitoreando esta situación y lo mantendremos actualizado en lo que respecta a la seguridad de nuestros empleados y clientes.\n \n Gracias,\n \n Su equipo de Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "cierres",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Coronavirus (COVID-19): Preparándose con Dime - A partir del 12 de marzo de 2020",
+        "yext/question": "Coronavirus (COVID-19): Preparándose con Dime - A partir del 12 de marzo de 2020"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Chez Dime Community Bank, nous continuons à suivre de près les rapports sur le Coronavirus (COVID-19). Pour plus d\u0027informations sur COVID-19, vous pouvez consulter le site web des Centers for Disease Control and Prevention à l\u0027adresse suivante : \u003ca href\u003d\"\"https://www.cdc.gov/coronavirus/2019-ncov/index.html\"\" target\u003d\"\"_blank\"\"\u003ehttps://www.cdc.gov/coronavirus/2019-ncov/index.html\u003c/a\u003e.\n\nNous aimerions également profiter de cette occasion pour discuter de la manière dont vous pouvez vous préparer pendant cette période. Chez Dime, nous avons plusieurs possibilités de services bancaires en ligne qui vous permettront d\u0027accéder directement à vos comptes et de payer vos factures par voie numérique. Avant tout, vous devez être inscrit à la banque en ligne. Si c\u0027est le cas, vous pouvez choisir l\u0027une des options ci-dessous pour accéder à vos comptes 24 heures sur 24, 7 jours sur 7, grâce aux options bancaires numériques de Dime. Si vous ne l\u0027avez pas encore fait, c\u0027est le moment idéal pour vous inscrire. Vous pouvez le faire en cliquant sur ce lien : \u003ca href\u003d\"\"https://dime.onlinebank.com/RegistrationDisclosure.aspx\"\" target\u003d\"\"_blank\"\"\u003eInscription aux services bancaires en ligne\u003c/a\u003e pour commencer le processus. C\u0027est rapide et vous pourrez ensuite choisir l\u0027une des options ci-dessous pour la banque en ligne.\n\nApplication mobile Dime\n\u003ca href\u003d\"\"https://itunes.apple.com/us/app/dime-community-bank-mobile/id1386709439?mt\u003d8\"\" target\u003d\"\"_blank\"\"\u003eApp Store\u003c/a\u003e\n\u003ca href\u003d\"\"https://play.google.com/store/apps/details?id\u003dcom.DIME.mobile\"\" target\u003d\"\"_blank\"\"\u003eGoogle Play\u003c/a\u003e\nDime.com sur votre ordinateur de bureau ou votre appareil mobile\n\u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003ewww.dime.com\u003c/a\u003e\n\nNous continuerons de surveiller cette situation et vous tiendrons au courant de l\u0027évolution de la situation en ce qui concerne la sécurité de nos employés et de nos clients.\n\nJe vous remercie,\n\nVotre équipe Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "fermetures",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Coronavirus (COVID-19) : Se préparer avec Dime - À compter du 12 mars 2020",
+        "yext/question": "Coronavirus (COVID-19) : Se préparer avec Dime - À compter du 12 mars 2020"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Alla Dime Community Bank, stiamo continuando a monitorare attentamente i report sul Coronavirus (COVID-19). Per informazioni su COVID-19, è possibile visitare il sito web dei Centri per il controllo e la prevenzione delle malattie all\u0027indirizzo \u003ca href \u003d\" \"https: / /www.cdc.gov/coronavirus/2019-ncov/index.html \"\" target \u003d \"\" _blank \"\"\u003e https://www.cdc.gov/coronavirus/2019-ncov/index.html \u003c/a\u003e.\n\nVorremmo anche cogliere l\u0027occasione per discutere su come essere preparati in questo periodo. In Dime abbiamo diverse vie per l\u0027online banking che ti consentiranno l\u0027accesso diretto ai tuoi conti e il pagamento delle tue fatture in digitale. Innanzitutto, devi essere iscritto all\u0027online banking. Se lo sei, puoi scegliere una delle seguenti opzioni per accedere ai tuoi conti 24 ore su 24, 7 giorni su 7, tramite le opzioni di digital banking di Dime. Se non l\u0027hai già fatto, ora è il momento giusto per iscriverti. Puoi farlo facendo clic su questo link: \u003ca href\u003d\"\"https://dime.onlinebank.com/RegistrationDisclosure.aspx\"\" target\u003d\"\"_blank\"\"\u003e Iscrizione bancaria online \u003c/a\u003e per iniziare il processo. È veloce e ti consentirà quindi di scegliere una delle opzioni di seguito per l\u0027online banking.\n\nDime Mobile App\n\u003ca href\u003d\"\"https://itunes.apple.com/us/app/dime-community-bank-mobile/id1386709439?mt\u003d8\"\" target\u003d\"\"_blank\"\"\u003e App Store \u003c/a\u003e\n\u003ca href\u003d\"\"https://play.google.com/store/apps/details?id\u003dcom.DIME.mobile\"\" target\u003d\"\"_blank\"\"\u003e Google Play \u003c/a\u003e\nDime.com sul tuo desktop o dispositivo mobile\n\u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003e www.dime.com \u003c/a\u003e\n\nContinueremo a monitorare questa situazione e ti terremo aggiornato in relazione alla sicurezza dei nostri dipendenti e clienti.\n\nGrazie,\n\nIl tuo team Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "chiusure",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-27"
+        ],
+        "yext/name": "Coronavirus (COVID-19): essere preparati con Dime - Dal 12 marzo 2020",
+        "yext/question": "Coronavirus (COVID-19): essere preparati con Dime - Dal 12 marzo 2020"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムコミュニティバンクでは、コロナウイルス（COVID-19）に関する報告を注意深く監視し続けています。COVID-19の詳細については、\u003ca href\u003d\"https://www.cdc.gov/coronavirus/2019-ncov/index.html\" target\u003d\"_blank\"\u003eにあるCenters for Disease Control and PreventionのWebサイトにアクセスしてください。 https://www.cdc.gov/coronavirus/2019-ncov/index.html \u003c/a\u003e。また、この機会に、この間にあなたがどのように準備できるかについて話し合いたいと思います。ダイムコミュニティバンクには、オンラインバンキングのためのいくつかの手段があり、アカウントに直接アクセスして、デジタルで請求書を支払うことができます。まず第一に、あなたはオンラインバンキングに登録する必要があります。その場合は、以下のオプションのいずれかを選択して、ダイムコミュニティバンクのデジタルバンキングオプションを介して24時間年中無休でアカウントにアクセスできます。まだ行っていない場合は、今こそ登録する絶好の機会です。これを行うには、\u003ca href\u003d\"https://ダイムコミュニティバンク.onlinebank.com/RegistrationDisclosure.aspx\" target\u003d\"_blank\"\u003eオンラインバンキングへの登録\u003c/a\u003eをクリックしてプロセスを開始します。迅速で、オンラインバンキングのオプションを以下から選択できます。ダイムコミュニティバンクモバイルアプリ\u003ca href\u003d\"https://itunes.apple.com/us/app/ダイムコミュニティバンク-community-bank-mobile/id1386709439?mt\u003d8\" target\u003d\"_blank\"\u003e App Store \u003c/a\u003e \u003ca href \u003d \"https://play.google.com/store/apps/details?id\u003dcom.ダイムコミュニティバンク.mobile\" target \u003d \"_ blank\"\u003e Google Play \u003c/a\u003eデスクトップまたはモバイルデバイスのダイムコミュニティバンク.com \u003ca href \u003d \"https://www.ダイムコミュニティバンク.com/\" target \u003d \"_ blank\"\u003e www.ダイムコミュニティバンク.com \u003c/a\u003e私たちはこの状況を監視し続けます 従業員と顧客の安全に関連するため、最新情報を入手してください。ダイムコミュニティバンクチームより",
+        "yext/name": "コロナウイルス（COVID-19）：ダイムで準備中-2020年3月12日現在",
+        "yext/question": "コロナウイルス（COVID-19）：ダイムで準備中-2020年3月12日現在"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

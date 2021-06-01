@@ -1,0 +1,44 @@
+{
+  "$id": "c_education",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "displayName": "Education",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "school",
+          "displayName": "School",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "graduatingYear",
+          "displayName": "Graduating Year",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "degree",
+          "displayName": "Degree",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "exec-2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_title": "President and Chief Operating Officer",
+    "yext/description": "Founder of Community National Bank (Melville, New York), Community State Bank (Union Grove, Wisconsin) and Community National Bank (Pulaski, Virginia), Stuart H. Lubow is an entrepreneur and businessperson who has been at the helm of 9 different companies and presently occupies the position of President \u0026 Chief Operating Officer at Dime Community Bancshares, Inc. and President \u0026 Chief Operating Officer at BNB Bank (Bridgehampton, New York) and President for Dime Community Bank (both are subsidiaries of Dime Community Bancshares, Inc.). Mr. Lubow is also President at Dime Community Bank.\n\nHe previously held the position of Chief Operating Officer at New York Community Bancorp, Inc., Chairman, President \u0026 Chief Executive Officer of Community National Bank (Pulaski, Virginia), Chairman, President \u0026 Chief Executive Officer at Community National Bank (Melville, New York), Chairman for Community Bankers Association of New Jersey, President \u0026 Chief Executive Officer at Community State Bank (Union Grove, Wisconsin), President of Dime Community Bancshares, Inc., President \u0026 Chief Operating Officer for Bridge Bancorp, Inc. and Chief Operating Officer at Dollar Dry Dock Bank.\n\nStuart H. Lubow received an undergraduate degree from Moravian College.",
+    "yext/name": "Stuart Lubow",
+    "yext/websiteUrl": {
+      "displayUrl": "http://www.dime-test.org",
+      "preferDisplayUrl": false,
+      "url": "http://www.dime-test.org"
+    }
+  },
+  "entityType": "ce_executive",
+  "labels": []
+}

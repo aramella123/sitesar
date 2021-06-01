@@ -1,0 +1,57 @@
+{
+  "$id": "ce_executive",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_executive",
+  "displayName": "Executive",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "yext/entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "yext/description"
+        },
+        {
+          "id": "c_title"
+        },
+        {
+          "id": "yext/websiteUrl"
+        },
+        {
+          "id": "yext/awards"
+        },
+        {
+          "id": "yext/landingPageUrl"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/folder"
+        },
+        {
+          "id": "yext/labels"
+        }
+      ]
+    }
+  ]
+}

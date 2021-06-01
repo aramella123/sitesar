@@ -1,0 +1,62 @@
+{
+  "$id": "FAQ031",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "Dime was founded in 1864.",
+    "yext/name": "When was Dime founded?",
+    "yext/question": "When was Dime founded?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Dime wurde 1864 gegründet.",
+        "yext/name": "Wann wurde Dime gegründet?",
+        "yext/question": "Wann wurde Dime gegründet?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Dime fue fundada en 1864.",
+        "yext/name": "¿Cuándo se fundó Dime?",
+        "yext/question": "¿Cuándo se fundó Dime?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Dime a été fondée en 1864.",
+        "yext/name": "Quand Dime a-t-elle été fondée ?",
+        "yext/question": "Quand Dime a-t-elle été fondée ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Dime è stata fondata nel 1864.",
+        "yext/name": "Quando è stata fondata Dime?",
+        "yext/question": "Quando è stata fondata Dime?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムは1864年に設立されました。",
+        "yext/name": "ダイムはいつ設立されましたか？",
+        "yext/question": "ダイムはいつ設立されましたか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "$id": "faq-51",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Dime Careers",
+        "url": "https://www.dime.com/careers"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "Click the [link below](http://www.dime.com) to view our careers.",
+    "yext/name": "Are there any available career opportunities at Dime?",
+    "yext/question": "Are there any available career opportunities at Dime?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Klicken Sie auf den Link unten, um unsere Karrieren anzuzeigen.",
+        "yext/name": "Gibt es bei Dime Karrieremöglichkeiten?",
+        "yext/question": "Gibt es bei Dime Karrieremöglichkeiten?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Haga clic en el enlace a continuación para ver nuestras carreras.",
+        "yext/keywords": [
+          "trabajos"
+        ],
+        "yext/name": "¿Hay oportunidades profesionales disponibles en Dime?",
+        "yext/question": "¿Hay oportunidades profesionales disponibles en Dime?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Cliquez sur le lien ci-dessous pour voir nos offres d\u0027emploi.",
+        "yext/name": "Y a-t-il des opportunités de carrière disponibles chez Dime ?",
+        "yext/question": "Y a-t-il des opportunités de carrière disponibles chez Dime ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Fai clic sul link in basso per visualizzare le nostre carriere.",
+        "yext/name": "Ci sono opportunità di carriera disponibili in Dime?",
+        "yext/question": "Ci sono opportunità di carriera disponibili in Dime?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "以下のリンクをクリックして私たちのキャリアをご覧ください。",
+        "yext/name": "ダイムで利用可能なキャリアの機会はありますか？",
+        "yext/question": "ダイムで利用可能なキャリアの機会はありますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

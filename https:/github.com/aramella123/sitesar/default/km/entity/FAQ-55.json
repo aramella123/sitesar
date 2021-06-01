@@ -1,0 +1,62 @@
+{
+  "$id": "FAQ-55",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "To retrieve a secure message, log into online banking and either click on the envelope icon next to the question mark on the top banner or click on Profile and then Messages from the drop down menu.",
+    "yext/name": "How do I retrieve a secure message?",
+    "yext/question": "How do I retrieve a secure message?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Um eine sichere Nachricht abzurufen, melden Sie sich beim Online-Banking an und klicken Sie entweder auf das Umschlagsymbol neben dem Fragezeichen im oberen Banner oder klicken Sie im Dropdown-Menü auf Profil und dann auf Nachrichten.",
+        "yext/name": "Wie rufe ich eine sichere Nachricht ab?",
+        "yext/question": "Wie rufe ich eine sichere Nachricht ab?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Para recuperar un mensaje seguro, inicie sesión en la banca en línea y haga clic en el icono del sobre junto al signo de interrogación en el banner superior o haga clic en Perfil y luego en Mensajes en el menú desplegable.",
+        "yext/name": "¿Cómo recupero un mensaje seguro?",
+        "yext/question": "¿Cómo recupero un mensaje seguro?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Pour récupérer un message sécurisé, connectez-vous à la banque en ligne et cliquez soit sur l\u0027icône de l\u0027enveloppe à côté du point d\u0027interrogation dans la bannière supérieure, soit sur Profil et ensuite sur Messages dans le menu déroulant.",
+        "yext/name": "Comment récupérer un message sécurisé ?",
+        "yext/question": "Comment récupérer un message sécurisé ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Per recuperare un messaggio sicuro, accedi all\u0027online banking e fai clic sull\u0027icona della busta accanto al punto interrogativo sul banner in alto o fai clic su Profilo e quindi su Messaggi dal menu a discesa.",
+        "yext/name": "Come posso recuperare un messaggio sicuro?",
+        "yext/question": "Come posso recuperare un messaggio sicuro?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "安全なメッセージを取得するには、オンラインバンキングにログインし、上部バナーの疑問符の横にある封筒アイコンをクリックするか、ドロップダウンメニューから[プロファイル]をクリックしてから[メッセージ]をクリックします。",
+        "yext/name": "安全なメッセージを取得するにはどうすればよいですか？",
+        "yext/question": "安全なメッセージを取得するにはどうすればよいですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

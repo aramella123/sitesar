@@ -1,0 +1,14 @@
+{
+  "$id": "dcf3ec52-db11-43eb-917e-2ecbdde2047d",
+  "$schema": "https://schema.yext.com/config/answers/saved-query/v1",
+  "answersKey": "dime",
+  "idealResult": {
+    "relevantSections": []
+  },
+  "locale": "en",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "pinIdealResults": false,
+  "queryString": "cd rates",
+  "notes": ""
+}

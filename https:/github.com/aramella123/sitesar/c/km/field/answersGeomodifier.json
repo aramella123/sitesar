@@ -1,0 +1,14 @@
+{
+  "$id": "c_answersGeomodifier",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "Answers Geomodifier",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "yext/string"
+}

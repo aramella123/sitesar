@@ -1,0 +1,62 @@
+{
+  "$id": "FAQ068",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "Thank you for your interest in an auto loan with Dime Community Bank. Unfortunately, at this time Dime does not offer auto loans. We appreciate your interest.",
+    "yext/name": "Do you offer auto loans?",
+    "yext/question": "Do you offer auto loans?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Vielen Dank für Ihr Interesse an einem Autokredit bei der Dime Community Bank. Leider bietet Dime derzeit keine Autokredite an. Wir schätzen Ihr Interesse.",
+        "yext/name": "Bieten Sie Autokredite an?",
+        "yext/question": "Bieten Sie Autokredite an?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Gracias por su interés en un préstamo para automóviles con Dime Community Bank. Desafortunadamente, en este momento Dime no ofrece préstamos para automóviles. Agradecemos su interés.",
+        "yext/name": "¿Ofrecen préstamos para automóviles?",
+        "yext/question": "¿Ofrecen préstamos para automóviles?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Nous vous remercions de votre intérêt pour un prêt automobile auprès de la Dime Community Bank. Malheureusement, Dime ne propose pas de prêts automobiles pour le moment. Nous vous remercions de votre intérêt.",
+        "yext/name": "Proposez-vous des prêts automobile ?",
+        "yext/question": "Proposez-vous des prêts automobile ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Grazie per l\u0027interesse dimostrato per un prestito auto con la Dime Community Bank. Purtroppo, al momento Dime non offre prestiti auto. Apprezziamo il tuo interesse.",
+        "yext/name": "Offrite prestiti auto?",
+        "yext/question": "Offrite prestiti auto?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムコミュニティバンクの自動車ローンにご関心をお寄せいただきありがとうございます。残念ながら、現時点ではダイムは自動車ローンを提供していません。ご関心をお寄せいただきありがとうございます。",
+        "yext/name": "オートローンはありますか？",
+        "yext/question": "オートローンはありますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

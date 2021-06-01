@@ -1,0 +1,81 @@
+{
+  "$id": "ppp-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "Please contact Dime’s SBA Department by email at sba@dime.com\n \nWe have received an extremely large amount of emails and applications and we will contact you soon regarding your application. Thank you and stay safe!",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "Was my PPP Application received?",
+    "yext/question": "Was my PPP Application received?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Bitte kontaktieren Sie die SBA-Abteilung von Dime per E-Mail unter sba@dime.com\n \n Wir haben eine extrem große Anzahl von Anrufen, E-Mails und Bewerbungen erhalten und werden Sie in Kürze bezüglich Ihrer Bewerbung kontaktieren. Danke und bleiben Sie in Sicherheit!",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Wurde mein PPP-Antrag erhalten?",
+        "yext/question": "Wurde mein PPP-Antrag erhalten?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Comuníquese con el Departamento de SBA de Dime por correo electrónico a sba@dime.com\n \n Hemos recibido una cantidad extremadamente grande de llamadas, correos electrónicos y aplicaciones y nos pondremos en contacto con usted pronto con respecto a su solicitud. Gracias y mantente seguro/a!",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Se recibió mi solicitud de PPP?",
+        "yext/question": "¿Se recibió mi solicitud de PPP?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Veuillez contacter le département SBA de Dime par e-mail à l\u0027adresse sba@dime.com\n\nNous avons reçu un très grand nombre d\u0027appels, de courriers électroniques et de candidatures et nous vous contacterons bientôt au sujet de votre candidature. Merci et soyez prudents !",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "Ma demande de PPS a-t-elle été reçue ?",
+        "yext/question": "Ma demande de PPS a-t-elle été reçue ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Contatta il dipartimento SBA di Dime via e-mail all\u0027indirizzo sba@dime.com\n\nAbbiamo ricevuto una quantità estremamente elevata di e-mail e applicazioni e ti contatteremo presto in merito alla tua domanda. Grazie e riguardati!",
+        "yext/keywords": [
+          "ppp.protezione dello stipendio"
+        ],
+        "yext/name": "La mia richiesta PPP è stata ricevuta?",
+        "yext/question": "La mia richiesta PPP è stata ricevuta?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムのSBA部門に電子メールでsba@ダイムコミュニティバンク.comまでご連絡ください。\n非常に大量の電子メールとアプリケーションを受信しました。アプリケーションについてはすぐにご連絡いたします。どうぞよろしくお願いいたします。",
+        "yext/name": "私のPPPアプリケーションを受け取りましたか？",
+        "yext/question": "私のPPPアプリケーションを受け取りましたか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "$id": "P004",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Tiered",
+      "variable interest rate that is compounded daily and credited monthly",
+      "Earn a competitive interest rate on your funds",
+      "Safe and secure; FDIC-insured",
+      "Low $2",
+      "500 average daily balance to avoid a $10 monthly fee",
+      "Up to six checks per statement cycle(1)",
+      "Link your account to any Dime Business Banking checking account and make fast",
+      "easy transfers online or by phone",
+      "The minimum deposit required to open a Business Money Market Account is $100"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/business/savings/money-market"
+      }
+    ],
+    "c_fees": "10.0",
+    "c_minimumDeposit": "100.0",
+    "c_productType": "Business Money Market",
+    "c_slug": "[[entityId]]",
+    "yext/description": "With Dime\u0027s money market account, you receive competitive, variable interest rates, with higher rates for higher balances. As you grow, your account will grow with you.",
+    "yext/landingPageUrl": "https://www.dime.com/business/savings/money-market",
+    "yext/name": "Business Money Market Accounts"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Geschäftsgeldmarkt",
+        "yext/description": "Mit dem Geldmarktkonto von Dime erhalten Sie wettbewerbsfähige, variable Zinssätze mit höheren Zinssätzen für höhere Guthaben. Wenn Sie wachsen, wächst Ihr Konto mit Ihnen.",
+        "yext/name": "Geschäftsgeldmarktkonten"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Tasa de interés variable escalonada que se capitaliza diariamente y se acredita mensualmente. Gane una tasa de interés competitiva sobre sus fondos",
+          "Seguro y protegido; Asegurado por la FDIC",
+          "saldo diario promedio bajo de $ 2",
+          "500 para evitar una tarifa mensual de $ 10",
+          "hasta seis cheques por ciclo de estado de cuenta (1)",
+          "vincule su cuenta a cualquier cuenta corriente Dime Business Banking y realice transferencias rápidas y fáciles en línea o por teléfono",
+          "el mínimo Se requiere un depósito para abrir una cuenta de mercado monetario comercial de $ 100"
+        ],
+        "c_productType": "Mercado monetario empresarial",
+        "yext/description": "Con la cuenta del mercado monetario de Dime, recibe tasas de interés competitivas y variables, con tasas más altas para saldos más altos. A medida que crezca, su cuenta crecerá con usted.",
+        "yext/name": "Cuentas del mercado monetario empresarial"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Taux d\u0027intérêt variable progressif composé quotidiennement et crédité mensuellement",
+          "Gagnez un taux d\u0027intérêt compétitif sur vos fonds",
+          "Sûr et sécurisé ; assuré par la FDIC",
+          "Solde quotidien moyen de 2 500 € pour éviter des frais mensuels de 10 €",
+          "Jusqu\u0027à six chèques par cycle de relevé(1)",
+          "Reliez votre compte à n\u0027importe quel compte chèque Dime Business Banking et effectuez des transferts rapides et faciles en ligne ou par téléphone",
+          "Le dépôt minimum requis pour ouvrir un compte entreprise Marché Monétaire est de 100€"
+        ],
+        "c_productType": "Marché monétaire des entreprises",
+        "yext/description": "Avec le compte Marché Monétaire de Dime, vous bénéficiez de taux d\u0027intérêt variables et compétitifs, avec des taux plus élevés pour des soldes plus importants. Au fur et à mesure de votre croissance, votre compte augmentera avec vous.",
+        "yext/name": "Comptes du marché monétaire des entreprises"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Tasso di interesse variabile su più livelli composto giornalmente e accreditato mensilmente",
+          "Guadagna un tasso di interesse competitivo sui tuoi fondi",
+          "sicuro e protetto; Assicurazione FDIC",
+          "saldo giornaliero medio basso di $ 2",
+          "500 per evitare una commissione mensile di $ 10",
+          "fino a sei assegni per ciclo di rendiconto (1)",
+          "collega il tuo account a qualsiasi conto corrente bancario di Dime Business ed effettua trasferimenti rapidi e facili online o per telefono",
+          "il minimo il deposito richiesto per aprire un Conto del mercato monetario commerciale è di $ 100"
+        ],
+        "c_productType": "Mercato Monetario Aziendale",
+        "yext/description": "Con il conto Dime sul mercato monetario, ricevi tassi di interesse variabili e competitivi, con tassi più elevati per saldi più elevati. Man mano che cresci, il tuo account crescerà con te.",
+        "yext/name": "Conti del mercato monetario aziendale"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "ビジネスマネーマーケット",
+        "yext/description": "ダイムのマネーマーケットアカウントを使用すると、競争力のある変動金利を受け取り、より高い残高に対してより高いレートを得ることができます。あなたが成長するにつれて、あなたのアカウントはあなたとともに成長します。",
+        "yext/name": "ビジネスマネーマーケットアカウント"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

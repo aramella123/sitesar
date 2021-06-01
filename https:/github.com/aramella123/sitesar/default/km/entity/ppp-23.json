@@ -1,0 +1,81 @@
+{
+  "$id": "ppp-23",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "As part of your application, you need to certify in good faith that:\n\nCurrent economic uncertainty makes the loan necessary to support your on going operations.\n\nThe funds will be used to retain workers and maintain payroll or to make mortgage,lease, and utility payments.\n\nYou have not and will not receive another loan under this program.\n\nYou will provide to the lender documentation that verifies the number of full-time equivalent employees on payroll and the dollar amounts of payroll costs, covered mortgage interest payments, covered rent payments, and covered utilities for the eight weeks after getting this loan.\n\nLoan forgiveness will be provided for the sum of documented payroll costs, covered mortgage interest payments, covered rent payments, and covered utilities. Due to likely high subscription, it is anticipated that not more than 25% of the forgiven amount maybe for non-payroll costs.\n\nAll the information you provided in your application and in all supporting documents and forms is true and accurate. Knowingly making a false statement to get a loan under this program is punishable by law.\n\nYou acknowledge that the lender will calculate the eligible loan amount using the tax documents you submitted. You affirm that the tax documents are identical to those you submitted to the IRS. And you also understand, acknowledge, and agree that the lender can share the tax information with the SBA’s authorized representatives, including authorized representatives of the SBA Office of Inspector General, for the purpose of compliance with SBA Loan Program Requirements and all SBA reviews.",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "What do I need to certify?",
+    "yext/question": "What do I need to certify?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Im Rahmen Ihrer Bewerbung müssen Sie nachweisen, dass:\n \nAufgrund der aktuellen wirtschaftlichen Unsicherheit das Darlehen erforderlich ist, um Ihre laufenden Geschäfte zu unterstützen.\n \nDie Mittel verwendet werden, um Arbeitnehmer zu behalten und die Gehaltsabrechnung aufrechtzuerhalten oder um Hypotheken-, Leasing- und Versorgungszahlungen zu leisten.\n \nSie kein weiteres Darlehen im Rahmen dieses Programms erhalten haben und werden.\n \nSie dem Kreditgeber Unterlagen zur Verfügung stellen, in denen die Anzahl der vollzeitäquivalenten Mitarbeiter auf der Gehaltsliste und die Dollarbeträge der Gehaltsabrechnungskosten, der gedeckten Hypothekenzinszahlungen, der gedeckten Mietzahlungen und der gedeckten Nebenkosten für die acht Wochen nach Erhalt dieses Kredits überprüft werden.\n \n Die Kreditvergabe wird für die Summe der dokumentierten Lohn- und Gehaltskosten, der gedeckten Hypothekenzinszahlungen, der gedeckten Mietzahlungen und der gedeckten Nebenkosten gewährt. Aufgrund des wahrscheinlich hohen Abonnements wird erwartet, dass nicht mehr als 25% des vergebenen Betrags möglicherweise für nicht abrechnungsfähige Kosten anfallen.\n \n Alle Informationen, die Sie in Ihrer Bewerbung sowie in allen Belegen und Formularen angegeben haben, sind wahr und korrekt. Das Wissen, eine falsche Aussage zu machen, um einen Kredit im Rahmen dieses Programms zu erhalten, ist gesetzlich strafbar.\n \n Sie anerkennen, dass der Kreditgeber den förderfähigen Kreditbetrag anhand der von Ihnen eingereichten Steuerdokumente berechnet. Sie bestätigen, dass die Steuerdokumente mit denen identisch sind, die Sie beim IRS eingereicht haben. Sie verstehen, erkennen an und stimmen zu, dass der Kreditgeber die Steuerinformationen an die Bevollmächtigten der SBA weitergeben kann, einschließlich der Bevollmächtigten des SBA-Generalinspektorats, um die Anforderungen des SBA-Darlehensprogramms und alle SBA-Überprüfungen einzuhalten. \"",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Was muss ich zertifizieren?",
+        "yext/question": "Was muss ich zertifizieren?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Como parte de su solicitud, debe certificar de buena fe que:\n \n La incertidumbre económica actual hace que el préstamo sea necesario para respaldar sus operaciones en curso.\n \n Los fondos se utilizarán para retener a los trabajadores y mantener la nómina o para realizar pagos de hipotecas, alquileres y servicios públicos.\n \n No ha recibido ni recibirá otro préstamo bajo este programa.\n \n Usted proporcionará al prestamista documentación que verifique el número de empleados equivalentes a tiempo completo en la nómina y los montos en dólares de los costos de la nómina, los pagos de intereses hipotecarios cubiertos, los pagos de alquiler cubiertos y los servicios públicos cubiertos durante las ocho semanas posteriores a la obtención de este préstamo.\n \n Se otorgará la condonación del préstamo por la suma de los costos documentados de la nómina, los pagos de intereses hipotecarios cubiertos, los pagos de alquiler cubiertos y los servicios públicos cubiertos. Debido a la alta suscripción probable, se anticipa que no más del 25% de la cantidad perdonada puede ser por costos no relacionados con la nómina.\n \n Toda la información que proporcionó en su solicitud y en todos los documentos y formularios de respaldo es verdadera y precisa. Hacer una declaración falsa a sabiendas para obtener un préstamo bajo este programa es punible por ley.\n \n Usted reconoce que el prestamista calculará el monto del préstamo elegible utilizando los documentos fiscales que presentó. Usted afirma que los documentos fiscales son idénticos a los que presentó al IRS. Y también comprende, reconoce y acepta que el prestamista puede compartir la información fiscal con los representantes autorizados de la SBA, incluidos los representantes autorizados de la Oficina del Inspector General de la SBA, con el fin de cumplir con los Requisitos del Programa de Préstamos de la SBA y todas las revisiones de la SBA.",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Qué necesito para certificar?",
+        "yext/question": "¿Qué necesito para certificar?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Dans le cadre de votre demande, vous devez attester en toute bonne foi que :\n\nL\u0027incertitude économique actuelle rend le prêt nécessaire pour soutenir vos activités en cours.\n\nLes fonds seront utilisés pour retenir les employés et maintenir la masse salariale ou pour effectuer des paiements d\u0027hypothèque, de bail et de services publics.\n\nVous n\u0027avez pas reçu et ne recevrez pas d\u0027autre prêt dans le cadre de ce programme.\n\nVous fournirez au prêteur des documents qui vérifient le nombre d\u0027employés équivalents à temps plein sur la masse salariale et les montants en euros des coûts salariaux, des paiements d\u0027intérêts hypothécaires couverts, des paiements de loyer couverts et des services publics couverts pendant les huit semaines suivant l\u0027obtention de ce prêt.\n\nVous serez dispensé de rembourser le prêt pour la somme des coûts salariaux documentés, des intérêts hypothécaires couverts, des loyers couverts et des services publics couverts. En raison du montant probablement élevé de la souscription, il est prévu que pas plus de 25 % du montant remis ne soit consacré à des frais non salariaux.\n\nToutes les informations que vous avez fournies dans votre demande et dans tous les documents et formulaires justificatifs sont véridiques et exactes. Faire sciemment une fausse déclaration pour obtenir un prêt dans le cadre de ce programme est punissable par la loi.\n\nVous reconnaissez que le prêteur calculera le montant du prêt admissible à l\u0027aide des documents fiscaux que vous avez présentés. Vous affirmez que les documents fiscaux sont identiques à ceux que vous avez soumis à l\u0027URSSAF. Et vous comprenez, reconnaissez et acceptez également que le prêteur peut partager les informations fiscales avec les représentants autorisés du SBA, y compris les représentants autorisés du Bureau de l\u0027Inspecteur général du SBA, aux fins du respect des exigences du programme de prêt du SBA et de tous les examens du SBA.",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "Que dois-je fournir comme justificatifs ?",
+        "yext/question": "Que dois-je fournir comme justificatifs ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Come parte della domanda, è necessario certificare in buona fede che:\n\nL\u0027attuale incertezza economica rende il prestito necessario per supportare le operazioni in corso.\n\nI fondi verranno utilizzati per trattenere i lavoratori e mantenere i salari o per effettuare mutui, leasing e pagamenti di utilità.\n\nNon hai e non riceverai un altro prestito nell\u0027ambito di questo programma.\n\nFornirai al finanziatore la documentazione che verifica il numero di dipendenti equivalenti a tempo pieno sul personale e gli importi in dollari dei costi del personale, i pagamenti degli interessi sui mutui coperti, i pagamenti degli affitti coperti e le utenze coperte per le otto settimane successive all\u0027ottenimento di questo prestito.\n\nIl perdono del prestito sarà fornito per la somma dei costi documentati delle retribuzioni, dei pagamenti coperti degli interessi sui mutui, dei pagamenti coperti per l\u0027affitto e delle utenze coperte. A causa della probabile elevata sottoscrizione, si prevede che non più del 25% dell\u0027importo perdonato possa essere dovuto a costi non salariali.\n\nTutte le informazioni fornite nella domanda e in tutti i documenti e moduli di supporto sono veritiere e accurate. Fare consapevolmente una falsa dichiarazione per ottenere un prestito nell\u0027ambito di questo programma è punibile dalla legge.\n\nRiconosci che il creditore calcolerà l\u0027importo del prestito idoneo utilizzando i documenti fiscali che hai inviato. Dichiari che i documenti fiscali sono identici a quelli che hai presentato all\u0027IRS. Inoltre, comprendi, riconosci e accetti che il creditore può condividere le informazioni fiscali con i rappresentanti autorizzati della SBA, compresi i rappresentanti autorizzati dell\u0027ufficio ispettore generale della SBA, ai fini della conformità ai requisiti del programma di prestito SBA e tutte le revisioni della SBA.",
+        "yext/keywords": [
+          "ppp.protezione dello stipendio"
+        ],
+        "yext/name": "Cosa devo certificare?",
+        "yext/question": "Cosa devo certificare?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "アプリケーションの一部として、次のことを誠実に証明する必要があります。現在の経済的不確実性により、ローンは継続的な運用をサポートするために必要になります。資金は、労働者を保持し、給与を維持するために、または住宅ローン、リース、およびユーティリティの支払いを行うために使用されます。このプログラムでは、ローンをまだ受けていません。このローンを取得してから8週間、給与計算に従事するフルタイムの相当する従業員の数と給与計算コストのドル金額、住宅ローンの利息の支払い、家賃の支払い、および公益事業を検証する貸し手用ドキュメントを貸し手に提供します。文書化された給与コスト、カバーされた住宅ローンの利息の支払い、カバーされた家賃の支払い、およびカバーされたユーティリティの合計に対して、ローンの赦しが提供されます。おそらく高いサブスクリプションのため、たぶん、給与以外の費用の場合、許された金額の25％以下になると予想されます。アプリケーションおよびすべてのサポートドキュメントとフォームで提供したすべての情報は、真実かつ正確です。このプログラムに基づいてローンを取得するために故意に虚偽の陳述を行うことは、法律により罰せられます。あなたは、貸し手があなたが提出した税務書類を使用して適格な融資額を計算することを認めます。あなたは税務書類がIRSに提出したものと同一であることを確認します。また、SBAローンプログラムの要件とすべてのSBAレビューに準拠する目的で、貸し手がSBAの監督官庁の認定代理人を含むSBAの認定代理人と税務情報を共有できることを理解し、認め、同意します。アプリケーションおよびすべてのサポートドキュメントとフォームで提供したすべての情報は、真実かつ正確です。このプログラムに基づいてローンを取得するために故意に虚偽の陳述を行うことは、法律により罰せられます。あなたは、貸し手があなたが提出した税務書類を使用して適格な融資額を計算することを認めます。あなたは税務書類がIRSに提出したものと同一であることを確認します。また、SBAローンプログラムの要件とすべてのSBAレビューに準拠する目的で、貸し手がSBAの監督官庁の認定代理人を含むSBAの認定代理人と税務情報を共有できることを理解し、認め、同意します。アプリケーションおよびすべてのサポートドキュメントとフォームで提供したすべての情報は、真実かつ正確です。このプログラムに基づいてローンを取得するために故意に虚偽の陳述を行うことは、法律により罰せられます。あなたは、貸し手があなたが提出した税務書類を使用して適格な融資額を計算することを認めます。あなたは税務書類がIRSに提出したものと同一であることを確認します。また、SBAローンプログラムの要件とすべてのSBAレビューに準拠する目的で、貸し手がSBAの監督官庁の認定代理人を含むSBAの認定代理人と税務情報を共有できることを理解し、認め、同意します。このプログラムに基づいてローンを取得するために故意に虚偽の陳述を行うことは、法律により罰せられます。あなたは、貸し手があなたが提出した税務書類を使用して適格な融資額を計算することを認めます。あなたは税務書類がIRSに提出したものと同一であることを確認します。また、SBAローンプログラムの要件とすべてのSBAレビューに準拠する目的で、貸し手がSBAの監督官庁の認定代理人を含むSBAの認定代理人と税務情報を共有できることを理解し、認め、同意します。このプログラムに基づいてローンを取得するために故意に虚偽の陳述を行うことは、法律により罰せられます。あなたは、貸し手があなたが提出した税務書類を使用して適格な融資額を計算することを認めます。あなたは税務書類がIRSに提出したものと同一であることを確認します。また、SBAローンプログラムの要件とすべてのSBAレビューに準拠する目的で、貸し手がSBAの監督官庁の認定代理人を含むSBAの認定代理人と税務情報を共有できることを理解し、認め、同意します。",
+        "yext/name": "何を証明する必要がありますか？",
+        "yext/question": "何を証明する必要がありますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

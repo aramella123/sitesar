@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ022",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Privacy Notice",
+        "url": "https://www.dime.com/accessibility"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "You can find Dime\u0027s privacy notice by clicking the link below.",
+    "yext/name": "What is Dime\u0027s Privacy Notice?",
+    "yext/question": "What is Dime\u0027s Privacy Notice?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie finden die Datenschutzerklärung von Dime, indem Sie auf den unten stehenden Link klicken.",
+        "yext/name": "Was ist die Datenschutzerklärung von Dime?",
+        "yext/question": "Was ist die Datenschutzerklärung von Dime?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Puede encontrar el aviso de privacidad de Dime haciendo clic en el enlace a continuación.",
+        "yext/name": "¿Qué es el Aviso de privacidad de Dime?",
+        "yext/question": "¿Qué es el Aviso de privacidad de Dime?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous pouvez trouver l\u0027avis de confidentialité de Dime en cliquant sur le lien ci-dessous.",
+        "yext/name": "Quel est l\u0027avis de confidentialité de Dime ?",
+        "yext/question": "Quel est l\u0027avis de confidentialité de Dime ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Puoi trovare l\u0027informativa sulla privacy di Dime facendo clic sul collegamento in basso.",
+        "yext/name": "Qual è l\u0027informativa sulla privacy di Dime?",
+        "yext/question": "Qual è l\u0027informativa sulla privacy di Dime?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "以下のリンクをクリックすると、ダイムコミュニティバンクのプライバシーに関するお知らせをご覧いただけます。",
+        "yext/name": "ダイムのプライバシー通知とは何ですか？",
+        "yext/question": "ダイムのプライバシー通知とは何ですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "$id": "corona-11",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": false,
+    "c_coronaVirusFAQ": true,
+    "c_dateOfUpdate": "3.22",
+    "c_fAQType": "COVID",
+    "yext/answer": "Dime Community Bank’s Bensonhurst branch located at 1545 86th Street, Brooklyn, NY, will reopen on Monday, March 23, 2020, and as with all our locations will operate under modified branch hours, opening at 9:00 AM.\n\nAnd, as always, you can access your accounts any time at \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003ewww.dime.com\u003c/a\u003e on your desktop or mobile device, or through the Dime mobile app.\n\nThank you,\n\nYour Dime Community Bank Team.",
+    "yext/keywords": [
+      "COVID-19",
+      "coronavirus",
+      "closures",
+      "corona",
+      "COVID",
+      "covid",
+      "covid-19",
+      "Covid-19"
+    ],
+    "yext/name": "Bensonhurst Branch Update - As of March 22, 2020",
+    "yext/question": "Bensonhurst Branch Update - As of March 22, 2020"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Die Bensonhurst-Filiale der Dime Community Bank in der 1545 86th Street in Brooklyn, NY, wird am Montag, dem 23. März 2020, wiedereröffnet und wie alle unsere Standorte unter geänderten Filialzeiten betrieben und um 9:00 Uhr geöffnet.\n \n  Und wie immer können Sie jederzeit unter \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003e www.dime.com \u003c/a\u003e auf Ihre Konten zugreifen Desktop oder Mobilgerät oder über die Dime Mobile App.\n \n  Vielen Dank,\n \n  Ihr Dime Community Bank Team.",
+        "yext/keywords": [
+          "COVID-19",
+          "Coronavirus",
+          "Verschlüsse",
+          "Corona",
+          "COVID",
+          "Covid",
+          "Covid-19"
+        ],
+        "yext/name": "Bensonhurst Filiale Update - Stand 22. März 2020",
+        "yext/question": "Bensonhurst Filiale Update - Stand 22. März 2020"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "La sucursal de Dime Community Bank en Bensonhurst, ubicada en 1545 86th Street, Brooklyn, NY, reabrirá el lunes 23 de marzo de 2020, y al igual que con todas nuestras ubicaciones, operará en horario de sucursal modificado, abriendo a las 9:00 a.m.\n \n Y, como siempre, puede acceder a sus cuentas en cualquier momento en \u003ca href\u003d\"https://www.dime.com/\" target\u003d\"_blank\"\u003e www.dime.com \u003c/a\u003e en su computadora de escritorio o dispositivo móvil , o a través de la aplicación móvil Dime.\n \n Gracias,\n \n Su equipo de Dime Community Bank.",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "cierres",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Actualización de la sucursal de Bensonhurst - A partir del 22 de marzo de 2020",
+        "yext/question": "Actualización de la sucursal de Bensonhurst - A partir del 22 de marzo de 2020"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "L\u0027agence Bensonhurst Dime Community Bank située au 1545 86th Street, Brooklyn, NY, rouvrira le lundi 23 mars 2020 et, comme toutes nos agences, elle fonctionnera selon des horaires modifiés, en ouvrant à 9h00.\n\nEt, comme toujours, vous pouvez accéder à vos comptes à tout moment sur \u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003ewww.dime.com\u003c/a\u003e depuis votre ordinateur ou votre appareil mobile, ou par le biais de l\u0027application mobile Dime.\n\nMerci,\n\nVotre équipe Dime Community Bank.",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "fermetures",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Mise à jour concernant l\u0027agence Bensonhurst - à compter du 22 mars 2020",
+        "yext/question": "Mise à jour concernant l\u0027agence Bensonhurst - à compter du 22 mars 2020"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "La filiale di Bensonhurst della Dime Community Bank, situata nella 1545 86th Street, Brooklyn, New York, riaprirà lunedì 23 marzo 2020 e, come in tutte le nostre sedi, opererà in orari di filiale modificati, aprendo alle 9:00.\n\nE, come sempre, puoi accedere ai tuoi account in qualsiasi momento all\u0027indirizzo \u003ca href\u003d\"\"https://www.dime.com/\"\" target\u003d\"\"_blank\"\"\u003e www.dime.com \u003c/a\u003e sul tuo desktop o dispositivo mobile o tramite l\u0027app mobile Dime.\n\nGrazie,\n\nIl tuo team Dime Community Bank.",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "chiusure",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-24"
+        ],
+        "yext/name": "Bensonhurst Aggiornamento Filiale - Al 22 Marzo 2020",
+        "yext/question": "Bensonhurst Aggiornamento Filiale - Al 22 Marzo 2020"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムコミュニティバンクのベンソンハースト支店は、ニューヨーク州ブルックリンの1545 86th Streetにあり、2020年3月23日月曜日に営業を再開します。他のすべての場所と同様に、営業時間は午前9時に営業します。また、いつものように、デスクトップまたはモバイルデバイスの\u003ca href\u003d\"https://www.ダイムコミュニティバンク.com/\" target\u003d\"_blank\"\u003e www.ダイムコミュニティバンク.com \u003c/a\u003eまたはダイムコミュニティバンクモバイルアプリを介して、いつでもアカウントにアクセスできます。\n\nダイムコミュニティバンクチームより。",
+        "yext/name": "ベンソンハースト支店の最新情報-2020年3月22日現在",
+        "yext/question": "ベンソンハースト支店の最新情報-2020年3月22日現在"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "sites-states",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "pages",
+  "fields": [
+    "id",
+    "uid",
+    "name",
+    "c_slug",
+    "c_children.name",
+    "c_children.c_slug"
+  ],
+  "filter": {
+    "entityTypes": [
+      "ce_state"
+    ]
+  }
+}

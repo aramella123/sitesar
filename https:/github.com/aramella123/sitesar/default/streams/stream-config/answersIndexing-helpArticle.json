@@ -1,0 +1,30 @@
+{
+  "$id": "answersIndexing-helpArticle",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "streamsapi",
+  "fields": [
+    "body",
+    "keywords",
+    "name",
+    "uid",
+    "id",
+    "timezone",
+    "meta",
+    "matchingSearchIds"
+  ],
+  "filter": {
+    "entityTypes": [
+      "helpArticle"
+    ]
+  },
+  "localization": {
+    "locales": [
+      "en",
+      "fr",
+      "es",
+      "de",
+      "it"
+    ]
+  }
+}

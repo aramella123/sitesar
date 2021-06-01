@@ -1,0 +1,104 @@
+{
+  "$id": "P022",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Supplementing or managing cash flow",
+      "Funding growth or new opportunities",
+      "Establishing business credit",
+      "Debit Card",
+      "Online Banking",
+      "Mobile Banking",
+      "eStatements"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/commercial/secured-and-unsecured-lines-credit"
+      }
+    ],
+    "c_productType": "Commercial Lines of Credit",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Manage your ongoing operational expenses with a line of credit that’s secured by a blanket lien on your assets or a certificate of deposit. A Dime secured line of credit features revolving loan terms with annual renewal, no cash advance fees and no interest charges until you use the funds.",
+    "yext/landingPageUrl": "https://www.dime.com/commercial/secured-and-unsecured-lines-credit",
+    "yext/name": "Commerical Lines of Credit"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Kommerzielle Kreditlinien",
+        "yext/description": "Verwalten Sie Ihre laufenden Betriebskosten mit einer Kreditlinie, die durch ein pauschales Pfandrecht an Ihrem Vermögen oder eine Einzahlungsbescheinigung gesichert ist. Eine durch Dime gesicherte Kreditlinie bietet revolvierende Darlehensbedingungen mit jährlicher Verlängerung, keine Vorauszahlungsgebühren und keine Zinsgebühren, bis Sie die Mittel verwenden.",
+        "yext/name": "Kommerzielle Kreditlinien"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Complementar o gestionar el flujo de caja",
+          "el crecimiento de la financiación o nuevas oportunidades",
+          "el establecimiento de crédito comercial",
+          "tarjeta de débito",
+          "banca en línea",
+          "banca móvil",
+          "estados de cuenta electrónicos"
+        ],
+        "c_productType": "Líneas de crédito comerciales",
+        "yext/description": "Administre sus gastos operativos continuos con una línea de crédito garantizada por un gravamen general sobre sus activos o un certificado de depósito. La línea de crédito asegurada de Dime cuenta con términos de préstamos renovables con renovación anual, sin cargos por adelanto de efectivo y sin intereses hasta que use los fondos.",
+        "yext/name": "Líneas de crédito comerciales"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Compléter ou gérer votre trésorerie",
+          "Financer la croissance ou de nouvelles opportunités",
+          "Établir un crédit commercial",
+          "Carte de débit",
+          "Banque en ligne",
+          "Banque mobile",
+          "Relevés électroniques"
+        ],
+        "c_productType": "Lignes de crédit commerciales",
+        "yext/description": "Gérez vos dépenses opérationnelles courantes grâce à une ligne de crédit garantie par un privilège général sur vos actifs ou un certificat de dépôt. Une ligne de crédit garantie par Dime comporte des conditions de prêt renouvelables avec un renouvellement annuel, sans frais d\u0027avance de fonds et sans frais d\u0027intérêt jusqu\u0027à ce que vous utilisiez les fonds.",
+        "yext/name": "Lignes de crédit commerciales"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Integrazione o gestione del flusso di cassa",
+          "crescita del finanziamento o nuove opportunità",
+          "creazione di credito commerciale",
+          "carta di debito",
+          "servizi bancari online",
+          "servizi bancari mobili",
+          "eStatements"
+        ],
+        "c_productType": "Linee di credito commerciali",
+        "yext/description": "Gestisci le tue spese operative in corso con una linea di credito garantita da un privilegio generale sui tuoi beni o da un certificato di deposito. Una linea di crediti garantiti Dime presenta condizioni di prestito rotative con rinnovo annuale, senza commissioni di anticipo in contanti e senza interessi fino a quando non si utilizzano i fondi.",
+        "yext/name": "Linee di credito commerciali"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "商業信用枠",
+        "yext/description": "資産の一括先取特権または預金証書で保護された信用限度額を使用して、継続的な運用費用を管理します。ダイムのセキュリティで保護された信用枠は、年次更新を伴う回転ローン条件を備えており、資金を使用するまで、キャッシュアドバンス料金や利息はありません。",
+        "yext/name": "商業信用枠"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

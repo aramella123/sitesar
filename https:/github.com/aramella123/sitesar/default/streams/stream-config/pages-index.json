@@ -1,0 +1,22 @@
+{
+  "$id": "pages-index",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "streamsapi",
+  "fields": [
+    "id",
+    "uid",
+    "name",
+    "logo",
+    "c_slug",
+    "c_children.name",
+    "c_children.c_slug",
+    "c_children.c_children.name",
+    "c_children.c_children.c_slug"
+  ],
+  "filter": {
+    "entityTypes": [
+      "ce_site"
+    ]
+  }
+}

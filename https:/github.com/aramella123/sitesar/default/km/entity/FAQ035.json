@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ035",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Digital Wallet",
+        "url": "https://www.dime.com/personal/digital-wallet"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "You can find all of the information about Dime\u0027s Digital Wallet service by clicking the link below.",
+    "yext/name": "Can I add my Dime debit card to my Digital Wallet?",
+    "yext/question": "Can I add my Dime debit card to my Digital Wallet?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Sie finden alle Informationen zum Digital Wallet-Service von Dime, indem Sie auf den folgenden Link klicken.",
+        "yext/name": "Kann ich meine Dime-Debitkarte zu meiner digitalen Geldbörse hinzufügen?",
+        "yext/question": "Kann ich meine Dime-Debitkarte zu meiner digitalen Geldbörse hinzufügen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Puede encontrar toda la información sobre el servicio de la billetera digital de Dime haciendo clic en el enlace a continuación.",
+        "yext/name": "¿Puedo agregar mi tarjeta de débito Dime a mi billetera digital?",
+        "yext/question": "¿Puedo agregar mi tarjeta de débito Dime a mi billetera digital?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Vous pouvez trouver toutes les informations sur le service Portefeuille électronique Dime en cliquant sur le lien ci-dessous.",
+        "yext/name": "Puis-je ajouter ma carte de débit Dime à mon Portefeuille Electronique ?",
+        "yext/question": "Puis-je ajouter ma carte de débit Dime à mon Portefeuille Electronique ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Puoi trovare tutte le informazioni sul servizio di portafoglio digitale di Dime facendo clic sul collegamento in basso.",
+        "yext/name": "Posso aggiungere la mia carta di credito Dime al mio Portafogli Digitale?",
+        "yext/question": "Posso aggiungere la mia carta di credito Dime al mio Portafogli Digitale?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "以下のリンクをクリックすると、ダイムのデジタルウォレットサービスに関するすべての情報を見つけることができます。",
+        "yext/name": "ダイムコミュニティバンクデビットカードをデジタルウォレットに追加できますか？",
+        "yext/question": "ダイムコミュニティバンクデビットカードをデジタルウォレットに追加できますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

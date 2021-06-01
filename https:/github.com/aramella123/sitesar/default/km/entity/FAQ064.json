@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ064",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Existing Customer Personal Online Login",
+        "url": "https://dime.onlinebank.com/SignIn.aspx"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "To retrieve your statements online, you can login to your online account, click on accounts and select e-statements from the drop down menu. You can also contact a customer service representative at 800-321-3463 to request a copy be mailed.",
+    "yext/name": "How can I request personal bank statements I have not received?",
+    "yext/question": "How can I request personal bank statements I have not received?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Um Ihre Kontoauszüge online abzurufen, können Sie sich bei Ihrem Online-Konto anmelden, auf Konten klicken und E-Kontoauszüge aus dem Dropdown-Menü auswählen. Sie können sich auch unter 800-321-3463 an einen Kundendienstmitarbeiter wenden, um eine Kopie per Post anzufordern.",
+        "yext/name": "Wie kann ich persönliche Kontoauszüge anfordern, die ich nicht erhalten habe?",
+        "yext/question": "Wie kann ich persönliche Kontoauszüge anfordern, die ich nicht erhalten habe?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Para recuperar sus estados de cuenta en línea, puede iniciar sesión en su cuenta en línea, hacer clic en cuentas y seleccionar estados de cuenta electrónicos en el menú desplegable. También puede comunicarse con un representante de servicio al cliente al 800-321-3463 para solicitar que se le envíe una copia por correo.",
+        "yext/name": "¿Cómo puedo solicitar extractos bancarios personales que no he recibido?",
+        "yext/question": "¿Cómo puedo solicitar extractos bancarios personales que no he recibido?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Pour récupérer vos relevés en ligne, vous pouvez vous connecter à votre compte en ligne, cliquer sur comptes et sélectionner \"relevés électroniques\" dans le menu déroulant. Vous pouvez également contacter un représentant du service clientèle au 800-321-3463 pour demander qu\u0027une copie vous soit envoyée par la poste.",
+        "yext/name": "Comment puis-je demander des relevés bancaires personnels que je n\u0027ai pas reçus ?",
+        "yext/question": "Comment puis-je demander des relevés bancaires personnels que je n\u0027ai pas reçus ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Per recuperare le dichiarazioni online, è possibile accedere al proprio account online, fare clic sugli account e selezionare dichiarazioni elettroniche dal menu a discesa. Puoi anche contattare un rappresentante del servizio clienti al numero 800-321-3463 per richiedere l\u0027invio postale di una copia.",
+        "yext/name": "Come posso richiedere estratti conto personali che non ho ricevuto?",
+        "yext/question": "Come posso richiedere estratti conto personali che non ho ricevuto?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "明細書をオンラインで取得するには、オンラインアカウントにログインし、アカウントをクリックして、ドロップダウンメニューからe-statementsを選択します。また、800-321-3463のカスタマーサービス担当者に連絡して、コピーの郵送を要求することもできます。",
+        "yext/name": "受け取っていない個人の銀行取引明細書をリクエストするにはどうすればよいですか？",
+        "yext/question": "受け取っていない個人の銀行取引明細書をリクエストするにはどうすればよいですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

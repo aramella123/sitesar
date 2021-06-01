@@ -1,0 +1,132 @@
+{
+  "$id": "P040",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_benefits": [
+      "Fixed rate and adjustable options up to $3 million on 1 to 4 family homes \u0027",
+      "\u0027 condos \u0027",
+      "\u0027 and co-ops. From pre approval (2) to closing \u0027",
+      "\u0027 a Dime mortgage loan originator will work with you every step of the way to make sure you get exactly what you need",
+      "You\u0027ll find Dime\u0027s mortgage solutions easy to understand and hard to beat. Plus if you are a Dime banking customer you may be eligible for a special discounted rate on ARM loans",
+      "Free pre-approvals (2). We\u0027ll tell you how much you qualify for so you can be a more savvy homebuyer",
+      "By refinancing your current mortgage \u0027",
+      "\u0027 you can tap into the equity of your home or condo to consolidate high-interest bills of for major expenses like education \u0027",
+      "\u0027 home renovation \u0027",
+      "\u0027 travel \u0027",
+      "\u0027 weddings \u0027",
+      "\u0027 a car \u0027",
+      "\u0027 whatever\u0027s important to you and your family"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Apply Online",
+        "url": "https://5252533772.mortgage-application.net/WebApp/Start.aspx?oempage\u003d1\u0026_ga\u003d2.95586847.2003660159.1582553679-1742100825.1578928651"
+      },
+      {
+        "icon": "chevron",
+        "text": "Get Pre-Approved",
+        "url": "https://5252533772.mortgage-application.net/WebApp/ShortApp.aspx?_ga\u003d2.268013325.2003660159.1582553679-1742100825.1578928651\u0026oempage\u003d1"
+      }
+    ],
+    "c_productType": "Mortgage",
+    "c_slug": "[[entityId]]",
+    "yext/description": "Dime has the local knowledge that comes from being a neighborhood bank, plus seasoned mortgage loan originators \u0026 the commitment to deliver a mortgage loan done right.",
+    "yext/landingPageUrl": "https://www.dime.com/personal/mortgage",
+    "yext/name": "Mortgages"
+  },
+  "entityType": "ce_product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_productType": "Hypothek",
+        "yext/description": "Dime verfügt über das lokale Wissen, das aus einer Nachbarschaftsbank stammt, sowie über erfahrene Originatoren von Hypothekendarlehen und die Verpflichtung, ein Hypothekendarlehen richtig zu liefern.",
+        "yext/name": "Hypotheken"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "c_benefits": [
+          "Tasa fija y opciones ajustables de hasta $ 3 millones en 1 a 4 casas familiares",
+          "\u0027condominios\u0027 y \u0027cooperativas. Desde la aprobación previa (2) hasta el cierre \u0027",
+          "\u0027 un originador de préstamos hipotecarios Dime trabajará con usted en cada paso del camino para asegurarse de que obtenga exactamente lo que necesita. Encontrará que las soluciones hipotecarias de Dime son fáciles de entender y difíciles de superar. Además",
+          "si usted es un cliente bancario de Dime",
+          "puede ser elegible para una tasa de descuento especial en préstamos ARM",
+          "pre-aprobaciones gratuitas (2). Le diremos para cuánto califica para que pueda ser un comprador de vivienda más inteligente. Al refinanciar su hipoteca actual \u0027",
+          "\u0027 puede aprovechar el capital de su casa o condominio para consolidar facturas de alto interés de gastos importantes como educación \u0027",
+          "\u0027 renovación del hogar \u0027",
+          "\u0027 viaje \u0027",
+          "\u0027 bodas \u0027",
+          "\u0027 un automóvil \u0027",
+          "\u0027 lo que sea importante para usted y su familia"
+        ],
+        "c_productType": "Hipoteca",
+        "yext/description": "Dime tiene el conocimiento local que proviene de ser un banco vecino, además de creadores de préstamos hipotecarios experimentados y el compromiso de entregar un préstamo hipotecario bien hecho.",
+        "yext/name": "Hipotecas"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "c_benefits": [
+          "Taux fixe et options ajustables jusqu\u0027à 3 millions d\u0027euros sur les maisons familiales 1 à 4\u0027",
+          "\u0027 les appartements et les copropriétés. De l\u0027approbation préalable (2) à la conclusion du contrat\u0027",
+          "\u0027 un initiateur de prêt hypothécaire de Dime travaillera avec vous à chaque étape pour s\u0027assurer que vous obtenez exactement ce dont vous avez besoin. Vous trouverez les solutions hypothécaires de Dime faciles à comprendre et difficiles à battre. De plus\u0027",
+          "\u0027 si vous êtes client de Dime banking",
+          "vous pouvez bénéficier d\u0027un taux réduit spécial sur les prêts ARM\u0027",
+          "\u0027 avec pré-approbations gratuites (2). Nous vous dirons à combien vous pouvez prétendre pour être un acheteur de maison plus avisé. En refinançant votre prêt hypothécaire actuel\u0027",
+          "\u0027 vous pouvez puiser dans la valeur nette de votre maison ou de votre appartement pour consolider les factures à taux d\u0027intérêt élevé des dépenses majeures comme l\u0027éducation",
+          "la rénovation de la maison\u0027",
+          "\u0027 les voyages\u0027",
+          "\u0027 les mariages\u0027",
+          "\u0027 une voiture\u0027",
+          "\u0027 tout ce qui est important pour vous et votre famille."
+        ],
+        "c_productType": "Hypothèque",
+        "yext/description": "Dime a la connaissance locale qui vient du fait qu\u0027elle est une banque de quartier, plus des initiateurs de prêts hypothécaires chevronnés et l\u0027engagement de fournir un prêt hypothécaire bien fait.",
+        "yext/name": "Prêts hypothécaires"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "c_benefits": [
+          "Tariffa fissa e opzioni regolabili fino a $ 3 milioni in 1-4 case familiari \u0027",
+          "\u0027 condomini \u0027",
+          "\u0027 e cooperative. Dalla pre-approvazione (2) alla chiusura \"",
+          "\" un cedente di mutui ipotecari Dime lavorerà con te in ogni fase per assicurarti di ottenere esattamente ciò di cui hai bisogno",
+          "troverai le soluzioni ipotecarie di Dime facili da capire e difficili da battere. Inoltre",
+          "se sei un cliente bancario Dime potresti avere diritto a una tariffa speciale scontata sui prestiti ARM",
+          "pre-approvazioni gratuite (2). Ti diremo quanto ti qualifichi in modo da poter essere un acquirente di casa più esperto",
+          "rifinanziando il tuo mutuo attuale \"",
+          "\" puoi attingere al patrimonio netto della tua casa o condominio per consolidare fatture ad alto interesse per spese importanti come l\u0027istruzione \"",
+          "\" rinnovo casa \"",
+          "\" viaggi \"",
+          "\" matrimoni \"",
+          "\" un\u0027auto \"",
+          "\" tutto ciò che è importante per te e la tua famiglia"
+        ],
+        "c_productType": "Mutuo",
+        "yext/description": "Dime ha le conoscenze locali che derivano dall\u0027essere una banca di quartiere, oltre a creatori di prestiti ipotecari stagionati e all\u0027impegno di erogare un mutuo fatto nel modo giusto.",
+        "yext/name": "mutui"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "c_productType": "抵当",
+        "yext/description": "ダイムは、近所の銀行であるという地元の知識に加え、経験豊富な住宅ローンのオリジネーターと、住宅ローンを適切に提供するというコミットメントを持っています。",
+        "yext/name": "住宅ローン"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

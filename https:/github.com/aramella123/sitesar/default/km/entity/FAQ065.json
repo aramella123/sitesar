@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ065",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "Existing Customer Business Online Login",
+        "url": "https://dime.olbanking.com/smallbusiness/auth"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "To retrieve your business statements online, you can login to your online account and select Statements SSO from the menu on the left panel. You can also contact a customer service representative at 800-321-3463 to request a copy be mailed.",
+    "yext/name": "How can I request online bank statements I have not received for my business?",
+    "yext/question": "How can I request online bank statements I have not received for my business?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Um Ihre Geschäftsauszüge online abzurufen, können Sie sich bei Ihrem Online-Konto anmelden und im Menü auf der linken Seite die Option Statements SSO auswählen. Sie können sich auch unter 800-321-3463 an einen Kundendienstmitarbeiter wenden, um eine Kopie per Post anzufordern.",
+        "yext/name": "Wie kann ich Online-Kontoauszüge anfordern, die ich für mein Unternehmen nicht erhalten habe?",
+        "yext/question": "Wie kann ich Online-Kontoauszüge anfordern, die ich für mein Unternehmen nicht erhalten habe?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Para recuperar sus extractos comerciales en línea, puede iniciar sesión en su cuenta en línea y seleccionar Extractos SSO en el menú del panel izquierdo. También puede comunicarse con un representante de servicio al cliente al 800-321-3463 para solicitar que se le envíe una copia por correo.",
+        "yext/name": "¿Cómo puedo solicitar extractos bancarios en línea que no he recibido para mi negocio?",
+        "yext/question": "¿Cómo puedo solicitar extractos bancarios en línea que no he recibido para mi negocio?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Pour récupérer vos relevés d\u0027entreprise en ligne, vous pouvez vous connecter à votre compte en ligne et sélectionner Relevés SSO dans le menu du panneau de gauche. Vous pouvez également contacter un représentant du service clientèle au 800-321-3463 pour demander qu\u0027une copie vous soit envoyée par la poste.",
+        "yext/name": "Comment puis-je demander des relevés bancaires en ligne que je n\u0027ai pas reçus pour mon entreprise ?",
+        "yext/question": "Comment puis-je demander des relevés bancaires en ligne que je n\u0027ai pas reçus pour mon entreprise ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Per recuperare le dichiarazioni commerciali online, è possibile accedere al proprio account online e selezionare Dichiarazioni SSO dal menu nel pannello di sinistra. Puoi anche contattare un rappresentante del servizio clienti al numero 800-321-3463 per richiedere una copia da spedire.",
+        "yext/name": "Come posso richiedere estratti conto online che non ho ricevuto per la mia attività?",
+        "yext/question": "Come posso richiedere estratti conto online che non ho ricevuto per la mia attività?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "オンラインでビジネスステートメントを取得するには、オンラインアカウントにログインし、左側のパネルのメニューから[ステートメントSSO]を選択します。また、800-321-3463のカスタマーサービス担当者に連絡して、コピーの郵送を要求することもできます。",
+        "yext/name": "自分のビジネスについて受け取っていないオンライン銀行取引明細書をリクエストするにはどうすればよいですか？",
+        "yext/question": "自分のビジネスについて受け取っていないオンライン銀行取引明細書をリクエストするにはどうすればよいですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

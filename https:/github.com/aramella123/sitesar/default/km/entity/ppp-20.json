@@ -1,0 +1,81 @@
+{
+  "$id": "ppp-20",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_fAQType": "PPP",
+    "c_isPPP": true,
+    "yext/answer": "Yes. There are no prepayment penalties or fees.",
+    "yext/keywords": [
+      "ppp",
+      "paycheck protection"
+    ],
+    "yext/name": "Can I pay my loan earlier than 2 years?",
+    "yext/question": "Can I pay my loan earlier than 2 years?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Ja. Es gibt keine Vorauszahlungsstrafen oder Gebühren.",
+        "yext/keywords": [
+          "ppp",
+          "Gehaltsscheckschutz"
+        ],
+        "yext/name": "Kann ich mein Darlehen früher als in 2 Jahren bezahlen?",
+        "yext/question": "Kann ich mein Darlehen früher als in 2 Jahren bezahlen?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Si. No hay multas por pago anticipado ni tarifas.",
+        "yext/keywords": [
+          "ppp",
+          "protección de sueldo"
+        ],
+        "yext/name": "¿Puedo pagar mi préstamo antes de los 2 años?",
+        "yext/question": "¿Puedo pagar mi préstamo antes de los 2 años?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Oui. Il n\u0027y a pas de pénalités ou de frais pour paiement anticipé.",
+        "yext/keywords": [
+          "PPS",
+          "protection du chèque de paie"
+        ],
+        "yext/name": "Puis-je rembourser mon prêt avant 2 ans ?",
+        "yext/question": "Puis-je rembourser mon prêt avant 2 ans ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Sì. Non ci sono penalità o commissioni per il pagamento anticipato.",
+        "yext/keywords": [
+          "pps.protezione dello stipendio"
+        ],
+        "yext/name": "Posso pagare il mio prestito prima di 2 anni?",
+        "yext/question": "Posso pagare il mio prestito prima di 2 anni?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "はい。前払いの罰金や手数料はありません。",
+        "yext/name": "2年より前にローンを支払うことはできますか？",
+        "yext/question": "2年より前にローンを支払うことはできますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

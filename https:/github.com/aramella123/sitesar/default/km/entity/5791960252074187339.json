@@ -1,0 +1,12 @@
+{
+  "$id": "5791960252074187339",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_title": "Senior Executive Vice President and Chief Financial Officer",
+    "yext/description": "Avinash Reddy is Senior Executive Vice President and Chief Financial Officer of the Company and the Bank. Mr. Reddy is responsible for the Company’s strategic, financial, capital and liquidity planning and investor relations. From 2017 to January 2019, Mr. Reddy served as Senior Vice President, Head of Corporate Development and Treasurer. Prior to joining the Company, Mr. Reddy held several investment banking roles with firms including Evercore Partners, from 2011 to 2014, Barclays Capital, from 2008 to 2011 and Lehman Brothers, from 2005 to 2008.",
+    "yext/name": "Avinash Reddy"
+  },
+  "entityType": "ce_executive",
+  "labels": []
+}

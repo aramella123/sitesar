@@ -1,0 +1,10 @@
+{
+  "$id": "jambo-dime-test.yext.com",
+  "$schema": "https://schema.yext.com/config/pages/domain/v1",
+  "domainName": "jambo-dime-test.yext.com",
+  "autoGenerateSitemap": true,
+  "domainAccess": true,
+  "pagesCDNAccess": false,
+  "answersIntegration": false,
+  "reverseProxy": false
+}

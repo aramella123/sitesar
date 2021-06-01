@@ -1,0 +1,68 @@
+{
+  "$id": "FAQ046",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_ctas": [
+      {
+        "text": "FAQ",
+        "url": "https://www.dime.com/faqs"
+      }
+    ],
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "There is no penalty to close a DimeDirect® Money Market Account. You can make up to six withdrawals per monthly statement cycle without any penalties or fees.",
+    "yext/name": "Is there a penalty to close the DimeDirect® Money Market Account or fees to withdraw money?",
+    "yext/question": "Is there a penalty to close the DimeDirect® Money Market Account or fees to withdraw money?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Die Schließung eines DimeDirect®-Geldmarktkontos ist nicht strafbar. Sie können bis zu sechs Abhebungen pro monatlichem Kontoauszugszyklus ohne Strafen oder Gebühren vornehmen.",
+        "yext/name": "Gibt es eine Strafe für die Schließung des DimeDirect®-Geldmarktkontos oder Gebühren für das Abheben von Geld?",
+        "yext/question": "Gibt es eine Strafe für die Schließung des DimeDirect®-Geldmarktkontos oder Gebühren für das Abheben von Geld?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "No hay penalidad por cerrar una cuenta DimeDirect® Money Market. Puede realizar hasta seis retiros por ciclo de estado de cuenta mensual sin penalizaciones ni tarifas.",
+        "yext/name": "¿Existe una penalización por cerrar la cuenta del mercado monetario DimeDirect® o tarifas por retirar dinero?",
+        "yext/question": "¿Existe una penalización por cerrar la cuenta del mercado monetario DimeDirect® o tarifas por retirar dinero?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Il n\u0027y a pas de pénalité pour fermer un compte DimeDirect® Marché monétaire. Vous pouvez effectuer jusqu\u0027à six retraits par cycle de relevé mensuel sans aucune pénalité ni frais.",
+        "yext/name": "Y a-t-il une pénalité pour fermer le compte DimeDirect® Money Market ou des frais pour retirer de l\u0027argent ?",
+        "yext/question": "Y a-t-il une pénalité pour fermer le compte DimeDirect® Money Market ou des frais pour retirer de l\u0027argent ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Non è previsto alcun addebito per la chiusura di un Conto del mercato monetario DimeDirect®. È possibile effettuare fino a sei prelievi per ciclo di rendiconto mensile senza penali o commissioni.",
+        "yext/name": "È prevista una penalità per chiudere il Conto del mercato monetario DimeDirect® o le commissioni per prelevare denaro?",
+        "yext/question": "È prevista una penalità per chiudere il Conto del mercato monetario DimeDirect® o le commissioni per prelevare denaro?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムコミュニティバンクDirect®マネーマーケットアカウントを閉鎖してもペナルティはありません。ペナルティや手数料なしで、毎月のステートメントサイクルごとに最大6つの引き出しを行うことができます。",
+        "yext/name": "ダイムコミュニティバンクDirect®マネーマーケットアカウントを閉鎖するペナルティまたは出金手数料はありますか？",
+        "yext/question": "ダイムコミュニティバンクDirect®マネーマーケットアカウントを閉鎖するペナルティまたは出金手数料はありますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

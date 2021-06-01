@@ -1,0 +1,41 @@
+{
+  "$id": "c_benefits",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "Benefits",
+  "displayNameTranslation": [
+    {
+      "localeCode": "de",
+      "value": "Vorteile"
+    },
+    {
+      "localeCode": "es",
+      "value": "Beneficios"
+    },
+    {
+      "localeCode": "fr",
+      "value": "Avantages"
+    },
+    {
+      "localeCode": "it",
+      "value": "Benefici"
+    },
+    {
+      "localeCode": "ja",
+      "value": "ベネフィット"
+    }
+  ],
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "type": {
+    "listType": {
+      "typeId": "yext/string",
+      "type": {
+        "stringType": {
+          "stereotype": "SIMPLE"
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

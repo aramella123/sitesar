@@ -1,0 +1,77 @@
+{
+  "$id": "FAQ011",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "For assistance with renewing your maturing CD, please call our customer service center at 800-321-3463 and a customer service representative will be able to assist you.",
+    "yext/keywords": [
+      "Certificate of Deposit"
+    ],
+    "yext/name": "How can I renew my maturing CD?",
+    "yext/question": "How can I renew my maturing CD?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Wenn Sie Hilfe bei der Erneuerung Ihrer ausgereiften CD benötigen, rufen Sie bitte unser Kundendienstzentrum unter 800-321-3463 an. Ein Kundendienstmitarbeiter kann Ihnen weiterhelfen.",
+        "yext/keywords": [
+          "Einzahlungsschein"
+        ],
+        "yext/name": "Wie kann ich meine ausgereifte CD erneuern?",
+        "yext/question": "Wie kann ich meine ausgereifte CD erneuern?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Para obtener ayuda para renovar su CD que está madurando, llame a nuestro centro de servicio al cliente al 800-321-3463 y un representante de servicio al cliente podrá ayudarlo.",
+        "yext/keywords": [
+          "Certificado de deposito"
+        ],
+        "yext/name": "¿Cómo puedo renovar mi certificado de depósito que vence?",
+        "yext/question": "¿Cómo puedo renovar mi certificado de depósito que vence?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Pour obtenir de l\u0027aide concernant le renouvellement de votre CD en cours, veuillez appeler notre service clientèle au 800-321-3463 où un collaborateur du service clientèle sera en mesure de vous aider.",
+        "yext/keywords": [
+          "Certificat de dépôt"
+        ],
+        "yext/name": "Comment puis-je renouveler mon CD arrivant à échéance ?",
+        "yext/question": "Comment puis-je renouveler mon CD arrivant à échéance ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Per assistenza con il rinnovo del CD in scadenza, chiama il nostro centro di assistenza clienti al numero 800-321-3463 e un rappresentante del servizio clienti sarà in grado di aiutarti.",
+        "yext/keywords": [
+          "Certificato di Deposito"
+        ],
+        "yext/name": "Come posso rinnovare il mio CD in scadenza?",
+        "yext/question": "Come posso rinnovare il mio CD in scadenza?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "有効期限が切れたCDの更新については、カスタマーサービスセンター（800-321-3463）までお電話ください。カスタマーサービス担当者がサポートいたします。",
+        "yext/name": "どうすれば満期のCDを更新できますか？",
+        "yext/question": "どうすれば満期のCDを更新できますか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

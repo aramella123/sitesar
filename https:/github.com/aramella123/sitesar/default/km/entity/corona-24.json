@@ -1,0 +1,111 @@
+{
+  "$id": "corona-24",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_dateOfUpdate": "4.10",
+    "c_fAQType": "COVID",
+    "yext/answer": "Our Dime Kings Highway branch has reopened as of April 11, 2020. Please check the modified hours schedule before heading to any branch. \n\nThank you, \n\nYour Dime Community Bank Team",
+    "yext/keywords": [
+      "COVID-19",
+      "coronavirus",
+      "closures",
+      "corona",
+      "COVID",
+      "covid",
+      "covid-19",
+      "Covid-19"
+    ],
+    "yext/name": "Kings Highway Branch Update - As of April 10, 2020",
+    "yext/question": "Kings Highway Branch Update - As of April 10, 2020"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Unsere Dime Hillcrest Filiale wurde am 11. April 2020 wiedereröffnet. Bitte überprüfen Sie den geänderten Stundenplan, bevor Sie zu einer Filiale gehen.\n \n Vielen Dank,\n \n Ihr Dime Community Bank Team",
+        "yext/keywords": [
+          "COVID-19",
+          "Coronavirus",
+          "Verschlüsse",
+          "Corona",
+          "COVID",
+          "Covid",
+          "Covid-19"
+        ],
+        "yext/name": "Kings Highway Branch Update - Stand 10. April 2020",
+        "yext/question": "Kings Highway Branch Update - Stand 10. April 2020"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Nuestra sucursal de Dime Kings Highway ha reabierto a partir del 11 de abril de 2020. Verifique el horario modificado antes de dirigirse a cualquier sucursal.\n \nGracias,\n \nSu equipo de Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "cierres",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Actualización de Kings Highway Branch - A partir del 10 de abril de 2020",
+        "yext/question": "Actualización de Kings Highway Branch - A partir del 10 de abril de 2020"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Notre agence Dime Kings Highway a rouvert ses portes le 11 avril 2020. Veuillez vérifier les horaires modifiés avant de vous rendre dans l\u0027une de nos agences. \n\nMerci, \n\nVotre équipe Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "fermetures",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Mise à jour concernant l\u0027agence de Kings Highway - en date du 10 avril 2020",
+        "yext/question": "Mise à jour concernant l\u0027agence de Kings Highway - en date du 10 avril 2020"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "La nostra filiale di Dime Kings Highway è stata riaperta dall\u002711 aprile 2020. Prima di dirigervi verso qualsiasi filiale, controllate il programma orario modificato.\n\nGrazie,\n\nIl tuo team Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "chiusure",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-39"
+        ],
+        "yext/name": "Aggiornamento della filiale di Kings Highway - Dal 10 aprile 2020",
+        "yext/question": "Aggiornamento della filiale di Kings Highway - Dal 10 aprile 2020"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "2020年4月11日をもって、ダイムキングスハイウェイの支店が再開されました。支店に向かう前に、変更された営業時間のスケジュールを確認してください。ダイムコミュニティバンクチームより",
+        "yext/name": "キングスハイウェイブランチアップデート-2020年4月10日現在",
+        "yext/question": "キングスハイウェイブランチアップデート-2020年4月10日現在"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

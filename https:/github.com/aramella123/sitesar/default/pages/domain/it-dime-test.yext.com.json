@@ -1,0 +1,10 @@
+{
+  "$id": "it-dime-test.yext.com",
+  "$schema": "https://schema.yext.com/config/pages/domain/v1",
+  "domainName": "it-dime-test.yext.com",
+  "autoGenerateSitemap": true,
+  "domainAccess": true,
+  "pagesCDNAccess": false,
+  "answersIntegration": true,
+  "reverseProxy": false
+}

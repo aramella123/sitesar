@@ -1,0 +1,62 @@
+{
+  "$id": "faq71",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": false,
+    "c_fAQType": "REGULAR_FAQ",
+    "c_isPPP": false,
+    "yext/answer": "There is no fee for executing an incoming or outgoing external transfer.",
+    "yext/name": "What is the fee to complete an external transfer?",
+    "yext/question": "What is the fee to complete an external transfer?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Für die Ausführung einer eingehenden oder ausgehenden externen Überweisung wird keine Gebühr erhoben.",
+        "yext/name": "Was ist die Gebühr für eine externe Überweisung?",
+        "yext/question": "Was ist die Gebühr für eine externe Überweisung?"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "No hay tarifa por ejecutar una transferencia externa entrante o saliente.",
+        "yext/name": "¿Cuál es la tarifa para completar una transferencia externa?",
+        "yext/question": "¿Cuál es la tarifa para completar una transferencia externa?"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Il n\u0027y a pas de frais pour l\u0027exécution d\u0027un transfert externe entrant ou sortant.",
+        "yext/name": "Quels sont les frais pour effectuer un virement externe ?",
+        "yext/question": "Quels sont les frais pour effectuer un virement externe ?"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Non ci sono costi per l\u0027esecuzione di un trasferimento esterno in entrata o in uscita.",
+        "yext/name": "Qual è la commissione per completare un trasferimento esterno?",
+        "yext/question": "Qual è la commissione per completare un trasferimento esterno?"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "着信または発信の外部転送を実行するための料金はかかりません。",
+        "yext/name": "外部転送を完了するための手数料はいくらですか？",
+        "yext/question": "外部転送を完了するための手数料はいくらですか？"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}

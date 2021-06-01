@@ -1,0 +1,66 @@
+{
+  "$id": "product-16",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_benefits": [
+      "Earns interest from day of deposit to day of withdrawl",
+      "Variable interest rate",
+      "Interest compounded daily",
+      "Safe \u0027",
+      "\u0027 secure \u0027",
+      "\u0027 and FDIC insured",
+      "Free ATM card or Debit Card with Checking account",
+      "Unlimited free deposits and withdrawals(2)",
+      "Withdrawals require the signature of student and parent or guardian until the student reaches age 18 (or 13 \u0027",
+      "\u0027 if parent guardian release joint signature requirement in writing)",
+      "Dime automatically converts your Student Savings Account to regular Dime Savings on your 23rd birthday \u0027",
+      "\u0027 or upon graduation for an accredited college or university",
+      "No Minimum Balance requirements",
+      "Make up to 6 withdrawls a month (2)"
+    ],
+    "c_ctas": [
+      {
+        "icon": "chevron",
+        "text": "Learn More",
+        "url": "https://www.dime.com/personal/savings/student-savings"
+      }
+    ],
+    "c_fees": "$0 if balance over $500",
+    "c_minimumDeposit": "25.0",
+    "c_productType": "Personal Savings",
+    "c_slug": "[[entityId]]",
+    "yext/landingPageUrl": "https://www.dime.com/personal/savings/student-savings",
+    "yext/name": "Student Savings Accounts",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1231,
+          "sourceUrl": "https://images.pexels.com/photos/4482903/pexels-photo-4482903.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "thumbnails": [
+            {
+              "height": 761,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/619x761.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/365x450.jpg",
+              "width": 365
+            },
+            {
+              "height": 241,
+              "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/196x241.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/Kpr_XXyZXuFj6tkXsnWxR_8hgQ6XVnNSmhHPBlbGBJg/1000x1231.jpg",
+          "width": 1000
+        }
+      }
+    ],
+    "yext/richTextDescription": "Give your child a head start on the financial future they want by setting up a Dime Student Savings account you can both contribute to. Good savings habits start now."
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

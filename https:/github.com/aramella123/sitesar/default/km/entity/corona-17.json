@@ -1,0 +1,111 @@
+{
+  "$id": "corona-17",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_coronaVirusFAQ": true,
+    "c_dateOfUpdate": "3.30",
+    "c_fAQType": "COVID",
+    "yext/answer": "Dime is proud to announce that the Hillcrest branch is open as of March 31, 2020. Please check the modified hours schedule before heading to any branch.\n\nThank you, \n\nYour Dime Community Bank Team",
+    "yext/keywords": [
+      "COVID-19",
+      "coronavirus",
+      "closures",
+      "corona",
+      "COVID",
+      "covid",
+      "covid-19",
+      "Covid-19"
+    ],
+    "yext/name": "Hillcrest Branch Update - As of March 30, 2020",
+    "yext/question": "Hillcrest Branch Update - As of March 30, 2020"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "yext/answer": "Dime ist stolz darauf, bekannt zu geben, dass die Hillcrest-Filiale zum 31. März 2020 geöffnet ist. Bitte überprüfen Sie den geänderten Stundenplan, bevor Sie zu einer Filiale gehen.\n \n  Vielen Dank,\n \n  Ihr Dime Community Bank Team",
+        "yext/keywords": [
+          "COVID-19",
+          "Coronavirus",
+          "Verschlüsse",
+          "Corona",
+          "COVID",
+          "Covid",
+          "Covid-19"
+        ],
+        "yext/name": "Hillcrest Branch Update - Stand 30. März 2020",
+        "yext/question": "Hillcrest Branch Update - Stand 30. März 2020"
+      }
+    },
+    {
+      "locale": "es",
+      "content": {
+        "yext/answer": "Dime se enorgullece en anunciar que la sucursal de Hillcrest está abierta a partir del 31 de marzo de 2020. Verifique el horario modificado antes de dirigirse a cualquier sucursal.\n \nGracias,\n Su equipo de Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "cierres",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Actualización de la sucursal de Hillcrest - A partir del 30 de marzo de 2020",
+        "yext/question": "Actualización de la sucursal de Hillcrest - A partir del 30 de marzo de 2020"
+      }
+    },
+    {
+      "locale": "fr",
+      "content": {
+        "yext/answer": "Dime est fière d\u0027annoncer que l\u0027agence Hillcrest est ouverte à compter du 31 mars 2020. Veuillez consulter l\u0027horaire modifié avant de vous rendre dans l\u0027une de nos agences.\n\nMerci, \n\nVotre équipe Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "fermetures",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-19"
+        ],
+        "yext/name": "Mise à jour concernant l\u0027agence Hillcrest - en date du 30 mars 2020",
+        "yext/question": "Mise à jour concernant l\u0027agence Hillcrest - en date du 30 mars 2020"
+      }
+    },
+    {
+      "locale": "it",
+      "content": {
+        "yext/answer": "Dime è orgogliosa di annunciare che la filiale di Hillcrest è aperta al 31 marzo 2020. Si prega di controllare il programma orario modificato prima di dirigersi verso qualsiasi filiale.\n\nGrazie,\n\nIl tuo team Dime Community Bank",
+        "yext/keywords": [
+          "COVID-19",
+          "coronavirus",
+          "chiusure",
+          "corona",
+          "COVID",
+          "covid",
+          "covid-19",
+          "Covid-33"
+        ],
+        "yext/name": "Hillcrest Aggiornamento Filiale - al 30 Marzo, 2020",
+        "yext/question": "Hillcrest Aggiornamento Filiale - al 30 Marzo, 2020"
+      }
+    },
+    {
+      "locale": "ja",
+      "content": {
+        "yext/answer": "ダイムコミュニティバンクは、Hillcrest支店が2020年3月31日の営業を開始したことをお知らせします。支店に向かう前に、変更された営業時間のスケジュールを確認してください。ダイムコミュニティバンクチームより",
+        "yext/name": "ヒルクレストブランチアップデート-2020年3月30日現在",
+        "yext/question": "ヒルクレストブランチアップデート-2020年3月30日現在"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {}
+    }
+  ]
+}
