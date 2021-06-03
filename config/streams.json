@@ -1,11 +1,11 @@
 {
 	"features": [
 		{
-			"name": "KG HBS EPS Home Page",
-			"streamId": "sites-index",
+			"name": "KG HBS EPS Products",
+			"streamId": "sites-products",
 			"handlebarsTemplateEntityPageSet": {
-				"htmlTemplate": "index",
-				"urlTemplate": "url"
+				"htmlTemplate": "product",
+                "urlTemplate": "url"
 			}
 		},
 		{
